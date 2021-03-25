@@ -1,0 +1,273 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional	CountyId=5596	StateId=72	Aguada	Off		Conventional								
+AreaState	CountyId=5596	StateId=72
+AreaCounty	CountyId=5596	CountyId=5596
+C-Group	CGroupId=78664	CountyId=5596	Aguada County	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=337278	CGroupId=78664	Police	Off	154665000	NFM		2									
+Conventional	CountyId=5598	StateId=72	Aguas Buenas	Off		Conventional								
+AreaState	CountyId=5598	StateId=72
+AreaCounty	CountyId=5598	CountyId=5598
+C-Group	CGroupId=77811	CountyId=5598	Amateur Radio	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=332459	CGroupId=77811	Aguas Buenas	Off	145230000	FM		13									
+Conventional	CountyId=5601	StateId=72	Arecibo	Off		Conventional								
+AreaState	CountyId=5601	StateId=72
+AreaCounty	CountyId=5601	CountyId=5601
+C-Group	CGroupId=81381	CountyId=5601	Public Safety	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=351047	CGroupId=81381	Arecibo Police	Off	155910000	FM		2									
+Conventional	CountyId=5618	StateId=72	Corozal	Off		Conventional								
+AreaState	CountyId=5618	StateId=72
+AreaCounty	CountyId=5618	CountyId=5618
+C-Group	CGroupId=78537	CountyId=5618	Amateur Radio	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=335861	CGroupId=78537	Corozal	Off	146670000	FM		13									
+Conventional	CountyId=5626	StateId=72	Guaynabo	Off		Conventional								
+AreaState	CountyId=5626	StateId=72
+AreaCounty	CountyId=5626	CountyId=5626
+C-Group	CGroupId=66502	CountyId=5626	Public Safety - Guaynabo City	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=273898	CGroupId=66502	Police: Dispatch	Off	851887500	FM	TONE=C107.2	2									
+Conventional	CountyId=5632	StateId=72	Jayuya	Off		Conventional								
+AreaState	CountyId=5632	StateId=72
+AreaCounty	CountyId=5632	CountyId=5632
+C-Group	CGroupId=78536	CountyId=5632	Amateur Radio	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=335860	CGroupId=78536	Cerro de Punta	Off	147210000	FM	TONE=C127.3	13									
+Conventional	CountyId=5652	StateId=72	Ponce	Off		Conventional								
+AreaState	CountyId=5652	StateId=72
+AreaCounty	CountyId=5652	CountyId=5652
+C-Group	CGroupId=63530	CountyId=5652	Aviation - Aeropuerto de Ponce	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=262606	CGroupId=63530	Aeropuerto de Ponce	Off	122700000	AM		15									
+C-Group	CGroupId=63526	CountyId=5652	Public Safety and Government Services - Public Safety	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=262607	CGroupId=63526	Aemead Yunque	Off	158820000	FM		23									
+C-Freq	CFreqId=262601	CGroupId=63526	Autopista Policia	Off	159115000	FM		23									
+C-Freq	CFreqId=262600	CGroupId=63526	Policia	Off	866712500	FM		23									
+C-Freq	CFreqId=262599	CGroupId=63526	Policia	Off	867325000	FM		23									
+C-Freq	CFreqId=262593	CGroupId=63526	Policia Comandancia area	Off	154905000	FM		23									
+C-Freq	CFreqId=262594	CGroupId=63526	Policia estatal local	Off	155310000	FM		2									
+C-Freq	CFreqId=262598	CGroupId=63526	Policia Fura	Off	154860000	FM		23									
+C-Freq	CFreqId=262595	CGroupId=63526	Policia municipal	Off	158835000	FM		2									
+C-Freq	CFreqId=325336	CGroupId=63526	Policia Municipal de Ponce	Off	158720000	NFM		2									
+C-Freq	CFreqId=262596	CGroupId=63526	Policia Transito	Off	460500000	FM		2									
+C-Freq	CFreqId=262597	CGroupId=63526	Rescate	Off	158940000	FM		3									
+Conventional	CountyId=5659	StateId=72	San Juan	Off		Conventional								
+AreaState	CountyId=5659	StateId=72
+AreaCounty	CountyId=5659	CountyId=5659
+C-Group	CGroupId=35703	CountyId=5659	Public Safety - Operations	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=194612	CGroupId=35703	Capital Rescue	Off	462950000	FM		4									
+C-Freq	CFreqId=140240	CGroupId=35703	Emergency Management	Off	453200000	FM	TONE=C162.2	29									
+C-Freq	CFreqId=326302	CGroupId=35703	Public Works	Off	453550000	NFM	TONE=C173.8	14									
+C-Freq	CFreqId=326301	CGroupId=35703	Public Works	Off	453600000	NFM	TONE=C162.2	14									
+C-Freq	CFreqId=305938	CGroupId=35703	San Juan Port Control and Pilot (Marine Ch. 14)	Off	156700000	FM		14									
+Conventional	CountyId=5660	StateId=72	San Lorenzo	Off		Conventional								
+AreaState	CountyId=5660	StateId=72
+AreaCounty	CountyId=5660	CountyId=5660
+C-Group	CGroupId=72484	CountyId=5660	San Lorenzo County	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=302228	CGroupId=72484	OMME (EMS) Emergencias Medicas Municipal	Off	158925000	NFM		4									
+C-Freq	CFreqId=302229	CGroupId=72484	Police (PM) Policia Municipal	Off	153965000	NFM		2									
+Conventional	AgencyId=6374	StateId=72	Aviation	Off		Conventional								
+AreaState	AgencyId=6374	StateId=72
+AreaCounty	AgencyId=6374	CountyId=0
+C-Group	CGroupId=55071	AgencyId=6374	Aviation	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=228115	CGroupId=55071	AGUADILLA (TJBQ) CLEARENCE	Off	124350000	AM		15									
+C-Freq	CFreqId=228106	CGroupId=55071	AGUADILLA (TJBQ) GROUND	Off	120875000	AM		15									
+C-Freq	CFreqId=228116	CGroupId=55071	AGUADILLA TOWER	Off	124950000	AM		15									
+C-Freq	CFreqId=228112	CGroupId=55071	AGUADILLA UNICOM	Off	123000000	AM		15									
+C-Freq	CFreqId=228111	CGroupId=55071	ARECIBO UNICOM	Off	122800000	AM		15									
+C-Freq	CFreqId=228134	CGroupId=55071	DHS AND CUSTOMS	Off	311000000	AM		15									
+C-Freq	CFreqId=228126	CGroupId=55071	ISLA GRANDE	Off	135875000	AM		15									
+C-Freq	CFreqId=228104	CGroupId=55071	MAYAGUEZ	Off	118175000	AM		15									
+C-Freq	CFreqId=228123	CGroupId=55071	MIAMI CETER (SAN JUAN) CENTER	Off	132300000	AM		15									
+C-Freq	CFreqId=228121	CGroupId=55071	NEW YORK (SAN JUAN) ARINC	Off	130700000	AM		15									
+C-Freq	CFreqId=245305	CGroupId=55071	New York Radio	Off	130700000	AM		17									
+C-Freq	CFreqId=228113	CGroupId=55071	POLICE AVIATION CH	Off	123025000	AM		15									
+C-Freq	CFreqId=228110	CGroupId=55071	PONCE UNICOM	Off	122700000	AM		15									
+C-Freq	CFreqId=228117	CGroupId=55071	SAN JUAN CENTER	Off	125000000	AM		15									
+C-Freq	CFreqId=228120	CGroupId=55071	SAN JUAN CENTER	Off	128650000	AM		15									
+C-Freq	CFreqId=228124	CGroupId=55071	SAN JUAN CENTER	Off	134300000	AM		15									
+C-Freq	CFreqId=228125	CGroupId=55071	SAN JUAN CENTER	Off	135700000	AM		15									
+C-Freq	CFreqId=228127	CGroupId=55071	SAN JUAN CENTER	Off	269000000	AM		15									
+C-Freq	CFreqId=228129	CGroupId=55071	SAN JUAN CENTER	Off	279600000	AM		15									
+C-Freq	CFreqId=228130	CGroupId=55071	SAN JUAN CENTER	Off	285500000	AM		15									
+C-Freq	CFreqId=228132	CGroupId=55071	SAN JUAN CENTER	Off	299200000	AM		15									
+C-Freq	CFreqId=228133	CGroupId=55071	SAN JUAN CENTER	Off	307000000	AM		15									
+C-Freq	CFreqId=245304	CGroupId=55071	San Juan Center (Northbound from 119.4000)	Off	135700000	AM		15									
+C-Freq	CFreqId=228114	CGroupId=55071	SANTO DOMINGO CENTER	Off	124300000	AM		15									
+C-Freq	CFreqId=228103	CGroupId=55071	SJ CENTER	Off	118150000	AM		15									
+Conventional	AgencyId=6608	StateId=72	Businesses	Off		Conventional								
+AreaState	AgencyId=6608	StateId=72
+AreaCounty	AgencyId=6608	CountyId=5659
+C-Group	CGroupId=56840	AgencyId=6608	Hotels	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=238513	CGroupId=56840	Courtyard by Marriott Isla Verde	Off	461100000	FM	TONE=D205	17									
+C-Freq	CFreqId=244929	CGroupId=56840	Embassy Suite San Juan	Off	464675000	FM	TONE=D343	17									
+C-Freq	CFreqId=238512	CGroupId=56840	Embassy Suites San Juan	Off	461575000	FM	TONE=D343	17									
+C-Freq	CFreqId=244930	CGroupId=56840	Ritz Carlton - Housekeeping	Off	452350000	FM	TONE=C167.9	17									
+C-Freq	CFreqId=238511	CGroupId=56840	Ritz Carlton San Juan	Off	452775000	FM	TONE=C167.9	17									
+C-Freq	CFreqId=238510	CGroupId=56840	Ritz Carlton San Juan - Casino	Off	451600000	FM	TONE=C167.9	17									
+C-Freq	CFreqId=331727	CGroupId=56840	San Juan Marriott Resort	Off	462475000	NFM	TONE=D071	17									
+Conventional	AgencyId=6172	StateId=72	DRNA Dept. of Natural Resources (Police)	Off		Conventional								
+AreaState	AgencyId=6172	StateId=72
+AreaCounty	AgencyId=6172	CountyId=0
+C-Group	CGroupId=53644	AgencyId=6172	DNRA - Police	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=221798	CGroupId=53644	DNRA Police Operations	Off	451775000	FM		2									
+C-Freq	CFreqId=221797	CGroupId=53644	DNRA Police Operations	Off	453450000	FM		2									
+C-Freq	CFreqId=221799	CGroupId=53644	DNRA Police Operations	Off	453460000	FM		2									
+C-Freq	CFreqId=221800	CGroupId=53644	DNRA Police Operations	Off	458450000	FM		2									
+C-Freq	CFreqId=221802	CGroupId=53644	DNRA Police Operations	Off	460100000	FM		2									
+C-Freq	CFreqId=221801	CGroupId=53644	DNRA Police Operations	Off	460475000	FM		2									
+Conventional	AgencyId=6647	StateId=72	EMS of Puerto Rico	Off		Conventional								
+AreaState	AgencyId=6647	StateId=72
+AreaCounty	AgencyId=6647	CountyId=0
+C-Group	CGroupId=57105	AgencyId=6647	EMS of Puerto Rico	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=239903	CGroupId=57105	Medic 1 Metropolitan Dispatch	Off	463000000	FM		4									
+C-Freq	CFreqId=239912	CGroupId=57105	Medic 10 Capital Rescue	Off	462975000	FM		9									
+C-Freq	CFreqId=239904	CGroupId=57105	Medic 2 Fajardo Dispatch	Off	463025000	FM		4									
+C-Freq	CFreqId=239905	CGroupId=57105	Medic 3 San Juan Medical Control	Off	463050000	FM		12									
+C-Freq	CFreqId=239906	CGroupId=57105	Medic 4 Ponce Dispatch	Off	463075000	FM		4									
+C-Freq	CFreqId=239907	CGroupId=57105	Medic 5 Arecibo Dispatch	Off	463100000	FM		4									
+C-Freq	CFreqId=239908	CGroupId=57105	Medic 6	Off	463125000	FM		9									
+C-Freq	CFreqId=239909	CGroupId=57105	Medic 7 Metropolitan Medical Control	Off	463150000	FM		12									
+C-Freq	CFreqId=239910	CGroupId=57105	Medic 8	Off	463175000	FM		9									
+C-Freq	CFreqId=239911	CGroupId=57105	Medic 9 Central Dispatch	Off	462950000	FM		4									
+Conventional	AgencyId=3374	StateId=72	Federal Government	Off		Conventional								
+AreaState	AgencyId=3374	StateId=72
+AreaCounty	AgencyId=3374	CountyId=0
+C-Group	CGroupId=77465	AgencyId=3374	Federal - Civil Air Patrol	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=329822	CGroupId=77465	Puerto Rico	Off	148125000	NFM	TONE=C151.4	30									
+C-Group	CGroupId=77794	AgencyId=3374	Federal - Customs and Border Protection	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=210024	CGroupId=77794	Border Patrol (encrypted)	Off	163625000	NFM	NAC=Srch	16									
+C-Freq	CFreqId=130762	CGroupId=77794	Customs and Border Protection D-Net 001	Off	165237500	NFM	NAC=301	16									
+C-Group	CGroupId=53641	AgencyId=3374	Federal - FBI	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=221791	CGroupId=53641	FBI (Encrypted)	Off	173125000	NFM	NAC=Srch	16									
+C-Group	CGroupId=53642	AgencyId=3374	Federal - Immigration and Customs Enforcement	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=221792	CGroupId=53642	Immigration and Customs Enforcement (Encrypted)	Off	162900000	NFM	NAC=Srch	16									
+C-Group	CGroupId=77793	AgencyId=3374	Federal - National Weather Service	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=332391	CGroupId=77793	Link from San Juan office to the 162.4 MHz transmitter site on C	Off	415900000	NFM		16									
+C-Group	CGroupId=32659	AgencyId=3374	Federal - Other Agencies	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=238325	CGroupId=32659	Fort San Cristobal Park Service Operations	Off	166350000	FM		16									
+C-Freq	CFreqId=128437	CGroupId=32659	Transportation Security Administration (LMM International Airpor	Off	172900000	NFM	NAC=1	16									
+Conventional	AgencyId=7589	StateId=72	General Business	Off		Conventional								
+AreaState	AgencyId=7589	StateId=72
+AreaCounty	AgencyId=7589	CountyId=5652
+C-Group	CGroupId=63528	AgencyId=7589	Hotels and Resorts	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=262602	CGroupId=63528	Hotel Ponce Hilton	Off	467675000	FM		17									
+C-Group	CGroupId=63527	AgencyId=7589	Private Security	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=262604	CGroupId=63527	Centro del Sur Shoping Center seguridad	Off	451725000	FM		33									
+C-Freq	CFreqId=262603	CGroupId=63527	Plaza del Caribe seguridad	Off	464925000	FM		33									
+C-Freq	CFreqId=262605	CGroupId=63527	Universidad Interamericana Recinto de Ponce seguridad	Off	462175000	FM		33									
+Conventional	AgencyId=6609	StateId=72	Luis Munoz Marin International Airport (SJU)	Off		Conventional								
+AreaState	AgencyId=6609	StateId=72
+AreaCounty	AgencyId=6609	CountyId=5610
+C-Group	CGroupId=56707	AgencyId=6609	Luis Munoz Marin International Airport (SJU/TJSJ) - Air Traffic 	Off	18.439720	-65.998676	10.0	Circle	
+C-Freq	CFreqId=237791	CGroupId=56707	Approach North/East	Off	120900000	AM		15									
+C-Freq	CFreqId=237792	CGroupId=56707	Approach North/East	Off	290200000	AM		15									
+C-Freq	CFreqId=237794	CGroupId=56707	Approach West/Southwest	Off	119400000	AM		15									
+C-Freq	CFreqId=237793	CGroupId=56707	Approach West/Southwest	Off	269200000	AM		15									
+C-Freq	CFreqId=237796	CGroupId=56707	Automatic Terminal Information Service (ATIS) - Departure	Off	125800000	AM		15									
+C-Freq	CFreqId=237795	CGroupId=56707	Clearance	Off	126400000	AM		15									
+C-Freq	CFreqId=237797	CGroupId=56707	Ground	Off	121900000	AM		15									
+C-Freq	CFreqId=237798	CGroupId=56707	Tower	Off	132050000	AM		15									
+C-Group	CGroupId=56706	AgencyId=6609	Luis Munoz Marin International Airport (SJU/TJSJ) - Airline Grou	Off	18.437777	-66.001675	2.0	Circle	
+C-Freq	CFreqId=238506	CGroupId=56706	Cape Air	Off	461225000	FM	TONE=C67.0	17									
+C-Freq	CFreqId=326293	CGroupId=56706	Delta Air Lines	Off	460750000	NFM	TONE=D115	17									
+C-Freq	CFreqId=238504	CGroupId=56706	GMD Airline Services	Off	461575000	FM	TONE=C136.5	17									
+C-Freq	CFreqId=238507	CGroupId=56706	JetBlue - Customer Serivce	Off	464862500	FM	TONE=C123.0	17									
+C-Freq	CFreqId=326294	CGroupId=56706	JetBlue - Ramp	Off	451587500	NFM	TONE=C203.5	17									
+C-Freq	CFreqId=238505	CGroupId=56706	Puma Energy / Air BP (aircraft fueling)	Off	464112500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=326296	CGroupId=56706	Southwest Airlines	Off	460712500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=237790	CGroupId=56706	United Airlines	Off	464425000	AUTO	NAC=Srch	17									
+C-Group	CGroupId=56838	AgencyId=6609	Luis Munoz Marin International Airport (SJU/TJSJ) - Aviation - A	Off	18.439080	-65.999444	4.0	Circle	
+C-Freq	CFreqId=326300	CGroupId=56838	Airport Aviation Services FBO	Off	122950000	AM		17									
+C-Freq	CFreqId=238495	CGroupId=56838	American - Load Control	Off	129325000	AM		17									
+C-Freq	CFreqId=238494	CGroupId=56838	American - Maintenance	Off	129225000	AM		17									
+C-Freq	CFreqId=238496	CGroupId=56838	American - Operations	Off	129600000	AM		17									
+C-Freq	CFreqId=238493	CGroupId=56838	Ameriflight	Off	122875000	AM		17									
+C-Freq	CFreqId=238497	CGroupId=56838	ARINC En Route Service (Gulf Net)	Off	130700000	AM		17									
+C-Freq	CFreqId=326295	CGroupId=56838	Cape Air	Off	129250000	AM		17									
+C-Freq	CFreqId=238498	CGroupId=56838	Delta - Dispatch / ATL Radio	Off	130850000	AM		17									
+C-Freq	CFreqId=238501	CGroupId=56838	Delta - Operations	Off	131850000	AM		17									
+C-Freq	CFreqId=238502	CGroupId=56838	FedEx	Off	131925000	AM		17									
+C-Freq	CFreqId=238503	CGroupId=56838	JetBlue	Off	136500000	AM		17									
+C-Freq	CFreqId=326297	CGroupId=56838	Mountain Air Cargo	Off	122875000	AM		17									
+C-Freq	CFreqId=326298	CGroupId=56838	Pazo's FBO Services	Off	129175000	AM		17									
+C-Freq	CFreqId=238500	CGroupId=56838	United	Off	129925000	AM		17									
+C-Freq	CFreqId=326299	CGroupId=56838	UPS	Off	129425000	AM		17									
+C-Group	CGroupId=56839	AgencyId=6609	Luis Munoz Marin International Airport (SJU/TJSJ) - Federal	Off	18.437777	-65.999615	2.0	Circle	
+C-Freq	CFreqId=326292	CGroupId=56839	Transportation Security Administration (TSA)	Off	169300000	NFM	NAC=1	16									
+C-Freq	CFreqId=238509	CGroupId=56839	Transportation Security Administration (TSA)	Off	172900000	NFM	NAC=1	16									
+Conventional	AgencyId=6373	StateId=72	Police Departments	Off		Conventional								
+AreaState	AgencyId=6373	StateId=72
+AreaCounty	AgencyId=6373	CountyId=0
+C-Group	CGroupId=55070	AgencyId=6373	EMS and Rescue - EMS & Rescue	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=228087	CGroupId=55070	Aeme San Juan	Off	158820000	FM	TONE=C136.5	4									
+C-Freq	CFreqId=228088	CGroupId=55070	Emegencias Media Estatal - Dispatch	Off	462950000	FM	TONE=C192.8	12									
+C-Freq	CFreqId=228089	CGroupId=55070	Emegencias Media Estatal 1	Off	463000000	FM	TONE=C192.8	12									
+C-Freq	CFreqId=228090	CGroupId=55070	Emegencias Media Estatal 2	Off	463025000	FM	TONE=C192.8	12									
+C-Freq	CFreqId=228091	CGroupId=55070	Emegencias Media Estatal 3	Off	463050000	FM	TONE=C192.8	12									
+C-Freq	CFreqId=228092	CGroupId=55070	Emegencias Media Estatal 4	Off	463075000	FM	TONE=C192.8	12									
+C-Freq	CFreqId=228093	CGroupId=55070	Emegencias Media Estatal 5	Off	463100000	FM	TONE=C192.8	12									
+C-Freq	CFreqId=228094	CGroupId=55070	Emegencias Media Estatal 6	Off	463125000	FM	TONE=C192.8	12									
+C-Freq	CFreqId=228095	CGroupId=55070	Emegencias Media Estatal 7	Off	463150000	FM	TONE=C192.8	12									
+C-Freq	CFreqId=228096	CGroupId=55070	Emegencias Media Estatal 8	Off	463175000	FM	TONE=C192.8	12									
+C-Freq	CFreqId=228098	CGroupId=55070	municipio (will update user)	Off	158805000	FM	TONE=C136.5	4									
+C-Freq	CFreqId=228101	CGroupId=55070	municipio (will update user)	Off	159045000	FM		4									
+C-Freq	CFreqId=228102	CGroupId=55070	municipio (will update user)	Off	159052500	FM		25									
+C-Freq	CFreqId=228100	CGroupId=55070	municipio (will update user)	Off	159150000	FM		4									
+C-Freq	CFreqId=228086	CGroupId=55070	Municipio Hatillo	Off	156015000	FM		4									
+C-Freq	CFreqId=228099	CGroupId=55070	Municipio Manati	Off	159435000	FM		4									
+C-Freq	CFreqId=228085	CGroupId=55070	Office of Emergency Mgmt. Camuy	Off	155715000	FM		29									
+C-Freq	CFreqId=228083	CGroupId=55070	Office of Emergency Mgmt. Zone 2	Off	155220000	FM		29									
+C-Freq	CFreqId=228084	CGroupId=55070	React Camuy	Off	155280000	FM		29									
+C-Freq	CFreqId=228097	CGroupId=55070	Rescate Norte	Off	464475000	FM	TONE=C67.0	4									
+C-Group	CGroupId=55069	AgencyId=6373	Police Departments	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=228077	CGroupId=55069	529 autopistas Ft. Buchanan	Off	159120000	FM		2									
+C-Freq	CFreqId=228058	CGroupId=55069	Aguadilla, Moca, Isabela	Off	154665000	FM		2									
+C-Freq	CFreqId=228064	CGroupId=55069	Arecibo, Hatillo, Camuy	Off	154800000	FM		2									
+C-Freq	CFreqId=228076	CGroupId=55069	Autopistas salinas (old)	Off	158850000	FM		2									
+C-Freq	CFreqId=228061	CGroupId=55069	Bayamon	Off	154740000	FM		2									
+C-Freq	CFreqId=228062	CGroupId=55069	Caguas	Off	154770000	FM		2									
+C-Freq	CFreqId=228065	CGroupId=55069	Carolina	Off	154815000	FM	TONE=C107.2	2									
+C-Freq	CFreqId=228069	CGroupId=55069	Cic	Off	154890000	FM		2									
+C-Freq	CFreqId=228072	CGroupId=55069	Cieba	Off	155430000	FM		2									
+C-Freq	CFreqId=228080	CGroupId=55069	Dept. of Corrections	Off	460050000	FM		2									
+C-Freq	CFreqId=228081	CGroupId=55069	Dept. of Corrections	Off	460450000	FM		37									
+C-Freq	CFreqId=228066	CGroupId=55069	Fajardo	Off	154830000	FM		2									
+C-Freq	CFreqId=228082	CGroupId=55069	Federal (?)	Off	414750000	FM		16									
+C-Freq	CFreqId=228059	CGroupId=55069	Fura	Off	154680000	FM		2									
+C-Freq	CFreqId=228068	CGroupId=55069	Fura ch1	Off	154860000	FM		2									
+C-Freq	CFreqId=228073	CGroupId=55069	Guayama	Off	155565000	FM		2									
+C-Freq	CFreqId=273909	CGroupId=55069	Guaynabo City Police	Off	866887500	FM	TONE=C107.2	2									
+C-Freq	CFreqId=228063	CGroupId=55069	Mayaguez	Off	154785000	FM		2									
+C-Freq	CFreqId=276768	CGroupId=55069	Policia Estatal Centro de Mando Aguadilla	Off	154665000	FM		2									
+C-Freq	CFreqId=228075	CGroupId=55069	Policia municipal Arecibo	Off	158835000	FM	TONE=C123.0	2									
+C-Freq	CFreqId=276767	CGroupId=55069	Policia Municipal de Aguadilla	Off	853062500	FM		2									
+C-Freq	CFreqId=228074	CGroupId=55069	Policia municipal hatillo	Off	155700000	FM	TONE=C136.5	2									
+C-Freq	CFreqId=228070	CGroupId=55069	Ponce	Off	154905000	FM		2									
+C-Freq	CFreqId=228060	CGroupId=55069	San Juan control	Off	154725000	FM		2									
+C-Freq	CFreqId=228067	CGroupId=55069	San Juan Control	Off	154845000	FM		2									
+C-Freq	CFreqId=254891	CGroupId=55069	San Sebastian	Off	153935000	FM		2									
+C-Freq	CFreqId=228078	CGroupId=55069	Transito Arecibo	Off	460400000	FM		2									
+C-Freq	CFreqId=228079	CGroupId=55069	Transito Mayaguez	Off	460500000	FM		2									
+C-Freq	CFreqId=228071	CGroupId=55069	Utuado, Lares	Off	154950000	FM		2									
+Conventional	AgencyId=7999	StateId=72	Puerto Rico Amateur Radio	Off		Conventional								
+AreaState	AgencyId=7999	StateId=72
+AreaCounty	AgencyId=7999	CountyId=0
+C-Group	CGroupId=73665	AgencyId=7999	Repeaters	Off	18.225537	-66.454862	60.0	Circle	
+C-Freq	CFreqId=353709	CGroupId=73665	Cayey	Off	447550000	FM	TONE=C127.3	13									
+C-Freq	CFreqId=353711	CGroupId=73665	Cayey	Off	449225000	FM	TONE=C110.9	13									
+C-Freq	CFreqId=353710	CGroupId=73665	Isabela	Off	447550000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=276133	CGroupId=73665	KP4MCR	Off	146890000	FM		13									
+C-Freq	CFreqId=276132	CGroupId=73665	KP4MCR	Off	147190000	FM		13									
+C-Freq	CFreqId=276134	CGroupId=73665	KP4MCR	Off	447625000	FM		13									
+C-Freq	CFreqId=309478	CGroupId=73665	San Juan	Off	29620000	FM		13									
+Conventional	AgencyId=4523	StateId=72	University of Puerto Rico	Off		Conventional								
+AreaState	AgencyId=4523	StateId=72
+AreaCounty	AgencyId=4523	CountyId=0
+C-Group	CGroupId=43501	AgencyId=4523	General Operations - Humacao	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=174601	CGroupId=43501	Operations/Maintenance	Off	453525000	FM		32									
+C-Freq	CFreqId=174584	CGroupId=43501	Police -	Off	153995000	FM		2									
+C-Group	CGroupId=43504	AgencyId=4523	General Operations - Mayaguez	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=174600	CGroupId=43504	Maintenance ?	Off	453275000	FM		17									
+C-Freq	CFreqId=174596	CGroupId=43504	Police - Dispatch	Off	155070000	FM		2									
+C-Freq	CFreqId=174594	CGroupId=43504	Police - Tactical	Off	159495000	NFM	NAC=Srch	7									
+C-Freq	CFreqId=174589	CGroupId=43504	Police - Traffic Enforcement	Off	155595000	FM		7									
+C-Group	CGroupId=43502	AgencyId=4523	General Operations - Rio Piedras	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=174586	CGroupId=43502	Police - Dispatch	Off	155070000	FM		2									
+C-Freq	CFreqId=174585	CGroupId=43502	Police - Secondary	Off	155955000	FM		23									

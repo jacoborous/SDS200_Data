@@ -1,0 +1,1998 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional	CountyId=1987	StateId=38	Adams	Off		Conventional								
+AreaState	CountyId=1987	StateId=38
+AreaCounty	CountyId=1987	CountyId=1987
+C-Group	CGroupId=21346	CountyId=1987	Adams County	Off	46.055560	-102.525436	28.0	Circle	
+C-Freq	CFreqId=163105	CGroupId=21346	Hettinger Ambulance Service	Off	155340000	NFM		9									
+C-Freq	CFreqId=163104	CGroupId=21346	Hettinger Ambulance Service	Off	155400000	NFM		9									
+C-Freq	CFreqId=163102	CGroupId=21346	Sheriff's Dept / Paging	Off	155040000	NFM	TONE=C192.8	23									
+C-Freq	CFreqId=78040	CGroupId=21346	Sheriff's Dept.	Off	154740000	NFM	NAC=Srch	2									
+Conventional	CountyId=1988	StateId=38	Barnes	Off		Conventional								
+AreaState	CountyId=1988	StateId=38
+AreaCounty	CountyId=1988	CountyId=1988
+C-Group	CGroupId=13063	CountyId=1988	Barnes County	Off	46.962760	-97.248688	32.0	Circle	
+C-Freq	CFreqId=184628	CGroupId=13063	Bald Hill Dam	Off	163437500	NFM		16									
+C-Freq	CFreqId=305644	CGroupId=13063	Highway Department, School Buses Dig.	Off	154115000	NFM	NAC=242	14									
+C-Freq	CFreqId=184624	CGroupId=13063	Mercy Hospital	Off	155265000	NFM		12									
+C-Freq	CFreqId=49048	CGroupId=13063	Paging - Highway Department, School Buses	Off	154115000	NFM	TONE=C114.8	1									
+C-Freq	CFreqId=184626	CGroupId=13063	Sanborn Fire	Off	154310000	NFM	TONE=C114.8	8									
+C-Freq	CFreqId=326400	CGroupId=13063	Sheriff's Dept.	Off	154032500	NFM	NAC=242	2									
+C-Freq	CFreqId=76035	CGroupId=13063	Sheriff's Dept.	Off	159157500	NFM	NAC=242	2									
+C-Freq	CFreqId=127846	CGroupId=13063	Sheriff's Dept.	Off	159157500	NFM	TONE=C114.8	2									
+C-Freq	CFreqId=184625	CGroupId=13063	Wibledon Fire	Off	154355000	NFM	TONE=C123.0	8									
+C-Group	CGroupId=13062	CountyId=1988	Barnes County - Valley City	Off	46.962760	-97.248688	32.0	Circle	
+C-Freq	CFreqId=127845	CGroupId=13062	Fire Dept.	Off	153935000	NFM		8									
+C-Freq	CFreqId=76031	CGroupId=13062	Fire Dept. - City Services	Off	155820000	NFM	NAC=142	1									
+C-Freq	CFreqId=323243	CGroupId=13062	MINNKOTA PWR - VALLEY CITY	Off	153297500	NFM	TONE=C123.0	34									
+C-Freq	CFreqId=76033	CGroupId=13062	Park Dept.	Off	151460000	NFM		14									
+C-Freq	CFreqId=326399	CGroupId=13062	Police	Off	154062500	NFM	NAC=943	2									
+C-Freq	CFreqId=49047	CGroupId=13062	Police	Off	155070000	NFM	TONE=C114.8	1									
+C-Freq	CFreqId=184627	CGroupId=13062	Valley City St. College	Off	152285000	NFM	TONE=C127.3	32									
+Conventional	CountyId=1989	StateId=38	Benson	Off		Conventional								
+AreaState	CountyId=1989	StateId=38
+AreaCounty	CountyId=1989	CountyId=1989
+C-Group	CGroupId=21347	CountyId=1989	Benson County	Off	48.042589	-99.264679	37.0	Circle	
+C-Freq	CFreqId=129272	CGroupId=21347	County Operations	Off	150995000	NFM	TONE=C107.2	14									
+C-Freq	CFreqId=78044	CGroupId=21347	Devils Lake E 911 Ft. Totten	Off	159090000	NFM	TONE=C100.0	1									
+C-Freq	CFreqId=78046	CGroupId=21347	Devils Lake E 911 Leeds	Off	159090000	NFM		1									
+C-Freq	CFreqId=78045	CGroupId=21347	Devils Lake E 911 Maddock	Off	159090000	NFM	TONE=C203.5	1									
+C-Freq	CFreqId=78041	CGroupId=21347	Sheriff / Road Dept. / Busses	Off	155760000	NFM		14									
+C-Group	CGroupId=49582	CountyId=1989	Benson County - Spirit Lake Nation - Fort Totten	Off	47.979999	-98.992901	30.0	Circle	
+C-Freq	CFreqId=322852	CGroupId=49582	Fort Totten Police	Off	155910000	NFM		7									
+C-Freq	CFreqId=202237	CGroupId=49582	Spirit Lake Nation - Fort Totten Fire	Off	150775000	NFM	TONE=C100.0	3									
+C-Freq	CFreqId=202238	CGroupId=49582	Spirit Lake Nation - Fort Totten Police Dispatch	Off	169725000	NFM	NAC=6F	2									
+C-Freq	CFreqId=78042	CGroupId=49582	Spirit Lake Nation - Ft. Totten PD Tac	Off	155250000	NFM	TONE=C110.9	7									
+Conventional	CountyId=1990	StateId=38	Billings	Off		Conventional								
+AreaState	CountyId=1990	StateId=38
+AreaCounty	CountyId=1990	CountyId=1990
+C-Group	CGroupId=21348	CountyId=1990	Billings County	Off	47.069459	-103.333792	35.0	Circle	
+C-Freq	CFreqId=258037	CGroupId=21348	BILLINGS COUNTY EMERGENCY MANMAGEMENT	Off	156210000	NFM	TONE=C100.0	29									
+C-Freq	CFreqId=78047	CGroupId=21348	EMS	Off	155295000	NFM		4									
+C-Freq	CFreqId=78050	CGroupId=21348	Medora Police Dept.	Off	155190000	NFM		2									
+C-Freq	CFreqId=78048	CGroupId=21348	Road Dept. / Busses	Off	155145000	NFM		14									
+C-Freq	CFreqId=78049	CGroupId=21348	Sheriff's Dept.	Off	158850000	NFM	TONE=C173.8	2									
+C-Group	CGroupId=66014	CountyId=1990	Billings County - Businesses	Off	47.069459	-103.333792	35.0	Circle	
+C-Freq	CFreqId=272395	CGroupId=66014	Medora Golf Course 1	Off	452187500	FM		17									
+C-Freq	CFreqId=272396	CGroupId=66014	Medora Golf Course 2	Off	457187500	FM		17									
+C-Freq	CFreqId=272397	CGroupId=66014	Theodore Roosevelt Medora Foundation	Off	464325000	FM		17									
+Conventional	CountyId=1991	StateId=38	Bottineau	Off		Conventional								
+AreaState	CountyId=1991	StateId=38
+AreaCounty	CountyId=1991	CountyId=1991
+C-Group	CGroupId=22018	CountyId=1991	Bottineau County	Off	48.808349	-100.805983	37.0	Circle	
+C-Freq	CFreqId=158533	CGroupId=22018	Bottineau Ambulance Service	Off	155280000	NFM		9									
+C-Freq	CFreqId=158534	CGroupId=22018	Bottineau Ambulance Service	Off	155340000	NFM		9									
+C-Freq	CFreqId=80973	CGroupId=22018	Roads / Busses	Off	155760000	NFM		14									
+C-Freq	CFreqId=80972	CGroupId=22018	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=80974	CGroupId=22018	Sheriff / County Operations	Off	158805000	NFM	TONE=C88.5	14									
+C-Freq	CFreqId=316556	CGroupId=22018	Sheriff / County Operations	Off	158805000	NFM	NAC=312	14									
+C-Freq	CFreqId=91263	CGroupId=22018	Sheriff's / EMS Dispatch / Renville SO Dispatch	Off	158880000	NFM	TONE=C88.5	1									
+C-Freq	CFreqId=316555	CGroupId=22018	Sheriff's / EMS Dispatch / Renville SO Dispatch	Off	158880000	NFM	NAC=312	1									
+Conventional	CountyId=1992	StateId=38	Bowman	Off		Conventional								
+AreaState	CountyId=1992	StateId=38
+AreaCounty	CountyId=1992	CountyId=1992
+C-Group	CGroupId=65262	CountyId=1992	Amateur Radio	Off	46.069449	-103.525468	30.0	Circle	
+C-Freq	CFreqId=269744	CGroupId=65262	KB0DYA - Bowman	Off	145310000	FM		13									
+C-Group	CGroupId=22020	CountyId=1992	Bowman County	Off	46.069449	-103.525468	30.0	Circle	
+C-Freq	CFreqId=80979	CGroupId=22020	Bowman Fire	Off	155940000	NFM		3									
+C-Freq	CFreqId=278882	CGroupId=22020	County Emergency Management	Off	159120000	AUTO	NAC=Srch	29									
+C-Freq	CFreqId=80978	CGroupId=22020	County Operations	Off	158760000	NFM		14									
+C-Freq	CFreqId=327787	CGroupId=22020	County Operations - Harding SD	Off	154325000	NFM		14									
+C-Freq	CFreqId=296873	CGroupId=22020	Public Safety	Off	155100000	NFM		6									
+C-Freq	CFreqId=80977	CGroupId=22020	Roads / Busses - Bowman	Off	155820000	NFM		14									
+C-Freq	CFreqId=80976	CGroupId=22020	Sheriff	Off	155010000	NFM	NAC=523	2									
+C-Freq	CFreqId=243654	CGroupId=22020	Sheriff Dispatch	Off	151460000	NFM		2									
+Conventional	CountyId=1993	StateId=38	Burke	Off		Conventional								
+AreaState	CountyId=1993	StateId=38
+AreaCounty	CountyId=1993	CountyId=1993
+C-Group	CGroupId=22021	CountyId=1993	Burke County	Off	48.797215	-102.515259	30.0	Circle	
+C-Freq	CFreqId=327251	CGroupId=22021	BOWBELLS PUBLIC SCHOOL DISTRICT 14	Off	155220000	NFM		32									
+C-Freq	CFreqId=327250	CGroupId=22021	POWERS LAKE EMS	Off	158955000	NFM		9									
+C-Freq	CFreqId=80981	CGroupId=22021	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=80982	CGroupId=22021	Sheriff / Roads / Busses	Off	154055000	NFM		14									
+Conventional	CountyId=1994	StateId=38	Burleigh	Off		Conventional								
+AreaState	CountyId=1994	StateId=38
+AreaCounty	CountyId=1994	CountyId=1994
+C-Group	CGroupId=64828	CountyId=1994	Amateur Radio	Off	46.958325	-100.461505	31.0	Circle	
+C-Freq	CFreqId=170412	CGroupId=64828	Bismarck - 444.2000	Off	444200000	FM		13									
+C-Freq	CFreqId=268723	CGroupId=64828	Bismarck - 444.6500 - Hillside ARC	Off	444650000	FM		13									
+C-Freq	CFreqId=170410	CGroupId=64828	Bismarck - CDARC	Off	146850000	FM		13									
+C-Freq	CFreqId=170411	CGroupId=64828	Bismarck - CDARC - WestLink	Off	147390000	FM		13									
+C-Freq	CFreqId=297934	CGroupId=64828	Hannover	Off	145430000	FM		13									
+C-Freq	CFreqId=297935	CGroupId=64828	N0FAZ 224.2000	Off	224200000	FM		13									
+C-Freq	CFreqId=170409	CGroupId=64828	Skywarn - Superlink	Off	146940000	FM		13									
+C-Group	CGroupId=22145	CountyId=1994	Burleigh County	Off	46.958325	-100.461505	31.0	Circle	
+C-Freq	CFreqId=288078	CGroupId=22145	Burleigh So Bismarck Encrypted	Off	155962500	NFM	NAC=203	2									
+C-Freq	CFreqId=288080	CGroupId=22145	Burleigh So Steele Encrypted	Off	155887500	NFM	NAC=203	2									
+C-Freq	CFreqId=288079	CGroupId=22145	Burleigh So Wilton Encrypted	Off	151392500	NFM	NAC=203	2									
+C-Freq	CFreqId=288081	CGroupId=22145	Burleigh So Wing Encrypted	Off	155572500	NFM	NAC=203	2									
+C-Freq	CFreqId=86949	CGroupId=22145	County Fire - EMS Paging	Off	154370000	NFM		1									
+C-Freq	CFreqId=174758	CGroupId=22145	Detention Center	Off	154875000	NFM	TONE=C100.0	37									
+C-Freq	CFreqId=192335	CGroupId=22145	Detention Center Simulcast	Off	154882500	NFM	TONE=C100.0	37									
+C-Freq	CFreqId=105382	CGroupId=22145	Road Dept	Off	155145000	NFM	TONE=C107.2	6									
+C-Freq	CFreqId=268694	CGroupId=22145	Rural Fire and EMS Depts. X 4	Off	159457500	NFM	TONE=C141.3	3									
+C-Freq	CFreqId=105381	CGroupId=22145	Sheriff's Dept.  Car to Car - Encrypted	Off	154860000	NFM	NAC=Srch	7									
+C-Group	CGroupId=3904	CountyId=1994	Burleigh County - Bismarck	Off	46.958325	-100.461505	31.0	Circle	
+C-Freq	CFreqId=105387	CGroupId=3904	Airport - Encrypted	Off	155760000	NFM		14									
+C-Freq	CFreqId=324548	CGroupId=3904	Bis Man PD Tac 2 Encrypted	Off	156007500	NFM	NAC=625	7									
+C-Freq	CFreqId=105388	CGroupId=3904	Bismarck Burleigh Public Helath	Off	152322500	NFM		12									
+C-Freq	CFreqId=310274	CGroupId=3904	Bismarck Civic Center Ops - Security 3	Off	155692500	NFM	TONE=C123.0	33									
+C-Freq	CFreqId=288090	CGroupId=3904	Bismarck Fire 2 - Encrypted	Off	151152500	NFM	NAC=312	8									
+C-Freq	CFreqId=288092	CGroupId=3904	Bismarck FIRE Ground 1 - Encrypted	Off	151002500	NFM	NAC=314	8									
+C-Freq	CFreqId=288093	CGroupId=3904	Bismarck FIRE Ground 2 - Encrypted	Off	156172500	NFM	NAC=315	8									
+C-Freq	CFreqId=288094	CGroupId=3904	Bismarck FIRE Ground 3 - Encrypted	Off	159052500	NFM	TONE=C114.8	8									
+C-Freq	CFreqId=16797	CGroupId=3904	Bismarck PD CH 1 - Dispatch Pri. - Encrypted	Off	155070000	NFM	NAC=211	2									
+C-Freq	CFreqId=105394	CGroupId=3904	Bismarck PD CH 2 - Dispatch Sec. - Encrypted	Off	155122500	NFM	NAC=212	2									
+C-Freq	CFreqId=317106	CGroupId=3904	Bismarck PD CH 4 - Encrypted	Off	159090000	NFM	NAC=216	7									
+C-Freq	CFreqId=288087	CGroupId=3904	Bismarck PD CH 5 - SWAT - Bearcat - Encrypted	Off	154650000	NFM	NAC=213	7									
+C-Freq	CFreqId=288086	CGroupId=3904	Bismarck PD CH 6 - Admin - Encrypted	Off	155670000	NFM	NAC=411	7									
+C-Freq	CFreqId=324545	CGroupId=3904	Bismarck PD Narco 1 Encrypted	Off	158872500	NFM	NAC=725	7									
+C-Freq	CFreqId=324546	CGroupId=3904	Bismarck PD Narco 2 Encrypted	Off	159352500	NFM	NAC=525	7									
+C-Freq	CFreqId=197393	CGroupId=3904	Bismarck Public Works - Encrypted	Off	155880000	NFM	TONE=C110.9	14									
+C-Freq	CFreqId=105391	CGroupId=3904	Bismarck State College	Off	452125000	NFM		32									
+C-Freq	CFreqId=105396	CGroupId=3904	Bismarck State College	Off	461275000	NFM		32									
+C-Freq	CFreqId=105392	CGroupId=3904	Civic Center 1	Off	158805000	NFM		14									
+C-Freq	CFreqId=105393	CGroupId=3904	Civic Center Security - Ops - Maint. 2	Off	158760000	NFM		33									
+C-Freq	CFreqId=296933	CGroupId=3904	EXECUTIVE AIR TAXI	Off	462037500	NFM		9									
+C-Freq	CFreqId=268625	CGroupId=3904	Fire Dept. Dispatch - Encrypted	Off	151482500	NFM	NAC=311	3									
+C-Freq	CFreqId=288088	CGroupId=3904	Metro Area Ambulance Service - Encrypted	Off	159157500	NFM	NAC=215	9									
+C-Freq	CFreqId=86950	CGroupId=3904	Metro Area Ambulance Service - Paging	Off	155400000	NFM		4									
+C-Freq	CFreqId=105397	CGroupId=3904	Parks - Encrypted	Off	151430000	NFM		14									
+C-Freq	CFreqId=297575	CGroupId=3904	Sanford Lifeflight Ops.	Off	453237500	NFM	TONE=C162.2	4									
+C-Freq	CFreqId=105386	CGroupId=3904	United Tribes College Security - Encrypted	Off	158820000	AUTO	NAC=Srch	33									
+C-Group	CGroupId=36592	CountyId=1994	Burleigh County - Bismarck Airport	Off	46.958325	-100.461505	31.0	Circle	
+C-Freq	CFreqId=270014	CGroupId=36592	Airport Operations/Maintanance	Off	854012500	FM		14									
+C-Freq	CFreqId=316847	CGroupId=36592	American Airlines - BIS Ops	Off	131600000	AM		15									
+C-Freq	CFreqId=143884	CGroupId=36592	Bismarck Approach / Departure	Off	126300000	AM		15									
+C-Freq	CFreqId=143887	CGroupId=36592	Bismarck ATIS	Off	119350000	AM		15									
+C-Freq	CFreqId=143885	CGroupId=36592	Bismarck Ground	Off	121900000	AM		15									
+C-Freq	CFreqId=145619	CGroupId=36592	Bismarck Ground Repeat	Off	854012500	FM	TONE=C103.5	14									
+C-Freq	CFreqId=143883	CGroupId=36592	Bismarck Tower	Off	118300000	AM		15									
+C-Freq	CFreqId=143137	CGroupId=36592	Delta Airlines (NWA) - BIS Ops.	Off	130675000	AM		15									
+C-Freq	CFreqId=227707	CGroupId=36592	Flight Service Bismarck	Off	122200000	AM		15									
+C-Freq	CFreqId=143888	CGroupId=36592	HIWAS	Off	116500000	AM		15									
+C-Freq	CFreqId=191409	CGroupId=36592	National Guard Ops	Off	134100000	AM		15									
+C-Freq	CFreqId=151791	CGroupId=36592	Transportation Security Admin	Off	172150000	NFM	NAC=Srch	33									
+C-Freq	CFreqId=309806	CGroupId=36592	Unicom - Allegiant Airlines Ops	Off	122950000	AM		15									
+C-Freq	CFreqId=143138	CGroupId=36592	United/Skywest Airlines - BIS Ops.	Off	130925000	AM		15									
+C-Group	CGroupId=75033	CountyId=1994	Burleigh County - Bismarck Schools	Off	46.958325	-100.461505	31.0	Circle	
+C-Freq	CFreqId=167832	CGroupId=75033	Bismarck Public Schools	Off	155160000	NFM		32									
+C-Freq	CFreqId=308359	CGroupId=75033	Bismarck Public Schools	Off	464650000	NFM		32									
+C-Freq	CFreqId=317083	CGroupId=75033	Bismarck School CH 01	Off	469712500	NFM		32									
+C-Freq	CFreqId=317084	CGroupId=75033	Bismarck School CH 02	Off	464712500	NFM		32									
+C-Freq	CFreqId=317085	CGroupId=75033	Bismarck School CH 03	Off	461175000	NFM		32									
+C-Freq	CFreqId=317086	CGroupId=75033	Bismarck School CH 04	Off	461475000	NFM		32									
+C-Freq	CFreqId=317087	CGroupId=75033	Bismarck School CH 05	Off	463362500	NFM		32									
+C-Freq	CFreqId=317088	CGroupId=75033	Bismarck School CH 06	Off	461537500	NFM		32									
+C-Freq	CFreqId=317089	CGroupId=75033	Bismarck School CH 07	Off	461737500	NFM		32									
+C-Freq	CFreqId=317090	CGroupId=75033	Bismarck School CH 08	Off	462087500	NFM		32									
+C-Freq	CFreqId=317091	CGroupId=75033	Bismarck School CH 09	Off	462112500	NFM		32									
+C-Freq	CFreqId=317092	CGroupId=75033	Bismarck School CH 10	Off	463487500	NFM		32									
+C-Freq	CFreqId=317093	CGroupId=75033	Bismarck School CH 11	Off	463887500	NFM		32									
+C-Freq	CFreqId=317094	CGroupId=75033	Bismarck School CH 12	Off	464025000	NFM		32									
+C-Freq	CFreqId=317095	CGroupId=75033	Bismarck School CH 13	Off	464837500	NFM		32									
+C-Freq	CFreqId=317096	CGroupId=75033	Bismarck School CH 14	Off	464962500	NFM		32									
+Conventional	CountyId=1995	StateId=38	Cass	Off		Conventional								
+AreaState	CountyId=1995	StateId=38
+AreaCounty	CountyId=1995	CountyId=1995
+C-Group	CGroupId=12167	CountyId=1995	Cass County	Off	46.941641	-97.225366	30.0	Circle	
+C-Freq	CFreqId=75676	CGroupId=12167	County Jail	Off	458700000	NFM	TONE=D047	37									
+C-Freq	CFreqId=71726	CGroupId=12167	County Roads	Off	155880000	NFM	NAC=437	14									
+C-Freq	CFreqId=104009	CGroupId=12167	Court Security	Off	453700000	NFM	TONE=D047	7									
+C-Freq	CFreqId=46026	CGroupId=12167	Fire/EMS/LE Dispatch	Off	156210000	NFM	TONE=C131.8	1									
+C-Freq	CFreqId=71727	CGroupId=12167	School Busses - DPW Analog	Off	155040000	NFM	TONE=C131.8	14									
+C-Freq	CFreqId=293986	CGroupId=12167	School Busses - DPW P25	Off	155040000	NFM	NAC=333	14									
+C-Freq	CFreqId=79940	CGroupId=12167	Sheriff Car/Car	Off	154860000	NFM		7									
+C-Freq	CFreqId=145811	CGroupId=12167	Sheriff Dispatch - Amenia	Off	159120000	NFM	NAC=105	2									
+C-Freq	CFreqId=217204	CGroupId=12167	Sheriff Dispatch - Fargo	Off	158842500	NFM	NAC=115	2									
+C-Group	CGroupId=78571	CountyId=1995	Cass County - Argusville	Off	47.050560	-96.940118	5.0	Circle	
+C-Freq	CFreqId=256782	CGroupId=78571	Fire	Off	155205000	NFM		8									
+C-Group	CGroupId=78572	CountyId=1995	Cass County - Buffalo	Off	46.919402	-97.553979	5.0	Circle	
+C-Freq	CFreqId=182653	CGroupId=78572	Fire	Off	158760000	NFM		8									
+C-Group	CGroupId=78562	CountyId=1995	Cass County - Casselton	Off	46.901830	-97.210547	5.0	Circle	
+C-Freq	CFreqId=105754	CGroupId=78562	City Services	Off	158805000	NFM	TONE=C179.9	14									
+C-Freq	CFreqId=79937	CGroupId=78562	EMS	Off	155400000	NFM	TONE=C162.2	9									
+C-Freq	CFreqId=75673	CGroupId=78562	Fire	Off	155115000	NFM	NAC=192	8									
+C-Group	CGroupId=78573	CountyId=1995	Cass County - Davenport	Off	46.711191	-97.069455	5.0	Circle	
+C-Freq	CFreqId=79932	CGroupId=78573	Fire	Off	154370000	NFM		8									
+C-Group	CGroupId=53225	CountyId=1995	Cass County - Emergency and Non-Governmental Organizations	Off	46.941641	-97.225366	40.0	Circle	
+C-Freq	CFreqId=324827	CGroupId=53225	Cass - Clay IOP 1	Off	151332500	NFM	NAC=Srch	29									
+C-Freq	CFreqId=324828	CGroupId=53225	Cass - Clay IOP 2	Off	154867500	NFM	NAC=Srch	29									
+C-Freq	CFreqId=324829	CGroupId=53225	Cass - Clay IOP 3	Off	155812500	NFM	NAC=Srch	29									
+C-Freq	CFreqId=257243	CGroupId=53225	EVAC PRI.  CH 1 / Simplex	Off	453750000	AUTO	RAN=52	29									
+C-Freq	CFreqId=218529	CGroupId=53225	EVAC SEC. MED 10 / Simplex	Off	462975000	NFM	TONE=D423	29									
+C-Freq	CFreqId=218645	CGroupId=53225	Red Cross 1	Off	47420000	FM		29									
+C-Freq	CFreqId=256427	CGroupId=53225	Red Cross 2 - Flood	Off	47500000	FM		29									
+C-Freq	CFreqId=218644	CGroupId=53225	Red Cross 3	Off	45960000	FM		29									
+C-Freq	CFreqId=106532	CGroupId=53225	Salvation Army	Off	464500000	FM	TONE=C91.5	29									
+C-Group	CGroupId=11318	CountyId=1995	Cass County - Fargo	Off	46.877186	-96.789803	5.0	Circle	
+C-Freq	CFreqId=122729	CGroupId=11318	City Operations	Off	453725000	NFM		14									
+C-Freq	CFreqId=75684	CGroupId=11318	City Operations	Off	453825000	AUTO	NAC=Srch	14									
+C-Freq	CFreqId=75682	CGroupId=11318	Engineering - Traffic Signals	Off	453625000	NFM		14									
+C-Freq	CFreqId=286424	CGroupId=11318	Fire - Dispatch	Off	154762500	NFM	TONE=C173.8	3									
+C-Freq	CFreqId=281931	CGroupId=11318	Fire - Operations 1	Off	154762500	NFM	NAC=101	8									
+C-Freq	CFreqId=191107	CGroupId=11318	Fire - Operations 2	Off	155242500	NFM	NAC=103	8									
+C-Freq	CFreqId=75681	CGroupId=11318	Park District	Off	154965000	NFM		14									
+C-Freq	CFreqId=322847	CGroupId=11318	Park District	Off	451475000	NFM		14									
+C-Freq	CFreqId=260745	CGroupId=11318	Police - Volunteers - EVAC	Off	453550000	NFM	TONE=C123.0	29									
+C-Freq	CFreqId=191103	CGroupId=11318	Police 1 - Dispatch	Off	151257500	NFM	NAC=101	2									
+C-Freq	CFreqId=191104	CGroupId=11318	Police 2 - Records	Off	156187500	NFM	NAC=102	2									
+C-Freq	CFreqId=218939	CGroupId=11318	Police 3 - Metro Area Common	Off	154182500	NFM	NAC=104	11									
+C-Freq	CFreqId=310704	CGroupId=11318	Police Tac - Street Crimes Unit	Off	151340000	NFM	NAC=109	7									
+C-Freq	CFreqId=264151	CGroupId=11318	Sanitation Department	Off	159097500	NFM	NAC=105	14									
+C-Freq	CFreqId=247524	CGroupId=11318	Street Department	Off	154025000	NFM	NAC=105	14									
+C-Group	CGroupId=78574	CountyId=1995	Cass County - Harwood	Off	46.978463	-96.882440	5.0	Circle	
+C-Freq	CFreqId=75675	CGroupId=78574	Fire	Off	154430000	NFM	TONE=C103.5	8									
+C-Group	CGroupId=78575	CountyId=1995	Cass County - Horace	Off	46.758701	-96.904097	5.0	Circle	
+C-Freq	CFreqId=79933	CGroupId=78575	Fire - Horace/Hickson	Off	154340000	NFM		8									
+C-Group	CGroupId=13527	CountyId=1995	Cass County - Hospitals	Off	46.941641	-97.225366	40.0	Circle	
+C-Freq	CFreqId=327946	CGroupId=13527	F-M Ambulance Service - Dispatch Link	Off	159015000	NFM	NAC=590	4									
+C-Freq	CFreqId=69490	CGroupId=13527	F-M Ambulance Service CH 1 - 911 Dispatch	Off	155265000	NFM	NAC=489	4									
+C-Freq	CFreqId=50355	CGroupId=13527	F-M Ambulance Service CH 2 - 911 SEC. Dispatch	Off	155715000	NFM	TONE=C146.2	4									
+C-Freq	CFreqId=106602	CGroupId=13527	Innovis Health	Off	451300000	NFM	TONE=D143	17									
+C-Freq	CFreqId=285005	CGroupId=13527	Sanford Lifeflight Ops	Off	453500000	NFM	TONE=C173.8	4									
+C-Freq	CFreqId=248694	CGroupId=13527	Sanford Security 1	Off	461862500	NFM	TONE=D125	33									
+C-Freq	CFreqId=248693	CGroupId=13527	Sanford Security 2	Off	461687500	NFM	TONE=D351	33									
+C-Freq	CFreqId=248695	CGroupId=13527	Sanford South Maint.	Off	463625000	NFM	TONE=D026	17									
+C-Freq	CFreqId=69491	CGroupId=13527	Wide Use EMS - Hosp Pri. Channel	Off	155340000	NFM	TONE=C156.7	12									
+C-Freq	CFreqId=69492	CGroupId=13527	Wide Use EMS - Hosp Sec. Channel	Off	155400000	NFM	TONE=C82.5	12									
+C-Group	CGroupId=78576	CountyId=1995	Cass County - Kindred	Off	46.647636	-97.011530	5.0	Circle	
+C-Freq	CFreqId=79938	CGroupId=78576	EMS	Off	154040000	NFM	TONE=C146.2	9									
+C-Freq	CFreqId=79934	CGroupId=78576	Fire	Off	154220000	NFM		8									
+C-Group	CGroupId=78577	CountyId=1995	Cass County - Leonard	Off	46.649606	-97.241748	5.0	Circle	
+C-Freq	CFreqId=79935	CGroupId=78577	Fire	Off	155895000	NFM	TONE=C192.8	8									
+C-Group	CGroupId=78578	CountyId=1995	Cass County - Mapleton	Off	46.888439	-97.054102	5.0	Circle	
+C-Freq	CFreqId=79936	CGroupId=78578	Fire	Off	154145000	NFM		8									
+C-Group	CGroupId=39601	CountyId=1995	Cass County - North Dakota State University	Off	46.897515	-96.802879	1.0	Circle	
+C-Freq	CFreqId=157910	CGroupId=39601	Maintenance	Off	458050000	NFM		14									
+C-Freq	CFreqId=157911	CGroupId=39601	Maintenance	Off	463800000	NFM	TONE=C114.8	14									
+C-Freq	CFreqId=157909	CGroupId=39601	Parking Enforcement	Off	453350000	NFM	TONE=C94.8	33									
+C-Freq	CFreqId=230569	CGroupId=39601	Police - Campus	Off	151287500	NFM	NAC=111	2									
+C-Freq	CFreqId=243026	CGroupId=39601	Police - Downtown	Off	154650000	NFM	NAC=311	2									
+C-Group	CGroupId=78579	CountyId=1995	Cass County - Tower City	Off	46.924345	-97.671973	5.0	Circle	
+C-Freq	CFreqId=84563	CGroupId=78579	Fire	Off	154205000	NFM		8									
+C-Group	CGroupId=12166	CountyId=1995	Cass County - West Fargo	Off	46.870000	-96.900000	5.0	Circle	
+C-Freq	CFreqId=105469	CGroupId=12166	Fire - Dispatch	Off	154280000	NFM	TONE=C141.3	3									
+C-Freq	CFreqId=110025	CGroupId=12166	Fire - Operations	Off	154280000	NFM	NAC=78	8									
+C-Freq	CFreqId=309924	CGroupId=12166	Harwood School	Off	160050000	NFM	NAC=1A1	32									
+C-Freq	CFreqId=309925	CGroupId=12166	Horace School	Off	160125000	NFM	NAC=1A1	32									
+C-Freq	CFreqId=336178	CGroupId=12166	Police - Admin	Off	153785000	NFM	NAC=95	7									
+C-Freq	CFreqId=146597	CGroupId=12166	Police - Dispatch	Off	155580000	NFM	NAC=80	2									
+C-Freq	CFreqId=326774	CGroupId=12166	Schools - Bus	Off	463912500	AUTO	ColorCode=6	32									
+C-Freq	CFreqId=310166	CGroupId=12166	Schools 10	Off	160020000	NFM	NAC=170	32									
+C-Freq	CFreqId=310163	CGroupId=12166	Schools 4	Off	159510000	NFM	NAC=1A1	32									
+C-Freq	CFreqId=323367	CGroupId=12166	Schools 5	Off	159510000	NFM	NAC=100	32									
+C-Freq	CFreqId=323368	CGroupId=12166	Schools 6	Off	159510000	NFM	NAC=175	32									
+C-Freq	CFreqId=310164	CGroupId=12166	Schools 7	Off	159630000	NFM	NAC=293	32									
+C-Freq	CFreqId=310165	CGroupId=12166	Schools 8	Off	159945000	NFM	NAC=150	32									
+C-Freq	CFreqId=323369	CGroupId=12166	Schools 9	Off	159945000	NFM	NAC=165	32									
+C-Freq	CFreqId=211075	CGroupId=12166	Street Department	Off	153995000	NFM	NAC=81	14									
+C-Freq	CFreqId=309923	CGroupId=12166	West Fargo School	Off	159540000	NFM	NAC=1A1	32									
+C-Group	CGroupId=64682	CountyId=1995	Cass County Amateur Radio - Repeaters	Off	46.941641	-97.225366	30.0	Circle	
+C-Freq	CFreqId=268460	CGroupId=64682	Fargo	Off	145490000	FM	TONE=C82.5	13									
+C-Freq	CFreqId=268094	CGroupId=64682	Fargo	Off	146970000	FM		13									
+C-Freq	CFreqId=268764	CGroupId=64682	Fargo - EchoLink Node 43702	Off	443900000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=268093	CGroupId=64682	Fargo - NDSU Amateur Radio Society	Off	147090000	FM		13									
+C-Freq	CFreqId=268092	CGroupId=64682	Grandin	Off	146760000	FM		13									
+C-Freq	CFreqId=268765	CGroupId=64682	Horace	Off	146715000	FM		13									
+C-Freq	CFreqId=268766	CGroupId=64682	Horace	Off	443750000	FM		13									
+C-Freq	CFreqId=268090	CGroupId=64682	Moorhead	Off	145350000	FM		13									
+C-Freq	CFreqId=268089	CGroupId=64682	Moorhead	Off	444875000	FM	TONE=C123.0	13									
+C-Freq	CFreqId=268091	CGroupId=64682	Wheatland	Off	147255000	FM		13									
+Conventional	CountyId=1996	StateId=38	Cavalier	Off		Conventional								
+AreaState	CountyId=1996	StateId=38
+AreaCounty	CountyId=1996	CountyId=1996
+C-Group	CGroupId=22028	CountyId=1996	Cavalier County	Off	48.769447	-98.475398	30.0	Circle	
+C-Freq	CFreqId=81002	CGroupId=22028	Hannah Fire Dept.	Off	154355000	NFM		8									
+C-Freq	CFreqId=81003	CGroupId=22028	Langdon Water Dept.	Off	155955000	NFM		14									
+C-Freq	CFreqId=80999	CGroupId=22028	Munich Ambulance	Off	155407500	NFM		4									
+C-Freq	CFreqId=81001	CGroupId=22028	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=81000	CGroupId=22028	Sheriff / Roads / Busses	Off	155760000	NFM	TONE=C118.8	1									
+Conventional	CountyId=1997	StateId=38	Dickey	Off		Conventional								
+AreaState	CountyId=1997	StateId=38
+AreaCounty	CountyId=1997	CountyId=1997
+C-Group	CGroupId=21343	CountyId=1997	Dickey County	Off	46.102748	-98.500378	28.0	Circle	
+C-Freq	CFreqId=78013	CGroupId=21343	Oakes Fire	Off	154145000	NFM		8									
+C-Freq	CFreqId=324842	CGroupId=21343	Oakes Fire	Off	154347500	NFM		8									
+C-Freq	CFreqId=78014	CGroupId=21343	Oakes Police	Off	155670000	NFM		7									
+C-Freq	CFreqId=78012	CGroupId=21343	Sheriff's Dept. / Fire-EMS / Road Dept. / Busses	Off	155760000	NFM	TONE=C123.0	1									
+C-Freq	CFreqId=100145	CGroupId=21343	Sheriff's Dept. X 2	Off	155580000	NFM	TONE=C146.2	1									
+Conventional	CountyId=1998	StateId=38	Divide	Off		Conventional								
+AreaState	CountyId=1998	StateId=38
+AreaCounty	CountyId=1998	CountyId=1998
+C-Group	CGroupId=22167	CountyId=1998	Divide County	Off	48.813921	-103.492136	32.0	Circle	
+C-Freq	CFreqId=81504	CGroupId=22167	County Services	Off	155100000	NFM		14									
+C-Freq	CFreqId=290138	CGroupId=22167	Fortuna Rural Fire Protection District	Off	155895000	NFM		8									
+C-Freq	CFreqId=81503	CGroupId=22167	Sheriff's Dept.	Off	158940000	NFM		2									
+C-Freq	CFreqId=186672	CGroupId=22167	Sheriff's Dept. Dispatch	Off	151460000	NFM	NAC=788	2									
+Conventional	CountyId=1999	StateId=38	Dunn	Off		Conventional								
+AreaState	CountyId=1999	StateId=38
+AreaCounty	CountyId=1999	CountyId=1999
+C-Group	CGroupId=64598	CountyId=1999	Amateur Radio	Off	47.366678	-102.550461	35.0	Circle	
+C-Freq	CFreqId=267680	CGroupId=64598	Theodore Roosevelt Amateur Radio Club - Kildeer	Off	146640000	FM		13									
+C-Group	CGroupId=22168	CountyId=1999	Dunn County	Off	47.366678	-102.550461	35.0	Circle	
+C-Freq	CFreqId=81506	CGroupId=22168	County Services - Busses	Off	155115000	NFM	TONE=C114.8	14									
+C-Freq	CFreqId=272290	CGroupId=22168	Sheriff's Dept Ch 4	Off	159165000	NFM	NAC=345	2									
+C-Freq	CFreqId=186673	CGroupId=22168	Sheriff's Dept.	Off	151460000	NFM		2									
+C-Freq	CFreqId=81505	CGroupId=22168	Sheriff's Dept.	Off	159090000	NFM		2									
+Conventional	CountyId=2000	StateId=38	Eddy	Off		Conventional								
+AreaState	CountyId=2000	StateId=38
+AreaCounty	CountyId=2000	CountyId=2000
+C-Group	CGroupId=22029	CountyId=2000	Eddy County	Off	47.708330	-98.894832	21.0	Circle	
+C-Freq	CFreqId=81006	CGroupId=22029	County Operations	Off	155820000	NFM	TONE=C127.3	14									
+C-Freq	CFreqId=81007	CGroupId=22029	Lake Region E-911	Off	159090000	NFM	TONE=C131.8	1									
+C-Freq	CFreqId=81005	CGroupId=22029	Road Dept.	Off	154040000	NFM	TONE=C127.3	14									
+C-Freq	CFreqId=81004	CGroupId=22029	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=302543	CGroupId=22029	Sheriff - Road Dept.	Off	154040000	NFM	NAC=455	6									
+Conventional	CountyId=2001	StateId=38	Emmons	Off		Conventional								
+AreaState	CountyId=2001	StateId=38
+AreaCounty	CountyId=2001	CountyId=2001
+C-Group	CGroupId=22169	CountyId=2001	Emmons County	Off	46.316656	-100.217058	32.0	Circle	
+C-Freq	CFreqId=287849	CGroupId=22169	EMS Paging	Off	163250000	NFM		4									
+C-Freq	CFreqId=81507	CGroupId=22169	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=81508	CGroupId=22169	Sheriff / County Services	Off	155025000	NFM		14									
+C-Group	CGroupId=66551	CountyId=2001	Emmons County - Businesses	Off	46.316656	-100.217058	32.0	Circle	
+C-Freq	CFreqId=273971	CGroupId=66551	Beastrom Farms - HAZELTON	Off	152885000	FM		17									
+Conventional	CountyId=2002	StateId=38	Foster	Off		Conventional								
+AreaState	CountyId=2002	StateId=38
+AreaCounty	CountyId=2002	CountyId=2002
+C-Group	CGroupId=22170	CountyId=2002	Foster County	Off	47.449997	-98.875385	21.0	Circle	
+C-Freq	CFreqId=258026	CGroupId=22170	Carrington Fire Dept	Off	460575000	NFM	TONE=C127.3	3									
+C-Freq	CFreqId=258029	CGroupId=22170	Carrington Health Center	Off	155265000	NFM		12									
+C-Freq	CFreqId=258025	CGroupId=22170	Carrington Police Dispatch	Off	453925000	NFM	TONE=C100.0	2									
+C-Freq	CFreqId=258027	CGroupId=22170	Carrington Public Works	Off	158760000	NFM		14									
+C-Freq	CFreqId=81509	CGroupId=22170	County Operations	Off	155820000	NFM	TONE=C127.3	14									
+C-Freq	CFreqId=81511	CGroupId=22170	McHenry Ambulance	Off	153845000	NFM		4									
+C-Freq	CFreqId=81510	CGroupId=22170	Sheriff	Off	151460000	NFM		2									
+C-Group	CGroupId=79246	CountyId=2002	Foster County Amateur Radio - Repeaters	Off	47.449997	-98.875385	21.0	Circle	
+C-Freq	CFreqId=340657	CGroupId=79246	Carrington - IRLP 7805/Echolink 847994	Off	147585000	FM	TONE=C123.0	13									
+Conventional	CountyId=2003	StateId=38	Golden Valley	Off		Conventional								
+AreaState	CountyId=2003	StateId=38
+AreaCounty	CountyId=2003	CountyId=2003
+C-Group	CGroupId=64597	CountyId=2003	Amateur Radio	Off	46.938903	-103.850478	30.0	Circle	
+C-Freq	CFreqId=267679	CGroupId=64597	Theodore Roosevelt Amateur Radio Club - Beach	Off	146730000	FM		13									
+C-Group	CGroupId=22171	CountyId=2003	Golden Valley County	Off	46.938903	-103.850478	30.0	Circle	
+C-Freq	CFreqId=272308	CGroupId=22171	Community Ambulance Service	Off	155400000	NFM		9									
+C-Freq	CFreqId=81514	CGroupId=22171	County Services	Off	153905000	NFM		14									
+C-Freq	CFreqId=81515	CGroupId=22171	County Services	Off	155040000	NFM		14									
+C-Freq	CFreqId=81513	CGroupId=22171	Sheriff's Dept. - ENC.	Off	154710000	NFM	NAC=861	2									
+C-Freq	CFreqId=243653	CGroupId=22171	Sheriff's Dept. Dispatch	Off	151460000	NFM	TONE=C192.8	2									
+Conventional	CountyId=2004	StateId=38	Grand Forks	Off		Conventional								
+AreaState	CountyId=2004	StateId=38
+AreaCounty	CountyId=2004	CountyId=2004
+C-Group	CGroupId=79301	CountyId=2004	Grand Forks County - Emerado	Off	47.918875	-97.365084	5.0	Circle	
+C-Freq	CFreqId=222980	CGroupId=79301	Fire/EMS	Off	154400000	NFM		8									
+C-Group	CGroupId=45595	CountyId=2004	Grand Forks County - Grand Forks (City)	Off	47.925257	-97.032855	6.0	Circle	
+C-Freq	CFreqId=184837	CGroupId=45595	Altru EMS	Off	151220000	NFM	NAC=218	4									
+C-Freq	CFreqId=184840	CGroupId=45595	Altru Hospital ER	Off	155265000	NFM		12									
+C-Freq	CFreqId=184512	CGroupId=45595	Fire Dispatch	Off	153890000	NFM	NAC=218	3									
+C-Freq	CFreqId=184841	CGroupId=45595	Fire Tac 1	Off	155730000	NFM	NAC=218	8									
+C-Freq	CFreqId=184838	CGroupId=45595	Police 1	Off	155565000	NFM	NAC=218	2									
+C-Freq	CFreqId=184839	CGroupId=45595	Police 2 - Animal Control/Parking	Off	155070000	NFM	NAC=218	2									
+C-Freq	CFreqId=192609	CGroupId=45595	Police 3 - Tac/Events	Off	155130000	NFM	NAC=218	7									
+C-Freq	CFreqId=315580	CGroupId=45595	Public Schools	Off	152427500	NFM		32									
+C-Group	CGroupId=6478	CountyId=2004	Grand Forks County - Grand Forks (County)	Off	47.941655	-97.433696	30.0	Circle	
+C-Freq	CFreqId=123328	CGroupId=6478	County Fire Dispatch	Off	451050000	NFM		3									
+C-Freq	CFreqId=25239	CGroupId=6478	County Fire Paging	Off	453900000	NFM		3									
+C-Freq	CFreqId=123327	CGroupId=6478	Countywide Emergancy Paging	Off	154235000	NFM		29									
+C-Freq	CFreqId=104457	CGroupId=6478	EMS Paging	Off	462975000	NFM		4									
+C-Freq	CFreqId=104758	CGroupId=6478	Local Governments	Off	155040000	NFM		14									
+C-Freq	CFreqId=262999	CGroupId=6478	Sheriff	Off	155505000	NFM	NAC=293	2									
+C-Freq	CFreqId=27935	CGroupId=6478	Sheriff - Grand Forks	Off	155985000	NFM	TONE=C192.8	2									
+C-Freq	CFreqId=104757	CGroupId=6478	Sheriff - Larimore	Off	155985000	NFM	TONE=C192.8	2									
+C-Freq	CFreqId=25238	CGroupId=6478	Sheriff Dispatch (FMN)	Off	155685000	NFM	TONE=C192.8	2									
+C-Freq	CFreqId=261927	CGroupId=6478	Sheriff Dispatch (P25)	Off	155685000	NFM	NAC=293	2									
+C-Group	CGroupId=53827	CountyId=2004	Grand Forks County - University of North Dakota	Off	47.925723	-97.077654	1.0	Circle	
+C-Freq	CFreqId=327120	CGroupId=53827	Chester Fritz Auditorium OPS	Off	467462500	AUTO	NAC=Srch	32									
+C-Freq	CFreqId=222983	CGroupId=53827	Facilities	Off	155175000	NFM		32									
+C-Freq	CFreqId=222984	CGroupId=53827	Mowing / Snow Removal	Off	158805000	NFM	TONE=D114	32									
+C-Freq	CFreqId=222982	CGroupId=53827	Parking Enforcement	Off	152450000	NFM	TONE=D132	32									
+C-Freq	CFreqId=192610	CGroupId=53827	Police	Off	154355000	NFM	NAC=218	2									
+C-Freq	CFreqId=326716	CGroupId=53827	Shuttle Bus	Off	152337500	NFM	TONE=D114	32									
+C-Group	CGroupId=65261	CountyId=2004	Grand Forks County Amateur Radio - Repeaters	Off	47.941655	-97.433696	30.0	Circle	
+C-Freq	CFreqId=269742	CGroupId=65261	Grand Forks	Off	146940000	FM		13									
+C-Freq	CFreqId=269743	CGroupId=65261	Grand Forks	Off	147030000	FM		13									
+Conventional	CountyId=2005	StateId=38	Grant	Off		Conventional								
+AreaState	CountyId=2005	StateId=38
+AreaCounty	CountyId=2005	CountyId=2005
+C-Group	CGroupId=22027	CountyId=2005	Grant County	Off	46.352784	-101.636530	35.0	Circle	
+C-Freq	CFreqId=80998	CGroupId=22027	County  Operations	Off	155115000	NFM		14									
+C-Freq	CFreqId=158531	CGroupId=22027	Elgin - New Leipzig Public School	Off	155280000	NFM		32									
+C-Freq	CFreqId=158532	CGroupId=22027	New Leipzig Ambulance Service	Off	155355000	NFM		4									
+C-Freq	CFreqId=80996	CGroupId=22027	Sheriff	Off	151460000	NFM		2									
+Conventional	CountyId=2006	StateId=38	Griggs	Off		Conventional								
+AreaState	CountyId=2006	StateId=38
+AreaCounty	CountyId=2006	CountyId=2006
+C-Group	CGroupId=20734	CountyId=2006	Griggs County	Off	47.484420	-98.224869	22.0	Circle	
+C-Freq	CFreqId=278710	CGroupId=20734	Cooperstown EMS	Off	154785000	NFM	TONE=C127.3	4									
+C-Freq	CFreqId=76049	CGroupId=20734	Road Dept. / School Busses	Off	155100000	NFM	TONE=C131.8	14									
+C-Freq	CFreqId=76048	CGroupId=20734	Sheriff's Dept.	Off	159150000	NFM	TONE=C110.9	2									
+Conventional	CountyId=2007	StateId=38	Hettinger	Off		Conventional								
+AreaState	CountyId=2007	StateId=38
+AreaCounty	CountyId=2007	CountyId=2007
+C-Group	CGroupId=21867	CountyId=2007	Hettinger County	Off	46.436115	-102.433775	27.0	Circle	
+C-Freq	CFreqId=79914	CGroupId=21867	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=79911	CGroupId=21867	Sheriff / Roads / Busses	Off	155760000	NFM		14									
+C-Group	CGroupId=78281	CountyId=2007	Hettinger County - New England	Off	46.538103	-102.862463	4.0	Circle	
+C-Freq	CFreqId=334654	CGroupId=78281	EMS	Off	460525000	NFM		4									
+C-Freq	CFreqId=293625	CGroupId=78281	Schools	Off	153462500	NFM		32									
+Conventional	CountyId=2008	StateId=38	Kidder	Off		Conventional								
+AreaState	CountyId=2008	StateId=38
+AreaCounty	CountyId=2008	CountyId=2008
+C-Group	CGroupId=21868	CountyId=2008	Kidder County	Off	46.958319	-99.750384	31.0	Circle	
+C-Freq	CFreqId=294311	CGroupId=21868	BEK Communications Cooperative	Off	451350000	NFM		34									
+C-Freq	CFreqId=79913	CGroupId=21868	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=79912	CGroupId=21868	Sheriff / Roads / Busses	Off	155760000	NFM		14									
+Conventional	CountyId=2009	StateId=38	LaMoure	Off		Conventional								
+AreaState	CountyId=2009	StateId=38
+AreaCounty	CountyId=2009	CountyId=2009
+C-Group	CGroupId=21342	CountyId=2009	La Moure County	Off	46.447195	-98.567041	29.0	Circle	
+C-Freq	CFreqId=78011	CGroupId=21342	Road Dept. / Busses / Fire	Off	155115000	NFM		14									
+C-Freq	CFreqId=78010	CGroupId=21342	Sheriff's Dept.	Off	151010000	NFM	TONE=C103.5	1									
+Conventional	CountyId=2010	StateId=38	Logan	Off		Conventional								
+AreaState	CountyId=2010	StateId=38
+AreaCounty	CountyId=2010	CountyId=2010
+C-Group	CGroupId=21869	CountyId=2010	Logan County	Off	46.461086	-99.447610	25.0	Circle	
+C-Freq	CFreqId=79917	CGroupId=21869	Gackle  Streeter  School	Off	158850000	NFM	TONE=C107.2	32									
+C-Freq	CFreqId=79918	CGroupId=21869	Gackle Fire	Off	154160000	NFM		8									
+C-Freq	CFreqId=79916	CGroupId=21869	Napoleon Police	Off	153845000	NFM		2									
+C-Freq	CFreqId=79919	CGroupId=21869	Sheriff / Roads / Busses	Off	154980000	NFM		14									
+C-Freq	CFreqId=79915	CGroupId=21869	Sheriff Dispatch	Off	151460000	NFM		2									
+Conventional	CountyId=2011	StateId=38	McHenry	Off		Conventional								
+AreaState	CountyId=2011	StateId=38
+AreaCounty	CountyId=2011	CountyId=2011
+C-Group	CGroupId=21870	CountyId=2011	McHenry County	Off	48.250005	-100.625416	35.0	Circle	
+C-Freq	CFreqId=79923	CGroupId=21870	Anamoose Fire	Off	155940000	NFM		8									
+C-Freq	CFreqId=79922	CGroupId=21870	Roads / Busses	Off	155115000	NFM		14									
+C-Freq	CFreqId=243655	CGroupId=21870	Sheriff's Dept.	Off	151460000	NFM	TONE=C192.8	2									
+C-Freq	CFreqId=79921	CGroupId=21870	Sheriff's Dept.	Off	154995000	NFM	TONE=C192.8	2									
+C-Freq	CFreqId=138558	CGroupId=21870	Sheriff's Dept. Dispatch 4	Off	154995000	NFM	NAC=Srch	2									
+C-Freq	CFreqId=243865	CGroupId=21870	Sheriff's Dept. Dispatch 4	Off	154995000	NFM	TONE=C192.8	2									
+C-Freq	CFreqId=79924	CGroupId=21870	Velva City Ops	Off	155055000	NFM		14									
+C-Freq	CFreqId=79925	CGroupId=21870	Velva Fire	Off	154190000	NFM		3									
+Conventional	CountyId=2012	StateId=38	McIntosh	Off		Conventional								
+AreaState	CountyId=2012	StateId=38
+AreaCounty	CountyId=2012	CountyId=2012
+C-Group	CGroupId=21871	CountyId=2012	McIntosh County	Off	46.108307	-99.425392	25.0	Circle	
+C-Freq	CFreqId=278883	CGroupId=21871	Ashley Ambulance Service	Off	155400000	NFM		9									
+C-Freq	CFreqId=79926	CGroupId=21871	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=79927	CGroupId=21871	Sheriff / Roads / Busses	Off	155040000	NFM	NAC=413	14									
+Conventional	CountyId=2013	StateId=38	McKenzie	Off		Conventional								
+AreaState	CountyId=2013	StateId=38
+AreaCounty	CountyId=2013	CountyId=2013
+C-Group	CGroupId=21872	CountyId=2013	McKenzie County	Off	47.708350	-103.447694	45.0	Circle	
+C-Freq	CFreqId=326385	CGroupId=21872	Fire/EMS	Off	154250000	NFM		3									
+C-Freq	CFreqId=317019	CGroupId=21872	Fire/EMS	Off	159285000	NFM	NAC=299	3									
+C-Freq	CFreqId=79931	CGroupId=21872	Roads / Busses	Off	154115000	NFM		14									
+C-Freq	CFreqId=311552	CGroupId=21872	Sheriff	Off	155190000	NFM	NAC=299	2									
+C-Group	CGroupId=79113	CountyId=2013	McKenzie County - Alexander	Off	47.843076	-103.642698	5.0	Circle	
+C-Freq	CFreqId=272300	CGroupId=79113	Alexander EMS	Off	155700000	NFM		9									
+C-Group	CGroupId=79112	CountyId=2013	McKenzie County - Watford City	Off	47.802241	-103.283247	5.0	Circle	
+C-Freq	CFreqId=339863	CGroupId=79112	Events Center	Off	152405000	NFM		14									
+C-Freq	CFreqId=79930	CGroupId=79112	Police	Off	158790000	NFM		2									
+Conventional	CountyId=2014	StateId=38	McLean	Off		Conventional								
+AreaState	CountyId=2014	StateId=38
+AreaCounty	CountyId=2014	CountyId=2014
+C-Group	CGroupId=22184	CountyId=2014	McLean County	Off	47.499885	-101.467438	50.0	Circle	
+C-Freq	CFreqId=158119	CGroupId=22184	EMS X 4	Off	155895000	NFM	TONE=C103.5	1									
+C-Freq	CFreqId=149928	CGroupId=22184	Garrison Memorial Hospital	Off	155280000	NFM		12									
+C-Freq	CFreqId=272417	CGroupId=22184	Garrison Public Works	Off	452862500	NFM		14									
+C-Freq	CFreqId=272418	CGroupId=22184	Mclean County Civil Defence	Off	155820000	NFM		29									
+C-Freq	CFreqId=163679	CGroupId=22184	Mclean Electric Cooperative Inc	Off	153710000	NFM		34									
+C-Freq	CFreqId=258038	CGroupId=22184	Mclean So - Dispatch	Off	151205000	NFM	TONE=C100.0	1									
+C-Freq	CFreqId=177852	CGroupId=22184	Mclean So - Encrypted	Off	151205000	NFM	NAC=256	1									
+C-Freq	CFreqId=272416	CGroupId=22184	Riverdale Public Works	Off	154040000	NFM		14									
+C-Freq	CFreqId=158124	CGroupId=22184	Road Maintenance	Off	155955000	NFM	TONE=C167.9	6									
+C-Freq	CFreqId=158123	CGroupId=22184	SO - FIRE - EMS  Car To Car	Off	155895000	NFM		6									
+C-Freq	CFreqId=149923	CGroupId=22184	Underwood Fire Dept.	Off	155550000	NFM	TONE=C167.9	8									
+C-Freq	CFreqId=149926	CGroupId=22184	Washburn Public Works	Off	158745000	NFM		14									
+C-Group	CGroupId=66016	CountyId=2014	McLean County - Businesses	Off	47.499885	-101.467438	50.0	Circle	
+C-Freq	CFreqId=272422	CGroupId=66016	Blue Flint Ethanol Ch1	Off	462187500	FM		17									
+C-Freq	CFreqId=272423	CGroupId=66016	Blue Flint Ethanol Ch2	Off	468575000	FM		17									
+C-Freq	CFreqId=272424	CGroupId=66016	Blue Flint Ethanol Ch3	Off	468725000	FM		17									
+C-Freq	CFreqId=272425	CGroupId=66016	Blue Flint Ethanol Ch4	Off	468825000	FM		17									
+C-Freq	CFreqId=294325	CGroupId=66016	DMVW Railroad	Off	160770000	NFM		20									
+C-Freq	CFreqId=274356	CGroupId=66016	Falkirk Mining - CH 1 MAIN REPEATER	Off	452025000	FM	TONE=C123.0	17									
+C-Freq	CFreqId=274365	CGroupId=66016	Falkirk Mining - CH 10 Fleet 1	Off	451987500	FM	TONE=C103.5	17									
+C-Freq	CFreqId=274366	CGroupId=66016	Falkirk Mining - CH 11 Fleet 2	Off	452125000	FM	TONE=C110.9	17									
+C-Freq	CFreqId=274367	CGroupId=66016	Falkirk Mining - CH 12 Dragline 3	Off	452250000	FM	TONE=C151.4	17									
+C-Freq	CFreqId=274368	CGroupId=66016	Falkirk Mining - CH 13 Dragline 4	Off	452350000	FM	TONE=C156.7	17									
+C-Freq	CFreqId=274369	CGroupId=66016	Falkirk Mining - CH 14 Electrician	Off	452625000	FM	TONE=C162.2	17									
+C-Freq	CFreqId=274370	CGroupId=66016	Falkirk Mining - CH 15 Special Use 1	Off	452725000	FM	TONE=C167.9	17									
+C-Freq	CFreqId=274371	CGroupId=66016	Falkirk Mining - CH 16 Special Use 2	Off	452750000	FM	TONE=C173.8	17									
+C-Freq	CFreqId=274357	CGroupId=66016	Falkirk Mining - CH 2 MAIN TALK 1	Off	452025000	FM	TONE=C123.0	17									
+C-Freq	CFreqId=274358	CGroupId=66016	Falkirk Mining - CH 3 Dragline 1	Off	457225000	FM	TONE=C136.5	17									
+C-Freq	CFreqId=274359	CGroupId=66016	Falkirk Mining - CH 4 Dragline 2	Off	452225000	FM	TONE=C118.8	17									
+C-Freq	CFreqId=274360	CGroupId=66016	Falkirk Mining - CH 5 Dragline 3	Off	451375000	FM	TONE=C127.3	17									
+C-Freq	CFreqId=274361	CGroupId=66016	Falkirk Mining - CH 6 L & H REPEATER	Off	452462500	FM	TONE=C146.2	17									
+C-Freq	CFreqId=274362	CGroupId=66016	Falkirk Mining - CH 7 L & H TALK 6	Off	452462500	FM	TONE=C146.2	17									
+C-Freq	CFreqId=274363	CGroupId=66016	Falkirk Mining - CH 8 Rec Repeater	Off	452675000	FM	TONE=C131.8	17									
+C-Freq	CFreqId=274364	CGroupId=66016	Falkirk Mining - CH 9 Rec Talk 8	Off	452675000	FM	TONE=C131.8	17									
+C-Freq	CFreqId=272431	CGroupId=66016	Farden Construction	Off	463500000	FM		17									
+C-Freq	CFreqId=272432	CGroupId=66016	Farden Construction	Off	468500000	FM		17									
+C-Freq	CFreqId=272421	CGroupId=66016	Farmers Union oil Company	Off	151835000	FM		17									
+C-Freq	CFreqId=272450	CGroupId=66016	Fpl Energy Burleigh County Wind, LLC	Off	462325000	FM		17									
+C-Freq	CFreqId=272451	CGroupId=66016	Fpl Energy Burleigh County Wind, LLC	Off	463975000	FM		17									
+C-Freq	CFreqId=272452	CGroupId=66016	Fpl Energy Burleigh County Wind, LLC	Off	463975000	FM		17									
+C-Freq	CFreqId=272419	CGroupId=66016	Garrison Farm Union Elev	Off	452500000	FM		17									
+C-Freq	CFreqId=272420	CGroupId=66016	Lagge Farms INC	Off	152405000	FM		17									
+C-Freq	CFreqId=272434	CGroupId=66016	Le Roys Circle INC	Off	462100000	FM		17									
+C-Freq	CFreqId=272435	CGroupId=66016	Le Roys Circle INC	Off	467100000	FM		17									
+C-Freq	CFreqId=272429	CGroupId=66016	Max Farm Services	Off	464175000	FM		17									
+C-Freq	CFreqId=272430	CGroupId=66016	Max Farm Services	Off	469175000	FM		17									
+C-Freq	CFreqId=272433	CGroupId=66016	Max Farmers Elevator	Off	466175000	FM		17									
+C-Freq	CFreqId=272426	CGroupId=66016	Mclean Sheriden Joint Water	Off	457150000	FM		17									
+C-Freq	CFreqId=272427	CGroupId=66016	Mclean Sheriden Joint Water	Off	460600000	FM		17									
+C-Freq	CFreqId=287883	CGroupId=66016	Third Watch Communications CH6 DES-OFB Encrypted	Off	151625000	NFM	TONE=C186.2	17									
+C-Freq	CFreqId=287884	CGroupId=66016	Third Watch Communications CH7 DES-OFB Encrypted	Off	151760000	NFM	NAC=C3E	17									
+C-Freq	CFreqId=287885	CGroupId=66016	Third Watch Communications CH8 DES-OFB Encrypted	Off	151512500	NFM	NAC=C9D	17									
+C-Freq	CFreqId=272428	CGroupId=66016	Turtle Lake Farmers Union Oil	Off	153005000	FM		17									
+C-Freq	CFreqId=272449	CGroupId=66016	Wiltion Cenex Oil Compnay	Off	151005000	FM		17									
+Conventional	CountyId=2015	StateId=38	Mercer	Off		Conventional								
+AreaState	CountyId=2015	StateId=38
+AreaCounty	CountyId=2015	CountyId=2015
+C-Group	CGroupId=21885	CountyId=2015	Mercer County	Off	47.350006	-101.861559	30.0	Circle	
+C-Freq	CFreqId=150491	CGroupId=21885	Beulah City of	Off	158775000	NFM		14									
+C-Freq	CFreqId=150483	CGroupId=21885	Beulah City OF	Off	155640000	NFM		7									
+C-Freq	CFreqId=150485	CGroupId=21885	Beulah High School	Off	155220000	NFM		32									
+C-Freq	CFreqId=272457	CGroupId=21885	County Highway Dept.	Off	151010000	NFM		14									
+C-Freq	CFreqId=150488	CGroupId=21885	Hazen City of	Off	155865000	NFM		14									
+C-Freq	CFreqId=150489	CGroupId=21885	Hazen City of	Off	155940000	NFM		14									
+C-Freq	CFreqId=150487	CGroupId=21885	Hazen Public School	Off	155235000	NFM		32									
+C-Freq	CFreqId=79983	CGroupId=21885	Roads / Busses	Off	155100000	NFM		14									
+C-Freq	CFreqId=79982	CGroupId=21885	Sheriff's Dept. / Encrypted	Off	154830000	NFM	NAC=293	2									
+C-Freq	CFreqId=177853	CGroupId=21885	Sheriff's Dept. / Encrypted	Off	154830000	NFM	NAC=293	2									
+C-Group	CGroupId=66017	CountyId=2015	Mercer County - Businesses	Off	47.350006	-101.861559	30.0	Circle	
+C-Freq	CFreqId=272476	CGroupId=66017	COTEAU Porperties Company	Off	451475000	FM		17									
+C-Freq	CFreqId=272475	CGroupId=66017	COTEAU Porperties Company	Off	451625000	FM		17									
+C-Freq	CFreqId=272477	CGroupId=66017	COTEAU Porperties Company	Off	451925000	FM		17									
+C-Freq	CFreqId=272478	CGroupId=66017	COTEAU Porperties Company	Off	452000000	FM		17									
+C-Freq	CFreqId=272479	CGroupId=66017	COTEAU Porperties Company	Off	452025000	FM		17									
+C-Freq	CFreqId=272467	CGroupId=66017	COTEAU Porperties Company	Off	452275000	FM	TONE=D116	17									
+C-Freq	CFreqId=272474	CGroupId=66017	COTEAU Porperties Company	Off	456475000	FM		17									
+C-Freq	CFreqId=272473	CGroupId=66017	COTEAU Porperties Company	Off	456625000	FM		17									
+C-Freq	CFreqId=272466	CGroupId=66017	COTEAU Porperties Company	Off	456775000	FM	TONE=C67.0	17									
+C-Freq	CFreqId=272472	CGroupId=66017	COTEAU Porperties Company	Off	456925000	FM		17									
+C-Freq	CFreqId=272480	CGroupId=66017	COTEAU Porperties Company	Off	456925000	FM		17									
+C-Freq	CFreqId=272481	CGroupId=66017	COTEAU Porperties Company	Off	457000000	FM		17									
+C-Freq	CFreqId=272482	CGroupId=66017	COTEAU Porperties Company	Off	457025000	FM		17									
+C-Freq	CFreqId=272468	CGroupId=66017	COTEAU Porperties Company	Off	458000000	FM	TONE=C167.9	17									
+C-Freq	CFreqId=272469	CGroupId=66017	COTEAU Porperties Company	Off	461612500	NFM	TONE=C123.0	17									
+C-Freq	CFreqId=272470	CGroupId=66017	COTEAU Porperties Company	Off	464100000	FM	TONE=D343	17									
+C-Freq	CFreqId=272471	CGroupId=66017	COTEAU Porperties Company	Off	467050000	FM		17									
+C-Freq	CFreqId=272484	CGroupId=66017	Dakota Gasifiction	Off	153050000	FM		17									
+C-Freq	CFreqId=272490	CGroupId=66017	Dakota Gasifiction	Off	153110000	FM		17									
+C-Freq	CFreqId=272486	CGroupId=66017	Dakota Gasifiction	Off	153125000	FM		17									
+C-Freq	CFreqId=272491	CGroupId=66017	Dakota Gasifiction	Off	153140000	FM		17									
+C-Freq	CFreqId=272487	CGroupId=66017	Dakota Gasifiction	Off	153245000	FM		17									
+C-Freq	CFreqId=272488	CGroupId=66017	Dakota Gasifiction	Off	153325000	FM		17									
+C-Freq	CFreqId=272489	CGroupId=66017	Dakota Gasifiction	Off	451287500	NFM		17									
+C-Freq	CFreqId=272485	CGroupId=66017	Dakota Gasifiction	Off	457100000	FM	TONE=D255	17									
+C-Freq	CFreqId=272483	CGroupId=66017	Dakota Gasifiction	Off	462800000	FM		17									
+C-Freq	CFreqId=272458	CGroupId=66017	Dakota Roughrider eletric coop	Off	153515000	FM	TONE=C67.0	17									
+C-Freq	CFreqId=272459	CGroupId=66017	Dakota Roughrider eletric coop	Off	158145000	FM	TONE=C123.0	17									
+C-Freq	CFreqId=272460	CGroupId=66017	Dakota Roughrider eletric coop	Off	158190000	FM		17									
+C-Freq	CFreqId=272465	CGroupId=66017	Dakota Westmoreland	Off	461225000	FM		17									
+C-Freq	CFreqId=272464	CGroupId=66017	Dakota Westmoreland	Off	463337500	NFM		17									
+C-Freq	CFreqId=272463	CGroupId=66017	Hazen Pubic Schools	Off	467212500	NFM		17									
+C-Freq	CFreqId=327121	CGroupId=66017	Knife River Corp - Beulah	Off	160200000	NFM	TONE=D612	17									
+C-Freq	CFreqId=272461	CGroupId=66017	West River Telephone coop	Off	462475000	FM	TONE=D116	17									
+C-Freq	CFreqId=272462	CGroupId=66017	West River Telephone coop	Off	462475000	FM		17									
+Conventional	CountyId=2016	StateId=38	Morton	Off		Conventional								
+AreaState	CountyId=2016	StateId=38
+AreaCounty	CountyId=2016	CountyId=2016
+C-Group	CGroupId=22146	CountyId=2016	Morton County	Off	46.767460	-101.286163	42.0	Circle	
+C-Freq	CFreqId=81446	CGroupId=22146	County Fire Departments X3	Off	155625000	NFM	TONE=C162.2	3									
+C-Freq	CFreqId=288117	CGroupId=22146	County LGR	Off	155820000	NFM	TONE=C127.3	14									
+C-Freq	CFreqId=105401	CGroupId=22146	County Services	Off	154115000	NFM	TONE=C131.8	14									
+C-Freq	CFreqId=288119	CGroupId=22146	MORTON JAIL	Off	155370000	NFM	TONE=C136.5	37									
+C-Freq	CFreqId=81445	CGroupId=22146	Sheriff's Dept X 3 Encrypted	Off	155310000	NFM	NAC=500	2									
+C-Freq	CFreqId=288115	CGroupId=22146	Sheriff's Tac 2 often Encrypted	Off	158895000	NFM	NAC=600	7									
+C-Group	CGroupId=39952	CountyId=2016	Morton County - Businesses	Off	46.767460	-101.286163	42.0	Circle	
+C-Freq	CFreqId=159366	CGroupId=39952	Cenex Asphalt	Off	464375000	FM		17									
+C-Freq	CFreqId=159367	CGroupId=39952	Cloverdale Foods Co.	Off	462275000	FM		17									
+C-Freq	CFreqId=159363	CGroupId=39952	Dacotah Speedway	Off	460887500	FM		17									
+C-Freq	CFreqId=159365	CGroupId=39952	R & F Hauling	Off	463750000	FM		17									
+C-Freq	CFreqId=195038	CGroupId=39952	Tesoro Refinery	Off	451487500	FM	TONE=C131.8	17									
+C-Freq	CFreqId=159364	CGroupId=39952	Tesoro Refinery	Off	451550000	FM		17									
+C-Freq	CFreqId=159368	CGroupId=39952	Twin City Roofing Inc	Off	464975000	FM		17									
+C-Group	CGroupId=22147	CountyId=2016	Morton County - Mandan	Off	46.767460	-101.286163	42.0	Circle	
+C-Freq	CFreqId=327147	CGroupId=22147	Fire Department Channel 3 - Encrypted	Off	153890000	NFM	NAC=Srch	8									
+C-Freq	CFreqId=289165	CGroupId=22147	Mandan FD 1 - Encrypted	Off	159292500	NFM	NAC=373	3									
+C-Freq	CFreqId=289166	CGroupId=22147	Mandan FD 2 Pagers only	Off	154445000	NFM	TONE=C173.8	3									
+C-Freq	CFreqId=289167	CGroupId=22147	Mandan FD Fireround - Encrypted	Off	154445000	NFM	TONE=C173.8	8									
+C-Freq	CFreqId=310741	CGroupId=22147	MANDAN MUNICIPAL AIRPORT AUTHORITY - Encrypted	Off	453662500	NFM		14									
+C-Freq	CFreqId=289163	CGroupId=22147	Mandan PD 1 - Encrypted	Off	158730000	NFM	NAC=800	2									
+C-Freq	CFreqId=289164	CGroupId=22147	Mandan PD 2 - Encrypted	Off	155250000	NFM	NAC=293	7									
+C-Freq	CFreqId=105399	CGroupId=22147	Parks - Encrypted	Off	151160000	NFM	TONE=C131.8	14									
+C-Freq	CFreqId=81451	CGroupId=22147	Public Works - Encrypted	Off	158782500	NFM		14									
+C-Group	CGroupId=45646	CountyId=2016	Morton County - Railroads	Off	46.767460	-101.286163	42.0	Circle	
+C-Freq	CFreqId=197187	CGroupId=45646	BNSF Carmen/Car Shop CH #11	Off	160275000	NFM		20									
+C-Freq	CFreqId=184919	CGroupId=45646	BNSF Dispatcher - Dispatching Center	Off	161125000	NFM		20									
+C-Freq	CFreqId=195861	CGroupId=45646	BNSF Mandan MRAS	Off	161130000	NFM		20									
+C-Freq	CFreqId=184916	CGroupId=45646	BNSF Mandan Yard	Off	160410000	NFM		20									
+C-Freq	CFreqId=184918	CGroupId=45646	BNSF Road East - Mandan to Fargo	Off	160695000	NFM		20									
+C-Freq	CFreqId=184917	CGroupId=45646	BNSF Road West - Mandan to Glendive	Off	161415000	NFM		20									
+C-Freq	CFreqId=196198	CGroupId=45646	Dakota Missouri Valley & Western RR	Off	161265000	NFM		20									
+Conventional	CountyId=2017	StateId=38	Mountrail	Off		Conventional								
+AreaState	CountyId=2017	StateId=38
+AreaCounty	CountyId=2017	CountyId=2017
+C-Group	CGroupId=22185	CountyId=2017	Mountrail County	Off	48.219461	-102.331005	30.0	Circle	
+C-Freq	CFreqId=272405	CGroupId=22185	Mountrial County Medical Center	Off	155385000	NFM		12									
+C-Freq	CFreqId=272406	CGroupId=22185	Mountrial County Medical Center	Off	163250000	NFM		12									
+C-Freq	CFreqId=272409	CGroupId=22185	Parshall School Dist 3	Off	155205000	NFM		32									
+C-Freq	CFreqId=81558	CGroupId=22185	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=81559	CGroupId=22185	Sheriff Dispatch / County Services	Off	155145000	NFM	TONE=C127.3	1									
+C-Freq	CFreqId=269853	CGroupId=22185	Sheriff Dispatch / County Services	Off	155145000	NFM	NAC=195	1									
+C-Group	CGroupId=39729	CountyId=2017	Mountrail County - New Town	Off	47.976869	-102.489477	3.0	Circle	
+C-Freq	CFreqId=322551	CGroupId=39729	Police 4 - Secure	Off	155055000	NFM	NAC=421	7									
+C-Group	CGroupId=75978	CountyId=2017	Mountrail County - Parshall	Off	47.950294	-102.127917	5.0	Circle	
+C-Freq	CFreqId=272408	CGroupId=75978	EMS	Off	155235000	NFM		9									
+C-Group	CGroupId=73364	CountyId=2017	Mountrail County - Stanley	Off	48.318602	-102.379614	3.0	Circle	
+C-Freq	CFreqId=307298	CGroupId=73364	Airport Authority	Off	460500000	NFM		14									
+C-Freq	CFreqId=272403	CGroupId=73364	District 2 Schools	Off	155295000	NFM		32									
+C-Freq	CFreqId=307297	CGroupId=73364	Fire 1 - Dispatch	Off	153822500	NFM		3									
+C-Freq	CFreqId=272400	CGroupId=73364	Fire 2 - Fireground	Off	46100000	FM		8									
+C-Freq	CFreqId=310162	CGroupId=73364	Pubic Works	Off	159135000	NFM		14									
+C-Freq	CFreqId=272401	CGroupId=73364	Pubic Works 1	Off	453825000	NFM		14									
+C-Freq	CFreqId=272402	CGroupId=73364	Pubic Works 2	Off	458825000	NFM		14									
+C-Group	CGroupId=65265	CountyId=2017	Mountrail County Amateur Radio - Repeaters	Off	48.219461	-102.331005	35.0	Circle	
+C-Freq	CFreqId=269747	CGroupId=65265	K0WSN - Stanley	Off	146610000	FM		13									
+Conventional	CountyId=2018	StateId=38	Nelson	Off		Conventional								
+AreaState	CountyId=2018	StateId=38
+AreaCounty	CountyId=2018	CountyId=2018
+C-Group	CGroupId=22392	CountyId=2018	Nelson County	Off	47.941663	-98.183712	25.0	Circle	
+C-Freq	CFreqId=82323	CGroupId=22392	Aneta Fire	Off	154340000	NFM	TONE=C141.3	8									
+C-Freq	CFreqId=82322	CGroupId=22392	County Services / Road Dept.	Off	154980000	NFM		14									
+C-Freq	CFreqId=82321	CGroupId=22392	Lake Region E-911 (Lakota)	Off	159090000	NFM		1									
+C-Freq	CFreqId=82320	CGroupId=22392	Lake Region E-911 (Petersburg)	Off	159090000	NFM	TONE=C186.2	1									
+C-Freq	CFreqId=82319	CGroupId=22392	Lake Region E-911 (Tolna)	Off	159090000	NFM	TONE=C210.7	1									
+C-Freq	CFreqId=82324	CGroupId=22392	McVille Fire	Off	154430000	NFM		8									
+C-Freq	CFreqId=323242	CGroupId=22392	MINNKOTA PWR - PETERSBURG	Off	153185000	NFM	TONE=C110.9	34									
+C-Freq	CFreqId=82318	CGroupId=22392	Sheriff's Dept.	Off	151460000	NFM		2									
+Conventional	CountyId=2019	StateId=38	Oliver	Off		Conventional								
+AreaState	CountyId=2019	StateId=38
+AreaCounty	CountyId=2019	CountyId=2019
+C-Group	CGroupId=65264	CountyId=2019	Amateur Radio	Off	47.105552	-101.303205	24.0	Circle	
+C-Freq	CFreqId=269746	CGroupId=65264	W0ZRT - Hannover	Off	145430000	FM		13									
+C-Group	CGroupId=22446	CountyId=2019	Oliver County	Off	47.105552	-101.303205	24.0	Circle	
+C-Freq	CFreqId=163101	CGroupId=22446	Center Police	Off	154800000	NFM		7									
+C-Freq	CFreqId=163100	CGroupId=22446	Center Public Works	Off	158835000	NFM		14									
+C-Freq	CFreqId=82516	CGroupId=22446	County Ambulsnce Service	Off	155220000	NFM		9									
+C-Freq	CFreqId=82514	CGroupId=22446	County Fire	Off	154235000	NFM		8									
+C-Freq	CFreqId=82515	CGroupId=22446	Roads / County Services / Busses	Off	155040000	NFM		14									
+C-Freq	CFreqId=82513	CGroupId=22446	Sheriff's Dept. CH 1	Off	151460000	NFM	TONE=C192.8	2									
+C-Freq	CFreqId=273463	CGroupId=22446	Sheriff's Dept. CH 4	Off	154175000	NFM	TONE=C179.9	2									
+C-Group	CGroupId=65993	CountyId=2019	Oliver County - Businesses	Off	47.105552	-101.303205	24.0	Circle	
+C-Freq	CFreqId=272296	CGroupId=65993	BNI Coal LTD	Off	173337500	FM		17									
+C-Freq	CFreqId=272297	CGroupId=65993	BNI Coal LTD	Off	451300000	FM		17									
+C-Freq	CFreqId=272294	CGroupId=65993	BNI Coal LTD	Off	451875000	FM	TONE=C123.0	17									
+C-Freq	CFreqId=272295	CGroupId=65993	BNI Coal LTD	Off	451975000	FM	TONE=C192.8	17									
+C-Freq	CFreqId=272298	CGroupId=65993	BNI Coal LTD	Off	456300000	FM		17									
+C-Freq	CFreqId=272291	CGroupId=65993	BNI Coal LTD	Off	457000000	FM		17									
+C-Freq	CFreqId=272292	CGroupId=65993	BNI Coal LTD	Off	457175000	FM		17									
+C-Freq	CFreqId=272293	CGroupId=65993	BNI Coal LTD	Off	457500000	FM		17									
+Conventional	CountyId=2020	StateId=38	Pembina	Off		Conventional								
+AreaState	CountyId=2020	StateId=38
+AreaCounty	CountyId=2020	CountyId=2020
+C-Group	CGroupId=22447	CountyId=2020	Pembina County	Off	48.773086	-97.551956	25.0	Circle	
+C-Freq	CFreqId=82520	CGroupId=22447	Cavalier Fire Dept.	Off	154415000	NFM		8									
+C-Freq	CFreqId=82522	CGroupId=22447	Drayton Ambulance	Off	155265000	NFM		4									
+C-Freq	CFreqId=323240	CGroupId=22447	MINNKOTA PWR - DRAYTON	Off	152952500	NFM	TONE=C151.4	34									
+C-Freq	CFreqId=326044	CGroupId=22447	Mobile Repeaters	Off	457875000	NFM		7									
+C-Freq	CFreqId=325839	CGroupId=22447	Pembina County Memorial Hospital - PCMH	Off	155175000	NFM		12									
+C-Freq	CFreqId=82521	CGroupId=22447	Pembina Fire Dept.	Off	154385000	NFM		8									
+C-Freq	CFreqId=82519	CGroupId=22447	Roads / Busses / County Services	Off	155115000	NFM	TONE=C107.2	14									
+C-Freq	CFreqId=82517	CGroupId=22447	Sheriff / Fire / EMS / Paging X 4	Off	159000000	NFM	TONE=C88.5	1									
+C-Freq	CFreqId=326045	CGroupId=22447	Sheriff Analog	Off	151460000	NFM	TONE=C192.8	7									
+C-Freq	CFreqId=82518	CGroupId=22447	Sheriff Digital	Off	151460000	NFM	NAC=788	7									
+Conventional	CountyId=2021	StateId=38	Pierce	Off		Conventional								
+AreaState	CountyId=2021	StateId=38
+AreaCounty	CountyId=2021	CountyId=2021
+C-Group	CGroupId=22448	CountyId=2021	Pierce County	Off	48.275000	-100.036523	32.0	Circle	
+C-Freq	CFreqId=163118	CGroupId=22448	Good Samaritan Hospital	Off	155175000	NFM		12									
+C-Freq	CFreqId=163119	CGroupId=22448	Good Samaritan Hospital	Off	155340000	NFM		12									
+C-Freq	CFreqId=163116	CGroupId=22448	Good Samaritan Hospital	Off	461375000	NFM		12									
+C-Freq	CFreqId=163114	CGroupId=22448	North Center Correctional & Rehab Center	Off	159157500	NFM		37									
+C-Freq	CFreqId=163110	CGroupId=22448	Rugby City of	Off	154115000	NFM		14									
+C-Freq	CFreqId=163111	CGroupId=22448	Rugby City of	Off	467375000	NFM		14									
+C-Freq	CFreqId=163112	CGroupId=22448	Rugby Fire Dept.	Off	154340000	NFM		8									
+C-Freq	CFreqId=163115	CGroupId=22448	Rugby School District 5	Off	155160000	NFM		32									
+C-Freq	CFreqId=82523	CGroupId=22448	Sheriff	Off	151460000	NFM	TONE=C192.8	2									
+C-Freq	CFreqId=82524	CGroupId=22448	Sheriff Dispatch / County Services	Off	155820000	NFM		1									
+Conventional	CountyId=2022	StateId=38	Ramsey	Off		Conventional								
+AreaState	CountyId=2022	StateId=38
+AreaCounty	CountyId=2022	CountyId=2022
+C-Group	CGroupId=65263	CountyId=2022	Amateur Radio	Off	48.233337	-98.733729	30.0	Circle	
+C-Freq	CFreqId=269745	CGroupId=65263	WD0FFQ - Devils Lake	Off	146880000	NFM		13									
+C-Group	CGroupId=22150	CountyId=2022	Ramsey County	Off	48.233337	-98.733729	30.0	Circle	
+C-Freq	CFreqId=81464	CGroupId=22150	Lake Region E-911 (Edmore)	Off	159090000	NFM		1									
+C-Freq	CFreqId=81463	CGroupId=22150	Lake Region E-911 (Webster)	Off	159090000	NFM	TONE=C192.8	1									
+C-Freq	CFreqId=81462	CGroupId=22150	Sheriffs Dept.	Off	151460000	NFM	TONE=C192.8	2									
+C-Group	CGroupId=22151	CountyId=2022	Ramsey County - Devils Lake	Off	48.233337	-98.733729	30.0	Circle	
+C-Freq	CFreqId=81466	CGroupId=22151	City Fire	Off	154385000	NFM	TONE=C107.2	3									
+C-Freq	CFreqId=81465	CGroupId=22151	Police	Off	155010000	NFM	TONE=C107.2	2									
+C-Freq	CFreqId=81467	CGroupId=22151	Rural Fire	Off	154250000	NFM	TONE=C141.3	3									
+C-Freq	CFreqId=274462	CGroupId=22151	School Bus Ops. and ommunity Evacuations.	Off	37980000	NFM		26									
+Conventional	CountyId=2023	StateId=38	Ransom	Off		Conventional								
+AreaState	CountyId=2023	StateId=38
+AreaCounty	CountyId=2023	CountyId=2023
+C-Group	CGroupId=21341	CountyId=2023	Ransom County	Off	46.474968	-97.636486	23.0	Circle	
+C-Freq	CFreqId=78008	CGroupId=21341	Enderlin Fire	Off	154160000	NFM		8									
+C-Freq	CFreqId=78009	CGroupId=21341	Lisbon Fire	Off	154325000	NFM		8									
+C-Freq	CFreqId=323244	CGroupId=21341	MINNKOTA PWR - LISBON	Off	153455000	NFM	TONE=C103.5	34									
+C-Freq	CFreqId=78007	CGroupId=21341	Road Dept. / Busses	Off	155820000	NFM	TONE=C67.0	14									
+C-Freq	CFreqId=131354	CGroupId=21341	Sheriff	Off	155820000	NFM	NAC=54	1									
+C-Freq	CFreqId=202235	CGroupId=21341	Sheriff	Off	155895000	NFM	TONE=C192.8	2									
+C-Freq	CFreqId=202236	CGroupId=21341	Sheriff	Off	155895000	NFM	NAC=54	2									
+Conventional	CountyId=2024	StateId=38	Renville	Off		Conventional								
+AreaState	CountyId=2024	StateId=38
+AreaCounty	CountyId=2024	CountyId=2024
+C-Group	CGroupId=22457	CountyId=2024	Renville County	Off	48.727801	-101.675440	35.0	Circle	
+C-Freq	CFreqId=324543	CGroupId=22457	Glenburn Public School District	Off	155175000	NFM		32									
+C-Freq	CFreqId=324544	CGroupId=22457	Glenburn Rural Fire Dept.	Off	154295000	NFM		8									
+C-Freq	CFreqId=82557	CGroupId=22457	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=82558	CGroupId=22457	Sheriff / Roads / County Services	Off	154980000	NFM		14									
+C-Freq	CFreqId=324541	CGroupId=22457	Sheriff Digital	Off	158805000	NFM	NAC=312	2									
+C-Freq	CFreqId=324542	CGroupId=22457	Sheriff, Fire & EMS	Off	158805000	NFM	TONE=C88.5	1									
+Conventional	CountyId=2025	StateId=38	Richland	Off		Conventional								
+AreaState	CountyId=2025	StateId=38
+AreaCounty	CountyId=2025	CountyId=2025
+C-Group	CGroupId=65218	CountyId=2025	Amateur Radio	Off	46.298876	-96.726837	36.0	Circle	
+C-Freq	CFreqId=269583	CGroupId=65218	TRARC - Wahpeton - UHF	Off	443800000	FM		13									
+C-Freq	CFreqId=269582	CGroupId=65218	TRARC - Wahpeton - VHF	Off	147375000	FM		13									
+C-Group	CGroupId=11315	CountyId=2025	Richland County	Off	46.298876	-96.726837	36.0	Circle	
+C-Freq	CFreqId=278844	CGroupId=11315	County Jail	Off	154845000	NFM		37									
+C-Freq	CFreqId=323245	CGroupId=11315	MINNKOTA PWR - COLFAX	Off	153537500	NFM	TONE=C82.5	34									
+C-Freq	CFreqId=43443	CGroupId=11315	Richland Co SO	Off	151460000	NFM	NAC=788	2									
+C-Freq	CFreqId=71738	CGroupId=11315	Richland Co SO - Barney Rptr	Off	154980000	NFM	TONE=C167.9	1									
+C-Freq	CFreqId=278846	CGroupId=11315	Richland Co SO - Barney Rptr DIG	Off	154980000	NFM	NAC=167	1									
+C-Freq	CFreqId=69494	CGroupId=11315	Richland Co SO - Colfax Rptr	Off	155190000	NFM	TONE=C82.5	1									
+C-Freq	CFreqId=202267	CGroupId=11315	Richland Co SO - Colfax Rptr DIG.	Off	155190000	NFM	NAC=18	1									
+C-Freq	CFreqId=69495	CGroupId=11315	Richland Co SO - Lidgerwood Rptr	Off	151220000	NFM	TONE=C88.5	1									
+C-Freq	CFreqId=282471	CGroupId=11315	Richland School District - 44 Colfax - Abercrombie	Off	155640000	NFM		32									
+C-Group	CGroupId=65992	CountyId=2025	Richland County - Abercrombie	Off	46.298876	-96.726837	36.0	Circle	
+C-Freq	CFreqId=272289	CGroupId=65992	Abercrombie Fire Protection District	Off	155685000	NFM	TONE=C103.5	8									
+C-Freq	CFreqId=302817	CGroupId=65992	Richland County School District #44	Off	155640000	NFM	TONE=C74.4	32									
+C-Group	CGroupId=72630	CountyId=2025	Richland County - Businesses	Off	46.298876	-96.726837	36.0	Circle	
+C-Freq	CFreqId=302816	CGroupId=72630	Min Dak Sugar Beet Company, Wahpeton	Off	151655000	NFM	TONE=D624	17									
+C-Freq	CFreqId=302815	CGroupId=72630	Min-Dak Sugar Beet Company, Wahpeton	Off	153080000	NFM	TONE=D703	17									
+C-Group	CGroupId=25932	CountyId=2025	Richland County - Dakota Magic Casino	Off	46.298876	-96.726837	36.0	Circle	
+C-Freq	CFreqId=95027	CGroupId=25932	Casino	Off	157575000	NFM		17									
+C-Freq	CFreqId=95029	CGroupId=25932	Casino	Off	157635000	NFM		17									
+C-Freq	CFreqId=95030	CGroupId=25932	Casino	Off	157665000	NFM		17									
+C-Freq	CFreqId=95028	CGroupId=25932	Maint.	Off	157605000	NFM	TONE=D047	17									
+C-Freq	CFreqId=95031	CGroupId=25932	Security	Off	157680000	NFM	TONE=D114	33									
+C-Freq	CFreqId=95026	CGroupId=25932	Security Main	Off	153005000	NFM	TONE=D114	33									
+C-Group	CGroupId=18902	CountyId=2025	Richland County - Dwight	Off	46.298876	-96.726837	36.0	Circle	
+C-Freq	CFreqId=68949	CGroupId=18902	Fire Department Dispatch	Off	154355000	NFM	TONE=C91.5	8									
+C-Group	CGroupId=31713	CountyId=2025	Richland County - Fairmount	Off	46.298876	-96.726837	36.0	Circle	
+C-Freq	CFreqId=124207	CGroupId=31713	Fire Dept.	Off	154130000	NFM	TONE=C100.0	8									
+C-Group	CGroupId=19625	CountyId=2025	Richland County - Great Bend	Off	46.298876	-96.726837	36.0	Circle	
+C-Freq	CFreqId=71724	CGroupId=19625	Fire Department Main	Off	154400000	NFM	TONE=C151.4	8									
+C-Group	CGroupId=12120	CountyId=2025	Richland County - Hankinson	Off	46.298876	-96.726837	36.0	Circle	
+C-Freq	CFreqId=68950	CGroupId=12120	Fire Ground	Off	155265000	NFM	TONE=C100.0	8									
+C-Freq	CFreqId=45866	CGroupId=12120	Public Safety (Police, Fire, EMS Dispatch) Analog	Off	158850000	NFM	TONE=C127.3	1									
+C-Freq	CFreqId=284552	CGroupId=12120	Public Safety (Police, Fire, EMS Dispatch) Digital	Off	158850000	NFM	NAC=41	1									
+C-Group	CGroupId=31711	CountyId=2025	Richland County - Mantador	Off	46.298876	-96.726837	36.0	Circle	
+C-Freq	CFreqId=124206	CGroupId=31711	Fire Dept.	Off	154145000	NFM	TONE=C179.9	8									
+C-Group	CGroupId=11316	CountyId=2025	Richland County - Wahpeton	Off	46.298876	-96.726837	36.0	Circle	
+C-Freq	CFreqId=69496	CGroupId=11316	Fire Department Main	Off	154235000	NFM	TONE=C110.9	3									
+C-Freq	CFreqId=302819	CGroupId=11316	Wahpeton Police Dept.	Off	155145000	NFM	TONE=C110.9	2									
+C-Freq	CFreqId=43444	CGroupId=11316	Wahpeton Police Dept. - DIG	Off	155145000	NFM	NAC=75	2									
+C-Freq	CFreqId=302818	CGroupId=11316	Wahpeton School	Off	155295000	NFM	NAC=37	32									
+C-Group	CGroupId=19626	CountyId=2025	Richland County - Wyndmere	Off	46.298876	-96.726837	36.0	Circle	
+C-Freq	CFreqId=71725	CGroupId=19626	Fire Department Main	Off	155865000	NFM		8									
+Conventional	CountyId=2026	StateId=38	Rolette	Off		Conventional								
+AreaState	CountyId=2026	StateId=38
+AreaCounty	CountyId=2026	CountyId=2026
+C-Group	CGroupId=22458	CountyId=2026	Rolette County	Off	48.783336	-99.814313	23.0	Circle	
+C-Freq	CFreqId=82562	CGroupId=22458	Roads / Busses / County Services	Off	155040000	NFM		14									
+C-Freq	CFreqId=82561	CGroupId=22458	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=82560	CGroupId=22458	Sheriff	Off	155865000	NFM	TONE=C192.8	1									
+C-Freq	CFreqId=138557	CGroupId=22458	Sheriff	Off	155865000	NFM	NAC=293	1									
+C-Freq	CFreqId=82563	CGroupId=22458	St. John Fire Dept.	Off	154385000	NFM		8									
+C-Freq	CFreqId=82564	CGroupId=22458	Turtle Mountain Reservation PD	Off	154785000	NFM	TONE=C74.4	2									
+Conventional	CountyId=2027	StateId=38	Sargent	Off		Conventional								
+AreaState	CountyId=2027	StateId=38
+AreaCounty	CountyId=2027	CountyId=2027
+C-Group	CGroupId=14403	CountyId=2027	Sargent County	Off	46.099964	-97.625375	23.0	Circle	
+C-Freq	CFreqId=278845	CGroupId=14403	Forman Fire Department	Off	155527500	NFM		8									
+C-Freq	CFreqId=53659	CGroupId=14403	Sheriff - Fire - EMS Dispatch	Off	155025000	NFM	TONE=C110.9	1									
+Conventional	CountyId=2028	StateId=38	Sheridan	Off		Conventional								
+AreaState	CountyId=2028	StateId=38
+AreaCounty	CountyId=2028	CountyId=2028
+C-Group	CGroupId=22459	CountyId=2028	Sheridan County	Off	47.566664	-100.317073	23.0	Circle	
+C-Freq	CFreqId=82566	CGroupId=22459	Sheriff / County Services	Off	154980000	NFM		6									
+C-Freq	CFreqId=82565	CGroupId=22459	Sheriff Dispatch	Off	151460000	NFM	NAC=788	2									
+C-Group	CGroupId=81943	CountyId=2028	Sheridan County - Goodrich	Off	47.474995	-100.126235	3.0	Circle	
+C-Freq	CFreqId=82567	CGroupId=81943	Fire	Off	154145000	NFM		8									
+C-Group	CGroupId=81942	CountyId=2028	Sheridan County - McClusky	Off	47.485831	-100.443184	3.0	Circle	
+C-Freq	CFreqId=283491	CGroupId=81942	EMS	Off	155715000	NFM	TONE=C67.0	9									
+C-Freq	CFreqId=82568	CGroupId=81942	Fire	Off	154295000	NFM		8									
+Conventional	CountyId=2029	StateId=38	Sioux	Off		Conventional								
+AreaState	CountyId=2029	StateId=38
+AreaCounty	CountyId=2029	CountyId=2029
+C-Group	CGroupId=22460	CountyId=2029	Sioux County	Off	46.127825	-101.187286	42.0	Circle	
+C-Freq	CFreqId=82569	CGroupId=22460	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=322850	CGroupId=22460	Sheriff	Off	155715000	NFM		2									
+C-Group	CGroupId=81407	CountyId=2029	Sioux County - Selfridge	Off	46.041389	-100.925130	3.0	Circle	
+C-Freq	CFreqId=258024	CGroupId=81407	Schools	Off	155175000	NFM		32									
+Conventional	CountyId=2030	StateId=38	Slope	Off		Conventional								
+AreaState	CountyId=2030	StateId=38
+AreaCounty	CountyId=2030	CountyId=2030
+C-Group	CGroupId=22461	CountyId=2030	Slope County	Off	46.388898	-103.386572	35.0	Circle	
+C-Freq	CFreqId=82573	CGroupId=22461	County Services	Off	155820000	NFM		14									
+C-Freq	CFreqId=82574	CGroupId=22461	County Services	Off	155955000	NFM		14									
+C-Freq	CFreqId=278044	CGroupId=22461	MARMARTH AMBULANCE/FIRE DISPATCH	Off	155055000	NFM		4									
+C-Freq	CFreqId=82572	CGroupId=22461	Sheriff Dispatch	Off	151460000	NFM		2									
+Conventional	CountyId=2031	StateId=38	Stark	Off		Conventional								
+AreaState	CountyId=2031	StateId=38
+AreaCounty	CountyId=2031	CountyId=2031
+C-Group	CGroupId=22529	CountyId=2031	Stark County	Off	46.811118	-102.692123	31.0	Circle	
+C-Freq	CFreqId=82834	CGroupId=22529	County Fire	Off	154415000	NFM		3									
+C-Freq	CFreqId=82835	CGroupId=22529	Roads / County Services	Off	154980000	NFM		14									
+C-Freq	CFreqId=82833	CGroupId=22529	Sheriff	Off	159000000	NFM		7									
+C-Freq	CFreqId=265223	CGroupId=22529	Sheriff - Mobile Repeaters	Off	173337500	NFM		7									
+C-Freq	CFreqId=82831	CGroupId=22529	Sheriff FMN	Off	155685000	NFM	TONE=C192.8	2									
+C-Freq	CFreqId=264896	CGroupId=22529	Sheriff P25	Off	155685000	NFM	NAC=192	2									
+C-Freq	CFreqId=82836	CGroupId=22529	Southwest Multi-County Correction Center 1	Off	155535000	NFM	TONE=C179.9	37									
+C-Freq	CFreqId=264897	CGroupId=22529	Southwest Multi-County Correction Center 2	Off	154040000	NFM	TONE=C179.9	37									
+C-Group	CGroupId=78629	CountyId=2031	Stark County - Belfield	Off	46.886815	-103.198096	2.0	Circle	
+C-Freq	CFreqId=302126	CGroupId=78629	Police	Off	154437500	NFM		2									
+C-Group	CGroupId=22530	CountyId=2031	Stark County - Dickinson	Off	46.875551	-102.786108	5.0	Circle	
+C-Freq	CFreqId=311554	CGroupId=22530	Dickinson State University	Off	453100000	NFM	TONE=D265	32									
+C-Freq	CFreqId=235452	CGroupId=22530	EMS	Off	154355000	NFM	TONE=C192.8	4									
+C-Freq	CFreqId=258036	CGroupId=22530	Fire - City	Off	154725000	NFM		3									
+C-Freq	CFreqId=274811	CGroupId=22530	Fire - Rural	Off	154197500	NFM		3									
+C-Freq	CFreqId=82839	CGroupId=22530	Police	Off	155025000	NFM	NAC=293	2									
+C-Freq	CFreqId=327118	CGroupId=22530	Public Schools	Off	159892500	AUTO	ColorCode=1	32									
+C-Freq	CFreqId=254456	CGroupId=22530	Public Transit	Off	154100000	NFM		26									
+C-Freq	CFreqId=318281	CGroupId=22530	Public Works	Off	151295000	NFM		14									
+C-Freq	CFreqId=82838	CGroupId=22530	Public Works	Off	453550000	NFM	TONE=C192.8	14									
+C-Freq	CFreqId=309967	CGroupId=22530	St Josephs Hosptial	Off	151160000	NFM		12									
+C-Freq	CFreqId=309968	CGroupId=22530	St Josephs Hosptial	Off	155295000	NFM		12									
+C-Group	CGroupId=78621	CountyId=2031	Stark County - Richardton	Off	46.883061	-102.313696	5.0	Circle	
+C-Freq	CFreqId=337052	CGroupId=78621	Richardton Rural Fire Protection District	Off	154137500	NFM		3									
+C-Group	CGroupId=64596	CountyId=2031	Stark County Amateur Radio - Repeaters	Off	46.811118	-102.692123	31.0	Circle	
+C-Freq	CFreqId=267678	CGroupId=64596	Dickinson - Theodore Roosevelt Amateur Radio Club	Off	146820000	FM		13									
+Conventional	CountyId=2032	StateId=38	Steele	Off		Conventional								
+AreaState	CountyId=2032	StateId=38
+AreaCounty	CountyId=2032	CountyId=2032
+C-Group	CGroupId=20735	CountyId=2032	Steele County	Off	47.473282	-97.705765	20.0	Circle	
+C-Freq	CFreqId=76052	CGroupId=20735	Finley Ambulance Service	Off	154025000	NFM	TONE=C123.0	4									
+C-Freq	CFreqId=283484	CGroupId=20735	Finley Sharon School District	Off	155295000	NFM		32									
+C-Freq	CFreqId=283481	CGroupId=20735	Hope FIre Protection District	Off	154385000	NFM	TONE=C123.0	3									
+C-Freq	CFreqId=323241	CGroupId=20735	MINNKOTA PWR - FINLEY	Off	153132500	NFM	TONE=C114.8	34									
+C-Freq	CFreqId=76051	CGroupId=20735	Road Dept. / School Busses	Off	155145000	NFM		14									
+C-Freq	CFreqId=76050	CGroupId=20735	Sheriff's Office	Off	158790000	NFM	TONE=C192.8	2									
+C-Freq	CFreqId=202277	CGroupId=20735	Sheriff's Office - Digital	Off	158790000	NFM	NAC=293	2									
+Conventional	CountyId=2033	StateId=38	Stutsman	Off		Conventional								
+AreaState	CountyId=2033	StateId=38
+AreaCounty	CountyId=2033	CountyId=2033
+C-Group	CGroupId=65212	CountyId=2033	Amateur Radio	Off	47.012723	-98.982239	37.0	Circle	
+C-Freq	CFreqId=269571	CGroupId=65212	Jamestown - N0HNM - UHF	Off	444250000	FM		13									
+C-Freq	CFreqId=269570	CGroupId=65212	Jamestown - W0FX - VHF	Off	147180000	FM		13									
+C-Freq	CFreqId=269572	CGroupId=65212	Jamestown - WB0TWN - UHF	Off	444925000	FM		13									
+C-Group	CGroupId=19470	CountyId=2033	Stutsman County	Off	47.012723	-98.982239	37.0	Circle	
+C-Freq	CFreqId=150407	CGroupId=19470	County Services	Off	153965000	NFM		14									
+C-Freq	CFreqId=150408	CGroupId=19470	County Services and Buses	Off	154100000	NFM	TONE=C192.8	14									
+C-Freq	CFreqId=150404	CGroupId=19470	Fire / EMS / County Services	Off	154055000	NFM	TONE=C192.8	6									
+C-Freq	CFreqId=46594	CGroupId=19470	Sheriff	Off	155655000	NFM	TONE=C156.7	2									
+C-Freq	CFreqId=150406	CGroupId=19470	Sheriff	Off	155655000	NFM	NAC=156	2									
+C-Group	CGroupId=19469	CountyId=2033	Stutsman County - Jamestown	Off	47.012723	-98.982239	37.0	Circle	
+C-Freq	CFreqId=46592	CGroupId=19469	911 Dispatch	Off	155550000	NFM	TONE=C192.8	1									
+C-Freq	CFreqId=265041	CGroupId=19469	911 Dispatch	Off	155550000	NFM	NAC=293	1									
+C-Freq	CFreqId=150411	CGroupId=19469	Airport	Off	453775000	NFM		14									
+C-Freq	CFreqId=150409	CGroupId=19469	City Services	Off	154965000	NFM		14									
+C-Freq	CFreqId=150410	CGroupId=19469	City Services	Off	155055000	NFM		14									
+C-Freq	CFreqId=150412	CGroupId=19469	City Services	Off	155085000	NFM		14									
+C-Freq	CFreqId=71095	CGroupId=19469	EMS	Off	155400000	NFM		9									
+C-Freq	CFreqId=46593	CGroupId=19469	Fire	Off	153860000	NFM	TONE=C192.8	8									
+Conventional	CountyId=2034	StateId=38	Towner	Off		Conventional								
+AreaState	CountyId=2034	StateId=38
+AreaCounty	CountyId=2034	CountyId=2034
+C-Group	CGroupId=22462	CountyId=2034	Towner County	Off	48.683338	-99.200416	29.0	Circle	
+C-Freq	CFreqId=82577	CGroupId=22462	County Services	Off	154980000	NFM		14									
+C-Freq	CFreqId=82576	CGroupId=22462	Lake Region E-911	Off	159090000	NFM		1									
+C-Freq	CFreqId=82575	CGroupId=22462	Sheriff	Off	151460000	NFM		2									
+Conventional	CountyId=2035	StateId=38	Traill	Off		Conventional								
+AreaState	CountyId=2035	StateId=38
+AreaCounty	CountyId=2035	CountyId=2035
+C-Group	CGroupId=20731	CountyId=2035	Traill County	Off	47.444426	-97.167033	22.0	Circle	
+C-Freq	CFreqId=325710	CGroupId=20731	F-M Ambulance Service - Hillsboro	Off	153522500	NFM	TONE=C146.2	4									
+C-Freq	CFreqId=110478	CGroupId=20731	Hatton Fire	Off	154445000	NFM		8									
+C-Freq	CFreqId=283485	CGroupId=20731	Hatton FIre Department	Off	156120000	NFM		8									
+C-Freq	CFreqId=110481	CGroupId=20731	Hillsboro Fire	Off	155865000	NFM		8									
+C-Freq	CFreqId=110479	CGroupId=20731	Hillsboro Med. Center	Off	155295000	NFM		12									
+C-Freq	CFreqId=283487	CGroupId=20731	Mayport CG School District	Off	155160000	NFM		32									
+C-Freq	CFreqId=110477	CGroupId=20731	Mayville Hospital	Off	155355000	NFM	TONE=C210.7	12									
+C-Freq	CFreqId=323247	CGroupId=20731	Minnkota Power - Hillsboro	Off	153590000	NFM	TONE=C107.2	34									
+C-Freq	CFreqId=76013	CGroupId=20731	Road Dept. - School Busses	Off	154980000	NFM	NAC=103	14									
+C-Freq	CFreqId=76010	CGroupId=20731	Sheriff's Office Analog	Off	155700000	NFM	TONE=C192.8	1									
+C-Freq	CFreqId=247836	CGroupId=20731	Sheriff's Office Digital	Off	155700000	NFM	NAC=293	1									
+C-Freq	CFreqId=289393	CGroupId=20731	Sheriff's Office Digital - Hillsboro	Off	159007500	NFM	NAC=293	1									
+C-Freq	CFreqId=283486	CGroupId=20731	West Trail Ambulance	Off	155212500	NFM		9									
+Conventional	CountyId=2036	StateId=38	Walsh	Off		Conventional								
+AreaState	CountyId=2036	StateId=38
+AreaCounty	CountyId=2036	CountyId=2036
+C-Group	CGroupId=22531	CountyId=2036	Walsh County	Off	48.366659	-97.692032	33.0	Circle	
+C-Freq	CFreqId=82842	CGroupId=22531	County Services	Off	155820000	NFM	NAC=455	14									
+C-Freq	CFreqId=82844	CGroupId=22531	Fairdale Fire Dept.	Off	154220000	NFM		8									
+C-Freq	CFreqId=82845	CGroupId=22531	Grafton Police	Off	154845000	NFM	TONE=C192.8	7									
+C-Freq	CFreqId=82846	CGroupId=22531	Hoople Fire Dept.	Off	154070000	NFM		8									
+C-Freq	CFreqId=82841	CGroupId=22531	Paging EMS/Fire - County Services	Off	155055000	NFM		1									
+C-Freq	CFreqId=82847	CGroupId=22531	Park River Fire Dept.	Off	158865000	NFM		8									
+C-Freq	CFreqId=82843	CGroupId=22531	Sheriff	Off	151460000	NFM		2									
+C-Freq	CFreqId=327146	CGroupId=22531	Valley Ambulance Service - Grafton	Off	155280000	NFM		9									
+Conventional	CountyId=2037	StateId=38	Ward	Off		Conventional								
+AreaState	CountyId=2037	StateId=38
+AreaCounty	CountyId=2037	CountyId=2037
+C-Group	CGroupId=63050	CountyId=2037	Minot State University - University Operations	Off	48.248413	-101.301512	0.5	Circle	
+C-Freq	CFreqId=261211	CGroupId=63050	University 1	Off	452312500	NFM		32									
+C-Freq	CFreqId=261212	CGroupId=63050	University 2	Off	452512500	NFM		32									
+C-Freq	CFreqId=261213	CGroupId=63050	University 3	Off	452837500	NFM		32									
+C-Freq	CFreqId=261214	CGroupId=63050	University 4	Off	457312500	NFM		32									
+C-Freq	CFreqId=261215	CGroupId=63050	University 5	Off	457837500	NFM		32									
+C-Group	CGroupId=22148	CountyId=2037	Ward County	Off	48.216676	-101.458776	53.0	Circle	
+C-Freq	CFreqId=91261	CGroupId=22148	County Jail	Off	158850000	NFM	TONE=C123.0	37									
+C-Freq	CFreqId=322132	CGroupId=22148	Court House Security	Off	154055000	NFM		33									
+C-Freq	CFreqId=81457	CGroupId=22148	Fire/EMS Dispatch	Off	155625000	NFM	TONE=C192.8	3									
+C-Freq	CFreqId=287886	CGroupId=22148	Public Works	Off	156075000	NFM		14									
+C-Freq	CFreqId=81458	CGroupId=22148	Road Dept	Off	151010000	NFM	TONE=C192.8	14									
+C-Freq	CFreqId=315700	CGroupId=22148	Sheriff 10 - Ryder	Off	154385000	NFM	NAC=200	2									
+C-Freq	CFreqId=315701	CGroupId=22148	Sheriff 11 - Sawyer	Off	150995000	NFM	NAC=200	2									
+C-Freq	CFreqId=315702	CGroupId=22148	Sheriff 12 - Donnybrook	Off	151445000	NFM	NAC=200	2									
+C-Freq	CFreqId=177932	CGroupId=22148	Sheriff 15	Off	158730000	NFM	TONE=C151.4	8									
+C-Freq	CFreqId=315697	CGroupId=22148	Sheriff 7 - Minot	Off	155040000	NFM	NAC=200	2									
+C-Freq	CFreqId=315698	CGroupId=22148	Sheriff 8 - Berthold	Off	159457500	NFM	NAC=200	2									
+C-Freq	CFreqId=315699	CGroupId=22148	Sheriff 9 - Kenmare	Off	158782500	NFM	NAC=200	2									
+C-Group	CGroupId=79504	CountyId=2037	Ward County - Berthold	Off	48.313069	-101.737108	5.0	Circle	
+C-Freq	CFreqId=283634	CGroupId=79504	Emergency Services	Off	155880000	NFM	TONE=D466	1									
+C-Freq	CFreqId=163733	CGroupId=79504	Schools	Off	155265000	NFM		32									
+C-Group	CGroupId=79505	CountyId=2037	Ward County - Burlington	Off	48.275288	-101.428775	5.0	Circle	
+C-Freq	CFreqId=136471	CGroupId=79505	Fire Dispatch	Off	154370000	NFM	TONE=D116	3									
+C-Freq	CFreqId=151223	CGroupId=79505	Fireground	Off	158790000	NFM	NAC=293	8									
+C-Freq	CFreqId=301803	CGroupId=79505	Police	Off	458887500	NFM		7									
+C-Group	CGroupId=79508	CountyId=2037	Ward County - Des Lacs	Off	48.257788	-101.563498	5.0	Circle	
+C-Freq	CFreqId=286927	CGroupId=79508	Fire	Off	154152500	NFM	TONE=D723	3									
+C-Group	CGroupId=79506	CountyId=2037	Ward County - Kenmare	Off	48.674748	-102.082664	5.0	Circle	
+C-Freq	CFreqId=162700	CGroupId=79506	City Services	Off	154025000	NFM		14									
+C-Freq	CFreqId=162699	CGroupId=79506	Kenmare Community Hospital	Off	155340000	NFM		12									
+C-Group	CGroupId=22149	CountyId=2037	Ward County - Minot	Off	48.232510	-101.296273	5.0	Circle	
+C-Freq	CFreqId=286926	CGroupId=22149	Battalion Fireground	Off	153995000	FM		8									
+C-Freq	CFreqId=136470	CGroupId=22149	EMS	Off	155400000	FM	TONE=C88.5	4									
+C-Freq	CFreqId=149954	CGroupId=22149	Fire Dispatch	Off	154445000	FM	TONE=C146.2	3									
+C-Freq	CFreqId=81461	CGroupId=22149	Fire Rural	Off	154235000	FM	TONE=C146.2	3									
+C-Freq	CFreqId=170516	CGroupId=22149	Fire Tac 2	Off	156210000	FM	TONE=C123.0	8									
+C-Freq	CFreqId=149955	CGroupId=22149	Fireground	Off	153890000	FM	TONE=C146.2	8									
+C-Freq	CFreqId=170517	CGroupId=22149	Fireground	Off	158760000	FM		8									
+C-Freq	CFreqId=149956	CGroupId=22149	Minot City of	Off	457225000	FM		14									
+C-Freq	CFreqId=214770	CGroupId=22149	ND Port Auth.  Minot	Off	152337500	NFM	TONE=C100.0	26									
+C-Freq	CFreqId=149959	CGroupId=22149	Parks	Off	453200000	FM		14									
+C-Freq	CFreqId=256659	CGroupId=22149	Police 4	Off	155790000	NFM	NAC=100	2									
+C-Freq	CFreqId=149953	CGroupId=22149	Police 5	Off	154740000	NFM	NAC=140	7									
+C-Freq	CFreqId=287887	CGroupId=22149	Police 6	Off	460062500	FM		7									
+C-Freq	CFreqId=287888	CGroupId=22149	Police 7	Off	465062500	FM		7									
+C-Freq	CFreqId=287889	CGroupId=22149	Police 8	Off	457225000	FM		7									
+C-Freq	CFreqId=140095	CGroupId=22149	Public Works / City Bus	Off	154100000	FM		14									
+C-Freq	CFreqId=158118	CGroupId=22149	Schools	Off	155025000	FM		32									
+C-Group	CGroupId=79510	CountyId=2037	Ward County - Ryder	Off	47.917508	-101.677943	5.0	Circle	
+C-Freq	CFreqId=279170	CGroupId=79510	Fire	Off	154325000	NFM		3									
+C-Group	CGroupId=79509	CountyId=2037	Ward County - Surrey	Off	48.236400	-101.133490	5.0	Circle	
+C-Freq	CFreqId=158321	CGroupId=79509	Fire	Off	154280000	NFM		8									
+C-Freq	CFreqId=158320	CGroupId=79509	Schools	Off	155280000	NFM		32									
+C-Group	CGroupId=65217	CountyId=2037	Ward County Amateur Radio - Repeaters	Off	48.216676	-101.458776	53.0	Circle	
+C-Freq	CFreqId=269579	CGroupId=65217	Minot - SVARC	Off	53410000	FM		13									
+C-Freq	CFreqId=269574	CGroupId=65217	Minot - SVARC	Off	146970000	FM		13									
+C-Freq	CFreqId=269575	CGroupId=65217	Minot - SVARC	Off	147270000	FM		13									
+C-Freq	CFreqId=269576	CGroupId=65217	Minot - SVARC	Off	442300000	FM		13									
+C-Freq	CFreqId=269577	CGroupId=65217	Minot - SVARC	Off	444400000	FM		13									
+C-Freq	CFreqId=269578	CGroupId=65217	Minot - SVARC	Off	444800000	FM		13									
+Conventional	CountyId=2038	StateId=38	Wells	Off		Conventional								
+AreaState	CountyId=2038	StateId=38
+AreaCounty	CountyId=2038	CountyId=2038
+C-Group	CGroupId=22617	CountyId=2038	Wells County	Off	47.597223	-99.650399	27.0	Circle	
+C-Freq	CFreqId=83326	CGroupId=22617	County Services	Off	155100000	NFM		14									
+C-Freq	CFreqId=83327	CGroupId=22617	County Services	Off	155865000	NFM		14									
+C-Freq	CFreqId=83328	CGroupId=22617	Harvey Fire Dept.	Off	154415000	NFM		8									
+C-Freq	CFreqId=258034	CGroupId=22617	HARVEY Police 1	Off	153755000	NFM	TONE=C114.8	2									
+C-Freq	CFreqId=258035	CGroupId=22617	HARVEY Police 2	Off	453550000	NFM	TONE=C123.0	2									
+C-Freq	CFreqId=83325	CGroupId=22617	Sheriff	Off	151460000	NFM		2									
+Conventional	CountyId=2039	StateId=38	Williams	Off		Conventional								
+AreaState	CountyId=2039	StateId=38
+AreaCounty	CountyId=2039	CountyId=2039
+C-Group	CGroupId=65266	CountyId=2039	Willams County Amateur Radio - Repeater	Off	48.302801	-103.433801	37.0	Circle	
+C-Freq	CFreqId=269748	CGroupId=65266	Williston	Off	147210000	FM		13									
+C-Group	CGroupId=22618	CountyId=2039	Williams County	Off	48.302801	-103.433801	37.0	Circle	
+C-Freq	CFreqId=83330	CGroupId=22618	County Services	Off	155040000	NFM	NAC=572	14									
+C-Freq	CFreqId=315689	CGroupId=22618	Public Safety East	Off	154145000	NFM	TONE=D131	1									
+C-Freq	CFreqId=315688	CGroupId=22618	Public Safety North	Off	154145000	NFM	TONE=D346	1									
+C-Freq	CFreqId=315686	CGroupId=22618	Public Safety South	Off	154145000	NFM	TONE=D565	1									
+C-Freq	CFreqId=315687	CGroupId=22618	Public Safety West	Off	154145000	NFM	TONE=D226	1									
+C-Freq	CFreqId=83329	CGroupId=22618	Sheriff	Off	156210000	NFM	NAC=290	2									
+C-Group	CGroupId=81884	CountyId=2039	Williams County - Tioga	Off	48.397244	-102.938238	3.0	Circle	
+C-Freq	CFreqId=283488	CGroupId=81884	Police	Off	154995000	NFM	TONE=C123.0	7									
+C-Freq	CFreqId=315581	CGroupId=81884	Police 4	Off	155835000	NFM	NAC=290	7									
+C-Freq	CFreqId=283489	CGroupId=81884	Public Works	Off	452725000	NFM	TONE=D043	14									
+C-Freq	CFreqId=283490	CGroupId=81884	Tioga Medical Center	Off	155265000	NFM		12									
+C-Group	CGroupId=22619	CountyId=2039	Williams County - Williston	Off	48.146968	-103.617975	5.0	Circle	
+C-Freq	CFreqId=83333	CGroupId=22619	City Services	Off	155955000	NFM		14									
+C-Freq	CFreqId=83332	CGroupId=22619	Fire	Off	154040000	NFM		24									
+C-Freq	CFreqId=235456	CGroupId=22619	Fire Dispatch	Off	154160000	NFM	TONE=C146.2	3									
+C-Freq	CFreqId=235455	CGroupId=22619	Fireground	Off	154740000	NFM	TONE=C146.2	8									
+C-Freq	CFreqId=83334	CGroupId=22619	Housing Authority	Off	155880000	NFM		14									
+C-Freq	CFreqId=321891	CGroupId=22619	Landfill	Off	159090000	NFM		14									
+C-Freq	CFreqId=83331	CGroupId=22619	Police	Off	155250000	NFM	NAC=2F2	2									
+C-Freq	CFreqId=235457	CGroupId=22619	Schools	Off	155175000	NFM		32									
+Conventional	AgencyId=3791	StateId=38	Businesses	Off		Conventional								
+AreaState	AgencyId=3791	StateId=38
+AreaCounty	AgencyId=3791	CountyId=1994
+C-Group	CGroupId=36742	AgencyId=3791	Businesses	Off	46.958325	-100.461505	31.0	Circle	
+C-Freq	CFreqId=143871	CGroupId=36742	Best Western Doublewood Inn	Off	464725000	FM		17									
+C-Freq	CFreqId=143869	CGroupId=36742	Best Western Ramkota Hotel	Off	465000000	FM		17									
+C-Freq	CFreqId=308854	CGroupId=36742	Bis-Man Security Inc Secondary 2	Off	462175000	FM		17									
+C-Freq	CFreqId=151789	CGroupId=36742	Bis-Man Transit	Off	461100000	FM	TONE=C167.9	17									
+C-Freq	CFreqId=177305	CGroupId=36742	Bismarck Transition Center	Off	452050000	FM		17									
+C-Freq	CFreqId=143876	CGroupId=36742	Bismarck Tribune	Off	464925000	FM		17									
+C-Freq	CFreqId=143873	CGroupId=36742	Bismarck-Mandan Security Inc.	Off	461200000	FM		33									
+C-Freq	CFreqId=180534	CGroupId=36742	Bobcat Plant Ops Low Power No License	Off	464875000	FM		17									
+C-Freq	CFreqId=158128	CGroupId=36742	Capital Area Transit  (CAT)  City buses	Off	462450000	FM	TONE=D051	17									
+C-Freq	CFreqId=143870	CGroupId=36742	Comfort Inn & Suites	Off	462625000	FM		17									
+C-Freq	CFreqId=159383	CGroupId=36742	Cross Country Courier	Off	154515000	FM		17									
+C-Freq	CFreqId=159390	CGroupId=36742	Dakota Ready Mix	Off	451775000	FM		17									
+C-Freq	CFreqId=333389	CGroupId=36742	Dakota Zoo	Off	461300000	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=159388	CGroupId=36742	Del Mar Vending	Off	157620000	FM		17									
+C-Freq	CFreqId=150481	CGroupId=36742	Delta Airlines Ramp/Ticketing Agents	Off	460700000	FM		17									
+C-Freq	CFreqId=317101	CGroupId=36742	Electronic Communications	Off	461950000	NFM		17									
+C-Freq	CFreqId=171774	CGroupId=36742	Gateway Fashion Mall Security/Maint/Ops	Off	461487500	FM		17									
+C-Freq	CFreqId=169092	CGroupId=36742	Hot 97.5 FM  Live Remote Link	Off	161670000	FM		17									
+C-Freq	CFreqId=143874	CGroupId=36742	Kirkwood Mall Security & Maint.	Off	464575000	FM		17									
+C-Freq	CFreqId=159387	CGroupId=36742	Kirkwood Tesoro	Off	157500000	FM		17									
+C-Freq	CFreqId=317099	CGroupId=36742	Leischner Electric Inc. CH 1	Off	452175000	NFM		17									
+C-Freq	CFreqId=317100	CGroupId=36742	Leischner Electric Inc. CH 2	Off	457175000	NFM		17									
+C-Freq	CFreqId=159386	CGroupId=36742	Mariner Construction	Off	151490000	FM		17									
+C-Freq	CFreqId=159395	CGroupId=36742	Northern Improvement Inc	Off	464500000	FM		17									
+C-Freq	CFreqId=159391	CGroupId=36742	Northern Improvement Inc	Off	464550000	FM		17									
+C-Freq	CFreqId=159392	CGroupId=36742	Northern Improvement Inc	Off	469500000	FM		17									
+C-Freq	CFreqId=159393	CGroupId=36742	Northern Improvement Inc	Off	469550000	FM		17									
+C-Freq	CFreqId=314004	CGroupId=36742	Sams Club	Off	151995000	FM	TONE=C69.3	17									
+C-Freq	CFreqId=143877	CGroupId=36742	Sanford Health Systems	Off	152007500	FM		12									
+C-Freq	CFreqId=148220	CGroupId=36742	Sanford Hospital Ops	Off	463350000	FM		12									
+C-Freq	CFreqId=327703	CGroupId=36742	SANFORD LIFEFLIGHT - BISMARCK	Off	453237500	NFM	TONE=C162.2	12									
+C-Freq	CFreqId=168777	CGroupId=36742	Sanford Maintanance	Off	463812500	NFM	TONE=C192.8	12									
+C-Freq	CFreqId=151790	CGroupId=36742	Sanford Ops	Off	462250000	FM	TONE=D255	12									
+C-Freq	CFreqId=230484	CGroupId=36742	Sanford Security	Off	464662500	NFM	TONE=C186.2	33									
+C-Freq	CFreqId=317097	CGroupId=36742	Scheels CH 1 - Kirkwood Mall	Off	461787500	NFM		17									
+C-Freq	CFreqId=317098	CGroupId=36742	Scheels CH 2 - Kirkwood Mall	Off	466787500	NFM		17									
+C-Freq	CFreqId=174743	CGroupId=36742	St. Alexius Hospital Security	Off	452012500	NFM	TONE=C146.2	33									
+C-Freq	CFreqId=148215	CGroupId=36742	St. Alexius Hospital Security	Off	462950000	FM	TONE=C162.2	17									
+C-Freq	CFreqId=159531	CGroupId=36742	St. Alexius Medical Center Paging	Off	152007500	FM		17									
+C-Freq	CFreqId=159389	CGroupId=36742	Stan Pucklich Chevrolet	Off	151865000	FM		17									
+C-Freq	CFreqId=148218	CGroupId=36742	Target / Bismarck	Off	467750000	FM		17									
+C-Freq	CFreqId=148219	CGroupId=36742	Target / Bismarck	Off	467800000	FM		17									
+C-Freq	CFreqId=148216	CGroupId=36742	Target / Bismarck	Off	467925000	FM		17									
+C-Freq	CFreqId=148214	CGroupId=36742	Taxi 9000	Off	462025000	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=169093	CGroupId=36742	Traffic Safety Services	Off	463950000	FM		17									
+C-Freq	CFreqId=149211	CGroupId=36742	United / Skywest Airlines Ops. / Ramp / Gate / Counter Agents.	Off	465725000	FM		17									
+C-Freq	CFreqId=209483	CGroupId=36742	UPS Sorting Facility	Off	451362500	NFM		17									
+C-Freq	CFreqId=191514	CGroupId=36742	Walmart Supercenter South	Off	154570000	FM		17									
+C-Freq	CFreqId=159385	CGroupId=36742	Zircon Construction	Off	152930000	FM		17									
+C-Freq	CFreqId=159384	CGroupId=36742	Zircon Construction	Off	154540000	FM		17									
+Conventional	AgencyId=9475	StateId=38	Cass County Business	Off		Conventional								
+AreaState	AgencyId=9475	StateId=38
+AreaCounty	AgencyId=9475	CountyId=1995
+C-Group	CGroupId=78563	AgencyId=9475	Countywide - Media	Off	46.935430	-97.222522	30.0	Circle	
+C-Freq	CFreqId=336172	CGroupId=78563	KBVB-FM Remote Pickup	Off	450350000	NFM		31									
+C-Freq	CFreqId=336171	CGroupId=78563	KFGO News	Off	450112500	NFM	TONE=C179.9	31									
+C-Freq	CFreqId=336174	CGroupId=78563	KLTA-FM Remote Pickup	Off	455350000	NFM		31									
+C-Freq	CFreqId=336175	CGroupId=78563	KPFX-FM Remote Pickup	Off	455800000	NFM		31									
+C-Freq	CFreqId=336173	CGroupId=78563	KQWB-FM Remote Pickup	Off	455150000	NFM		31									
+C-Group	CGroupId=27623	AgencyId=9475	Fargo - Businesses	Off	46.935598	-97.216040	30.0	Circle	
+C-Freq	CFreqId=326927	CGroupId=27623	ADELMAN, SCOTT - WEST FARGO  RID 1	Off	464575000	AUTO	RAN=1	17									
+C-Freq	CFreqId=106616	CGroupId=27623	Ames Sand & Gravel	Off	158460000	FM	TONE=D251	17									
+C-Freq	CFreqId=106538	CGroupId=27623	Baasch	Off	464100000	FM		17									
+C-Freq	CFreqId=106525	CGroupId=27623	Bakko	Off	464875000	FM		17									
+C-Freq	CFreqId=106573	CGroupId=27623	Borrowed Bucks	Off	464500000	FM	TONE=C179.9	33									
+C-Freq	CFreqId=106609	CGroupId=27623	Brodshaug	Off	461100000	FM		17									
+C-Freq	CFreqId=106533	CGroupId=27623	Cable One	Off	463825000	FM	TONE=C94.8	17									
+C-Freq	CFreqId=106575	CGroupId=27623	Camas Minndak	Off	153020000	FM	TONE=C186.2	17									
+C-Freq	CFreqId=106614	CGroupId=27623	Cameron Ashley	Off	152330000	FM	TONE=D244	17									
+C-Freq	CFreqId=106622	CGroupId=27623	Cardinal Glass	Off	152930000	FM	TONE=D331	17									
+C-Freq	CFreqId=106627	CGroupId=27623	Cardinal Glass	Off	153005000	FM	TONE=D412	17									
+C-Freq	CFreqId=106523	CGroupId=27623	Cargill	Off	467250000	FM	TONE=C71.9	17									
+C-Freq	CFreqId=106620	CGroupId=27623	Case Corporation 1	Off	452075000	FM		17									
+C-Freq	CFreqId=106628	CGroupId=27623	Case Corporation 2	Off	451625000	FM		17									
+C-Freq	CFreqId=254465	CGroupId=27623	Case Corporation 27 Receiving	Off	27275000	AM		17									
+C-Freq	CFreqId=106539	CGroupId=27623	Case Corporation 3	Off	462200000	FM		33									
+C-Freq	CFreqId=106569	CGroupId=27623	Case Corporation 4	Off	462400000	AUTO	ColorCode=5	17									
+C-Freq	CFreqId=106580	CGroupId=27623	Cass Water	Off	451125000	FM		17									
+C-Freq	CFreqId=106553	CGroupId=27623	Comstock Construction	Off	464400000	FM		17									
+C-Freq	CFreqId=106589	CGroupId=27623	Crane Johnson	Off	463500000	FM		17									
+C-Freq	CFreqId=106603	CGroupId=27623	Cross Country Courier	Off	154515000	FM	TONE=D155	17									
+C-Freq	CFreqId=106621	CGroupId=27623	Dakota Fence	Off	464850000	FM		17									
+C-Freq	CFreqId=106637	CGroupId=27623	Dakota Machine	Off	153680000	FM	TONE=D703	17									
+C-Freq	CFreqId=106534	CGroupId=27623	Dans Oil & Service	Off	464950000	FM		17									
+C-Freq	CFreqId=106561	CGroupId=27623	DMI Industries 1	Off	152330000	AUTO	ColorCode=3	17									
+C-Freq	CFreqId=106583	CGroupId=27623	DMI Industries 2	Off	152315000	AUTO	ColorCode=2	17									
+C-Freq	CFreqId=327049	CGroupId=27623	DMI Industries 3	Off	152435000	AUTO	ColorCode=1	17									
+C-Freq	CFreqId=106623	CGroupId=27623	Doyle Cab	Off	152450000	FM		17									
+C-Freq	CFreqId=106624	CGroupId=27623	Doyle Cab	Off	157710000	FM		17									
+C-Freq	CFreqId=106535	CGroupId=27623	Elstad	Off	464125000	FM		17									
+C-Freq	CFreqId=106540	CGroupId=27623	Fargo Forum - SLOT 1 - TG 7	Off	151670000	AUTO	ColorCode=3	31									
+C-Freq	CFreqId=106581	CGroupId=27623	Fargo Iron & Metal	Off	151655000	FM	TONE=D023	17									
+C-Freq	CFreqId=326928	CGroupId=27623	FERGUSON ENTERPRISES - FARGO  RID 159	Off	452437500	AUTO	RAN=52	17									
+C-Freq	CFreqId=106543	CGroupId=27623	First Bank System	Off	461775000	FM		17									
+C-Freq	CFreqId=106625	CGroupId=27623	FM Red Hawks	Off	461500000	FM	TONE=D411	17									
+C-Freq	CFreqId=106528	CGroupId=27623	FM Vending	Off	464875000	FM	TONE=C85.4	17									
+C-Freq	CFreqId=106568	CGroupId=27623	Hagemeister	Off	463200000	FM	TONE=C167.9	17									
+C-Freq	CFreqId=322999	CGroupId=27623	HOLIDAY INN - FARGO - Slot 1 TG 1	Off	153012500	AUTO	ColorCode=5	17									
+C-Freq	CFreqId=106560	CGroupId=27623	Hotel Donaldson	Off	467787500	FM	TONE=C146.2	17									
+C-Freq	CFreqId=106618	CGroupId=27623	Integrity	Off	159840000	FM	TONE=D265	17									
+C-Freq	CFreqId=106631	CGroupId=27623	Jenkins	Off	461150000	FM		17									
+C-Freq	CFreqId=106559	CGroupId=27623	Jensen	Off	462675000	FM		17									
+C-Freq	CFreqId=106563	CGroupId=27623	Kindred Plumbing & Htg.	Off	464450000	FM	TONE=C162.2	17									
+C-Freq	CFreqId=106544	CGroupId=27623	Kub	Off	159555000	FM	TONE=C103.5	17									
+C-Freq	CFreqId=106548	CGroupId=27623	KXJB	Off	450287500	FM	TONE=C114.8	31									
+C-Freq	CFreqId=106549	CGroupId=27623	KXJB	Off	450412500	FM	TONE=C114.8	31									
+C-Freq	CFreqId=106617	CGroupId=27623	Lavelle Co.	Off	159660000	FM	TONE=D251	17									
+C-Freq	CFreqId=106570	CGroupId=27623	Lenzmeier Trucking	Off	460775000	FM		17									
+C-Freq	CFreqId=106565	CGroupId=27623	Lileks Oil Co.	Off	158385000	FM	TONE=C162.2	17									
+C-Freq	CFreqId=106546	CGroupId=27623	Longlet Farms	Off	451975000	FM	TONE=C107.2	17									
+C-Freq	CFreqId=106564	CGroupId=27623	Marque Dental Lab	Off	463675000	FM		17									
+C-Freq	CFreqId=106554	CGroupId=27623	Mc Intyre	Off	461500000	FM		17									
+C-Freq	CFreqId=106574	CGroupId=27623	Menards	Off	154570000	FM	TONE=C179.9	17									
+C-Freq	CFreqId=106578	CGroupId=27623	Mills Fleet Farm	Off	464500000	FM	TONE=C218.1	17									
+C-Freq	CFreqId=106596	CGroupId=27623	Morken	Off	152285000	FM	TONE=D115	17									
+C-Freq	CFreqId=106634	CGroupId=27623	Northern Improvement	Off	463450000	FM	TONE=D632	17									
+C-Freq	CFreqId=106529	CGroupId=27623	Northern Water Works	Off	159690000	FM	TONE=C88.5	17									
+C-Freq	CFreqId=150479	CGroupId=27623	Northwest Airlines Ramp/Ticketing Agents	Off	460825000	FM	TONE=C162.2	17									
+C-Freq	CFreqId=106526	CGroupId=27623	Office Max	Off	464550000	FM	TONE=C82.5	17									
+C-Freq	CFreqId=106584	CGroupId=27623	Olson Bus	Off	461200000	FM	TONE=D032	17									
+C-Freq	CFreqId=324329	CGroupId=27623	Olson Bus - NEW UNUSED	Off	451725000	NFM		17									
+C-Freq	CFreqId=106571	CGroupId=27623	One Call Locators	Off	159960000	FM	TONE=C173.8	17									
+C-Freq	CFreqId=106562	CGroupId=27623	One Call Locators	Off	160185000	FM	TONE=C151.4	17									
+C-Freq	CFreqId=106572	CGroupId=27623	Opp Construction	Off	461175000	FM	TONE=C173.8	17									
+C-Freq	CFreqId=106536	CGroupId=27623	Petermann Plumbing Htg.	Off	463550000	FM		17									
+C-Freq	CFreqId=106577	CGroupId=27623	Peterson	Off	451875000	FM		17									
+C-Freq	CFreqId=106537	CGroupId=27623	Peterson Mechanical	Off	151715000	FM	TONE=C94.8	17									
+C-Freq	CFreqId=106635	CGroupId=27623	Poulson	Off	461175000	FM		17									
+C-Freq	CFreqId=106612	CGroupId=27623	Prarie psyc.	Off	151595000	FM	TONE=D223	33									
+C-Freq	CFreqId=106604	CGroupId=27623	Radisson	Off	461250000	FM	TONE=D155	33									
+C-Freq	CFreqId=106598	CGroupId=27623	Ramada	Off	461450000	FM	TONE=D125	17									
+C-Freq	CFreqId=106599	CGroupId=27623	Ramada	Off	464025000	FM	TONE=D125	17									
+C-Freq	CFreqId=106585	CGroupId=27623	Red River Commodities	Off	153290000	FM	TONE=D032	17									
+C-Freq	CFreqId=106527	CGroupId=27623	Red River Excavating	Off	464075000	FM		17									
+C-Freq	CFreqId=106551	CGroupId=27623	Red River Manufacturing	Off	462275000	FM		17									
+C-Freq	CFreqId=106626	CGroupId=27623	Richtsmeier	Off	452125000	FM		17									
+C-Freq	CFreqId=106619	CGroupId=27623	Roesler Land & Cattle	Off	464675000	FM	TONE=D306	17									
+C-Freq	CFreqId=106555	CGroupId=27623	Ruliffson farms	Off	461725000	FM	TONE=C131.8	17									
+C-Freq	CFreqId=106556	CGroupId=27623	Rust	Off	464225000	FM		17									
+C-Freq	CFreqId=106557	CGroupId=27623	Rustads	Off	452425000	FM	TONE=C136.5	17									
+C-Freq	CFreqId=106558	CGroupId=27623	Schock	Off	464800000	FM		17									
+C-Freq	CFreqId=106566	CGroupId=27623	Sherman	Off	151835000	FM	TONE=C162.2	17									
+C-Freq	CFreqId=106547	CGroupId=27623	Simonson Lumber	Off	464575000	FM		17									
+C-Freq	CFreqId=106531	CGroupId=27623	Skunes	Off	464750000	FM		17									
+C-Freq	CFreqId=106576	CGroupId=27623	Strata Corp	Off	152870000	FM	TONE=C186.2	17									
+C-Freq	CFreqId=106567	CGroupId=27623	Strata Corp	Off	153125000	FM	TONE=C162.2	17									
+C-Freq	CFreqId=106605	CGroupId=27623	Super Valu Wharehouse	Off	152360000	FM	TONE=D162	17									
+C-Freq	CFreqId=106545	CGroupId=27623	Sysco Systems	Off	461225000	FM	TONE=C103.5	17									
+C-Freq	CFreqId=106541	CGroupId=27623	Sysco Systems	Off	462500000	FM	TONE=C100.0	17									
+C-Freq	CFreqId=106582	CGroupId=27623	Target Stores	Off	461037500	FM	TONE=D026	17									
+C-Freq	CFreqId=106586	CGroupId=27623	Target Stores	Off	466287500	FM	TONE=D032	17									
+C-Freq	CFreqId=106607	CGroupId=27623	Thompson	Off	463575000	FM		17									
+C-Freq	CFreqId=106615	CGroupId=27623	Thompson	Off	463575000	FM		17									
+C-Freq	CFreqId=106542	CGroupId=27623	Thunder Road (go carts)	Off	469550000	FM	TONE=C100.0	17									
+C-Freq	CFreqId=106588	CGroupId=27623	Traffic Safety Services	Off	463625000	FM		17									
+C-Freq	CFreqId=106594	CGroupId=27623	Tri State Striping	Off	152960000	FM	TONE=D073	17									
+C-Freq	CFreqId=106633	CGroupId=27623	Ueland	Off	451275000	FM		17									
+C-Freq	CFreqId=106613	CGroupId=27623	Valley Aviation	Off	151865000	FM	TONE=D223	17									
+C-Freq	CFreqId=106524	CGroupId=27623	Wal Wart - 13 TH AV S	Off	154570000	FM	TONE=C74.4	17									
+C-Freq	CFreqId=106632	CGroupId=27623	West Acres / Sec.	Off	461250000	FM	TONE=D624	33									
+C-Freq	CFreqId=106629	CGroupId=27623	West Fgo. High School	Off	151925000	FM	TONE=D606	33									
+C-Freq	CFreqId=113319	CGroupId=27623	Whale Of A Wash	Off	152345000	FM	TONE=C100.0	17									
+C-Freq	CFreqId=106530	CGroupId=27623	Wicklund Comm.	Off	461400000	FM		17									
+C-Freq	CFreqId=106579	CGroupId=27623	Williams Pipeline	Off	451600000	FM		17									
+C-Group	CGroupId=49720	AgencyId=9475	Fargo - Dome	Off	46.902813	-96.801431	1.0	Circle	
+C-Freq	CFreqId=106587	CGroupId=49720	Fargodome 01  Operations 1	Off	464325000	NFM	TONE=D047	14									
+C-Freq	CFreqId=106590	CGroupId=49720	Fargodome 02  Housekeeping	Off	464925000	NFM	TONE=D054	17									
+C-Freq	CFreqId=106592	CGroupId=49720	Fargodome 03 Merchandise	Off	464525000	NFM	TONE=D071	17									
+C-Freq	CFreqId=106593	CGroupId=49720	Fargodome 04  Event Services 1	Off	464425000	NFM	TONE=D073	17									
+C-Freq	CFreqId=106595	CGroupId=49720	Fargodome 05  Security - Medical	Off	464675000	NFM	TONE=D114	33									
+C-Freq	CFreqId=106597	CGroupId=49720	Fargodome 06  Food - Beverage 1	Off	464475000	NFM	TONE=D125	17									
+C-Freq	CFreqId=106600	CGroupId=49720	Fargodome 07  Food - Beverage 2	Off	464775000	NFM	TONE=D132	17									
+C-Freq	CFreqId=106601	CGroupId=49720	Fargodome 08  Administration	Off	464375000	NFM	TONE=D143	17									
+C-Freq	CFreqId=113958	CGroupId=49720	Fargodome 09 Suite Attendants	Off	451987500	NFM	TONE=D152	17									
+C-Freq	CFreqId=113956	CGroupId=49720	Fargodome 10 Promoter	Off	453000000	NFM	TONE=D155	17									
+C-Freq	CFreqId=113959	CGroupId=49720	Fargodome 11 Event Services 2	Off	461462500	NFM	TONE=D162	17									
+C-Freq	CFreqId=113960	CGroupId=49720	Fargodome 12 Open	Off	461562500	NFM	TONE=D165	17									
+C-Freq	CFreqId=106606	CGroupId=49720	Fargodome 13  Parking 1	Off	461637500	NFM	TONE=D172	14									
+C-Freq	CFreqId=106608	CGroupId=49720	Fargodome 14  Parking 2	Off	461812500	NFM	TONE=D174	14									
+C-Freq	CFreqId=113957	CGroupId=49720	Fargodome 15  Operations 2	Off	461937500	NFM	TONE=D205	14									
+C-Freq	CFreqId=106611	CGroupId=49720	Fargodome 16  Rigging	Off	462087500	NFM	TONE=D223	14									
+Conventional	AgencyId=9479	StateId=38	Dickinson Theodore Roosevelt Regional Airport (KDIK)	Off		Conventional								
+AreaState	AgencyId=9479	StateId=38
+AreaCounty	AgencyId=9479	CountyId=2031
+C-Group	CGroupId=78624	AgencyId=9479	Dickinson Airport - Airport Communications	Off	46.797367	-102.801414	2.0	Circle	
+C-Freq	CFreqId=337044	CGroupId=78624	Dickinson ASOS	Off	118375000	AM		15									
+C-Freq	CFreqId=337046	CGroupId=78624	Dickinson UNICOM	Off	123000000	AM		15									
+C-Freq	CFreqId=337043	CGroupId=78624	Dickinson VOR	Off	112900000	AM		15									
+C-Freq	CFreqId=337045	CGroupId=78624	Grandforks Radio	Off	122200000	AM		15									
+Conventional	AgencyId=9595	StateId=38	Foster County Business	Off		Conventional								
+AreaState	AgencyId=9595	StateId=38
+AreaCounty	AgencyId=9595	CountyId=2002
+C-Group	CGroupId=79248	AgencyId=9595	Carrington - Agriculture	Off	47.449720	-99.126223	5.0	Circle	
+C-Freq	CFreqId=258030	CGroupId=79248	Dakota Growers Pasta Company	Off	462462500	FM		17									
+C-Freq	CFreqId=258031	CGroupId=79248	Dakota Growers Pasta Company	Off	462512500	FM		17									
+C-Freq	CFreqId=258032	CGroupId=79248	Rosenau Equipment	Off	463450000	FM		17									
+C-Group	CGroupId=62418	AgencyId=9595	Countywide - Utilities	Off	47.449997	-98.875385	21.0	Circle	
+C-Freq	CFreqId=258033	CGroupId=62418	Dakota Central Rurual Telephone	Off	451400000	FM		34									
+Conventional	AgencyId=9497	StateId=38	Grand Forks County Business	Off		Conventional								
+AreaState	AgencyId=9497	StateId=38
+AreaCounty	AgencyId=9497	CountyId=2004
+C-Group	CGroupId=43984	AgencyId=9497	Grand Forks - Ralph Engelsted Arena	Off	47.927618	-97.071532	0.5	Circle	
+C-Freq	CFreqId=222998	CGroupId=43984	Aux	Off	451937500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=222993	CGroupId=43984	Concessions	Off	451287500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=222996	CGroupId=43984	Custodial	Off	451837500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=222989	CGroupId=43984	Emergency	Off	452237500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=222992	CGroupId=43984	Facilities	Off	452262500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=222997	CGroupId=43984	Marketing	Off	451887500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=222990	CGroupId=43984	Parking	Off	451787500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=222995	CGroupId=43984	Production	Off	451437500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=222985	CGroupId=43984	Repeater 1 General Use	Off	462375000	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=222986	CGroupId=43984	Repeater 2 Security	Off	461887500	AUTO	NAC=Srch	33									
+C-Freq	CFreqId=222987	CGroupId=43984	Repeater 3 Parking	Off	463912500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=222988	CGroupId=43984	Repeater 4 Concessions	Off	463237500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=222991	CGroupId=43984	Security	Off	451987500	AUTO	NAC=Srch	33									
+C-Freq	CFreqId=222999	CGroupId=43984	Suites	Off	452737500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=222994	CGroupId=43984	Ushers	Off	451312500	AUTO	NAC=Srch	17									
+C-Group	CGroupId=79300	AgencyId=9497	Grand Forks - Transportation	Off	47.925257	-97.032855	6.0	Circle	
+C-Freq	CFreqId=340829	CGroupId=79300	Dietrich Bus	Off	152570000	NFM		26									
+C-Group	CGroupId=79299	AgencyId=9497	Grand Forks - Utilities	Off	47.925257	-97.032855	6.0	Circle	
+C-Freq	CFreqId=340828	CGroupId=79299	Excel Energy	Off	153485000	NFM	NAC=2	34									
+C-Freq	CFreqId=340826	CGroupId=79299	Minnkota Power Cooperative	Off	151977500	NFM	TONE=C91.5	34									
+C-Freq	CFreqId=340827	CGroupId=79299	Nodak Electric Cooperative	Off	153410000	AUTO	ColorCode=2	34									
+Conventional	AgencyId=9600	StateId=38	Grand Forks International Airport (GFK)	Off		Conventional								
+AreaState	AgencyId=9600	StateId=38
+AreaCounty	AgencyId=9600	CountyId=2004
+C-Group	CGroupId=53826	AgencyId=9600	Grand Forks International Airport - Airport Operations	Off	47.946826	-97.174642	2.0	Circle	
+C-Freq	CFreqId=271580	CGroupId=53826	Approach/Departure/Radar	Off	118100000	AM		15									
+C-Freq	CFreqId=271577	CGroupId=53826	ATIS	Off	119400000	AM		15									
+C-Freq	CFreqId=271575	CGroupId=53826	CTAF	Off	118400000	AM		15									
+C-Freq	CFreqId=222981	CGroupId=53826	Fire Department	Off	154040000	NFM	TONE=C192.8	3									
+C-Freq	CFreqId=271578	CGroupId=53826	Ground (0600-2330)	Off	124575000	AM		15									
+C-Freq	CFreqId=271582	CGroupId=53826	Tower	Off	120550000	AM		15									
+C-Freq	CFreqId=271579	CGroupId=53826	Tower (0600-2330)	Off	118400000	AM		15									
+C-Freq	CFreqId=271581	CGroupId=53826	Tower (0600-2330)	Off	350350000	AM		15									
+C-Freq	CFreqId=271576	CGroupId=53826	Unicom	Off	122950000	AM		15									
+Conventional	AgencyId=9476	StateId=38	Hector International Airport (KFAR)	Off		Conventional								
+AreaState	AgencyId=9476	StateId=38
+AreaCounty	AgencyId=9476	CountyId=1995
+C-Group	CGroupId=78567	AgencyId=9476	Hector International Airport - Aircraft Operations	Off	46.920266	-96.815925	1.5	Circle	
+C-Freq	CFreqId=203253	CGroupId=78567	APCH/P DEP/P STAGE III	Off	377150000	AM		15									
+C-Freq	CFreqId=203254	CGroupId=78567	APCH/P DEP/P STAGE-III	Off	120400000	AM		15									
+C-Freq	CFreqId=203255	CGroupId=78567	APCH/S DEP/S STAGE III	Off	370850000	AM		15									
+C-Freq	CFreqId=203256	CGroupId=78567	APCH/S DEP/S STAGE-III	Off	125125000	AM		15									
+C-Freq	CFreqId=203257	CGroupId=78567	ATIS	Off	124500000	AM		15									
+C-Freq	CFreqId=203258	CGroupId=78567	ATIS	Off	379200000	AM		15									
+C-Freq	CFreqId=203259	CGroupId=78567	EMERGENCY	Off	121500000	AM		15									
+C-Freq	CFreqId=203261	CGroupId=78567	EMERGENCY	Off	243000000	AM		15									
+C-Freq	CFreqId=204326	CGroupId=78567	Grand Forks Radio ( Fargo RCO )	Off	122425000	FM		15									
+C-Freq	CFreqId=203262	CGroupId=78567	GROUND/P CD/P IC	Off	121900000	AM		15									
+C-Freq	CFreqId=203263	CGroupId=78567	GROUND/P CD/P IC	Off	348600000	AM		15									
+C-Freq	CFreqId=203260	CGroupId=78567	LCL/P IC - TOWER	Off	133800000	AM		15									
+C-Freq	CFreqId=203264	CGroupId=78567	LCL/P IC - TOWER	Off	290400000	AM		15									
+C-Freq	CFreqId=203300	CGroupId=78567	MINNEAPOLIS CTR.	Off	127350000	AM		15									
+C-Freq	CFreqId=203282	CGroupId=78567	MINNEAPOLIS CTR.	Off	278300000	AM		15									
+C-Freq	CFreqId=203283	CGroupId=78567	WEST FARGO AIRPORT	Off	122700000	AM		15									
+C-Group	CGroupId=78568	AgencyId=9476	Hector International Airport - Airline Operations	Off	46.920266	-96.815925	1.5	Circle	
+C-Freq	CFreqId=203284	CGroupId=78568	AIRINC	Off	131425000	AM		15									
+C-Freq	CFreqId=203266	CGroupId=78568	AIRINC	Off	136975000	AM		15									
+C-Freq	CFreqId=203298	CGroupId=78568	Allegiant	Off	130950000	AM		15									
+C-Freq	CFreqId=203290	CGroupId=78568	American Airlines Gate	Off	129200000	AM		15									
+C-Freq	CFreqId=203275	CGroupId=78568	Delta - Enroute	Off	131700000	AM		15									
+C-Freq	CFreqId=203293	CGroupId=78568	Delta - Gate	Off	131150000	AM		15									
+C-Freq	CFreqId=203280	CGroupId=78568	Fargo Jet Center	Off	122950000	AM		15									
+C-Freq	CFreqId=203291	CGroupId=78568	Fargo Jet Center	Off	130525000	AM		15									
+C-Freq	CFreqId=106610	CGroupId=78568	Fargo Jet Center	Off	151865000	AUTO	ColorCode=4	17									
+C-Freq	CFreqId=301532	CGroupId=78568	Frontier Airlines - Ops	Off	131600000	AM		15									
+C-Freq	CFreqId=203292	CGroupId=78568	Mesaba	Off	130550000	AM		15									
+C-Freq	CFreqId=203276	CGroupId=78568	Sky West	Off	131325000	AM		15									
+C-Freq	CFreqId=203296	CGroupId=78568	Sky West	Off	131400000	AM		15									
+C-Freq	CFreqId=203278	CGroupId=78568	United Express	Off	131025000	AM		15									
+C-Group	CGroupId=78570	AgencyId=9476	Hector International Airport - Airport Operations	Off	46.920266	-96.815925	1.5	Circle	
+C-Freq	CFreqId=336181	CGroupId=78570	Airport Authority	Off	453100000	NFM	TONE=C167.9	14									
+Conventional	AgencyId=9569	StateId=38	McKenzie County Business	Off		Conventional								
+AreaState	AgencyId=9569	StateId=38
+AreaCounty	AgencyId=9569	CountyId=2013
+C-Group	CGroupId=79103	AgencyId=9569	Hawkeye - Communications	Off	47.993763	-102.874988	5.0	Circle	
+C-Freq	CFreqId=272304	CGroupId=79103	One Way Services	Off	463562500	NFM		17									
+C-Group	CGroupId=79101	AgencyId=9569	Watford City - Agriculture	Off	47.802419	-103.280493	5.0	Circle	
+C-Freq	CFreqId=272302	CGroupId=79101	Bar U Ranch	Off	462350000	NFM		17									
+C-Freq	CFreqId=272301	CGroupId=79101	Lawler Farms	Off	159810000	NFM		17									
+C-Group	CGroupId=79104	AgencyId=9569	Watford City - Communications	Off	47.802419	-103.285986	5.0	Circle	
+C-Freq	CFreqId=311553	CGroupId=79104	Kotana Communications	Off	464700000	NFM		17									
+C-Group	CGroupId=79102	AgencyId=9569	Watford City - Construction	Off	47.802419	-103.280493	5.0	Circle	
+C-Freq	CFreqId=272306	CGroupId=79102	Watford City Ready Mix INC	Off	461575000	FM		17									
+C-Group	CGroupId=79114	AgencyId=9569	Watford City - Industry	Off	47.802241	-103.283247	5.0	Circle	
+C-Freq	CFreqId=339862	CGroupId=79114	EM Services	Off	463887500	NFM		17									
+Conventional	AgencyId=8947	StateId=38	Minot International Airport (MOT)	Off		Conventional								
+AreaState	AgencyId=8947	StateId=38
+AreaCounty	AgencyId=8947	CountyId=2037
+C-Group	CGroupId=44221	AgencyId=8947	Minot International Airport (MOT)	Off	48.216676	-101.458776	53.0	Circle	
+C-Freq	CFreqId=177886	CGroupId=44221	ASOS	Off	118725000	AM		15									
+C-Freq	CFreqId=301791	CGroupId=44221	Delta Airlines OPS	Off	131750000	FM		15									
+C-Freq	CFreqId=301793	CGroupId=44221	Flight Services	Off	122220000	FM		15									
+C-Freq	CFreqId=177883	CGroupId=44221	Magic city Tower	Off	118200000	AM		15									
+C-Freq	CFreqId=301790	CGroupId=44221	Magic City Tower (Military)	Off	393100000	FM		15									
+C-Freq	CFreqId=226722	CGroupId=44221	Mesaba Airlines	Off	451312500	NFM		17									
+C-Freq	CFreqId=226723	CGroupId=44221	Mesaba Airlines	Off	451712500	NFM		17									
+C-Freq	CFreqId=226724	CGroupId=44221	Mesaba Airlines	Off	452637500	NFM		17									
+C-Freq	CFreqId=226725	CGroupId=44221	Mesaba Airlines	Off	456712500	NFM		17									
+C-Freq	CFreqId=226726	CGroupId=44221	Mesaba Airlines	Off	457637500	NFM		17									
+C-Freq	CFreqId=177887	CGroupId=44221	Minot Approach / Departure	Off	119600000	AM		15									
+C-Freq	CFreqId=177884	CGroupId=44221	Minot Ground	Off	121900000	AM		15									
+C-Freq	CFreqId=301792	CGroupId=44221	Minot VOR/NAV AID(Voice)	Off	117100000	FM		15									
+C-Freq	CFreqId=177889	CGroupId=44221	Transportation Security Admin	Off	172150000	NFM	NAC=Srch	33									
+C-Freq	CFreqId=177885	CGroupId=44221	Unicom	Off	122900000	AM		15									
+C-Freq	CFreqId=241980	CGroupId=44221	United Airlines	Off	452625000	FM		17									
+C-Freq	CFreqId=241981	CGroupId=44221	United Airlines	Off	457625000	FM		17									
+Conventional	AgencyId=9102	StateId=38	Mountrail County Business	Off		Conventional								
+AreaState	AgencyId=9102	StateId=38
+AreaCounty	AgencyId=9102	CountyId=2017
+C-Group	CGroupId=79110	AgencyId=9102	Mandaree - Industry	Off	47.729179	-102.676024	5.0	Circle	
+C-Freq	CFreqId=272412	CGroupId=79110	C&J Construction	Off	152390000	FM		17									
+C-Group	CGroupId=79105	AgencyId=9102	New Town - Casinos	Off	47.980848	-102.490180	5.0	Circle	
+C-Freq	CFreqId=322549	CGroupId=79105	Four Bears Casino and Lodge	Off	451887500	NFM		17									
+C-Freq	CFreqId=322550	CGroupId=79105	Four Bears Casino and Lodge	Off	456887500	NFM	TONE=C151.4	17									
+C-Group	CGroupId=79108	AgencyId=9102	New Town - Industry	Off	47.980848	-102.490180	5.0	Circle	
+C-Freq	CFreqId=272410	CGroupId=79108	New Town Farmers Union Oil	Off	464100000	FM		17									
+C-Group	CGroupId=79109	AgencyId=9102	Plaza - Agriculture	Off	48.025846	-101.961000	5.0	Circle	
+C-Freq	CFreqId=307301	CGroupId=79109	Plaza Makoti Equity Elevator	Off	464750000	FM		17									
+C-Group	CGroupId=79111	AgencyId=9102	Plaza - Industry	Off	48.025846	-101.961000	5.0	Circle	
+C-Freq	CFreqId=339857	CGroupId=79111	Dakota Gold Transfer	Off	451925000	NFM		17									
+C-Freq	CFreqId=339858	CGroupId=79111	Dakota Gold Transfer	Off	452800000	NFM		17									
+C-Group	CGroupId=79107	AgencyId=9102	Stanley - Agriculture	Off	48.317241	-102.390452	5.0	Circle	
+C-Freq	CFreqId=272413	CGroupId=79107	Wejco Farm	Off	463775000	FM		17									
+C-Group	CGroupId=79106	AgencyId=9102	Stanley - Industry	Off	48.316410	-102.385107	5.0	Circle	
+C-Freq	CFreqId=272415	CGroupId=79106	Stanley Farmers Union Oil	Off	151535000	FM		17									
+C-Freq	CFreqId=307300	CGroupId=79106	WCE Inc	Off	451800000	FM		17									
+Conventional	AgencyId=9815	StateId=38	ND Department of Corrections and Rehabilitation	Off		Conventional								
+AreaState	AgencyId=9815	StateId=38
+AreaCounty	AgencyId=9815	CountyId=0
+C-Group	CGroupId=81281	AgencyId=9815	James River Correctional Center - Operations	Off	46.882892	-98.686716	0.5	Circle	
+C-Freq	CFreqId=143882	CGroupId=81281	Opearations	Off	158730000	NFM	TONE=C97.4	37									
+C-Group	CGroupId=81280	AgencyId=9815	ND State Penitentiary - Operations	Off	46.799966	-100.742856	0.8	Circle	
+C-Freq	CFreqId=143879	CGroupId=81280	Operations 1 (FMN)	Off	154845000	NFM	TONE=C141.3	37									
+C-Freq	CFreqId=263725	CGroupId=81280	Operations 1 (P25)	Off	154845000	NFM	NAC=141	37									
+C-Freq	CFreqId=310343	CGroupId=81280	Operations 2	Off	151235000	NFM		37									
+C-Freq	CFreqId=310344	CGroupId=81280	Operations 3	Off	151415000	NFM		37									
+C-Freq	CFreqId=143880	CGroupId=81280	Operations 4	Off	155190000	NFM		37									
+C-Group	CGroupId=81282	AgencyId=9815	North Dakota Youth Correctional Center - Operations	Off	46.821716	-100.913215	0.3	Circle	
+C-Freq	CFreqId=143881	CGroupId=81282	Operations	Off	154055000	NFM	TONE=C141.3	37									
+C-Group	CGroupId=81283	AgencyId=9815	Parole and Probation - Fargo	Off	46.877186	-96.789803	7.0	Circle	
+C-Freq	CFreqId=75686	CGroupId=81283	Operations	Off	155790000	NFM	TONE=C91.5	37									
+Conventional	AgencyId=9111	StateId=38	ND Department of Transporation	Off		Conventional								
+AreaState	AgencyId=9111	StateId=38
+AreaCounty	AgencyId=9111	CountyId=0
+C-Group	CGroupId=21886	AgencyId=9111	Department of Transporation	Off	47.400000	-100.400000	210.0	Circle	
+C-Freq	CFreqId=79987	CGroupId=21886	Operations - Devils Lake / Williston	Off	151040000	NFM	TONE=C192.8	14									
+C-Freq	CFreqId=254450	CGroupId=21886	Operations - Devils Lake / Williston	Off	151040000	NFM	NAC=788	14									
+C-Freq	CFreqId=79984	CGroupId=21886	Operations - Fargo / Minot	Off	151100000	NFM	TONE=C192.8	14									
+C-Freq	CFreqId=254453	CGroupId=21886	Operations - Fargo / Minot	Off	151100000	NFM	NAC=788	14									
+C-Freq	CFreqId=79986	CGroupId=21886	Operations - Jamestown / Dickinson	Off	151085000	NFM	TONE=C192.8	14									
+C-Freq	CFreqId=254452	CGroupId=21886	Operations - Jamestown / Dickinson	Off	151085000	NFM	NAC=788	14									
+C-Freq	CFreqId=295211	CGroupId=21886	Truck to Truck - Fargo Dist.	Off	156060000	NFM	NAC=430	14									
+C-Freq	CFreqId=254454	CGroupId=21886	Truck to Truck 5 Digital	Off	156045000	NFM	NAC=40B	14									
+C-Freq	CFreqId=79988	CGroupId=21886	Truck to Truck 5 Fargo Dist.	Off	156045000	NFM	TONE=C103.5	14									
+C-Freq	CFreqId=254127	CGroupId=21886	Truck to Truck 5 Grand Forks Dist.	Off	156045000	NFM	TONE=C192.8	14									
+C-Freq	CFreqId=254126	CGroupId=21886	Truck to Truck 6	Off	154085000	NFM		14									
+C-Group	CGroupId=81276	AgencyId=9111	Department of Transporation - Bismarck District	Off	46.565729	-100.804944	60.0	Circle	
+C-Freq	CFreqId=79985	CGroupId=81276	Operations (FMN)	Off	151055000	NFM	TONE=C192.8	14									
+C-Freq	CFreqId=254451	CGroupId=81276	Operations (P25)	Off	151055000	NFM	NAC=788	14									
+Conventional	AgencyId=9813	StateId=38	ND Forest Service	Off		Conventional								
+AreaState	AgencyId=9813	StateId=38
+AreaCounty	AgencyId=9813	CountyId=0
+C-Group	CGroupId=22802	AgencyId=9813	Operations - Statewide	Off	47.400000	-100.400000	210.0	Circle	
+C-Freq	CFreqId=278360	CGroupId=22802	Statewide	Off	151310000	NFM		14									
+Conventional	AgencyId=9812	StateId=38	ND Game and Fish Department	Off		Conventional								
+AreaState	AgencyId=9812	StateId=38
+AreaCounty	AgencyId=9812	CountyId=0
+C-Group	CGroupId=81277	AgencyId=9812	Game and Fish - Game & Fish	Off	47.383952	-100.005769	150.0	Circle	
+C-Freq	CFreqId=83836	CGroupId=81277	Operations 4 (FMN)	Off	154815000	NFM	TONE=C173.8	7									
+C-Freq	CFreqId=307261	CGroupId=81277	Operations 4 (P25)	Off	154815000	NFM	NAC=700	7									
+Conventional	AgencyId=9818	StateId=38	ND Interoperability	Off		Conventional								
+AreaState	AgencyId=9818	StateId=38
+AreaCounty	AgencyId=9818	CountyId=0
+C-Group	CGroupId=81291	AgencyId=9818	Statewide - Emergency Management	Off	47.200000	-100.400000	210.0	Circle	
+C-Freq	CFreqId=69468	CGroupId=81291	Department of Emergency Services	Off	154085000	NFM		11									
+C-Group	CGroupId=81290	AgencyId=9818	Statewide - EMS	Off	47.200000	-100.400000	210.0	Circle	
+C-Freq	CFreqId=159708	CGroupId=81290	Statewide EMS	Off	155340000	NFM	TONE=C210.7	11									
+C-Group	CGroupId=81289	AgencyId=9818	Statewide - Fire	Off	47.200000	-100.400000	210.0	Circle	
+C-Freq	CFreqId=159707	CGroupId=81289	Statewide Fire	Off	154295000	NFM		11									
+C-Group	CGroupId=81288	AgencyId=9818	Statewide - Law Enforcement	Off	47.200000	-100.400000	210.0	Circle	
+C-Freq	CFreqId=69465	CGroupId=81288	Law Command	Off	155370000	NFM	TONE=C146.2	11									
+C-Freq	CFreqId=69454	CGroupId=81288	Law Tac 1	Off	155430000	NFM	TONE=C192.8	11									
+C-Freq	CFreqId=69455	CGroupId=81288	Law Tac 2	Off	155505000	NFM	TONE=C192.8	11									
+C-Freq	CFreqId=350600	CGroupId=81288	Narcotics Interoperability	Off	161825000	NFM		11									
+Conventional	AgencyId=9816	StateId=38	ND Office of Attorney General	Off		Conventional								
+AreaState	AgencyId=9816	StateId=38
+AreaCounty	AgencyId=9816	CountyId=0
+C-Group	CGroupId=81285	AgencyId=9816	Bureau of Criminal Investigation - Operations	Off	47.400000	-100.400000	210.0	Circle	
+C-Freq	CFreqId=324830	CGroupId=81285	Narcotics 4	Off	154770000	NFM	NAC=293	7									
+C-Freq	CFreqId=324831	CGroupId=81285	Narcotics 5	Off	159210000	NFM	NAC=389	7									
+C-Freq	CFreqId=324832	CGroupId=81285	Narcotics 6	Off	158910000	NFM	NAC=390	7									
+C-Freq	CFreqId=324833	CGroupId=81285	Narcotics 7	Off	158857500	NFM	NAC=330	7									
+C-Freq	CFreqId=324834	CGroupId=81285	Special use	Off	154680000	NFM		7									
+Conventional	AgencyId=9814	StateId=38	ND Parks and Recreation Department	Off		Conventional								
+AreaState	AgencyId=9814	StateId=38
+AreaCounty	AgencyId=9814	CountyId=0
+C-Group	CGroupId=81279	AgencyId=9814	Opearations - Statewide	Off	47.458333	-100.500000	197.2	Circle	
+C-Freq	CFreqId=307262	CGroupId=81279	Opearations (FMN)	Off	154965000	NFM	TONE=D156	14									
+C-Freq	CFreqId=148213	CGroupId=81279	Opearations (P25)	Off	154965000	NFM	NAC=Srch	14									
+Conventional	AgencyId=2208	StateId=38	ND State Radio System	Off		Conventional								
+AreaState	AgencyId=2208	StateId=38
+AreaCounty	AgencyId=2208	CountyId=0
+C-Group	CGroupId=19050	AgencyId=2208	State Radio System	Off	47.400000	-100.400000	210.0	Circle	
+C-Freq	CFreqId=158129	CGroupId=19050	Capital Grounds / Maint.	Off	154995000	NFM	TONE=C141.3	14									
+C-Freq	CFreqId=99911	CGroupId=19050	Capital Security - Centennial Freq. ENC	Off	154160000	NFM	NAC=Srch	33									
+C-Freq	CFreqId=77172	CGroupId=19050	HP Mobile Repeaters 1	Off	453450000	NFM		7									
+C-Freq	CFreqId=223073	CGroupId=19050	HP Mobile Repeaters 2 - 664 DPL	Off	453150000	NFM		7									
+C-Freq	CFreqId=307340	CGroupId=19050	HP Mobile Repeaters 3	Off	458150000	NFM		7									
+C-Freq	CFreqId=307341	CGroupId=19050	HP Mobile Repeaters 4	Off	458450000	NFM		7									
+C-Freq	CFreqId=69457	CGroupId=19050	HP Mobiles - HP 4-5	Off	156030000	NFM	TONE=C141.3	7									
+C-Freq	CFreqId=124208	CGroupId=19050	HP Mobiles - HP 6	Off	156030000	NFM	NAC=585	7									
+C-Freq	CFreqId=323954	CGroupId=19050	Lake Region State College Peace Officer Training Program - D lak	Off	154570000	NFM	TONE=D654	7									
+C-Freq	CFreqId=141804	CGroupId=19050	Mobiles / Bases to SRTWR 1	Off	151460000	NFM	TONE=C192.8	1									
+C-Freq	CFreqId=278771	CGroupId=19050	Mobiles / Bases to SRTWR 1 DIG	Off	151460000	NFM	NAC=788	1									
+C-Freq	CFreqId=141805	CGroupId=19050	Mobiles / Bases to SRTWR 2	Off	159225000	NFM	TONE=C192.8	1									
+C-Freq	CFreqId=278773	CGroupId=19050	Mobiles / Bases to SRTWR 2 DIG	Off	159225000	NFM	NAC=788	1									
+C-Freq	CFreqId=134931	CGroupId=19050	ND State Radio SRTWR 1 Alerts	Off	154935000	NFM	TONE=C192.8	1									
+C-Freq	CFreqId=278770	CGroupId=19050	ND State Radio SRTWR 1 Alerts DIG	Off	154935000	NFM	NAC=788	1									
+C-Freq	CFreqId=124209	CGroupId=19050	ND State Radio SRTWR 2	Off	154695000	NFM	TONE=C192.8	1									
+C-Freq	CFreqId=278772	CGroupId=19050	ND State Radio SRTWR 2 DIG	Off	154695000	NFM	NAC=788	1									
+C-Freq	CFreqId=69458	CGroupId=19050	SO Mobile 6 C2C	Off	154860000	NFM		7									
+C-Freq	CFreqId=217205	CGroupId=19050	SO Mobile 6 C2C DIG	Off	154860000	NFM	NAC=293	7									
+C-Freq	CFreqId=69456	CGroupId=19050	SRTWR 3 - HP 3 - NLEEC - VLAW 31 - BLUE	Off	155475000	NFM	TONE=C91.5	6									
+C-Group	CGroupId=81295	AgencyId=2208	State Radio System - Paging	Off	47.400000	-100.400000	210.0	Circle	
+C-Freq	CFreqId=69461	CGroupId=81295	State Radio Paging	Off	154905000	NFM		1									
+C-Freq	CFreqId=223075	CGroupId=81295	State Radio Paging Extenders	Off	158955000	NFM		1									
+Conventional	AgencyId=7842	StateId=38	North Dakota Federal	Off		Conventional								
+AreaState	AgencyId=7842	StateId=38
+AreaCounty	AgencyId=7842	CountyId=0
+C-Group	CGroupId=81405	AgencyId=7842	Bureau of Indian Affiars - Standing Rock Indian Reservation	Off	45.832306	-101.122135	47.0	Circle	
+C-Freq	CFreqId=351197	CGroupId=81405	BIA Police	Off	151205000	NFM		16									
+C-Freq	CFreqId=351200	CGroupId=81405	EMS	Off	172650000	NFM		4									
+C-Freq	CFreqId=351201	CGroupId=81405	Game and Parks	Off	158805000	NFM	TONE=C173.8	14									
+C-Freq	CFreqId=351198	CGroupId=81405	Reservation Police	Off	158790000	NFM	TONE=C192.8	2									
+C-Freq	CFreqId=351199	CGroupId=81405	Reservation Police	Off	173675000	NFM		7									
+C-Freq	CFreqId=351202	CGroupId=81405	Tribe Operations	Off	153762500	NFM		14									
+C-Freq	CFreqId=351196	CGroupId=81405	Tribe Operations	Off	154762500	NFM	NAC=943	14									
+C-Group	CGroupId=75977	AgencyId=7842	Bureau of Indian Affiars - Three Affiliated Tribes	Off	48.249917	-102.432569	45.0	Circle	
+C-Freq	CFreqId=322555	CGroupId=75977	Detention Center	Off	158762500	NFM		16									
+C-Freq	CFreqId=322557	CGroupId=75977	Fire	Off	155017500	NFM	TONE=C91.5	16									
+C-Freq	CFreqId=322554	CGroupId=75977	Game and Fish	Off	155910000	NFM		16									
+C-Freq	CFreqId=322558	CGroupId=75977	MHA Nation Highway Patrol	Off	151775000	NFM	NAC=763	16									
+C-Freq	CFreqId=322553	CGroupId=75977	Police Dept	Off	154100000	NFM	NAC=235	16									
+C-Freq	CFreqId=322556	CGroupId=75977	Reservation Operations	Off	158820000	NFM		16									
+C-Freq	CFreqId=339861	CGroupId=75977	West Segment Regulatory Commission	Off	151265000	NFM		16									
+C-Group	CGroupId=65797	AgencyId=7842	Bureau of Indian Affiars - Turtle Mountain Agency	Off	48.839464	-99.747901	25.0	Circle	
+C-Freq	CFreqId=271204	CGroupId=65797	Operations	Off	164625000	NFM		16									
+C-Group	CGroupId=70427	AgencyId=7842	Department of Energy - Western Area Power Association	Off	47.608829	-100.179491	150.0	Circle	
+C-Freq	CFreqId=291273	CGroupId=70427	Car to Car	Off	164775000	NFM	NAC=222	16									
+C-Freq	CFreqId=291274	CGroupId=70427	Car to Car	Off	164775000	NFM	NAC=333	16									
+C-Freq	CFreqId=291269	CGroupId=70427	Operations	Off	164350000	NFM	NAC=111	16									
+C-Freq	CFreqId=291270	CGroupId=70427	Operations	Off	167850000	NFM	NAC=111	16									
+C-Freq	CFreqId=291271	CGroupId=70427	Operations - Bismark	Off	167925000	NFM	NAC=111	16									
+C-Freq	CFreqId=291272	CGroupId=70427	Operations - Fargo	Off	167850000	NFM	NAC=222	16									
+C-Group	CGroupId=76456	AgencyId=7842	Department of Homeland Security - Customs and Border Protection	Off	48.094078	-100.231347	175.0	Circle	
+C-Freq	CFreqId=324849	CGroupId=76456	Air Support	Off	168837500	NFM	NAC=293	16									
+C-Freq	CFreqId=324846	CGroupId=76456	Customs	Off	165237500	NFM	NAC=301	16									
+C-Freq	CFreqId=338298	CGroupId=76456	East Zone - Grand Forks	Off	164575000	NFM	NAC=688	16									
+C-Freq	CFreqId=324847	CGroupId=76456	Tactical	Off	163700000	NFM	NAC=691	16									
+C-Freq	CFreqId=324845	CGroupId=76456	West Zone - Bear Butte	Off	163675000	NFM	NAC=673	16									
+C-Freq	CFreqId=338296	CGroupId=76456	West Zone - Calio	Off	163625000	NFM	NAC=674	16									
+C-Freq	CFreqId=338297	CGroupId=76456	West Zone - Gardner	Off	165875000	NFM	NAC=676	16									
+C-Freq	CFreqId=324844	CGroupId=76456	West Zone - Lostwood	Off	163625000	NFM	NAC=672	16									
+C-Freq	CFreqId=324848	CGroupId=76456	West Zone - Milton	Off	163675000	NFM	NAC=675	16									
+C-Freq	CFreqId=324843	CGroupId=76456	West Zone - Writing Rock	Off	163675000	NFM	NAC=671	16									
+C-Group	CGroupId=76457	AgencyId=7842	Department of Homeland Security - Statewide	Off	47.460483	-99.827929	223.0	Circle	
+C-Freq	CFreqId=324850	CGroupId=76457	DHS Net	Off	170787500	NFM	NAC=1	16									
+C-Freq	CFreqId=324851	CGroupId=76457	DHS TAC	Off	168587500	NFM	NAC=1	16									
+C-Group	CGroupId=78623	AgencyId=7842	Department of Homeland Security - Transportion Security Agency -	Off	46.795615	-102.799979	2.0	Circle	
+C-Freq	CFreqId=337042	CGroupId=78623	Operations	Off	172150000	NFM	NAC=Srch	16									
+C-Group	CGroupId=81885	AgencyId=7842	Department of Homeland Security - Transportion Security Agency -	Off	48.176278	-103.641032	1.0	Circle	
+C-Freq	CFreqId=353363	CGroupId=81885	Operations	Off	172150000	NFM		16									
+C-Group	CGroupId=75573	AgencyId=7842	Fish and Wildlife Service - Audubon National Wildlife Refuge	Off	47.608829	-100.179491	150.0	Circle	
+C-Freq	CFreqId=294313	CGroupId=75573	Audubon National Wildlife Refuge	Off	170025000	NFM	NAC=Srch	16									
+C-Group	CGroupId=75574	AgencyId=7842	Fish and Wildlife Service - Chase Lake National Wildlife Refuge	Off	47.608829	-100.179491	150.0	Circle	
+C-Freq	CFreqId=294314	CGroupId=75574	Chase Lake National Wildlife Refuge	Off	169775000	NFM	NAC=Srch	16									
+C-Group	CGroupId=75575	AgencyId=7842	Fish and Wildlife Service - Crosby Wetlands Management District	Off	47.608829	-100.179491	150.0	Circle	
+C-Freq	CFreqId=294316	CGroupId=75575	Crosby Wetlands Management District - Fortuna	Off	169625000	NFM	NAC=Srch	16									
+C-Freq	CFreqId=294317	CGroupId=75575	Crosby Wetlands Management District - Tioga	Off	172575000	NFM	NAC=Srch	16									
+C-Group	CGroupId=75576	AgencyId=7842	Fish and Wildlife Service - Des Lacs National Wildlife Refuge	Off	47.608829	-100.179491	150.0	Circle	
+C-Freq	CFreqId=294315	CGroupId=75576	Des Lacs National Wildlife Refuge	Off	169887500	NFM	NAC=Srch	16									
+C-Group	CGroupId=70931	AgencyId=7842	Fish and Wildlife Service - Eastern North Dakota Fire District	Off	47.400000	-100.400000	210.0	Circle	
+C-Freq	CFreqId=294320	CGroupId=70931	Hampden	Off	171675000	NFM	NAC=Srch	16									
+C-Freq	CFreqId=294322	CGroupId=70931	Petersburg	Off	173812500	NFM	NAC=Srch	16									
+C-Freq	CFreqId=294321	CGroupId=70931	Sullys Hill	Off	173762500	NFM	NAC=Srch	16									
+C-Group	CGroupId=75577	AgencyId=7842	Fish and Wildlife Service - Lostwood National Wildlife Refuge	Off	47.608829	-100.179491	150.0	Circle	
+C-Freq	CFreqId=294312	CGroupId=75577	Lostwood National Wildlife Refuge	Off	169550000	NFM	NAC=Srch	16									
+C-Group	CGroupId=75578	AgencyId=7842	Fish and Wildlife Service - Tewaukon National Wildlife Refuge	Off	47.608829	-100.179491	150.0	Circle	
+C-Freq	CFreqId=294318	CGroupId=75578	Tewaukon National Wildlife Refuge	Off	164625000	NFM	NAC=Srch	16									
+C-Group	CGroupId=75579	AgencyId=7842	Fish and Wildlife Service - Upper Souris National Wildlife Refug	Off	47.608829	-100.179491	150.0	Circle	
+C-Freq	CFreqId=294319	CGroupId=75579	Upper Souris National Wildlife Refuge	Off	169625000	NFM	NAC=Srch	16									
+C-Group	CGroupId=65796	AgencyId=7842	Forest Service - Dakota Prairie National Grasslands	Off	47.271029	-100.187402	125.0	Circle	
+C-Freq	CFreqId=271202	CGroupId=65796	Operations	Off	164937500	NFM		16									
+C-Group	CGroupId=65798	AgencyId=7842	National Park Service - Theodore Roosevelt National Park	Off	46.903181	-103.401343	30.0	Circle	
+C-Freq	CFreqId=271205	CGroupId=65798	Operations	Off	166375000	NFM		16									
+C-Group	CGroupId=78569	AgencyId=7842	United States Air Force - Civil Air Patrol - Fargo	Off	46.891583	-96.759668	50.0	Circle	
+C-Freq	CFreqId=336177	CGroupId=78569	Fargo R04-FMN	Off	148150000	NFM	TONE=C74.4	30									
+C-Freq	CFreqId=336176	CGroupId=78569	Fargo R04-P25	Off	148150000	NFM	NAC=2E8	30									
+C-Group	CGroupId=49150	AgencyId=7842	United States Air Force - Minot Air Force Base	Off	48.414947	-101.330420	25.0	Circle	
+C-Freq	CFreqId=341937	CGroupId=49150	5th Bomb Wing B-52 Interplane	Off	300125000	AM		30									
+C-Freq	CFreqId=301799	CGroupId=49150	ATIS	Off	278800000	AM		30									
+C-Freq	CFreqId=301800	CGroupId=49150	Clearance Delivery	Off	326200000	AM		30									
+C-Freq	CFreqId=301801	CGroupId=49150	Command Post	Off	321000000	AM		30									
+C-Freq	CFreqId=301797	CGroupId=49150	Ground	Off	134000000	AM		30									
+C-Freq	CFreqId=301798	CGroupId=49150	Ground	Off	275800000	AM		30									
+C-Freq	CFreqId=301802	CGroupId=49150	PMSV	Off	342500000	AM		30									
+C-Freq	CFreqId=301794	CGroupId=49150	Tower	Off	120650000	AM		30									
+C-Freq	CFreqId=301796	CGroupId=49150	Tower	Off	236600000	AM		30									
+C-Freq	CFreqId=301795	CGroupId=49150	Tower	Off	253500000	AM		30									
+C-Freq	CFreqId=341938	CGroupId=49150	Utilities	Off	461850000	NFM		30									
+Conventional	AgencyId=5771	StateId=38	North Dakota Railroads	Off		Conventional								
+AreaState	AgencyId=5771	StateId=38
+AreaCounty	AgencyId=5771	CountyId=0
+C-Group	CGroupId=75520	AgencyId=5771	BNSF Railway - Clifford Subdivision	Off	47.109813	-96.993677	15.0	Circle	
+C-Freq	CFreqId=319773	CGroupId=75520	Erie Junction to Clifford	Off	161160000	NFM		20									
+C-Group	CGroupId=75247	AgencyId=5771	BNSF Railway - Crosby Subdivision	Off	48.528320	-101.974109	20.0	Circle	
+C-Freq	CFreqId=318077	CGroupId=75247	Berthold to Coteau	Off	160800000	NFM		20									
+C-Group	CGroupId=75430	AgencyId=5771	BNSF Railway - Devils Lake Subdivision	Off	48.286483	-99.521193	80.0	Circle	
+C-Freq	CFreqId=318989	CGroupId=75430	DL Switch to Surrey	Off	161100000	NFM		20									
+C-Group	CGroupId=75241	AgencyId=5771	BNSF Railway - Dickinson Subdivision	Off	46.878593	-102.762158	100.0	Circle	
+C-Freq	CFreqId=318046	CGroupId=75241	Dickinson to Glendive	Off	161160000	NFM		20									
+C-Freq	CFreqId=318047	CGroupId=75241	Dickinson Yard	Off	161100000	NFM		20									
+C-Freq	CFreqId=318048	CGroupId=75241	Eland Yard	Off	160530000	NFM		20									
+C-Freq	CFreqId=318049	CGroupId=75241	Fryburg Yard	Off	160560000	NFM		20									
+C-Freq	CFreqId=318050	CGroupId=75241	Glendive Yard	Off	161010000	NFM		20									
+C-Freq	CFreqId=318045	CGroupId=75241	Mandan to Dickinson	Off	161415000	NFM		20									
+C-Freq	CFreqId=318053	CGroupId=75241	MRAS Blue	Off	160620000	NFM		20									
+C-Freq	CFreqId=318052	CGroupId=75241	MRAS Green	Off	161130000	NFM		20									
+C-Freq	CFreqId=318055	CGroupId=75241	MRAS Orange	Off	161310000	NFM		20									
+C-Freq	CFreqId=318054	CGroupId=75241	MRAS Red	Off	160665000	NFM		20									
+C-Freq	CFreqId=318051	CGroupId=75241	MRAS White	Off	160425000	NFM		20									
+C-Group	CGroupId=75516	AgencyId=5771	BNSF Railway - Drayton Subdivision	Off	48.722589	-97.417529	20.0	Circle	
+C-Freq	CFreqId=319765	CGroupId=75516	Grafton to Joliette	Off	161100000	NFM		20									
+C-Group	CGroupId=75244	AgencyId=5771	BNSF Railway - Glasgow Subdivision	Off	47.849293	-103.659080	125.0	Circle	
+C-Freq	CFreqId=318068	CGroupId=75244	Bainville to West Nashua	Off	161100000	NFM		20									
+C-Freq	CFreqId=318067	CGroupId=75244	Berthold to Bainville	Off	160920000	NFM		20									
+C-Freq	CFreqId=318066	CGroupId=75244	Minot to Berthold	Off	160800000	NFM		20									
+C-Freq	CFreqId=318070	CGroupId=75244	MRAS Blue	Off	160620000	NFM		20									
+C-Freq	CFreqId=318074	CGroupId=75244	MRAS Green	Off	161130000	NFM		20									
+C-Freq	CFreqId=318072	CGroupId=75244	MRAS Orange	Off	161310000	NFM		20									
+C-Freq	CFreqId=318073	CGroupId=75244	MRAS Red	Off	160665000	NFM		20									
+C-Freq	CFreqId=318071	CGroupId=75244	MRAS Yellow	Off	161490000	NFM		20									
+C-Freq	CFreqId=318069	CGroupId=75244	Williston Yard	Off	160590000	NFM		20									
+C-Group	CGroupId=75515	AgencyId=5771	BNSF Railway - Glasston Subdivision	Off	48.155917	-97.277454	18.0	Circle	
+C-Freq	CFreqId=319764	CGroupId=75515	Grand Forks to Grafton	Off	161100000	NFM		20									
+C-Group	CGroupId=75245	AgencyId=5771	BNSF Railway - Grenora Subdivision	Off	48.447172	-102.500821	12.0	Circle	
+C-Freq	CFreqId=318075	CGroupId=75245	Stanley to Powers Lake	Off	160920000	NFM		20									
+C-Group	CGroupId=75514	AgencyId=5771	BNSF Railway - Hannah Subdivision	Off	48.675048	-97.567712	10.0	Circle	
+C-Freq	CFreqId=319763	CGroupId=75514	Conway to Langdon	Off	161100000	NFM		20									
+C-Group	CGroupId=75242	AgencyId=5771	BNSF Railway - Hettinger Subdivison	Off	46.154912	-103.423316	50.0	Circle	
+C-Freq	CFreqId=318056	CGroupId=75242	Hettinger to Terry	Off	160920000	NFM		20									
+C-Freq	CFreqId=318060	CGroupId=75242	MRAS Blue	Off	160620000	NFM		20									
+C-Freq	CFreqId=318058	CGroupId=75242	MRAS Orange	Off	161310000	NFM		20									
+C-Freq	CFreqId=318057	CGroupId=75242	MRAS Red	Off	160665000	NFM		20									
+C-Freq	CFreqId=318059	CGroupId=75242	MRAS Yellow	Off	161490000	NFM		20									
+C-Group	CGroupId=75523	AgencyId=5771	BNSF Railway - Hillsoboro Subdivision	Off	47.400022	-97.001807	36.0	Circle	
+C-Freq	CFreqId=319777	CGroupId=75523	Dilworth Terminal	Off	161250000	NFM		20									
+C-Freq	CFreqId=319778	CGroupId=75523	Dilworth Yard	Off	160410000	NFM		20									
+C-Freq	CFreqId=319776	CGroupId=75523	Fargo Yard to DL Swtich	Off	161100000	NFM		20									
+C-Group	CGroupId=75249	AgencyId=5771	BNSF Railway - Jamestown Subdivision	Off	46.886102	-98.796094	96.0	Circle	
+C-Freq	CFreqId=318079	CGroupId=75249	 Surrey Jct. Switch to Mandan	Off	160695000	NFM		20									
+C-Freq	CFreqId=318080	CGroupId=75249	Jamestown Yard	Off	161100000	NFM		20									
+C-Freq	CFreqId=318081	CGroupId=75249	Mandan Yard	Off	160410000	NFM		20									
+C-Freq	CFreqId=318082	CGroupId=75249	Mandan Yard Switching	Off	160590000	NFM		20									
+C-Group	CGroupId=75519	AgencyId=5771	BNSF Railway - KO Subdivision	Off	47.446294	-99.125684	120.0	Circle	
+C-Freq	CFreqId=319769	CGroupId=75519	Dilworth Terminal	Off	161250000	NFM		20									
+C-Freq	CFreqId=319770	CGroupId=75519	Dilworth Yard	Off	160410000	NFM		20									
+C-Freq	CFreqId=319771	CGroupId=75519	Minot Yard - East Switching	Off	160410000	NFM		20									
+C-Freq	CFreqId=319772	CGroupId=75519	Minot Yard - West Switching	Off	160500000	NFM		20									
+C-Freq	CFreqId=319768	CGroupId=75519	West Fargo to Minot	Off	161160000	NFM		20									
+C-Freq	CFreqId=327381	CGroupId=75519	West Fargo to Surrey Jct. Switch	Off	160695000	NFM		20									
+C-Group	CGroupId=75243	AgencyId=5771	BNSF Railway - Mobridge Subdivision	Off	45.763308	-100.872510	125.0	Circle	
+C-Freq	CFreqId=318061	CGroupId=75243	Aberdeen to Hettinger	Off	161385000	NFM		20									
+C-Freq	CFreqId=318062	CGroupId=75243	Aberdeen Yard	Off	161355000	NFM		20									
+C-Freq	CFreqId=318063	CGroupId=75243	MRAS Orange	Off	161310000	NFM		20									
+C-Freq	CFreqId=318064	CGroupId=75243	MRAS Red	Off	160665000	NFM		20									
+C-Freq	CFreqId=318065	CGroupId=75243	MRAS Yellow	Off	161490000	NFM		20									
+C-Group	CGroupId=75522	AgencyId=5771	BNSF Railway - Moorhead Subdivision	Off	46.140308	-98.040125	25.0	Circle	
+C-Freq	CFreqId=319775	CGroupId=75522	RRVW Railroad to South Moorhead	Off	160920000	NFM		20									
+C-Group	CGroupId=75246	AgencyId=5771	BNSF Railway - Niobe Subidivsion	Off	48.833492	-102.300073	15.0	Circle	
+C-Freq	CFreqId=318076	CGroupId=75246	Niobe to Northgate	Off	160800000	NFM		20									
+C-Group	CGroupId=75521	AgencyId=5771	BNSF Railway - Prosper Subdivision	Off	46.887322	-97.008289	15.0	Circle	
+C-Freq	CFreqId=319774	CGroupId=75521	JY Jucntion to Nolan	Off	161160000	NFM		20									
+C-Group	CGroupId=75517	AgencyId=5771	BNSF Railway - Rolla Subdivision	Off	48.584692	-99.205553	25.0	Circle	
+C-Freq	CFreqId=319766	CGroupId=75517	Churchs Ferry to Bisbee	Off	161100000	NFM		20									
+C-Group	CGroupId=75518	AgencyId=5771	BNSF Railway - Westhope Subdivision	Off	48.588327	-100.257495	25.0	Circle	
+C-Freq	CFreqId=319767	CGroupId=75518	Rugby to Bottineau	Off	161100000	NFM		20									
+C-Group	CGroupId=75248	AgencyId=5771	BNSF Railway - Zap Line	Off	47.051505	-101.389087	30.0	Circle	
+C-Freq	CFreqId=318078	CGroupId=75248	Mandan to Beulah	Off	160695000	NFM		20									
+C-Group	CGroupId=76075	AgencyId=5771	Canadian Pacific Railway - Carrington Subdivision	Off	47.251085	-98.896948	60.0	Circle	
+C-Freq	CFreqId=327349	CGroupId=76075	CP - SOO	Off	160770000	NFM		20									
+C-Freq	CFreqId=327351	CGroupId=76075	CP - SOO	Off	161085000	NFM		20									
+C-Freq	CFreqId=327353	CGroupId=76075	CP - SOO	Off	161370000	NFM		20									
+C-Freq	CFreqId=327355	CGroupId=76075	CP - SOO	Off	161520000	NFM		20									
+C-Freq	CFreqId=327348	CGroupId=76075	CP - SOO MRAS	Off	160215000	NFM		20									
+C-Group	CGroupId=76076	AgencyId=5771	Canadian Pacific Railway - Elbow Lake Subdivision & Veblen Subdi	Off	46.288976	-97.109912	35.0	Circle	
+C-Freq	CFreqId=327358	CGroupId=76076	CP - SOO	Off	160725000	NFM		20									
+C-Freq	CFreqId=327360	CGroupId=76076	CP - SOO	Off	160770000	NFM		20									
+C-Freq	CFreqId=327363	CGroupId=76076	CP - SOO	Off	161085000	NFM		20									
+C-Freq	CFreqId=327364	CGroupId=76076	CP - SOO	Off	161235000	NFM		20									
+C-Freq	CFreqId=327365	CGroupId=76076	CP - SOO	Off	161370000	NFM		20									
+C-Freq	CFreqId=327367	CGroupId=76076	CP - SOO	Off	161520000	NFM		20									
+C-Freq	CFreqId=327357	CGroupId=76076	CP - SOO MRAS	Off	160215000	NFM		20									
+C-Group	CGroupId=76074	AgencyId=5771	Canadian Pacific Railway - New Town Subdivision	Off	47.914317	-101.929175	30.0	Circle	
+C-Freq	CFreqId=327377	CGroupId=76074	CP - SOO	Off	160770000	NFM		20									
+C-Freq	CFreqId=327378	CGroupId=76074	CP - SOO	Off	161085000	NFM		20									
+C-Freq	CFreqId=327379	CGroupId=76074	CP - SOO	Off	161370000	NFM		20									
+C-Freq	CFreqId=327380	CGroupId=76074	CP - SOO	Off	161520000	NFM		20									
+C-Group	CGroupId=76073	AgencyId=5771	Canadian Pacific Railway - Portal Subdivision	Off	48.288493	-101.363379	75.0	Circle	
+C-Freq	CFreqId=327369	CGroupId=76073	CP - SOO	Off	160770000	NFM		20									
+C-Freq	CFreqId=327370	CGroupId=76073	CP - SOO	Off	161085000	NFM		20									
+C-Freq	CFreqId=327371	CGroupId=76073	CP - SOO	Off	161325000	NFM		20									
+C-Freq	CFreqId=327372	CGroupId=76073	CP - SOO	Off	161370000	NFM		20									
+C-Freq	CFreqId=327373	CGroupId=76073	CP - SOO	Off	161520000	NFM		20									
+C-Group	CGroupId=75251	AgencyId=5771	Dakota Missoursi Valley Western - Operations	Off	47.400000	-100.400000	210.0	Circle	
+C-Freq	CFreqId=327537	CGroupId=75251	Operations	Off	161265000	NFM		20									
+C-Group	CGroupId=77053	AgencyId=5771	Northern Plains Railroad - Operations	Off	48.000000	-99.500000	160.0	Circle	
+C-Freq	CFreqId=327538	CGroupId=77053	Operations	Off	160860000	NFM		20									
+C-Freq	CFreqId=327539	CGroupId=77053	Operations	Off	161430000	NFM		20									
+C-Group	CGroupId=75250	AgencyId=5771	Red River Valley Western Railroad - Operations	Off	46.891921	-97.408301	50.0	Circle	
+C-Freq	CFreqId=318083	CGroupId=75250	Dispatcher	Off	160365000	NFM		20									
+C-Freq	CFreqId=327533	CGroupId=75250	MRAS	Off	161445000	NFM		20									
+C-Freq	CFreqId=327347	CGroupId=75250	Switching	Off	160440000	NFM		20									
+Conventional	AgencyId=9096	StateId=38	North Dakota State Fair Center	Off		Conventional								
+AreaState	AgencyId=9096	StateId=38
+AreaCounty	AgencyId=9096	CountyId=2037
+C-Group	CGroupId=75863	AgencyId=9096	North Dakota State Fair	Off	48.235577	-101.262773	1.0	Circle	
+C-Freq	CFreqId=322137	CGroupId=75863	Law Enforcement	Off	154860000	NFM		2									
+C-Freq	CFreqId=322136	CGroupId=75863	Lots	Off	453112500	NFM		17									
+C-Freq	CFreqId=322138	CGroupId=75863	Nodak Race Track Ops 1	Off	451362500	NFM		17									
+C-Freq	CFreqId=322139	CGroupId=75863	Nodak Race Track Ops 2	Off	451462500	NFM		17									
+C-Freq	CFreqId=322140	CGroupId=75863	Nodak Race Track Ops 3	Off	451487500	NFM		17									
+C-Freq	CFreqId=322141	CGroupId=75863	Nodak Race Track Ops 4	Off	451637500	NFM		17									
+C-Freq	CFreqId=322133	CGroupId=75863	Operations	Off	453775000	NFM		17									
+C-Freq	CFreqId=322135	CGroupId=75863	Parking	Off	469487500	NFM		17									
+C-Freq	CFreqId=322134	CGroupId=75863	Security	Off	464687500	NFM		33									
+Conventional	AgencyId=9829	StateId=38	Sioux County Business	Off		Conventional								
+AreaState	AgencyId=9829	StateId=38
+AreaCounty	AgencyId=9829	CountyId=2029
+C-Group	CGroupId=81408	AgencyId=9829	Cannon Ball - Casinos	Off	46.389439	-100.594011	3.0	Circle	
+C-Freq	CFreqId=351204	CGroupId=81408	Prairie Knights Casino	Off	461125000	NFM		17									
+Conventional	AgencyId=9891	StateId=38	Sloulin Field International Airport (ISN)	Off		Conventional								
+AreaState	AgencyId=9891	StateId=38
+AreaCounty	AgencyId=9891	CountyId=2039
+C-Group	CGroupId=63031	AgencyId=9891	Sloulin Field International Aiport - Air Traffic Control	Off	48.175791	-103.639893	1.0	Circle	
+C-Freq	CFreqId=261059	CGroupId=63031	Automated Weather Observing System	Off	125925000	AM		15									
+C-Freq	CFreqId=261060	CGroupId=63031	Grand Forks Radio	Off	123600000	AM		15									
+C-Freq	CFreqId=261058	CGroupId=63031	Salt Lake ARTCC	Off	126850000	AM		15									
+C-Freq	CFreqId=353364	CGroupId=63031	Salt Lake ARTCC	Off	305320000	AM		15									
+C-Freq	CFreqId=261057	CGroupId=63031	Unicom	Off	122800000	AM		15									
+Conventional	AgencyId=9480	StateId=38	Stark County Business	Off		Conventional								
+AreaState	AgencyId=9480	StateId=38
+AreaCounty	AgencyId=9480	CountyId=2031
+C-Group	CGroupId=78626	AgencyId=9480	Dickinson - Construction	Off	46.879306	-102.786108	2.0	Circle	
+C-Freq	CFreqId=337050	CGroupId=78626	Dickinson Ready Mix	Off	152915000	NFM	TONE=D412	17									
+C-Freq	CFreqId=337048	CGroupId=78626	Kadrmas Lee Jackson	Off	151625000	NFM	TONE=C67.0	17									
+C-Freq	CFreqId=337049	CGroupId=78626	Tooz Construction	Off	151835000	NFM	TONE=D073	17									
+C-Group	CGroupId=78627	AgencyId=9480	Dickinson - Retail	Off	46.879306	-102.786108	2.0	Circle	
+C-Freq	CFreqId=337051	CGroupId=78627	Walmart	Off	154570000	NFM		17									
+C-Group	CGroupId=78625	AgencyId=9480	Dickinson - Transportation	Off	46.879306	-102.786108	2.0	Circle	
+C-Freq	CFreqId=337047	CGroupId=78625	Black Hills Trucking	Off	44420000	FM		17									
+Conventional	AgencyId=9819	StateId=38	State Historical Society of North Dakota	Off		Conventional								
+AreaState	AgencyId=9819	StateId=38
+AreaCounty	AgencyId=9819	CountyId=0
+C-Group	CGroupId=81292	AgencyId=9819	North Dakota Heritage Center - Operations	Off	46.819097	-100.782590	0.3	Circle	
+C-Freq	CFreqId=151451	CGroupId=81292	Security	Off	453350000	NFM	TONE=C123.0	33									
+Conventional	AgencyId=8945	StateId=38	Ward County Business	Off		Conventional								
+AreaState	AgencyId=8945	StateId=38
+AreaCounty	AgencyId=8945	CountyId=2037
+C-Group	CGroupId=76986	AgencyId=8945	Berthhold - Industry	Off	48.314047	-101.735678	5.0	Circle	
+C-Freq	CFreqId=327374	CGroupId=76986	Enbridge - Berthold Oil Terminal	Off	463300000	NFM		17									
+C-Freq	CFreqId=327376	CGroupId=76986	Enbridge - Berthold Rail Loading	Off	160800000	NFM		17									
+C-Group	CGroupId=38464	AgencyId=8945	Countywide - Businesses	Off	48.203369	-101.421826	50.0	Circle	
+C-Freq	CFreqId=301776	CGroupId=38464	Aggregate Construction Inc	Off	461900000	FM		17									
+C-Freq	CFreqId=288762	CGroupId=38464	Ameritest Inc	Off	160027500	NFM	TONE=C100.0	17									
+C-Freq	CFreqId=241995	CGroupId=38464	Bechtold paving inc	Off	151835000	FM	TONE=C118.8	17									
+C-Freq	CFreqId=288763	CGroupId=38464	Blackrock Drilling	Off	158400000	FM	TONE=D043	17									
+C-Freq	CFreqId=323398	CGroupId=38464	Capital RV Center	Off	451862500	NFM		17									
+C-Freq	CFreqId=279171	CGroupId=38464	Central Trenching INC	Off	151505000	FM		17									
+C-Freq	CFreqId=241987	CGroupId=38464	Concrete mobile llc	Off	153930000	FM		17									
+C-Freq	CFreqId=241997	CGroupId=38464	Continental metal products inc	Off	151955000	FM		17									
+C-Freq	CFreqId=158544	CGroupId=38464	Coughlin Construction Company Inc	Off	452025000	FM	TONE=D071	17									
+C-Freq	CFreqId=301778	CGroupId=38464	Crude City Construction Inc.	Off	469725000	FM		17									
+C-Freq	CFreqId=279184	CGroupId=38464	Dakota Agronomy	Off	461175000	FM		17									
+C-Freq	CFreqId=288764	CGroupId=38464	Dakota Boys Ranch	Off	159870000	FM	TONE=C123.0	17									
+C-Freq	CFreqId=151459	CGroupId=38464	Dakota Square Mall	Off	464325000	FM	TONE=D311	17									
+C-Freq	CFreqId=241999	CGroupId=38464	Dakota wrecker	Off	461250000	FM		17									
+C-Freq	CFreqId=151460	CGroupId=38464	Dakota Wrecker	Off	461350000	FM	TONE=D223	17									
+C-Freq	CFreqId=241985	CGroupId=38464	Earth movers inc	Off	462225000	FM	TONE=C127.3	17									
+C-Freq	CFreqId=241984	CGroupId=38464	Earth movers inc	Off	466850000	FM	TONE=C127.3	17									
+C-Freq	CFreqId=241986	CGroupId=38464	Earth movers inc	Off	467225000	FM	TONE=C127.3	17									
+C-Freq	CFreqId=241983	CGroupId=38464	Earth movers ine	Off	461850000	FM	TONE=C127.3	17									
+C-Freq	CFreqId=288765	CGroupId=38464	Enbridge Pipeline ND	Off	158370000	FM	TONE=C67.0	17									
+C-Freq	CFreqId=301779	CGroupId=38464	Enbridge Pipeline ND	Off	464987500	FM	TONE=C67.0	17									
+C-Freq	CFreqId=279172	CGroupId=38464	Excavating Inc	Off	464925000	FM		17									
+C-Freq	CFreqId=241996	CGroupId=38464	Farstad oil inc	Off	461900000	FM		17									
+C-Freq	CFreqId=301780	CGroupId=38464	First Choice Energy	Off	451800000	FM		17									
+C-Freq	CFreqId=301781	CGroupId=38464	First Choice Energy	Off	456812500	FM		17									
+C-Freq	CFreqId=261222	CGroupId=38464	Gerdau Ameristeel	Off	151895000	FM		17									
+C-Freq	CFreqId=241989	CGroupId=38464	Gravel products inc	Off	151490000	FM		17									
+C-Freq	CFreqId=279174	CGroupId=38464	Heidrich Lumber INC	Off	464100000	FM		17									
+C-Freq	CFreqId=279173	CGroupId=38464	Huwe Housemovers Inc	Off	152360000	FM		17									
+C-Freq	CFreqId=301782	CGroupId=38464	Integrated Production Services Inc	Off	151505000	FM		17									
+C-Freq	CFreqId=301783	CGroupId=38464	Integrated Production Services Inc	Off	151625000	FM		17									
+C-Freq	CFreqId=301784	CGroupId=38464	Integrated Production Services Inc	Off	158400000	FM		17									
+C-Freq	CFreqId=151458	CGroupId=38464	International Inn	Off	157680000	FM	TONE=C131.8	17									
+C-Freq	CFreqId=158543	CGroupId=38464	Keller Paving & Landscaping Inc	Off	463800000	FM	TONE=D115	17									
+C-Freq	CFreqId=288768	CGroupId=38464	Key Energy Services, Inc	Off	151910000	FM	TONE=D116	17									
+C-Freq	CFreqId=288769	CGroupId=38464	Key Energy Services, Inc	Off	151962500	FM	TONE=D071	17									
+C-Freq	CFreqId=241992	CGroupId=38464	Land O Lakes	Off	451350000	FM		17									
+C-Freq	CFreqId=261218	CGroupId=38464	Magic mile Welding	Off	151505000	FM		17									
+C-Freq	CFreqId=261219	CGroupId=38464	Magic mile Welding	Off	151625000	FM		17									
+C-Freq	CFreqId=261220	CGroupId=38464	Magic mile Welding	Off	158400000	FM		17									
+C-Freq	CFreqId=241988	CGroupId=38464	Main electric construction inc	Off	151925000	FM		17									
+C-Freq	CFreqId=279175	CGroupId=38464	Map Dakota LLC	Off	462750000	FM		17									
+C-Freq	CFreqId=288766	CGroupId=38464	Martin Communications	Off	157200000	FM		17									
+C-Freq	CFreqId=288767	CGroupId=38464	Martin Communications	Off	161800000	FM		17									
+C-Freq	CFreqId=301786	CGroupId=38464	Mattson Construction Co	Off	461600000	FM		17									
+C-Freq	CFreqId=301787	CGroupId=38464	Mattson Construction Co	Off	466600000	FM		17									
+C-Freq	CFreqId=301785	CGroupId=38464	Mowbray & Son Inc	Off	451400000	FM		17									
+C-Freq	CFreqId=279180	CGroupId=38464	North Prairie Rural Water	Off	462312500	FM		17									
+C-Freq	CFreqId=241982	CGroupId=38464	Novak's landscaping	Off	463750000	FM	TONE=D503	17									
+C-Freq	CFreqId=241990	CGroupId=38464	Pepsi cola bottling co	Off	452400000	FM		17									
+C-Freq	CFreqId=241991	CGroupId=38464	Pepsi cols bottling co	Off	457400000	FM		17									
+C-Freq	CFreqId=261223	CGroupId=38464	Pioneer Agviation INC	Off	157620000	FM		17									
+C-Freq	CFreqId=261216	CGroupId=38464	Precision landscaping & construction	Off	463637500	FM		17									
+C-Freq	CFreqId=261217	CGroupId=38464	Precision landscaping & construction	Off	468637500	FM		17									
+C-Freq	CFreqId=322853	CGroupId=38464	Pumpco Services	Off	151505000	FM		17									
+C-Freq	CFreqId=322855	CGroupId=38464	Pumpco Services	Off	151522500	FM		17									
+C-Freq	CFreqId=322857	CGroupId=38464	Pumpco Services	Off	153290000	FM		17									
+C-Freq	CFreqId=322858	CGroupId=38464	Pumpco Services	Off	153440000	FM		17									
+C-Freq	CFreqId=322859	CGroupId=38464	Pumpco Services	Off	158400000	FM		17									
+C-Freq	CFreqId=322860	CGroupId=38464	Pumpco Services	Off	158407500	FM		17									
+C-Freq	CFreqId=301788	CGroupId=38464	Rockwater Energy Solutions	Off	452025000	FM		17									
+C-Freq	CFreqId=301789	CGroupId=38464	Rockwater Energy Solutions	Off	457025000	FM		17									
+C-Freq	CFreqId=279182	CGroupId=38464	S & S Farms	Off	462275000	FM		17									
+C-Freq	CFreqId=158316	CGroupId=38464	Security Fence Inc	Off	461425000	FM	TONE=D723	17									
+C-Freq	CFreqId=158541	CGroupId=38464	Souris Basin Transportation	Off	151655000	FM		17									
+C-Freq	CFreqId=158542	CGroupId=38464	Souris Basin Transportation	Off	157275000	FM	TONE=C67.0	17									
+C-Freq	CFreqId=279183	CGroupId=38464	Souris Valley Ready Mix	Off	159637500	FM		17									
+C-Freq	CFreqId=241998	CGroupId=38464	Srt communications inc	Off	451450000	FM	TONE=C233.6	17									
+C-Freq	CFreqId=241993	CGroupId=38464	Stein construction inc	Off	464725000	FM		17									
+C-Freq	CFreqId=241994	CGroupId=38464	Stein construction inc	Off	469725000	FM		17									
+C-Freq	CFreqId=322861	CGroupId=38464	Sub-Site Technologies	Off	451812500	FM		17									
+C-Freq	CFreqId=322862	CGroupId=38464	Sub-Site Technologies	Off	451812500	FM		17									
+C-Freq	CFreqId=322863	CGroupId=38464	Sub-Site Technologies	Off	451812500	FM		17									
+C-Freq	CFreqId=322864	CGroupId=38464	Sub-Site Technologies	Off	456800000	FM		17									
+C-Freq	CFreqId=322865	CGroupId=38464	Sub-Site Technologies	Off	463912500	FM		17									
+C-Freq	CFreqId=322866	CGroupId=38464	Sub-Site Technologies	Off	468912500	FM		17									
+C-Freq	CFreqId=261221	CGroupId=38464	Sundre Sand & Gravel INC	Off	151955000	FM		17									
+C-Freq	CFreqId=158308	CGroupId=38464	Taxi 9000 of Minot	Off	152450000	FM	TONE=C131.8	17									
+C-Freq	CFreqId=279181	CGroupId=38464	Team Electronics	Off	464925000	FM		17									
+C-Freq	CFreqId=322854	CGroupId=38464	TES Services Inc.	Off	151512500	FM		17									
+C-Freq	CFreqId=322856	CGroupId=38464	TES Services Inc.	Off	151625000	FM		17									
+C-Freq	CFreqId=287890	CGroupId=38464	Third Watch Communications CH4  ENCRYPTED	Off	158407500	FM	TONE=C254.1	17									
+C-Freq	CFreqId=287891	CGroupId=38464	Third Watch Communications CH5  ENCRYPTED	Off	154527500	FM	TONE=C210.7	17									
+C-Group	CGroupId=76988	AgencyId=8945	Minot - Construction	Off	48.232321	-101.291968	5.0	Circle	
+C-Freq	CFreqId=158311	CGroupId=76988	Minot Milling Div Philadelphia	Off	453000000	FM	TONE=D026	17									
+C-Freq	CFreqId=158310	CGroupId=76988	Minot Paving Company	Off	464150000	FM		17									
+C-Group	CGroupId=79507	AgencyId=8945	Minot - Hospitals	Off	48.232510	-101.296273	5.0	Circle	
+C-Freq	CFreqId=341939	CGroupId=79507	Trinity Health 1	Off	152007500	NFM		13									
+C-Freq	CFreqId=341940	CGroupId=79507	Trinity Health 2	Off	154540000	NFM		12									
+C-Freq	CFreqId=341941	CGroupId=79507	Trinity Health 3	Off	155295000	NFM		12									
+C-Freq	CFreqId=341942	CGroupId=79507	Trinity Health 4	Off	463925000	NFM		12									
+C-Group	CGroupId=76989	AgencyId=8945	Minot - Recreation	Off	48.232321	-101.291968	5.0	Circle	
+C-Freq	CFreqId=279178	CGroupId=76989	Minot Country Club Maint	Off	467812500	FM		17									
+C-Freq	CFreqId=279177	CGroupId=76989	Minot Country Club Pool	Off	467762500	FM		17									
+C-Freq	CFreqId=279179	CGroupId=76989	Minot Country Club Talk	Off	468212500	FM		17									
+C-Freq	CFreqId=279176	CGroupId=76989	MinotCountry Club Main	Off	467012500	FM		17									
+C-Group	CGroupId=76987	AgencyId=8945	Minot - Transportation	Off	48.232321	-101.291968	5.0	Circle	
+C-Freq	CFreqId=158309	CGroupId=76987	Minot Cab	Off	452050000	FM		17									
+Conventional	AgencyId=9890	StateId=38	Williams County Business	Off		Conventional								
+AreaState	AgencyId=9890	StateId=38
+AreaCounty	AgencyId=9890	CountyId=2039
+C-Group	CGroupId=81889	AgencyId=9890	Countywide - Transportation	Off	48.302801	-103.433801	37.0	Circle	
+C-Freq	CFreqId=261050	CGroupId=81889	I E Miller	Off	461600000	FM		17									
+C-Group	CGroupId=81887	AgencyId=9890	Williston - Industry	Off	48.146968	-103.617975	5.0	Circle	
+C-Freq	CFreqId=261053	CGroupId=81887	Connor Sales	Off	151955000	FM		17									
+C-Freq	CFreqId=261045	CGroupId=81887	Horizon Resources	Off	152915000	FM		17									
+C-Freq	CFreqId=261046	CGroupId=81887	Journey Energy Services	Off	463275000	FM		17									
+C-Freq	CFreqId=261048	CGroupId=81887	McCody Concrete Products	Off	153560000	FM		17									
+C-Freq	CFreqId=261049	CGroupId=81887	SK&S Oilfield Services	Off	153365000	FM	TONE=C123.0	17									
+C-Freq	CFreqId=261054	CGroupId=81887	Williston Equipment Sales	Off	451275000	FM		17									
+C-Freq	CFreqId=261043	CGroupId=81887	Williston Tank Rental	Off	461175000	FM		17									
+C-Group	CGroupId=81888	AgencyId=9890	Williston - Lodging	Off	48.146968	-103.617975	5.0	Circle	
+C-Freq	CFreqId=261044	CGroupId=81888	Airport Inn	Off	152420000	FM	TONE=C67.0	17									
+C-Group	CGroupId=81886	AgencyId=9890	Williston - Transportation	Off	48.146968	-103.617975	5.0	Circle	
+C-Freq	CFreqId=261047	CGroupId=81886	Basin Cab	Off	463425000	FM		26									
+C-Freq	CFreqId=261056	CGroupId=81886	Black Hills Trucking	Off	461350000	FM		17									
+C-Freq	CFreqId=261042	CGroupId=81886	O Neil Company	Off	151715000	FM	TONE=C100.0	17									
+Trunk	TrunkId=4943	StateId=38	Dakota Communication Service, Inc.	Off		Motorola															NEXEDGE
+AreaState	TrunkId=4943	StateId=38
+AreaCounty	TrunkId=4943	CountyId=1994
+AreaCounty	TrunkId=4943	CountyId=2015
+Site	SiteId=10069	TrunkId=4943	Bismarck	Off	46.810000	-100.830000	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=10069			856012500	1	Srch
+T-Freq	TFreqId=0	SiteId=10069			857012500	2	Srch
+T-Freq	TFreqId=0	SiteId=10069			858012500	3	Srch
+T-Freq	TFreqId=0	SiteId=10069			859012500	4	Srch
+T-Freq	TFreqId=0	SiteId=10069			860012500	5	Srch
+Site	SiteId=10070	TrunkId=4943	Hazen	Off	47.290000	-101.630000	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=10070			856037500	1	Srch
+T-Freq	TFreqId=0	SiteId=10070			857037500	2	Srch
+T-Freq	TFreqId=0	SiteId=10070			858037500	3	Srch
+T-Freq	TFreqId=0	SiteId=10070			859037500	4	Srch
+T-Freq	TFreqId=0	SiteId=10070			860037500	5	Srch
+T-Group	TGroupId=10755	TrunkId=4943	Talkgroups	Off	47.100000	-101.200000	70.0	Circle	
+TGID	Tid=252348	TGroupId=10755	Aggregate Co	Off	42112	ANALOG	17									Any
+TGID	Tid=252352	TGroupId=10755	Aggregate Co	Off	42144	ANALOG	17									Any
+TGID	Tid=252354	TGroupId=10755	Aggregate Co	Off	42160	ANALOG	17									Any
+TGID	Tid=252351	TGroupId=10755	Aggregate Co	Off	42176	ANALOG	17									Any
+TGID	Tid=252349	TGroupId=10755	Aggregate Co	Off	42192	ANALOG	17									Any
+TGID	Tid=252353	TGroupId=10755	Aggregate Co	Off	42208	ANALOG	17									Any
+TGID	Tid=252350	TGroupId=10755	Aggregate Co	Off	42224	ANALOG	17									Any
+TGID	Tid=167125	TGroupId=10755	Fertilawn	Off	24128	ANALOG	17									Any
+TGID	Tid=163744	TGroupId=10755	Fertilawn	Off	24144	ANALOG	17									Any
+TGID	Tid=149970	TGroupId=10755	Outdoor Services Inc. (OSI)	Off	784	ANALOG	17									Any
+TGID	Tid=151412	TGroupId=10755	Waste Management	Off	21616	ANALOG	17									Any
+Trunk	TrunkId=4147	StateId=38	Grand Forks Air Force Base	Off		Motorola															NEXEDGE
+AreaState	TrunkId=4147	StateId=38
+AreaCounty	TrunkId=4147	CountyId=2004
+Site	SiteId=7882	TrunkId=4147	Site-1	Off	47.950000	-97.400000	25.0	AUTO	Custom	Wide	Circle						Srch
+BandPlan_Mot	SiteId=7882	406000000	410737500	12500	380	0	0	25000	0	0	0	25000	0	0	0	25000	0	0	0	25000	0	0	0	25000	0
+T-Freq	TFreqId=0	SiteId=7882			406350000	1	Srch
+T-Freq	TFreqId=0	SiteId=7882			406550000	2	Srch
+T-Freq	TFreqId=0	SiteId=7882			407150000	3	Srch
+T-Freq	TFreqId=0	SiteId=7882			407350000	4	Srch
+T-Freq	TFreqId=0	SiteId=7882			407950000	5	Srch
+T-Freq	TFreqId=0	SiteId=7882			408150000	6	Srch
+T-Freq	TFreqId=0	SiteId=7882			408750000	7	Srch
+T-Group	TGroupId=9915	TrunkId=4147	Aircraft Operations	Off	47.950000	-97.400000	25.0	Circle	
+TGID	Tid=126818	TGroupId=9915	Air Traffic Control	Off	19024	DIGITAL	30									Any
+TGID	Tid=126817	TGroupId=9915	Aircraft Ground Crew	Off	18576	DIGITAL	30									Any
+TGID	Tid=126820	TGroupId=9915	Aircraft Ground Crew	Off	29632	DIGITAL	30									Any
+T-Group	TGroupId=9916	TrunkId=4147	Base Operations	Off	47.950000	-97.400000	25.0	Circle	
+TGID	Tid=129426	TGroupId=9916	Base Utilities	Off	20048	DIGITAL	34									Any
+TGID	Tid=129427	TGroupId=9916	Post Command (all call)	Off	23632	DIGITAL	30									Any
+TGID	Tid=126819	TGroupId=9916	Snow Control	Off	20112	DIGITAL	30									Any
+T-Group	TGroupId=9912	TrunkId=4147	Fire Protection	Off	47.950000	-97.400000	25.0	Circle	
+TGID	Tid=129425	TGroupId=9912	Fire Dispatch	Off	21648	DIGITAL	3									Any
+T-Group	TGroupId=9913	TrunkId=4147	Force Protection	Off	47.950000	-97.400000	25.0	Circle	
+TGID	Tid=126435	TGroupId=9913	Force Protection	Off	19248	DIGITAL	30									Any
+T-Group	TGroupId=9914	TrunkId=4147	Medical	Off	47.950000	-97.400000	25.0	Circle	
+TGID	Tid=126816	TGroupId=9914	Med Patch (155.34)	Off	16496	DIGITAL	4									Any
+Trunk	TrunkId=1669	StateId=38	Mid States Wireless Inc.	Off		Ltr															NEXEDGE
+AreaState	TrunkId=1669	StateId=38
+AreaCounty	TrunkId=1669	CountyId=2033
+AreaCounty	TrunkId=1669	CountyId=2035
+AreaCounty	TrunkId=1669	CountyId=1988
+AreaCounty	TrunkId=1669	CountyId=1995
+Site	SiteId=7451	TrunkId=1669	Amenia	Off	47.004974	-97.218976	25.0	NFM	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=7451			461987500	1	Srch
+T-Freq	TFreqId=0	SiteId=7451			461712500	2	Srch
+T-Freq	TFreqId=0	SiteId=7451			461412500	3	Srch
+T-Freq	TFreqId=0	SiteId=7451			452262500	4	Srch
+T-Freq	TFreqId=0	SiteId=7451			451787500	5	Srch
+Site	SiteId=1133	TrunkId=1669	Fargo	Off	46.877186	-96.789803	25.0	NFM	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=1133			452337500	1	Srch
+T-Freq	TFreqId=0	SiteId=1133			451700000	2	Srch
+T-Freq	TFreqId=0	SiteId=1133			452012500	3	Srch
+T-Freq	TFreqId=0	SiteId=1133			451462500	4	Srch
+T-Freq	TFreqId=0	SiteId=1133			461387500	5	Srch
+Site	SiteId=2373	TrunkId=1669	Hillsboro	Off	47.403868	-97.062031	25.0	NFM	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=2373			451287500	1	Srch
+T-Freq	TFreqId=0	SiteId=2373			451587500	2	Srch
+T-Freq	TFreqId=0	SiteId=2373			451887500	3	Srch
+T-Freq	TFreqId=0	SiteId=2373			452187500	4	Srch
+T-Freq	TFreqId=0	SiteId=2373			452462500	5	Srch
+Site	SiteId=2372	TrunkId=1669	Jamestown	Off	46.910544	-98.708436	25.0	NFM	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=2372			451175000	1	Srch
+T-Freq	TFreqId=0	SiteId=2372			451362500	2	Srch
+T-Freq	TFreqId=0	SiteId=2372			451600000	3	Srch
+T-Freq	TFreqId=0	SiteId=2372			451737500	4	Srch
+T-Freq	TFreqId=0	SiteId=2372			451862500	5	Srch
+Site	SiteId=2371	TrunkId=1669	Valley City	Off	46.923313	-98.003155	25.0	NFM	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=2371			451187500	1	Srch
+T-Freq	TFreqId=0	SiteId=2371			451287500	2	Srch
+T-Freq	TFreqId=0	SiteId=2371			451312500	3	Srch
+T-Freq	TFreqId=0	SiteId=2371			451412500	4	Srch
+T-Freq	TFreqId=0	SiteId=2371			451612500	5	Srch
+T-Group	TGroupId=6363	TrunkId=1669	Talkgroups	Off	46.923313	-98.003155	100.0	Circle	
+TGID	Tid=198881	TGroupId=6363	900RIDES	Off	0-02-004	ALL	17									Any
+TGID	Tid=198904	TGroupId=6363	AUTO DL	Off	0-02-027	ALL	17									Any
+TGID	Tid=198908	TGroupId=6363	AUTO DL	Off	0-02-031	ALL	17									Any
+TGID	Tid=198914	TGroupId=6363	AUTO DL	Off	0-02-037	ALL	17									Any
+TGID	Tid=198927	TGroupId=6363	DATA	Off	0-02-050	ALL	17									Any
+TGID	Tid=198886	TGroupId=6363	DELIVERY	Off	0-02-009	ALL	17									Any
+TGID	Tid=198897	TGroupId=6363	DELIVERY	Off	0-02-020	ALL	17									Any
+TGID	Tid=198922	TGroupId=6363	DELIVERY	Off	0-02-045	ALL	17									Any
+TGID	Tid=198913	TGroupId=6363	ELECT.?	Off	0-02-036	ALL	17									Any
+TGID	Tid=261276	TGroupId=6363	Farm	Off	1-02-007	ALL	17									Any
+TGID	Tid=198879	TGroupId=6363	FARMING	Off	0-02-002	ALL	17									Any
+TGID	Tid=198887	TGroupId=6363	FARMING	Off	0-02-010	ALL	17									Any
+TGID	Tid=198896	TGroupId=6363	FARMING	Off	0-02-019	ALL	17									Any
+TGID	Tid=198902	TGroupId=6363	FARMING	Off	0-02-025	ALL	17									Any
+TGID	Tid=198919	TGroupId=6363	FARMING	Off	0-02-042	ALL	17									Any
+TGID	Tid=198929	TGroupId=6363	FARMING	Off	0-02-052	ALL	17									Any
+TGID	Tid=198878	TGroupId=6363	Group	Off	0-02-001	ALL	17									Any
+TGID	Tid=198880	TGroupId=6363	Group	Off	0-02-003	ALL	17									Any
+TGID	Tid=198882	TGroupId=6363	Group	Off	0-02-005	ALL	17									Any
+TGID	Tid=198883	TGroupId=6363	Group	Off	0-02-006	ALL	17									Any
+TGID	Tid=198884	TGroupId=6363	Group	Off	0-02-007	ALL	17									Any
+TGID	Tid=198885	TGroupId=6363	Group	Off	0-02-008	ALL	17									Any
+TGID	Tid=198890	TGroupId=6363	Group	Off	0-02-013	ALL	17									Any
+TGID	Tid=198891	TGroupId=6363	Group	Off	0-02-014	ALL	17									Any
+TGID	Tid=198892	TGroupId=6363	Group	Off	0-02-015	ALL	17									Any
+TGID	Tid=198893	TGroupId=6363	Group	Off	0-02-016	ALL	17									Any
+TGID	Tid=198894	TGroupId=6363	Group	Off	0-02-017	ALL	17									Any
+TGID	Tid=198898	TGroupId=6363	Group	Off	0-02-021	ALL	17									Any
+TGID	Tid=198900	TGroupId=6363	Group	Off	0-02-023	ALL	17									Any
+TGID	Tid=198903	TGroupId=6363	Group	Off	0-02-026	ALL	17									Any
+TGID	Tid=198905	TGroupId=6363	Group	Off	0-02-028	ALL	17									Any
+TGID	Tid=198906	TGroupId=6363	Group	Off	0-02-029	ALL	17									Any
+TGID	Tid=198907	TGroupId=6363	Group	Off	0-02-030	ALL	17									Any
+TGID	Tid=198911	TGroupId=6363	Group	Off	0-02-034	ALL	17									Any
+TGID	Tid=198912	TGroupId=6363	Group	Off	0-02-035	ALL	17									Any
+TGID	Tid=198916	TGroupId=6363	Group	Off	0-02-039	ALL	17									Any
+TGID	Tid=198921	TGroupId=6363	Group	Off	0-02-044	ALL	17									Any
+TGID	Tid=198923	TGroupId=6363	Group	Off	0-02-046	ALL	17									Any
+TGID	Tid=198924	TGroupId=6363	Group	Off	0-02-047	ALL	17									Any
+TGID	Tid=198925	TGroupId=6363	Group	Off	0-02-048	ALL	17									Any
+TGID	Tid=198926	TGroupId=6363	Group	Off	0-02-049	ALL	17									Any
+TGID	Tid=198928	TGroupId=6363	Group	Off	0-02-250	ALL	17									Any
+TGID	Tid=198899	TGroupId=6363	HVAC	Off	0-02-022	ALL	17									Any
+TGID	Tid=198920	TGroupId=6363	MED VANS	Off	0-02-043	ALL	17									Any
+TGID	Tid=198910	TGroupId=6363	Midwest Patrol	Off	0-02-033	ALL	33									Any
+TGID	Tid=198917	TGroupId=6363	PLUMBING	Off	0-02-040	ALL	17									Any
+TGID	Tid=198895	TGroupId=6363	ROTO ROOT	Off	0-02-018	ALL	17									Any
+TGID	Tid=198901	TGroupId=6363	S GRAVEL	Off	0-02-024	ALL	17									Any
+TGID	Tid=198915	TGroupId=6363	SR RIDE S	Off	0-02-038	ALL	17									Any
+TGID	Tid=198909	TGroupId=6363	TOW / AAA	Off	0-02-032	ALL	17									Any
+TGID	Tid=198918	TGroupId=6363	TRK RPR.	Off	0-02-041	ALL	17									Any
+TGID	Tid=198889	TGroupId=6363	Y WEST	Off	0-02-012	ALL	17									Any
+TGID	Tid=198888	TGroupId=6363	YMCA	Off	0-02-011	ALL	17									Any
+Trunk	TrunkId=9503	StateId=38	Sanford Health	Off		MotoTrbo															NEXEDGE
+AreaState	TrunkId=9503	StateId=38
+AreaCounty	TrunkId=9503	CountyId=1995
+Site	SiteId=30257	TrunkId=9503	Broadway Campus	Off	46.857875	-96.830223	10.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=30257			855037500	1	Srch
+T-Freq	TFreqId=0	SiteId=30257			855512500	2	Srch
+Site	SiteId=30258	TrunkId=9503	South Campus	Off	46.857875	-96.830223	10.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=30258			856312500	1	Srch
+T-Freq	TFreqId=0	SiteId=30258			857312500	2	Srch
+Site	SiteId=30259	TrunkId=9503	West Campus	Off	46.857875	-96.830223	10.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=30259			858312500	1	Srch
+T-Freq	TFreqId=0	SiteId=30259			859312500	2	Srch
+T-Group	TGroupId=25659	TrunkId=9503	Operations	Off	46.857875	-96.830223	10.0	Circle	
+TGID	Tid=314116	TGroupId=25659	Operations	Off	31	ALL	17									Any
+TGID	Tid=314117	TGroupId=25659	Operations/Maintenance	Off	51	ALL	17									Any
+TGID	Tid=314115	TGroupId=25659	Security	Off	1	ALL	17									Any
+Trunk	TrunkId=7889	StateId=38	Stones Mobile Radio (800 MHz)	Off		Motorola															NEXEDGE
+AreaState	TrunkId=7889	StateId=38
+AreaCounty	TrunkId=7889	CountyId=2004
+Site	SiteId=23045	TrunkId=7889	Grand Forks	Off	47.875810	-97.048690	32.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=23045			854387500	1	Srch
+T-Freq	TFreqId=0	SiteId=23045			855437500	2	Srch
+T-Freq	TFreqId=0	SiteId=23045			855862500	3	Srch
+T-Freq	TFreqId=0	SiteId=23045			856812500	4	Srch
+T-Freq	TFreqId=0	SiteId=23045			857812500	5	Srch
+T-Freq	TFreqId=0	SiteId=23045			858812500	6	Srch
+T-Freq	TFreqId=0	SiteId=23045			859937500	7	Srch
+T-Group	TGroupId=20012	TrunkId=7889	Business	Off	47.875810	-97.048690	32.0	Circle	
+TGID	Tid=246894	TGroupId=20012	Cab Company	Off	17488	ANALOG	17									Any
+TGID	Tid=246895	TGroupId=20012	Production/Manufacturing Company	Off	58000	ANALOG	17									Any
+TGID	Tid=246896	TGroupId=20012	Receiving/Warehouse/Materials	Off	58048	ANALOG	17									Any

@@ -1,0 +1,985 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional	CountyId=4353	StateId=104	Albert	Off		Conventional								
+AreaState	CountyId=4353	StateId=104
+AreaCounty	CountyId=4353	CountyId=4353
+C-Group	CGroupId=43899	CountyId=4353	Albert County - EMS	Off	45.803877	-64.886343	20.0	Circle	
+C-Freq	CFreqId=176350	CGroupId=43899	Alma/Riverside Albert	Off	148090000	FM		4									
+C-Freq	CFreqId=176351	CGroupId=43899	Riverview Area	Off	148765000	FM		4									
+C-Group	CGroupId=43898	CountyId=4353	Albert County - Fire	Off	45.803877	-64.886343	20.0	Circle	
+C-Freq	CFreqId=176349	CGroupId=43898	Elgin Fire Dispatch	Off	157695000	FM	TONE=C156.7	3									
+C-Freq	CFreqId=176348	CGroupId=43898	Hillsboro/Alma and Riverside-Alb Fire	Off	163650000	FM	TONE=C67.0	3									
+C-Freq	CFreqId=176346	CGroupId=43898	Riverview Fire Dispatch	Off	151505000	FM	TONE=C156.7	3									
+C-Freq	CFreqId=176347	CGroupId=43898	Riverview Fire TAC	Off	152615000	FM	TONE=C156.7	8									
+C-Group	CGroupId=61243	CountyId=4353	Albert County - Municipal Services	Off	45.803877	-64.886343	20.0	Circle	
+C-Freq	CFreqId=253209	CGroupId=61243	Riverview Public Works	Off	150755000	FM		14									
+C-Group	CGroupId=43900	CountyId=4353	Albert County - Police	Off	45.803877	-64.886343	20.0	Circle	
+C-Freq	CFreqId=176353	CGroupId=43900	RCMP - District 11 Dispatch	Off	155730000	FM		2									
+C-Freq	CFreqId=176352	CGroupId=43900	RCMP - District 11 Dispatch	Off	155820000	FM		2									
+C-Freq	CFreqId=176354	CGroupId=43900	RCMP - District 11 Dispatch	Off	155910000	FM		2									
+C-Group	CGroupId=65904	CountyId=4353	Amateur Radio - Repeaters	Off	45.803877	-64.886343	20.0	Circle	
+C-Freq	CFreqId=271660	CGroupId=65904	Fundy Park TCARC HL to VE9TCR	Off	145170000	FM		21									
+Conventional	CountyId=4354	StateId=104	Carleton	Off		Conventional								
+AreaState	CountyId=4354	StateId=104
+AreaCounty	CountyId=4354	CountyId=4354
+C-Group	CGroupId=72735	CountyId=4354	Repeaters - 2 M Band	Off	46.391225	-67.293944	39.0	Circle	
+C-Freq	CFreqId=303829	CGroupId=72735	VE9CCR - Woodstock CCARC	Off	146970000	FM		13									
+C-Freq	CFreqId=303831	CGroupId=72735	VE9KMT - Perth-Andover	Off	147060000	FM		13									
+C-Freq	CFreqId=303830	CGroupId=72735	VE9TOW - Woodstock	Off	147180000	FM		13									
+C-Group	CGroupId=61538	CountyId=4354	Rural Fire Departments - Bath	Off	46.509833	-67.593306	30.0	Circle	
+C-Freq	CFreqId=254748	CGroupId=61538	Fire	Off	410037500	FM		3									
+C-Group	CGroupId=61534	CountyId=4354	Rural Fire Departments - Centreville	Off	46.433000	-67.717000	30.0	Circle	
+C-Freq	CFreqId=254744	CGroupId=61534	Fire	Off	410037500	FM		3									
+C-Group	CGroupId=61535	CountyId=4354	Rural Fire Departments - Florenceville	Off	46.443472	-67.615222	30.0	Circle	
+C-Freq	CFreqId=254745	CGroupId=61535	Fire	Off	411387500	FM		3									
+C-Group	CGroupId=61536	CountyId=4354	Rural Fire Departments - Glassville	Off	46.483000	-67.417000	30.0	Circle	
+C-Freq	CFreqId=254746	CGroupId=61536	Fire	Off	410037500	FM		3									
+C-Group	CGroupId=61537	CountyId=4354	Rural Fire Departments - Juniper	Off	46.550000	-67.216667	30.0	Circle	
+C-Freq	CFreqId=254747	CGroupId=61537	Fire	Off	412987500	FM		3									
+C-Group	CGroupId=74899	CountyId=4354	Rural Fire Departments - Lakeville	Off	46.342194	-67.689694	30.0	Circle	
+C-Freq	CFreqId=316063	CGroupId=74899	Volunteer Fire Dispatch	Off	410037500	NFM	TONE=D071	3									
+C-Group	CGroupId=65451	CountyId=4354	Woodstock - Fire	Off	46.152222	-67.598333	30.0	Circle	
+C-Freq	CFreqId=270257	CGroupId=65451	Fire Department	Off	154430000	FM		3									
+C-Group	CGroupId=65450	CountyId=4354	Woodstock - Police	Off	46.152222	-67.598333	30.0	Circle	
+C-Freq	CFreqId=270258	CGroupId=65450	Police	Off	155970000	FM	TONE=C107.2	2									
+C-Group	CGroupId=65452	CountyId=4354	Woodstock - Public Works	Off	46.152222	-67.598333	30.0	Circle	
+C-Freq	CFreqId=270259	CGroupId=65452	Public Works - Simplex	Off	151160000	FM		14									
+Conventional	CountyId=4355	StateId=104	Charlotte	Off		Conventional								
+AreaState	CountyId=4355	StateId=104
+AreaCounty	CountyId=4355	CountyId=4355
+C-Group	CGroupId=61284	CountyId=4355	Charlotte County - County Fire (Rural)	Off	44.926750	-66.977111	35.0	Circle	
+C-Freq	CFreqId=253460	CGroupId=61284	Rural Fire -  Ch.1 - Simplex	Off	411062500	FM		3									
+C-Freq	CFreqId=253461	CGroupId=61284	Rural Fire -  Ch.2 - Moores Mills	Off	410962500	FM		8									
+C-Freq	CFreqId=253462	CGroupId=61284	Rural Fire -  Ch.3 - Pleasant Ridge	Off	411637500	FM		3									
+C-Freq	CFreqId=253463	CGroupId=61284	Rural Fire -  Ch.4 - Chamcook	Off	412087500	FM		3									
+C-Group	CGroupId=33537	CountyId=4355	Charlotte County - St. George	Off	45.130831	-66.819619	30.0	Circle	
+C-Freq	CFreqId=131953	CGroupId=33537	Fire Department	Off	154650000	FM	TONE=C100.0	3									
+Conventional	CountyId=4356	StateId=104	Gloucester	Off		Conventional								
+AreaState	CountyId=4356	StateId=104
+AreaCounty	CountyId=4356	CountyId=4356
+C-Group	CGroupId=65453	CountyId=4356	Bathurst - Fire	Off	47.620000	-65.650000	30.0	Circle	
+C-Freq	CFreqId=270262	CGroupId=65453	Fire Department	Off	159510000	FM		3									
+C-Group	CGroupId=65454	CountyId=4356	Bathurst - Municipal Services	Off	47.620000	-65.650000	30.0	Circle	
+C-Freq	CFreqId=270260	CGroupId=65454	Engineering & Recreation	Off	152120000	FM		14									
+C-Freq	CFreqId=270261	CGroupId=65454	Public Works	Off	169080000	FM		14									
+C-Group	CGroupId=15471	CountyId=4356	Bathurst - Police	Off	47.620000	-65.650000	30.0	Circle	
+C-Freq	CFreqId=57023	CGroupId=15471	Police	Off	154650000	FM	TONE=C107.2	2									
+C-Freq	CFreqId=311687	CGroupId=15471	RCMP District 8 Caraquet Repeater	Off	155705000	NFM	TONE=C173.8	2									
+C-Freq	CFreqId=311685	CGroupId=15471	RCMP District 9 Belledune Repeater	Off	155940000	NFM	TONE=C173.8	2									
+C-Freq	CFreqId=311686	CGroupId=15471	RCMP District 9 Belledune Repeater	Off	155970000	NFM	TONE=C107.2	2									
+C-Freq	CFreqId=67814	CGroupId=15471	Regional Police	Off	159405000	FM	TONE=C100.0	2									
+C-Group	CGroupId=71099	CountyId=4356	Regional Fire Dispatch - Bathurst PSAP	Off	47.766239	-65.300394	50.0	Circle	
+C-Freq	CFreqId=295083	CGroupId=71099	Fire - Central Zone	Off	154205000	NFM	TONE=C94.8	3									
+C-Freq	CFreqId=314455	CGroupId=71099	Fire - East Zone	Off	153995000	NFM	TONE=C82.5	3									
+C-Freq	CFreqId=314454	CGroupId=71099	Fire - West Zone	Off	152015000	NFM	TONE=C107.2	3									
+C-Group	CGroupId=70093	CountyId=4356	Repeaters - 2M Band	Off	47.766239	-65.300394	50.0	Circle	
+C-Freq	CFreqId=289197	CGroupId=70093	VE1BRD - Bathurst	Off	147315000	FM		13									
+C-Freq	CFreqId=289196	CGroupId=70093	VE9ELM - Elm Tree	Off	145410000	FM		13									
+C-Freq	CFreqId=289198	CGroupId=70093	VE9SID - St Isidore	Off	146700000	FM		13									
+C-Group	CGroupId=65458	CountyId=4356	Shippagan - Fire	Off	47.743889	-64.717778	30.0	Circle	
+C-Freq	CFreqId=270271	CGroupId=65458	Acadian Peninsular Firefighter Association - Mutual Aid	Off	162825000	FM		11									
+C-Freq	CFreqId=270269	CGroupId=65458	Fire	Off	154070000	FM		3									
+C-Freq	CFreqId=270270	CGroupId=65458	Fire - Simplex	Off	153830000	FM		8									
+C-Group	CGroupId=65459	CountyId=4356	Shippagan - Municipal Services	Off	47.743889	-64.717778	30.0	Circle	
+C-Freq	CFreqId=270272	CGroupId=65459	Public Works - Simplex	Off	153830000	FM		14									
+C-Group	CGroupId=65456	CountyId=4356	Tracadie-Sheila - Fire	Off	47.514444	-64.918056	30.0	Circle	
+C-Freq	CFreqId=270263	CGroupId=65456	Tracadie Fire Dept	Off	169065000	FM		3									
+C-Group	CGroupId=65457	CountyId=4356	Tracadie-Sheila - Municipal Services	Off	47.766239	-65.300394	50.0	Circle	
+C-Freq	CFreqId=270264	CGroupId=65457	Works Department	Off	152375000	FM		14									
+C-Group	CGroupId=65455	CountyId=4356	Tracadie-Sheila - Police	Off	47.514444	-64.918056	30.0	Circle	
+C-Freq	CFreqId=270265	CGroupId=65455	RCMP District 8	Off	155805000	FM	TONE=C173.8	2									
+C-Freq	CFreqId=270266	CGroupId=65455	RCMP Tac 1 - Simplex	Off	155670000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270267	CGroupId=65455	RCMP Tac 2 - Simplex	Off	155460000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270268	CGroupId=65455	RCMP Tac 3 - Simplex	Off	155370000	FM	TONE=C141.3	7									
+Conventional	CountyId=4357	StateId=104	Kent	Off		Conventional								
+AreaState	CountyId=4357	StateId=104
+AreaCounty	CountyId=4357	CountyId=4357
+C-Group	CGroupId=80609	CountyId=4357	Parks - Kouchibouguac National Park	Off	46.534409	-64.955862	40.0	Circle	
+C-Freq	CFreqId=347411	CGroupId=80609	Operations	Off	155190000	NFM		14									
+C-Group	CGroupId=42871	CountyId=4357	Public Safety - EMS (Region 1)	Off	46.534000	-64.732600	30.0	Circle	
+C-Freq	CFreqId=172273	CGroupId=42871	Acadieville	Off	150650000	FM		4									
+C-Freq	CFreqId=172272	CGroupId=42871	South St. Norbert	Off	148120000	FM		4									
+C-Group	CGroupId=69806	CountyId=4357	Public Safety - Fire	Off	46.534000	-64.732600	30.0	Circle	
+C-Freq	CFreqId=318976	CGroupId=69806	Beersville	Off	159225000	NFM		3									
+C-Freq	CFreqId=287440	CGroupId=69806	Bouctouche	Off	159285000	FM		24									
+C-Freq	CFreqId=287439	CGroupId=69806	Bouctouche	Off	164820000	FM		3									
+C-Freq	CFreqId=319115	CGroupId=69806	St. Paul	Off	169245000	NFM		3									
+C-Freq	CFreqId=318974	CGroupId=69806	Town of Richibucto	Off	159525000	NFM		3									
+C-Freq	CFreqId=318973	CGroupId=69806	Village of Rexton	Off	159435000	NFM		3									
+C-Freq	CFreqId=318975	CGroupId=69806	Village of Richibucto	Off	158835000	NFM		3									
+C-Freq	CFreqId=321253	CGroupId=69806	Village of St. Antoine Volunteers	Off	152300000	NFM		3									
+C-Freq	CFreqId=318977	CGroupId=69806	Village of St. Louis Volunteers	Off	165225000	NFM		3									
+C-Group	CGroupId=75676	CountyId=4357	Public Safety - Laketon	Off	46.534409	-64.955862	40.0	Circle	
+C-Freq	CFreqId=321084	CGroupId=75676	DNR Portable	Off	164640000	NFM		23									
+C-Group	CGroupId=42870	CountyId=4357	Public Safety - Police	Off	46.534000	-64.732600	30.0	Circle	
+C-Freq	CFreqId=172270	CGroupId=42870	RCMP Acadieville	Off	155580000	FM	TONE=C162.2	2									
+C-Freq	CFreqId=172269	CGroupId=42870	RCMP Bouctouche	Off	148405000	FM		2									
+C-Freq	CFreqId=172271	CGroupId=42870	RCMP South St. Norbert	Off	155940000	FM	TONE=C162.2	2									
+Conventional	CountyId=4358	StateId=104	Kings	Off		Conventional								
+AreaState	CountyId=4358	StateId=104
+AreaCounty	CountyId=4358	CountyId=4358
+C-Group	CGroupId=65295	CountyId=4358	Grand Bay/Westfield - Fire	Off	45.360750	-66.241510	30.0	Circle	
+C-Freq	CFreqId=269851	CGroupId=65295	Voluntary Fire Department	Off	169170000	FM	TONE=C136.5	3									
+C-Group	CGroupId=65299	CountyId=4358	Grand Bay/Westfield - Municipal Services	Off	45.360750	-66.241510	30.0	Circle	
+C-Freq	CFreqId=269852	CGroupId=65299	Public Works	Off	410362500	FM		14									
+C-Group	CGroupId=65294	CountyId=4358	Grand Bay/Westfield - Police	Off	45.360750	-66.241510	30.0	Circle	
+C-Freq	CFreqId=269847	CGroupId=65294	RCMP District 3 - Clarendon Repeater	Off	155910000	FM	TONE=C107.2	2									
+C-Freq	CFreqId=269848	CGroupId=65294	RCMP Tac 1 - Simplex	Off	155670000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=269849	CGroupId=65294	RCMP Tac 2 - Simplex	Off	155460000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=269850	CGroupId=65294	RCMP Tac 3 - Simplex	Off	155370000	FM	TONE=C141.3	7									
+C-Group	CGroupId=65298	CountyId=4358	Hampton - Fire	Off	45.515070	-65.833680	30.0	Circle	
+C-Freq	CFreqId=269836	CGroupId=65298	Fire	Off	154010000	FM		3									
+C-Group	CGroupId=65300	CountyId=4358	Hampton - Municipal Services	Off	45.515070	-65.833680	30.0	Circle	
+C-Freq	CFreqId=269835	CGroupId=65300	Town Public Works	Off	169395000	FM		14									
+C-Group	CGroupId=65297	CountyId=4358	Hampton - Police	Off	45.515070	-65.833680	30.0	Circle	
+C-Freq	CFreqId=269837	CGroupId=65297	District 3 RCMP - Grove Hill Repeater	Off	155700000	FM	TONE=C186.2	2									
+C-Freq	CFreqId=269838	CGroupId=65297	RCMP Tac 1 - Simplex	Off	155670000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=269839	CGroupId=65297	RCMP Tac 2 - Simplex	Off	155460000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=269840	CGroupId=65297	RCMP Tac 3 - Simplex	Off	155370000	FM	TONE=C141.3	7									
+C-Group	CGroupId=65290	CountyId=4358	Kennebecasis Valley - Fire	Off	45.662493	-65.895897	40.0	Circle	
+C-Freq	CFreqId=269831	CGroupId=65290	Fire	Off	153005000	FM	TONE=D315	3									
+C-Freq	CFreqId=269832	CGroupId=65290	Fire - Simplex	Off	153860000	FM		8									
+C-Group	CGroupId=65296	CountyId=4358	Kennebecasis Valley - Municipal Services	Off	45.662493	-65.895897	40.0	Circle	
+C-Freq	CFreqId=269834	CGroupId=65296	Public Works	Off	164235000	FM		14									
+C-Group	CGroupId=65291	CountyId=4358	Kennebecasis Valley - Regional Police	Off	45.662493	-65.895897	40.0	Circle	
+C-Freq	CFreqId=269833	CGroupId=65291	Rothesay Regional Police	Off	412637500	FM		2									
+C-Group	CGroupId=62302	CountyId=4358	Rural Fire Departments - Brown's Flat	Off	45.472650	-66.137694	30.0	Circle	
+C-Freq	CFreqId=257538	CGroupId=62302	Fire - Dispatch	Off	171045000	FM		3									
+C-Group	CGroupId=62312	CountyId=4358	Rural Fire Departments - Hammondvale	Off	45.566667	-65.500000	30.0	Circle	
+C-Freq	CFreqId=257546	CGroupId=62312	Fire Service	Off	152375000	FM		3									
+C-Group	CGroupId=62306	CountyId=4358	Rural Fire Departments - Kingston/Long Reach	Off	45.466667	-66.033333	30.0	Circle	
+C-Freq	CFreqId=257541	CGroupId=62306	Fire - Dispatch	Off	171480000	FM	TONE=D131	3									
+C-Group	CGroupId=62308	CountyId=4358	Rural Fire Departments - Nauwigewauk	Off	45.467000	-65.883000	30.0	Circle	
+C-Freq	CFreqId=257542	CGroupId=62308	Fire - Dispatch	Off	172425000	FM		3									
+C-Group	CGroupId=62309	CountyId=4358	Rural Fire Departments - Norton	Off	45.638694	-65.695500	30.0	Circle	
+C-Freq	CFreqId=257543	CGroupId=62309	Fire - Dispatch	Off	158730000	FM		3									
+C-Group	CGroupId=62310	CountyId=4358	Rural Fire Departments - Upham	Off	45.513144	-65.658331	30.0	Circle	
+C-Freq	CFreqId=257544	CGroupId=62310	Fire - Dispatch	Off	150320000	FM		3									
+C-Group	CGroupId=65293	CountyId=4358	Sussex - Fire	Off	45.723640	-65.510830	30.0	Circle	
+C-Freq	CFreqId=269841	CGroupId=65293	Fire	Off	159135000	FM		3									
+C-Group	CGroupId=65301	CountyId=4358	Sussex - Municipal Services	Off	45.723640	-65.500000	30.0	Circle	
+C-Freq	CFreqId=269842	CGroupId=65301	Public Works	Off	169155000	FM		14									
+C-Group	CGroupId=65292	CountyId=4358	Sussex - Police	Off	45.723640	-65.510830	30.0	Circle	
+C-Freq	CFreqId=269843	CGroupId=65292	RCMP District 3 - Municipal Repeater	Off	155415000	FM		2									
+C-Freq	CFreqId=269844	CGroupId=65292	RCMP Tac 1 - Simplex	Off	155670000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=269845	CGroupId=65292	RCMP Tac 2 - Simplex	Off	155460000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=269846	CGroupId=65292	RCMP Tac 3 - Simplex	Off	155370000	FM	TONE=C141.3	7									
+Conventional	CountyId=4359	StateId=104	Madawasaka	Off		Conventional								
+AreaState	CountyId=4359	StateId=104
+AreaCounty	CountyId=4359	CountyId=4359
+C-Group	CGroupId=80432	CountyId=4359	Municipal Services - Edmundston	Off	47.292079	-68.018116	32.0	Circle	
+C-Freq	CFreqId=346797	CGroupId=80432	Edmundston Energy	Off	168900000	NFM		34									
+C-Freq	CFreqId=346796	CGroupId=80432	Edmundston Public Works	Off	169110000	NFM		14									
+C-Freq	CFreqId=346798	CGroupId=80432	NB Power (Iroquois Terminal)	Off	142635000	NFM		34									
+C-Group	CGroupId=67433	CountyId=4359	Public Safety - Edmundston	Off	47.362920	-68.326030	30.0	Circle	
+C-Freq	CFreqId=346795	CGroupId=67433	Edmundston Emergency Channel	Off	165585000	NFM		11									
+C-Freq	CFreqId=277154	CGroupId=67433	Edmundston Fire	Off	152285000	NFM		3									
+C-Freq	CFreqId=277153	CGroupId=67433	Edmundston Fire - Simplex	Off	153920000	NFM		8									
+C-Freq	CFreqId=277155	CGroupId=67433	Edmundston Police	Off	154770000	NFM		2									
+C-Group	CGroupId=67434	CountyId=4359	Public Safety - Regional Fire Dispatch	Off	47.362920	-68.326030	50.0	Circle	
+C-Freq	CFreqId=277158	CGroupId=67434	Dispatch Central	Off	162855000	FM		3									
+C-Freq	CFreqId=277159	CGroupId=67434	Dispatch East	Off	165075000	FM		3									
+C-Freq	CFreqId=277157	CGroupId=67434	Dispatch West	Off	163155000	FM		3									
+Conventional	CountyId=4360	StateId=104	Northumberland	Off		Conventional								
+AreaState	CountyId=4360	StateId=104
+AreaCounty	CountyId=4360	CountyId=4360
+C-Group	CGroupId=79209	CountyId=4360	Amateur Radio - Repeaters	Off	46.942652	-65.846722	51.0	Circle	
+C-Freq	CFreqId=340398	CGroupId=79209	VE1NWC Repeater	Off	146730000	FM		13									
+C-Freq	CFreqId=340400	CGroupId=79209	VE1NWC Repeater Link	Off	434850000	FM		13									
+C-Freq	CFreqId=340402	CGroupId=79209	VE9MIR Repeater	Off	147150000	FM		13									
+C-Group	CGroupId=42865	CountyId=4360	Miramichi - Fire	Off	47.022500	-65.508889	30.0	Circle	
+C-Freq	CFreqId=172259	CGroupId=42865	Fire  - East	Off	159330000	FM	TONE=D125	3									
+C-Freq	CFreqId=172257	CGroupId=42865	Fire - TAC 1	Off	169290000	FM		8									
+C-Freq	CFreqId=172258	CGroupId=42865	Fire - TAC 2	Off	158745000	FM		8									
+C-Freq	CFreqId=172255	CGroupId=42865	Fire - TAC 3	Off	151385000	FM		8									
+C-Freq	CFreqId=172256	CGroupId=42865	Fire - West	Off	153770000	FM		3									
+C-Group	CGroupId=42864	CountyId=4360	Miramichi - Municipal Services	Off	47.022500	-65.508889	30.0	Circle	
+C-Freq	CFreqId=172253	CGroupId=42864	Public Works - Citywide	Off	153515000	FM	TONE=D125	14									
+C-Group	CGroupId=42863	CountyId=4360	Miramichi - Police	Off	47.022500	-65.508889	30.0	Circle	
+C-Freq	CFreqId=172251	CGroupId=42863	Police Ch. 1 - West	Off	154770000	FM	TONE=C127.3	2									
+C-Freq	CFreqId=172252	CGroupId=42863	Police Ch. 2  -  East	Off	153830000	FM	TONE=D125	2									
+C-Group	CGroupId=36494	CountyId=4360	Rural Fire Departments - Fire	Off	46.942652	-65.846722	50.0	Circle	
+C-Freq	CFreqId=142620	CGroupId=36494	Baie Ste. Anne	Off	169335000	FM	TONE=C100.0	3									
+C-Freq	CFreqId=172250	CGroupId=36494	Blackville	Off	169335000	FM	TONE=C123.0	3									
+C-Freq	CFreqId=172262	CGroupId=36494	Neguac	Off	154040000	FM	TONE=C100.0	3									
+C-Freq	CFreqId=245889	CGroupId=36494	PSAP Regional Dispatch	Off	163665000	FM	TONE=C123.0	3									
+C-Freq	CFreqId=142618	CGroupId=36494	PSAP Regional Simplex	Off	162075000	FM		11									
+C-Freq	CFreqId=172249	CGroupId=36494	Renous	Off	169335000	FM	TONE=C107.2	3									
+C-Freq	CFreqId=172263	CGroupId=36494	Rogersville	Off	165315000	FM		3									
+C-Freq	CFreqId=172261	CGroupId=36494	Sunny Corner Pager	Off	158985000	FM		3									
+Conventional	CountyId=4361	StateId=104	Queens	Off		Conventional								
+AreaState	CountyId=4361	StateId=104
+AreaCounty	CountyId=4361	CountyId=4361
+C-Group	CGroupId=65477	CountyId=4361	Cambridge-Narrows - Fire	Off	45.828472	-65.955444	30.0	Circle	
+C-Freq	CFreqId=270319	CGroupId=65477	Volunteer Fire - Repeater/Talkaround	Off	153035000	FM	TONE=D223	3									
+C-Group	CGroupId=65476	CountyId=4361	Cambridge-Narrows - Police (RCMP)	Off	45.828472	-65.955444	30.0	Circle	
+C-Freq	CFreqId=270320	CGroupId=65476	RCMP District 2 - Scotch Mtn West Repeater	Off	155580000	FM	TONE=C123.0	2									
+C-Freq	CFreqId=270321	CGroupId=65476	RCMP Tac 1 - Simplex	Off	155670000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270322	CGroupId=65476	RCMP Tac 2 - Simplex	Off	155460000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270323	CGroupId=65476	RCMP Tac 3 - Simplex	Off	155370000	FM	TONE=C141.3	7									
+C-Group	CGroupId=65473	CountyId=4361	Chipman - Fire	Off	46.167000	-65.883000	30.0	Circle	
+C-Freq	CFreqId=270306	CGroupId=65473	Fire	Off	154710000	FM	TONE=D223	3									
+C-Freq	CFreqId=270307	CGroupId=65473	Fire - Simplex	Off	154490000	FM	TONE=C123.0	8									
+C-Group	CGroupId=65472	CountyId=4361	Chipman - Police	Off	46.167000	-65.883000	30.0	Circle	
+C-Freq	CFreqId=270302	CGroupId=65472	RCMP District 2 - Hardwood Ridge Repeater	Off	155940000	FM	TONE=C141.3	2									
+C-Freq	CFreqId=270303	CGroupId=65472	RCMP Tac 1 - Simplex	Off	155670000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270304	CGroupId=65472	RCMP Tac 2 - Simplex	Off	155460000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270305	CGroupId=65472	RCMP Tac 3 - Simplex	Off	155370000	FM	TONE=C141.3	7									
+C-Group	CGroupId=65475	CountyId=4361	Gagetown - Fire	Off	45.766667	-66.150000	30.0	Circle	
+C-Freq	CFreqId=270318	CGroupId=65475	Fire	Off	410137500	FM	TONE=C123.0	3									
+C-Group	CGroupId=65474	CountyId=4361	Gagetown - Police	Off	45.766667	-66.150000	30.0	Circle	
+C-Freq	CFreqId=270314	CGroupId=65474	RCMP District 2 - Scotch Mtn West Repeater	Off	155580000	FM	TONE=C123.0	2									
+C-Freq	CFreqId=270315	CGroupId=65474	RCMP Tac 1 - Simplex	Off	155670000	FM	TONE=C123.0	3									
+C-Freq	CFreqId=270316	CGroupId=65474	RCMP Tac 2 - Simplex	Off	155460000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270317	CGroupId=65474	RCMP Tac 3 - Simplex	Off	155370000	FM	TONE=C141.3	7									
+C-Group	CGroupId=65478	CountyId=4361	Local Service Districts / Rural Fire Departments - Coles Island	Off	45.920647	-65.789952	30.0	Circle	
+C-Freq	CFreqId=270324	CGroupId=65478	Fire - Repeater/Talkaround	Off	168225000	FM		3									
+C-Group	CGroupId=65479	CountyId=4361	Local Service Districts / Rural Fire Departments - Cumberland Ba	Off	45.779625	-65.799260	42.0	Circle	
+C-Freq	CFreqId=270325	CGroupId=65479	Fire - Repeater/Talkaround	Off	153935000	FM	TONE=C123.0	3									
+C-Group	CGroupId=65480	CountyId=4361	Local Service Districts / Rural Fire Departments - Douglas Harbo	Off	45.779625	-65.799260	42.0	Circle	
+C-Freq	CFreqId=270326	CGroupId=65480	Fire - Repeater/Talkaround	Off	162285000	FM		3									
+C-Group	CGroupId=65481	CountyId=4361	Local Service Districts / Rural Fire Departments - Jemseg	Off	45.829861	-66.108167	30.0	Circle	
+C-Freq	CFreqId=270327	CGroupId=65481	Fire - Repeater/Talkaround	Off	154445000	FM		3									
+C-Group	CGroupId=65509	CountyId=4361	Local Service Districts / Rural Fire Departments - Upper Gagetow	Off	45.779625	-65.799260	42.0	Circle	
+C-Freq	CFreqId=270414	CGroupId=65509	Fire	Off	410887500	FM		3									
+C-Group	CGroupId=65482	CountyId=4361	Local Service Districts / Rural Fire Departments - Welsford	Off	45.450000	-66.350000	30.0	Circle	
+C-Freq	CFreqId=270328	CGroupId=65482	Fire - Repeater/Talkaround	Off	170535000	FM	TONE=D051	3									
+C-Group	CGroupId=65470	CountyId=4361	Minto - Fire	Off	46.076148	-66.074953	30.0	Circle	
+C-Freq	CFreqId=270312	CGroupId=65470	Fire	Off	154235000	FM		3									
+C-Group	CGroupId=65471	CountyId=4361	Minto - Municipal Services	Off	46.076148	-66.074953	30.0	Circle	
+C-Freq	CFreqId=270313	CGroupId=65471	Public Works	Off	158850000	FM		14									
+C-Group	CGroupId=65469	CountyId=4361	Minto - Police	Off	46.076148	-66.074953	30.0	Circle	
+C-Freq	CFreqId=270308	CGroupId=65469	RCMP District 2 - Hardwood Ridge Repeater	Off	155940000	FM	TONE=C141.3	2									
+C-Freq	CFreqId=270309	CGroupId=65469	RCMP Tac 1 - Simplex	Off	155670000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270310	CGroupId=65469	RCMP Tac 2 - Simplex	Off	155460000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270311	CGroupId=65469	RCMP Tac 3 - Simplex	Off	155370000	FM	TONE=C141.3	7									
+Conventional	CountyId=4362	StateId=104	Restigouche	Off		Conventional								
+AreaState	CountyId=4362	StateId=104
+AreaCounty	CountyId=4362	CountyId=4362
+C-Group	CGroupId=56894	CountyId=4362	Municipal Services - Campbellton	Off	48.005000	-66.673056	30.0	Circle	
+C-Freq	CFreqId=238754	CGroupId=56894	Public Works Ch. 1	Off	169530000	FM		14									
+C-Freq	CFreqId=238755	CGroupId=56894	Public Works Ch. 2	Off	169740000	FM		14									
+C-Group	CGroupId=56889	CountyId=4362	Police - RCMP	Off	47.858592	-67.039450	60.0	Circle	
+C-Freq	CFreqId=238745	CGroupId=56889	Campbellton City	Off	155730000	FM	TONE=C123.0	2									
+C-Freq	CFreqId=295817	CGroupId=56889	Dalhousie	Off	155970000	FM	TONE=C123.0	2									
+C-Freq	CFreqId=295819	CGroupId=56889	Rocky Brook/South East	Off	155820000	FM	TONE=C123.0	2									
+C-Freq	CFreqId=295818	CGroupId=56889	Seven Mile Ridge	Off	155580000	FM	TONE=C173.8	2									
+C-Group	CGroupId=56890	CountyId=4362	Regional Fire Dispatch - Countywide	Off	47.858592	-67.039450	60.0	Circle	
+C-Freq	CFreqId=295082	CGroupId=56890	Acadian Peninsula - Paging	Off	153995000	FM		3									
+C-Freq	CFreqId=238749	CGroupId=56890	Atholville	Off	169365000	FM		3									
+C-Freq	CFreqId=277152	CGroupId=56890	Campbellton	Off	153830000	FM		3									
+C-Freq	CFreqId=324757	CGroupId=56890	Dalhousie Fire Department	Off	169230000	FM		3									
+C-Freq	CFreqId=324758	CGroupId=56890	Dalhousie Fire Department	Off	170625000	FM		3									
+C-Freq	CFreqId=240618	CGroupId=56890	Mutual Aid	Off	151385000	FM		11									
+C-Freq	CFreqId=295081	CGroupId=56890	Restigouche area	Off	152015000	FM		3									
+C-Freq	CFreqId=240623	CGroupId=56890	Tide Head	Off	153905000	FM		3									
+C-Freq	CFreqId=243346	CGroupId=56890	Val D'Amour, St. Arthur, Glen Levit	Off	155265000	FM		3									
+C-Group	CGroupId=70095	CountyId=4362	Repeater - Dalhousie	Off	47.858592	-67.039450	60.0	Circle	
+C-Freq	CFreqId=289202	CGroupId=70095	VE9DNB - Dalhousie	Off	145490000	FM		13									
+Conventional	CountyId=4363	StateId=104	Saint John	Off		Conventional								
+AreaState	CountyId=4363	StateId=104
+AreaCounty	CountyId=4363	CountyId=4363
+C-Group	CGroupId=70143	CountyId=4363	Amateur Radio - 2M Band	Off	45.340404	-65.844756	40.0	Circle	
+C-Freq	CFreqId=289479	CGroupId=70143	VE9HPN - Dickie Mountain (Hampton)	Off	145130000	FM		13									
+C-Freq	CFreqId=316049	CGroupId=70143	VE9PSA	Off	147390000	FM		13									
+C-Freq	CFreqId=289476	CGroupId=70143	VE9SJN - Milledgeville (IRLP)	Off	147270000	FM		13									
+C-Freq	CFreqId=315007	CGroupId=70143	VE9SJN-DMR-Site	Off	144890000	AUTO	NAC=Srch	13									
+C-Freq	CFreqId=289478	CGroupId=70143	VE9SJW  - Spruce Lake	Off	146895000	FM		13									
+C-Group	CGroupId=70144	CountyId=4363	Amateur Radio - 70 cm Band	Off	45.340404	-65.844756	40.0	Circle	
+C-Freq	CFreqId=289480	CGroupId=70144	VE9SJW - Spruce Lake	Off	443600000	FM		13									
+C-Group	CGroupId=65628	CountyId=4363	Local Service Districts - Rural Fire Departments - Musquash	Off	45.167394	-66.362915	30.0	Circle	
+C-Freq	CFreqId=287870	CGroupId=65628	Fire/Rescue	Off	411687500	FM		3									
+C-Group	CGroupId=65629	CountyId=4363	Local Service Districts - Rural Fire Departments - Simonds	Off	45.295388	-65.824871	30.0	Circle	
+C-Freq	CFreqId=287869	CGroupId=65629	Fire	Off	173940000	FM	TONE=C173.8	3									
+C-Group	CGroupId=70119	CountyId=4363	Local Service Districts - Rural Fire Departments - St. Martins	Off	45.354458	-65.539380	30.0	Circle	
+C-Freq	CFreqId=289289	CGroupId=70119	Fire	Off	158790000	FM		3									
+C-Group	CGroupId=24830	CountyId=4363	Public Safety - Saint John (Back-Up/Simplex)	Off	45.340404	-65.844756	40.0	Circle	
+C-Freq	CFreqId=91867	CGroupId=24830	Fire East - Bloomsbury Mountain	Off	867537500	FM	TONE=D612	3									
+C-Freq	CFreqId=91865	CGroupId=24830	Fire Simplex	Off	866787500	FM	TONE=D612	3									
+C-Freq	CFreqId=91868	CGroupId=24830	Fire South -Brunswick Square	Off	868037500	FM	TONE=D612	3									
+C-Freq	CFreqId=91864	CGroupId=24830	Fire West -Spruce Lake	Off	866537500	FM	TONE=D612	3									
+C-Freq	CFreqId=91862	CGroupId=24830	Police East - Bloomsbury Mountain	Off	866037500	FM	TONE=D612	2									
+C-Freq	CFreqId=91863	CGroupId=24830	Police Simplex	Off	866287500	FM	TONE=D612	2									
+C-Freq	CFreqId=252907	CGroupId=24830	Police South - Brunswick Square	Off	868287500	FM	TONE=D612	2									
+C-Freq	CFreqId=91866	CGroupId=24830	Police West - Spruce Lake	Off	867037500	FM	TONE=D612	2									
+C-Group	CGroupId=74898	CountyId=4363	Transit - Saint John	Off	45.340404	-65.844756	38.0	Circle	
+C-Freq	CFreqId=316060	CGroupId=74898	Saint John Transit	Off	171780000	NFM		26									
+Conventional	CountyId=4364	StateId=104	Sunbury	Off		Conventional								
+AreaState	CountyId=4364	StateId=104
+AreaCounty	CountyId=4364	CountyId=4364
+C-Group	CGroupId=65488	CountyId=4364	Fredericton Junction/Tracy - Fire	Off	45.666667	-66.616667	30.0	Circle	
+C-Freq	CFreqId=270347	CGroupId=65488	Fire - Repeater/Talkaround	Off	159120000	FM	TONE=C192.8	3									
+C-Group	CGroupId=65487	CountyId=4364	Fredericton Junction/Tracy - Police	Off	45.666667	-66.616667	30.0	Circle	
+C-Freq	CFreqId=270343	CGroupId=65487	RCMP District 2 - Fredericton Repeater	Off	155820000	FM	TONE=C141.3	2									
+C-Freq	CFreqId=270344	CGroupId=65487	RCMP Tac 1 - Simplex	Off	155670000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270345	CGroupId=65487	RCMP Tac 2 - Simplex	Off	155460000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270346	CGroupId=65487	RCMP Tac 3 - Simplex	Off	155370000	FM	TONE=C141.3	7									
+C-Group	CGroupId=24928	CountyId=4364	Local Service Districts / Rural Fire Departments - Hoyt	Off	45.586361	-66.553139	30.0	Circle	
+C-Freq	CFreqId=92233	CGroupId=24928	Hoyt Fire Department - Repeater/Talkaround	Off	158970000	FM	TONE=D174	3									
+C-Group	CGroupId=65304	CountyId=4364	Oromocto - Fire	Off	45.848780	-66.478790	30.0	Circle	
+C-Freq	CFreqId=269861	CGroupId=65304	Oromocto FD - New not yet in use	Off	165120000	FM		3									
+C-Freq	CFreqId=269862	CGroupId=65304	Oromocto FD - New not yet in use	Off	171360000	FM		8									
+C-Group	CGroupId=65305	CountyId=4364	Oromocto - Municipal Services	Off	45.848780	-66.478790	30.0	Circle	
+C-Freq	CFreqId=269864	CGroupId=65305	Oromocto Public Works	Off	169470000	FM		14									
+C-Group	CGroupId=65303	CountyId=4364	Oromocto - Police	Off	45.848780	-66.478790	30.0	Circle	
+C-Freq	CFreqId=269865	CGroupId=65303	RCMP RSC 11 - Oromocto Municipal Repeater	Off	154325000	FM	TONE=C141.3	2									
+C-Freq	CFreqId=270340	CGroupId=65303	RCMP Tac 1 - Simplex	Off	155670000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270341	CGroupId=65303	RCMP Tac 2 - Simplex	Off	155460000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=270342	CGroupId=65303	RCMP Tac 3 - Simplex	Off	155370000	FM	TONE=C141.3	7									
+Conventional	CountyId=4365	StateId=104	Victoria	Off		Conventional								
+AreaState	CountyId=4365	StateId=104
+AreaCounty	CountyId=4365	CountyId=4365
+C-Group	CGroupId=65448	CountyId=4365	Grand Falls - Fire Dept	Off	47.049921	-67.653014	40.0	Circle	
+C-Freq	CFreqId=270256	CGroupId=65448	Grand Falls Fire - Private	Off	151175000	FM		3									
+C-Group	CGroupId=65449	CountyId=4365	Grand Falls - Municipal Services	Off	47.049921	-67.653014	40.0	Circle	
+C-Freq	CFreqId=270254	CGroupId=65449	Public Works	Off	151445000	FM		14									
+C-Group	CGroupId=65447	CountyId=4365	Grand Falls - Police Force	Off	47.049921	-67.653014	40.0	Circle	
+C-Freq	CFreqId=270255	CGroupId=65447	Police	Off	163230000	NFM	TONE=C131.8	2									
+C-Group	CGroupId=76389	CountyId=4365	Regional Fire Dispatch	Off	47.049921	-67.653014	40.0	Circle	
+C-Freq	CFreqId=324376	CGroupId=76389	Edmundston PSAP Regional Fire Dispatch South Zone	Off	164670000	NFM	TONE=C94.8	3									
+C-Group	CGroupId=76390	CountyId=4365	Rural Fire Departments	Off	47.049921	-67.653014	40.0	Circle	
+C-Freq	CFreqId=324377	CGroupId=76390	Perth-Andover Fire Department	Off	162075000	NFM	TONE=C110.9	3									
+C-Freq	CFreqId=324378	CGroupId=76390	Plaster Rock Fire Department	Off	157695000	NFM	TONE=C107.2	3									
+C-Freq	CFreqId=324379	CGroupId=76390	Tobique First Nation Fire Department	Off	153875000	NFM		3									
+Conventional	CountyId=4366	StateId=104	Westmorland	Off		Conventional								
+AreaState	CountyId=4366	StateId=104
+AreaCounty	CountyId=4366	CountyId=4366
+C-Group	CGroupId=74971	CountyId=4366	Countywide - Confederation Bridge	Off	46.133000	-63.843000	30.0	Circle	
+C-Freq	CFreqId=316535	CGroupId=74971	Confederation Bridge Repeater (MotoTRBO)	Off	452612500	AUTO	NAC=Srch	14									
+C-Group	CGroupId=43894	CountyId=4366	Countywide - Fire	Off	46.082113	-64.553258	40.0	Circle	
+C-Freq	CFreqId=269882	CGroupId=43894	Dieppe Fire Department	Off	155250000	FM	TONE=C192.8	3									
+C-Freq	CFreqId=269883	CGroupId=43894	Dieppe Fire Department - Portable Repeater	Off	154055000	FM		8									
+C-Freq	CFreqId=299883	CGroupId=43894	Greater Moncton Airport Authority - Fire Department	Off	413212500	FM		3									
+C-Freq	CFreqId=176334	CGroupId=43894	Havelock Fire Department	Off	154385000	FM		3									
+C-Freq	CFreqId=176336	CGroupId=43894	Memramcook Fire Department	Off	159330000	FM		3									
+C-Freq	CFreqId=176333	CGroupId=43894	Petitcodiac Fire Department	Off	150680000	FM	TONE=C156.7	3									
+C-Freq	CFreqId=176337	CGroupId=43894	Sackville Fire Department	Off	169320000	NFM		3									
+C-Freq	CFreqId=176332	CGroupId=43894	Salisbury Fire Department	Off	151670000	FM		3									
+C-Freq	CFreqId=295796	CGroupId=43894	Shediac Fire Department	Off	154635000	FM		3									
+C-Group	CGroupId=79634	CountyId=4366	Countywide - Municipal Services	Off	46.082113	-64.553258	40.0	Circle	
+C-Freq	CFreqId=269887	CGroupId=79634	Dieppe Travaux Publique	Off	163080000	AUTO	NAC=Srch	14									
+C-Freq	CFreqId=299847	CGroupId=79634	Dieppe Travaux Publique	Off	165840000	FM		14									
+C-Freq	CFreqId=299848	CGroupId=79634	Westmorland-Albert Solid Waste Commission - Simplex	Off	458512500	FM		14									
+C-Group	CGroupId=70790	CountyId=4366	Countywide - Universite de Moncton - Campus de Moncton	Off	46.105000	-64.781900	10.0	Circle	
+C-Freq	CFreqId=293641	CGroupId=70790	UdM Maintenance	Off	158550000	FM		32									
+C-Group	CGroupId=65905	CountyId=4366	Repeaters - Moncton	Off	46.082113	-64.553258	40.0	Circle	
+C-Freq	CFreqId=271661	CGroupId=65905	VE1MTN - Moncton / Indian Mountain	Off	147090000	FM		13									
+C-Freq	CFreqId=271665	CGroupId=65905	VE1RPT	Off	146880000	FM		13									
+C-Freq	CFreqId=271663	CGroupId=65905	VE9SHM	Off	449325000	FM		13									
+C-Freq	CFreqId=271662	CGroupId=65905	VE9TCR   (IRLP node 2805)	Off	147345000	FM		13									
+C-Freq	CFreqId=271664	CGroupId=65905	VE9UDM - Private	Off	442250000	FM		13									
+Conventional	CountyId=4367	StateId=104	York	Off		Conventional								
+AreaState	CountyId=4367	StateId=104
+AreaCounty	CountyId=4367	CountyId=4367
+C-Group	CGroupId=79636	CountyId=4367	Countywide - Fire	Off	46.209082	-66.758792	52.0	Circle	
+C-Freq	CFreqId=295797	CGroupId=79636	Canterbury Fire Dept - Skiff Lake IRCS Site	Off	150230000	NFM	TONE=C123.0	3									
+C-Freq	CFreqId=89311	CGroupId=79636	Dumfries Fire Deptartment	Off	159015000	FM	TONE=C123.0	3									
+C-Freq	CFreqId=295798	CGroupId=79636	Harvey Fire Dept - Coburn Bell Site Rptr	Off	158895000	FM	TONE=C107.2	3									
+C-Freq	CFreqId=89313	CGroupId=79636	Keswick Ridge Fire Deptartment	Off	410662500	FM	TONE=C100.0	3									
+C-Freq	CFreqId=89314	CGroupId=79636	Keswick Valley Fire Deptartment	Off	413187500	FM		3									
+C-Freq	CFreqId=322093	CGroupId=79636	Kingsclear First Nation Fire Deptartment	Off	164220000	NFM	TONE=C107.2	3									
+C-Freq	CFreqId=270374	CGroupId=79636	McAdam Fire Dept - Rptr	Off	164175000	FM	TONE=C94.8	3									
+C-Freq	CFreqId=295800	CGroupId=79636	Meductic Fire Department	Off	152285000	FM		3									
+C-Freq	CFreqId=295799	CGroupId=79636	Millville Fire Dept - Crabbe Mtn IRCS Site	Off	172965000	FM	TONE=C100.0	3									
+C-Freq	CFreqId=270367	CGroupId=79636	Nackawic Fire - Repeater/Talkaround	Off	153830000	FM	TONE=D172	3									
+C-Freq	CFreqId=269495	CGroupId=79636	Nashwaak Valley Fire Deptartment	Off	163935000	NFM	TONE=C162.2	3									
+C-Freq	CFreqId=270359	CGroupId=79636	New Maryland FD Rptr	Off	164040000	FM	TONE=C127.3	3									
+C-Freq	CFreqId=270360	CGroupId=79636	New Maryland FD Simplex	Off	165690000	FM		8									
+C-Freq	CFreqId=270375	CGroupId=79636	Stanley Volunteer Fire Dept	Off	164760000	NFM	TONE=C167.9	3									
+C-Freq	CFreqId=89321	CGroupId=79636	Upper Kingsclear Fire Deptartment	Off	154070000	FM	TONE=C82.5	3									
+C-Group	CGroupId=79638	CountyId=4367	Countywide - Municipal Services	Off	46.209082	-66.758792	52.0	Circle	
+C-Freq	CFreqId=270361	CGroupId=79638	New Maryland Public Works	Off	163335000	FM	TONE=C186.2	14									
+C-Group	CGroupId=65236	CountyId=4367	Countywide - University of New Brunswick	Off	46.209082	-66.758792	52.0	Circle	
+C-Freq	CFreqId=269621	CGroupId=65236	UNB Campus Police	Off	153425000	FM		23									
+C-Freq	CFreqId=269620	CGroupId=65236	UNB Security/Maintenance	Off	167400000	FM		33									
+C-Freq	CFreqId=269622	CGroupId=65236	UNB Student Union Building	Off	150500000	FM		17									
+Conventional	AgencyId=4368	StateId=104	Bathurst Airport (ZBF)	Off		Conventional								
+AreaState	AgencyId=4368	StateId=104
+AreaCounty	AgencyId=4368	CountyId=4356
+C-Group	CGroupId=42907	AgencyId=4368	Bathurst Regional Airport (ZBF) - Air Traffic Control	Off	47.629722	-65.738889	30.0	Circle	
+C-Freq	CFreqId=172451	CGroupId=42907	Jazz Air	Off	128900000	AM		15									
+C-Freq	CFreqId=172469	CGroupId=42907	Quebec Radio (DRCO)	Off	123450000	AM		15									
+C-Freq	CFreqId=172450	CGroupId=42907	Unicom	Off	122800000	AM		15									
+Conventional	AgencyId=8044	StateId=104	Bell Mobility VHF Community Repeater System	Off		Conventional								
+AreaState	AgencyId=8044	StateId=104
+AreaCounty	AgencyId=8044	CountyId=0
+C-Group	CGroupId=67708	AgencyId=8044	Community Repeaters - Provincewide	Off	46.000000	-66.000000	150.0	Circle	
+C-Freq	CFreqId=278298	CGroupId=67708	Bathurst Bell Site	Off	164340000	FM		17									
+C-Freq	CFreqId=278299	CGroupId=67708	Bathurst NBP Site	Off	164400000	FM		17									
+C-Freq	CFreqId=278274	CGroupId=67708	Caledonia Mtn	Off	164490000	FM		17									
+C-Freq	CFreqId=278297	CGroupId=67708	Caraquet	Off	164370000	FM		17									
+C-Freq	CFreqId=278293	CGroupId=67708	Edmundston - Cote A Blanchette	Off	163185000	FM		17									
+C-Freq	CFreqId=278294	CGroupId=67708	Edmundston - Cote A Blanchette	Off	164400000	FM		17									
+C-Freq	CFreqId=278287	CGroupId=67708	Florenceville - Bristol Hill	Off	163500000	FM		17									
+C-Freq	CFreqId=278288	CGroupId=67708	Florenceville - Bristol Hill	Off	164370000	FM		17									
+C-Freq	CFreqId=278282	CGroupId=67708	Fredericton - Cardigan	Off	163470000	FM		17									
+C-Freq	CFreqId=278283	CGroupId=67708	Fredericton - Cardigan	Off	164580000	FM		17									
+C-Freq	CFreqId=278280	CGroupId=67708	Fredericton - Popple Hill	Off	163740000	FM		17									
+C-Freq	CFreqId=278281	CGroupId=67708	Fredericton - Popple Hill	Off	164430000	FM		17									
+C-Freq	CFreqId=278265	CGroupId=67708	Grand Manan - Temple Hill	Off	164400000	FM		17									
+C-Freq	CFreqId=278301	CGroupId=67708	Guitar	Off	164445000	FM		17									
+C-Freq	CFreqId=278302	CGroupId=67708	Guitar	Off	164925000	FM		17									
+C-Freq	CFreqId=278306	CGroupId=67708	Kedgewick	Off	164595000	FM		17									
+C-Freq	CFreqId=278295	CGroupId=67708	Miramichi	Off	163470000	FM		17									
+C-Freq	CFreqId=278296	CGroupId=67708	Miramichi	Off	164415000	FM		17									
+C-Freq	CFreqId=278275	CGroupId=67708	Moncton - Assumption Place	Off	164430000	FM		17									
+C-Freq	CFreqId=278276	CGroupId=67708	Moncton - Assumption Place	Off	164580000	FM		17									
+C-Freq	CFreqId=278277	CGroupId=67708	Moncton - Indian Mtn	Off	163740000	FM		17									
+C-Freq	CFreqId=278279	CGroupId=67708	Moncton - Indian Mtn	Off	164385000	FM		17									
+C-Freq	CFreqId=278267	CGroupId=67708	Mount Pleasant	Off	163725000	FM		17									
+C-Freq	CFreqId=278268	CGroupId=67708	Mount Pleasant	Off	164550000	FM		17									
+C-Freq	CFreqId=278269	CGroupId=67708	Mount Pleasant	Off	164925000	FM		17									
+C-Freq	CFreqId=278300	CGroupId=67708	Nigadoo	Off	163695000	FM		17									
+C-Freq	CFreqId=278289	CGroupId=67708	Plaster Rock - Cameron Mtn	Off	164265000	FM		17									
+C-Freq	CFreqId=278290	CGroupId=67708	Plaster Rock - Cameron Mtn	Off	164340000	FM		17									
+C-Freq	CFreqId=278292	CGroupId=67708	Plaster Rock - Cameron Mtn	Off	164550000	FM		17									
+C-Freq	CFreqId=278291	CGroupId=67708	Plaster Rock - Cameron Mtn	Off	166365000	FM		17									
+C-Freq	CFreqId=278303	CGroupId=67708	Rocky Brook	Off	163680000	FM		17									
+C-Freq	CFreqId=278270	CGroupId=67708	Saint John - Mayflower Lake	Off	163710000	FM		17									
+C-Freq	CFreqId=278271	CGroupId=67708	Saint John - Mayflower Lake	Off	164430000	FM		17									
+C-Freq	CFreqId=278304	CGroupId=67708	Seven Mile Ridge	Off	163710000	FM		17									
+C-Freq	CFreqId=278284	CGroupId=67708	Skiff Lake	Off	164415000	FM		17									
+C-Freq	CFreqId=278305	CGroupId=67708	Squaw Cap	Off	164325000	FM		17									
+C-Freq	CFreqId=278266	CGroupId=67708	St. George - Bethel	Off	164490000	FM		17									
+C-Freq	CFreqId=278272	CGroupId=67708	Sussex - Wards Creek	Off	164370000	FM		17									
+C-Freq	CFreqId=278273	CGroupId=67708	Sussex - Wards Creek	Off	164415000	FM		17									
+C-Freq	CFreqId=278285	CGroupId=67708	Woodstock - Grafton	Off	164535000	FM		17									
+C-Freq	CFreqId=278286	CGroupId=67708	Woodstock - Jacksonville	Off	164460000	FM		17									
+Conventional	AgencyId=6073	StateId=104	Business	Off		Conventional								
+AreaState	AgencyId=6073	StateId=104
+AreaCounty	AgencyId=6073	CountyId=4363
+C-Group	CGroupId=53038	AgencyId=6073	Saint John	Off	45.340404	-65.844756	38.0	Circle	
+C-Freq	CFreqId=316059	CGroupId=53038	Carleton Cab	Off	461687500	NFM	TONE=D754	26									
+C-Freq	CFreqId=217803	CGroupId=53038	Diamond Taxi	Off	150905000	FM		26									
+C-Freq	CFreqId=316061	CGroupId=53038	Loyalist Towing	Off	163515000	NFM	TONE=D754	17									
+C-Freq	CFreqId=217802	CGroupId=53038	Royal Taxi	Off	166020000	FM		26									
+C-Freq	CFreqId=217801	CGroupId=53038	Simonds Taxi	Off	164010000	FM		26									
+C-Freq	CFreqId=316058	CGroupId=53038	Vet's Taxi	Off	465062500	NFM		26									
+Conventional	AgencyId=8451	StateId=104	Business	Off		Conventional								
+AreaState	AgencyId=8451	StateId=104
+AreaCounty	AgencyId=8451	CountyId=4362
+C-Group	CGroupId=56896	AgencyId=8451	Restigouche - Atholville	Off	47.989444	-66.712500	30.0	Circle	
+C-Freq	CFreqId=238758	CGroupId=56896	AVCell ERT (Pulp Mill Emergency Response Team)	Off	170445000	FM		29									
+C-Group	CGroupId=56895	AgencyId=8451	Restigouche - Campbellton	Off	48.005000	-66.616667	30.0	Circle	
+C-Freq	CFreqId=295844	CGroupId=56895	Bolton Cab	Off	150230000	FM		26									
+C-Freq	CFreqId=295845	CGroupId=56895	Central Cab	Off	157530000	FM		26									
+C-Freq	CFreqId=238757	CGroupId=56895	VIA Rail Ch. 1	Off	161460000	FM		20									
+C-Freq	CFreqId=238756	CGroupId=56895	VIA Rail Ch. 2 - on board	Off	160200000	FM		20									
+Conventional	AgencyId=8453	StateId=104	Business	Off		Conventional								
+AreaState	AgencyId=8453	StateId=104
+AreaCounty	AgencyId=8453	CountyId=4367
+C-Group	CGroupId=65174	AgencyId=8453	Delivery Companies	Off	46.209082	-66.758792	52.0	Circle	
+C-Freq	CFreqId=269493	CGroupId=65174	Capital Deliveries	Off	152525000	FM		17									
+C-Freq	CFreqId=269494	CGroupId=65174	Joey's Delivery	Off	164430000	FM	TONE=C123.0	17									
+C-Group	CGroupId=65173	AgencyId=8453	Taxi Companies	Off	46.209082	-66.758792	52.0	Circle	
+C-Freq	CFreqId=269492	CGroupId=65173	Checker Cab	Off	460987500	FM		26									
+C-Freq	CFreqId=280838	CGroupId=65173	Checker Taxi	Off	464037500	FM		26									
+C-Freq	CFreqId=269487	CGroupId=65173	Georges Taxi	Off	162810000	FM		26									
+C-Freq	CFreqId=269490	CGroupId=65173	Loyal Taxi	Off	462287500	FM		26									
+C-Freq	CFreqId=269489	CGroupId=65173	Standard Taxi	Off	463562500	FM		26									
+C-Freq	CFreqId=269488	CGroupId=65173	Trius Taxi	Off	163980000	FM		26									
+Conventional	AgencyId=8622	StateId=104	Business	Off		Conventional								
+AreaState	AgencyId=8622	StateId=104
+AreaCounty	AgencyId=8622	CountyId=4366
+C-Group	CGroupId=72423	AgencyId=8622	Moncton	Off	46.082113	-64.553258	40.0	Circle	
+C-Freq	CFreqId=301749	CGroupId=72423	Air Cab - Dispatch	Off	162720000	FM	TONE=C103.5	26									
+C-Freq	CFreqId=301750	CGroupId=72423	Air Cab - Driver Transmit	Off	167700000	FM	TONE=C103.5	26									
+C-Freq	CFreqId=301752	CGroupId=72423	Camden Park Terrace Retirement Residence	Off	151775000	FM	TONE=C107.2	17									
+C-Freq	CFreqId=301747	CGroupId=72423	Carson Construction	Off	167235000	FM		17									
+C-Freq	CFreqId=301746	CGroupId=72423	Gray Stone Quarries	Off	162975000	FM		17									
+C-Freq	CFreqId=301748	CGroupId=72423	Kent Building Supplies	Off	166365000	FM		17									
+C-Freq	CFreqId=322213	CGroupId=72423	Loomis Express	Off	164435000	FM		17									
+Conventional	AgencyId=4373	StateId=104	CCN2 Grand Manan Airport	Off		Conventional								
+AreaState	AgencyId=4373	StateId=104
+AreaCounty	AgencyId=4373	CountyId=4355
+C-Group	CGroupId=42914	AgencyId=4373	Grand Manan Airport (CN2) - Air Traffic Control	Off	44.713333	-66.796389	30.0	Circle	
+C-Freq	CFreqId=172490	CGroupId=42914	UNICOM	Off	123200000	FM		15									
+Conventional	AgencyId=4370	StateId=104	CDA4 Pokemouche Airport	Off		Conventional								
+AreaState	AgencyId=4370	StateId=104
+AreaCounty	AgencyId=4370	CountyId=4356
+C-Group	CGroupId=42911	AgencyId=4370	Pokemouche Airport (DA4) - Air Traffic Control	Off	47.716389	-64.882500	30.0	Circle	
+C-Freq	CFreqId=172483	CGroupId=42911	Unicom	Off	123000000	AM		15									
+Conventional	AgencyId=8895	StateId=104	CFB Gagetown	Off		Conventional								
+AreaState	AgencyId=8895	StateId=104
+AreaCounty	AgencyId=8895	CountyId=4361
+C-Group	CGroupId=12021	AgencyId=8895	Canadian Forces Base Gagetown - Air Traffic Control	Off	45.837778	-66.436667	30.0	Circle	
+C-Freq	CFreqId=67818	CGroupId=12021	Military Flight Advisory	Off	34800000	FM		30									
+C-Freq	CFreqId=67819	CGroupId=12021	Military Flight Following	Off	45800000	FM		30									
+C-Freq	CFreqId=45465	CGroupId=12021	Tower Primary	Off	120200000	AM		15									
+C-Freq	CFreqId=45466	CGroupId=12021	Tower Secondary	Off	126400000	AM		15									
+C-Group	CGroupId=12019	AgencyId=8895	Canadian Forces Base Gagetown - Public Safety	Off	45.837778	-66.436667	30.0	Circle	
+C-Freq	CFreqId=45463	CGroupId=12019	Base Works	Off	149800000	FM		30									
+C-Freq	CFreqId=45462	CGroupId=12019	Fire	Off	149140000	FM		3									
+C-Freq	CFreqId=45461	CGroupId=12019	Military Police	Off	149650000	FM		2									
+C-Freq	CFreqId=67817	CGroupId=12019	Range Control	Off	48500000	FM		30									
+C-Freq	CFreqId=45464	CGroupId=12019	Range Control	Off	49900000	FM		30									
+Conventional	AgencyId=4369	StateId=104	Charlo Airport (YCL)	Off		Conventional								
+AreaState	AgencyId=4369	StateId=104
+AreaCounty	AgencyId=4369	CountyId=4362
+C-Group	CGroupId=42909	AgencyId=4369	Air Traffic Control	Off	47.990833	-66.330278	30.0	Circle	
+C-Freq	CFreqId=172482	CGroupId=42909	Moncton Centre	Off	134250000	AM		15									
+C-Freq	CFreqId=172481	CGroupId=42909	Quebec FIC - DRCO	Off	126700000	AM		15									
+C-Freq	CFreqId=172480	CGroupId=42909	Unicom	Off	122200000	AM		15									
+Conventional	AgencyId=4371	StateId=104	CYSL St. L*onard Aerodrome	Off		Conventional								
+AreaState	AgencyId=4371	StateId=104
+AreaCounty	AgencyId=4371	CountyId=4359
+C-Group	CGroupId=42912	AgencyId=4371	St. L*onard Airport (YSL) - Air Traffic Control	Off	47.157222	-67.836389	30.0	Circle	
+C-Freq	CFreqId=172552	CGroupId=42912	Arr/Dep - Boston ARTCC	Off	124750000	AM		15									
+C-Freq	CFreqId=172553	CGroupId=42912	Arr/Dep - Boston ARTCC	Off	239050000	AM		15									
+C-Freq	CFreqId=172486	CGroupId=42912	Quebec FIC - DRCO	Off	126700000	AM		15									
+C-Freq	CFreqId=172485	CGroupId=42912	Unicom	Off	122700000	AM		15									
+Conventional	AgencyId=6726	StateId=104	Department of Fisheries and Oceans Canada (DFO)	Off		Conventional								
+AreaState	AgencyId=6726	StateId=104
+AreaCounty	AgencyId=6726	CountyId=0
+C-Group	CGroupId=57774	AgencyId=6726	Gulf Region	Off	48.000000	-61.500000	300.0	Circle	
+C-Freq	CFreqId=253414	CGroupId=57774	Beresford	Off	143865000	FM		2									
+C-Freq	CFreqId=253416	CGroupId=57774	Caraquet/Lameque	Off	142200000	FM		2									
+C-Freq	CFreqId=253425	CGroupId=57774	DFO Simplex	Off	140250000	FM		7									
+C-Freq	CFreqId=253413	CGroupId=57774	Doaktown/Blackville	Off	143700000	FM		2									
+C-Freq	CFreqId=253419	CGroupId=57774	Kedgewick	Off	142290000	FM		2									
+C-Freq	CFreqId=253411	CGroupId=57774	Miramichi - Chaplin Island	Off	142020000	FM		2									
+C-Freq	CFreqId=253415	CGroupId=57774	Moncton/Sackville	Off	142185000	FM		2									
+C-Freq	CFreqId=253422	CGroupId=57774	Neguac	Off	142860000	FM		2									
+C-Freq	CFreqId=253424	CGroupId=57774	Rapids Depot	Off	142950000	FM		2									
+C-Freq	CFreqId=253421	CGroupId=57774	Rexton/Kent County	Off	142590000	FM		2									
+C-Freq	CFreqId=253412	CGroupId=57774	Squaw Cap	Off	142110000	FM		2									
+C-Freq	CFreqId=253418	CGroupId=57774	St. Leonard/Edmundston	Off	142260000	FM		2									
+C-Freq	CFreqId=253420	CGroupId=57774	St. Quentin	Off	142290000	FM		2									
+C-Freq	CFreqId=253423	CGroupId=57774	Summit/Madawaska	Off	142935000	FM		2									
+C-Freq	CFreqId=253417	CGroupId=57774	Tracadie-Sheila	Off	142245000	FM		2									
+C-Group	CGroupId=61275	AgencyId=6726	Maritimes Region	Off	44.666667	-63.566667	200.0	Circle	
+C-Freq	CFreqId=253426	CGroupId=61275	Bethel / St. George area	Off	861287500	FM		2									
+C-Freq	CFreqId=253431	CGroupId=61275	Campobello Island	Off	861987500	FM		2									
+C-Freq	CFreqId=253429	CGroupId=61275	Fundy National Park	Off	861737500	FM		2									
+C-Freq	CFreqId=253430	CGroupId=61275	Maces Bay / Lepreau	Off	861737500	FM		2									
+C-Freq	CFreqId=253428	CGroupId=61275	Spruce Lake / Saint John area	Off	861537500	FM		2									
+C-Freq	CFreqId=253427	CGroupId=61275	Temple Hill / Grand Manan Island	Off	861487500	FM		2									
+Conventional	AgencyId=4374	StateId=104	Fredericton  International Airport (YFC)	Off		Conventional								
+AreaState	AgencyId=4374	StateId=104
+AreaCounty	AgencyId=4374	CountyId=4367
+C-Group	CGroupId=42915	AgencyId=4374	Fredericton Airport (YFC) - Air Traffic Control	Off	45.868889	-66.537222	30.0	Circle	
+C-Freq	CFreqId=172510	CGroupId=42915	Arr/Dep - Moncton ACC	Off	124300000	AM		15									
+C-Freq	CFreqId=172511	CGroupId=42915	Arr/Dep - Moncton ACC	Off	270800000	AM		15									
+C-Freq	CFreqId=172492	CGroupId=42915	Automatic Terminal Information Service	Off	127550000	AM		15									
+C-Freq	CFreqId=172491	CGroupId=42915	Fredericton Radio - Flight Service Station	Off	119000000	AM		15									
+C-Freq	CFreqId=172493	CGroupId=42915	Fredericton Radio - Flight Service Station	Off	236600000	AM		15									
+C-Freq	CFreqId=172555	CGroupId=42915	Halifax FIC - RCO	Off	126700000	AM		15									
+Conventional	AgencyId=4375	StateId=104	Greater Moncton International Airport (YQM)	Off		Conventional								
+AreaState	AgencyId=4375	StateId=104
+AreaCounty	AgencyId=4375	CountyId=4366
+C-Group	CGroupId=42917	AgencyId=4375	Moncton Airport (YQM) - Air Traffic Control	Off	46.112222	-64.678611	30.0	Circle	
+C-Freq	CFreqId=172504	CGroupId=42917	Apron Advisory	Off	122075000	AM		15									
+C-Freq	CFreqId=172512	CGroupId=42917	Arrivals / Departure	Off	124400000	AM		15									
+C-Freq	CFreqId=172505	CGroupId=42917	Automatic Terminal Information Service	Off	128650000	AM		15									
+C-Freq	CFreqId=172503	CGroupId=42917	Ground Control	Off	121800000	AM		15									
+C-Freq	CFreqId=172507	CGroupId=42917	Ground Control	Off	275800000	AM		15									
+C-Freq	CFreqId=172551	CGroupId=42917	Halifax FIC - RCO	Off	122500000	AM		15									
+C-Freq	CFreqId=172502	CGroupId=42917	Tower	Off	120800000	AM		15									
+C-Freq	CFreqId=172506	CGroupId=42917	Tower	Off	236600000	AM		15									
+Conventional	AgencyId=7824	StateId=104	Irving Group of Companies	Off		Conventional								
+AreaState	AgencyId=7824	StateId=104
+AreaCounty	AgencyId=7824	CountyId=0
+C-Group	CGroupId=65520	AgencyId=7824	JD Irving Limited - Woodlands Division - Provincewide	Off	46.000000	-66.000000	150.0	Circle	
+C-Freq	CFreqId=270470	CGroupId=65520	Bowater Truckers	Off	152165000	FM	TONE=C141.3	17									
+C-Freq	CFreqId=270466	CGroupId=65520	Chip Mills Simplex	Off	162360000	FM	TONE=C127.3	17									
+C-Freq	CFreqId=270467	CGroupId=65520	Kane - Kedgewick	Off	162615000	FM	TONE=C114.8	17									
+C-Freq	CFreqId=270455	CGroupId=65520	Local 10 - Bayshore	Off	143295000	FM		17									
+C-Freq	CFreqId=270456	CGroupId=65520	Local 11 - Fort Kent	Off	143565000	FM		17									
+C-Freq	CFreqId=270457	CGroupId=65520	Local 12 - Blackstone	Off	143595000	FM	TONE=C192.8	17									
+C-Freq	CFreqId=270458	CGroupId=65520	Local 13 - Juniper / Indian Lake Mtn	Off	143970000	FM	TONE=C192.8	17									
+C-Freq	CFreqId=270459	CGroupId=65520	Local 14 - Chipman	Off	143415000	FM	TONE=C151.4	17									
+C-Freq	CFreqId=270460	CGroupId=65520	Local 15 - Crabbe Mtn	Off	143355000	FM	TONE=C192.8	17									
+C-Freq	CFreqId=270461	CGroupId=65520	Local 16 - Sackville	Off	143505000	FM		17									
+C-Freq	CFreqId=270462	CGroupId=65520	Local 17 - Norway Maine	Off	151550000	FM	TONE=C210.7	17									
+C-Freq	CFreqId=270464	CGroupId=65520	Local 19 - Summit	Off	143535000	FM	TONE=C131.8	17									
+C-Freq	CFreqId=270449	CGroupId=65520	Local 4 - Saint George	Off	143865000	FM		17									
+C-Freq	CFreqId=270450	CGroupId=65520	Local 5 - Veneer / Mt. Champlain	Off	143385000	FM		17									
+C-Freq	CFreqId=270451	CGroupId=65520	Local 6 - Boiestown / Doaktown	Off	143040000	FM		17									
+C-Freq	CFreqId=270452	CGroupId=65520	Local 7 - Sussex	Off	143580000	FM	TONE=C151.4	17									
+C-Freq	CFreqId=270453	CGroupId=65520	Local 8 - Renous	Off	143505000	FM	TONE=C192.8	17									
+C-Freq	CFreqId=270454	CGroupId=65520	Local 9 - Moncton	Off	143850000	FM	TONE=C151.4	17									
+C-Freq	CFreqId=270463	CGroupId=65520	Main - Norway	Off	153095000	FM	TONE=C225.7	17									
+C-Freq	CFreqId=270446	CGroupId=65520	Main 1	Off	143175000	FM		17									
+C-Freq	CFreqId=270447	CGroupId=65520	Main 2	Off	143835000	FM		17									
+C-Freq	CFreqId=270448	CGroupId=65520	Main 3	Off	143085000	FM		17									
+C-Freq	CFreqId=270468	CGroupId=65520	Rapids Depot	Off	163545000	FM	TONE=C114.8	17									
+C-Freq	CFreqId=270465	CGroupId=65520	Sawmills Simplex	Off	163905000	FM	TONE=C127.3	17									
+C-Freq	CFreqId=270469	CGroupId=65520	Veneer - Scale House	Off	162315000	FM	TONE=C131.8	17									
+Conventional	AgencyId=4367	StateId=104	Miramichi Airport (YCH)	Off		Conventional								
+AreaState	AgencyId=4367	StateId=104
+AreaCounty	AgencyId=4367	CountyId=4360
+C-Group	CGroupId=42906	AgencyId=4367	Air Traffic Control	Off	47.005833	-65.456944	30.0	Circle	
+C-Freq	CFreqId=172438	CGroupId=42906	Moncton Centre	Off	123700000	AM		15									
+C-Freq	CFreqId=172436	CGroupId=42906	Unicom	Off	122700000	AM		15									
+C-Group	CGroupId=42908	AgencyId=4367	DNR Air Tanker Base (FPL)	Off	47.005833	-65.456944	30.0	Circle	
+C-Freq	CFreqId=172454	CGroupId=42908	Air Tankers	Off	122050000	AM		15									
+C-Freq	CFreqId=172455	CGroupId=42908	Air Tankers	Off	122650000	AM		15									
+C-Freq	CFreqId=172456	CGroupId=42908	Forest Protection Limited - Dispatch	Off	122850000	AM		15									
+Conventional	AgencyId=8571	StateId=104	NB Power	Off		Conventional								
+AreaState	AgencyId=8571	StateId=104
+AreaCounty	AgencyId=8571	CountyId=0
+C-Group	CGroupId=72060	AgencyId=8571	Provincewide	Off	46.000000	-66.000000	150.0	Circle	
+C-Freq	CFreqId=299849	CGroupId=72060	Ashton, Hebron, Poplar Hill, Voisine	Off	142635000	NFM		34									
+C-Freq	CFreqId=299853	CGroupId=72060	Bathurst, Hardwood Ridge, St. Damien, Summerfield	Off	142755000	NFM		34									
+C-Freq	CFreqId=299854	CGroupId=72060	Boyd, Fairfield, Guitar, Hartfield, Scotch Mountain	Off	142815000	NFM		34									
+C-Freq	CFreqId=299850	CGroupId=72060	Cameron, Pleasant Ridge, Rogersville, Wood Lake	Off	142425000	NFM		34									
+C-Freq	CFreqId=299852	CGroupId=72060	Divide, Sandy Point, Seven Mile, Weaver	Off	142575000	NFM		34									
+C-Freq	CFreqId=299851	CGroupId=72060	Lutes Mountain, Parker Ridge, Robinson, St. Francois, St. Isador	Off	142725000	NFM		34									
+C-Freq	CFreqId=301361	CGroupId=72060	Moncton - Lutes Mountain	Off	142485000	NFM		34									
+Conventional	AgencyId=2461	StateId=104	PNB IRCS - DNR Natural Resources	Off		Conventional								
+AreaState	AgencyId=2461	StateId=104
+AreaCounty	AgencyId=2461	CountyId=0
+C-Group	CGroupId=21380	AgencyId=2461	DNR - Provincewide	Off	46.000000	-66.000000	150.0	Circle	
+C-Freq	CFreqId=78139	CGroupId=21380	DNR Portable Repeater/Talkaround 1	Off	164700000	FM	TONE=C151.4	8									
+C-Freq	CFreqId=78140	CGroupId=21380	DNR Portable Repeater/Talkaround 2	Off	164640000	FM	TONE=C151.4	8									
+C-Freq	CFreqId=78141	CGroupId=21380	Provincial Fire Simplex	Off	151385000	FM		8									
+C-Group	CGroupId=75875	AgencyId=2461	DNR - Region 2	Off	46.046803	-64.627441	50.0	Circle	
+C-Freq	CFreqId=322204	CGroupId=75875	Channel 2-1 Indian Mtn	Off	173970000	FM	TONE=C118.8	8									
+C-Freq	CFreqId=322205	CGroupId=75875	Channel 2-2 Bald Mtn/Fairfield	Off	173580000	FM	TONE=C118.8	8									
+C-Freq	CFreqId=322206	CGroupId=75875	Channel 2-3 Parker Ridge	Off	173610000	FM	TONE=C118.8	8									
+C-Freq	CFreqId=322207	CGroupId=75875	Channel 2-4	Off	172920000	FM	TONE=C118.8	8									
+C-Freq	CFreqId=322208	CGroupId=75875	Channel 2-5 McKendrick / Adamsville	Off	173460000	FM	TONE=C118.8	8									
+C-Freq	CFreqId=322209	CGroupId=75875	Channel 2-6 Neguac	Off	173160000	FM	TONE=C118.8	8									
+C-Freq	CFreqId=322210	CGroupId=75875	Channel 2-7 Region 2 Simplex	Off	172260000	FM	TONE=C118.8	8									
+C-Freq	CFreqId=322211	CGroupId=75875	Channel 2-8 Chaplin Island	Off	171195000	FM	TONE=C118.8	8									
+C-Freq	CFreqId=322212	CGroupId=75875	Channel 2-9 Laketon	Off	164640000	FM	TONE=C118.8	8									
+C-Group	CGroupId=75876	AgencyId=2461	DNR - Region 3	Off	45.737371	-67.003601	50.0	Circle	
+C-Freq	CFreqId=322214	CGroupId=75876	Channel 3-0 Adamsville	Off	164730000	FM	TONE=C136.5	8									
+C-Freq	CFreqId=322215	CGroupId=75876	Channel 3-1 Grove Hill / Stanley	Off	173970000	FM	TONE=C136.5	8									
+C-Freq	CFreqId=322216	CGroupId=75876	Channel 3-2 Scotch Mtn	Off	173580000	FM	TONE=C136.5	8									
+C-Freq	CFreqId=322217	CGroupId=75876	Channel 3-3 Londoderry / Pleasant Ridge	Off	173610000	FM	TONE=C136.5	8									
+C-Freq	CFreqId=322218	CGroupId=75876	Channel 3-4 Boyd Mtn / Skiff Lake	Off	172920000	FM	TONE=C136.5	8									
+C-Freq	CFreqId=322219	CGroupId=75876	Channel 3-5 Clarendon / Brightom	Off	173460000	FM	TONE=C136.5	8									
+C-Freq	CFreqId=322220	CGroupId=75876	Channel 3-6 Hardwood / Fairfield	Off	173160000	FM	TONE=C136.5	8									
+C-Freq	CFreqId=322221	CGroupId=75876	Channel 3-7 Region 3 Simplex	Off	172260000	FM	TONE=C136.5	8									
+C-Freq	CFreqId=322222	CGroupId=75876	Channel 3-8 Maces Bay / Canaan Forks	Off	171195000	FM	TONE=C136.5	8									
+C-Freq	CFreqId=322223	CGroupId=75876	Channel 3-9 Crabbe Mtn	Off	164700000	FM	TONE=C136.5	8									
+C-Freq	CFreqId=322224	CGroupId=75876	Channel 4-0 Fredericton	Off	172065000	FM	TONE=C136.5	8									
+C-Group	CGroupId=75877	AgencyId=2461	DNR - Region 4	Off	47.491472	-67.615723	50.0	Circle	
+C-Freq	CFreqId=322225	CGroupId=75877	Channel 4-1	Off	173970000	FM	TONE=C156.7	8									
+C-Freq	CFreqId=322226	CGroupId=75877	Channel 4-2	Off	173580000	FM	TONE=C156.7	8									
+C-Freq	CFreqId=322227	CGroupId=75877	Channel 4-3 Riceville	Off	173610000	FM	TONE=C156.7	8									
+C-Freq	CFreqId=322228	CGroupId=75877	Channel 4-4 Kintore Mtn / Rapids Depot	Off	172920000	FM	TONE=C156.7	8									
+C-Freq	CFreqId=322229	CGroupId=75877	Channel 4-5 Toulidi / Grand River	Off	173460000	FM	TONE=C156.7	8									
+C-Freq	CFreqId=322230	CGroupId=75877	Channel 4-6 Summit Depot / Lower Blue Mtn	Off	173160000	FM	TONE=C156.7	8									
+C-Freq	CFreqId=322231	CGroupId=75877	Channel 4-7 Region 4 Simplex	Off	172260000	FM	TONE=C156.7	8									
+C-Freq	CFreqId=322232	CGroupId=75877	Channel 4-8 Kenneth	Off	171195000	FM	TONE=C156.7	8									
+Conventional	AgencyId=7333	StateId=104	PNB IRCS - DOT Transportation	Off		Conventional								
+AreaState	AgencyId=7333	StateId=104
+AreaCounty	AgencyId=7333	CountyId=0
+C-Group	CGroupId=61844	AgencyId=7333	NB Department of Transportation - Provincewide	Off	46.596204	-66.326578	140.0	Circle	
+C-Freq	CFreqId=270488	CGroupId=61844	DOT 01 - Simplex	Off	413737500	FM		14									
+C-Freq	CFreqId=270489	CGroupId=61844	DOT 02 - Campbellton	Off	410812500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270490	CGroupId=61844	DOT 03 - Belledune	Off	410437500	FM	TONE=C82.5	14									
+C-Freq	CFreqId=287871	CGroupId=61844	DOT 04 - St- Quentin	Off	410787500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270491	CGroupId=61844	DOT 05 - Saint Leonard	Off	410562500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270492	CGroupId=61844	DOT 06 - Edmundston	Off	410412500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270493	CGroupId=61844	DOT 07	Off	410637500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270494	CGroupId=61844	DOT 08	Off	410762500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270495	CGroupId=61844	DOT 09 - Plaster Rock, Stanley, Cap Pele, Neguac	Off	410337500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270496	CGroupId=61844	DOT 10 - Perth Andover, St. George	Off	410612500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270497	CGroupId=61844	DOT 11 - Glassville	Off	410812500	FM	TONE=C82.5	14									
+C-Freq	CFreqId=270498	CGroupId=61844	DOT 12 - Woodstock	Off	410437500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270499	CGroupId=61844	DOT 13 - Canterbury	Off	410787500	FM	TONE=C94.8	14									
+C-Freq	CFreqId=270500	CGroupId=61844	DOT 14 - Fredericton	Off	410412500	FM	TONE=C94.8	14									
+C-Freq	CFreqId=270501	CGroupId=61844	DOT 15 - Welsford	Off	410762500	FM	TONE=C94.8	14									
+C-Freq	CFreqId=270502	CGroupId=61844	DOT 16 - Millville	Off	410562500	FM	TONE=C82.5	14									
+C-Freq	CFreqId=270503	CGroupId=61844	DOT 18 - Pleasant Ridge	Off	410637500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270504	CGroupId=61844	DOT 20 - Lepreau	Off	410812500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270505	CGroupId=61844	DOT 21 - Saint John	Off	410437500	FM	TONE=C82.5	14									
+C-Freq	CFreqId=270506	CGroupId=61844	DOT 22 - St. Martins	Off	410562500	FM	TONE=C94.8	14									
+C-Freq	CFreqId=270507	CGroupId=61844	DOT 23 - Chipman	Off	410612500	FM	TONE=C94.8	14									
+C-Freq	CFreqId=270508	CGroupId=61844	DOT 24 - Sussex	Off	410787500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270509	CGroupId=61844	DOT 26 - Petitcodiac	Off	410637500	FM	TONE=C94.8	14									
+C-Freq	CFreqId=270510	CGroupId=61844	DOT 27 - Moncton	Off	410562500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270511	CGroupId=61844	DOT 28 - Sackville	Off	410762500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270512	CGroupId=61844	DOT 29	Off	410412500	FM	TONE=C71.9	14									
+C-Freq	CFreqId=270513	CGroupId=61844	DOT 30 - South St. Norbert	Off	410437500	FM	TONE=C94.8	14									
+C-Freq	CFreqId=270514	CGroupId=61844	DOT 31	Off	410812500	FM	TONE=C94.8	14									
+C-Freq	CFreqId=270515	CGroupId=61844	DOT 32 - Rexton	Off	410787500	FM	TONE=C82.5	14									
+C-Freq	CFreqId=270516	CGroupId=61844	DOT 33 - Miramichi	Off	410612500	FM	TONE=C82.5	14									
+C-Freq	CFreqId=270517	CGroupId=61844	DOT 34 - Doaktown	Off	410637500	FM	TONE=C82.5	14									
+C-Freq	CFreqId=270518	CGroupId=61844	DOT 35 - Tracadie	Off	410762500	FM	TONE=C82.5	14									
+C-Freq	CFreqId=270519	CGroupId=61844	DOT 36 - Bathurst	Off	410562500	FM	TONE=C94.8	14									
+C-Freq	CFreqId=270520	CGroupId=61844	DOT 37 - Lameque	Off	410412500	FM	TONE=C82.5	14									
+C-Freq	CFreqId=270521	CGroupId=61844	DOT 38 - Simplex	Off	413412500	FM		14									
+C-Freq	CFreqId=270522	CGroupId=61844	DOT 39 - Simplex	Off	413962500	FM		14									
+Conventional	AgencyId=2136	StateId=104	PNB IRCS - EMO Emergency Measures	Off		Conventional								
+AreaState	AgencyId=2136	StateId=104
+AreaCounty	AgencyId=2136	CountyId=0
+C-Group	CGroupId=17940	AgencyId=2136	Emergency Measures - Provincewide	Off	46.000000	-66.000000	150.0	Circle	
+C-Freq	CFreqId=65686	CGroupId=17940	EMO 1 - Simplex	Off	413662500	FM		29									
+C-Freq	CFreqId=65671	CGroupId=17940	EMO 11 - Fredericton	Off	411187500	FM	TONE=C123.0	29									
+C-Freq	CFreqId=65672	CGroupId=17940	EMO 12 - Pleasant Ridge	Off	411637500	FM	TONE=C123.0	29									
+C-Freq	CFreqId=65673	CGroupId=17940	EMO 14 - Lepreau / Stanley	Off	411362500	FM	TONE=C100.0	29									
+C-Freq	CFreqId=65674	CGroupId=17940	EMO 15 - Saint John	Off	411062500	FM	TONE=C110.9	29									
+C-Freq	CFreqId=65675	CGroupId=17940	EMO 16 - Sussex	Off	411212500	FM	TONE=C100.0	29									
+C-Freq	CFreqId=65678	CGroupId=17940	EMO 17 - Petitcodiac	Off	411237500	FM	TONE=C110.9	29									
+C-Freq	CFreqId=65659	CGroupId=17940	EMO 2 - Campbellton/St Martins/Glassville	Off	411387500	FM	TONE=C100.0	29									
+C-Freq	CFreqId=65679	CGroupId=17940	EMO 20 - Moncton	Off	410937500	FM	TONE=C110.9	29									
+C-Freq	CFreqId=65680	CGroupId=17940	EMO 21 - Sackville	Off	411362500	FM	TONE=C123.0	29									
+C-Freq	CFreqId=65681	CGroupId=17940	EMO 22 - Rexton / Acadieville	Off	411062500	FM	TONE=C110.9	29									
+C-Freq	CFreqId=65682	CGroupId=17940	EMO 23 - Doaktown	Off	411237500	FM	TONE=C100.0	29									
+C-Freq	CFreqId=65683	CGroupId=17940	EMO 24 - Miramichi	Off	411187500	FM	TONE=C110.9	29									
+C-Freq	CFreqId=65676	CGroupId=17940	EMO 25 - Bathurst	Off	411212500	FM	TONE=C123.0	29									
+C-Freq	CFreqId=65684	CGroupId=17940	EMO 26 - Tracadie	Off	411362500	FM	TONE=C123.0	29									
+C-Freq	CFreqId=287873	CGroupId=17940	EMO 27 - Belledune	Off	411062500	FM	TONE=C100.0	29									
+C-Freq	CFreqId=287874	CGroupId=17940	EMO 28 - HazMat 1	Off	418412500	FM	TONE=C173.8	29									
+C-Freq	CFreqId=287875	CGroupId=17940	EMO 29 - HazMat 2	Off	418612500	FM	TONE=C173.8	29									
+C-Freq	CFreqId=65663	CGroupId=17940	EMO 3 - Canterbury/St Quentin	Off	411362500	FM	TONE=C110.9	29									
+C-Freq	CFreqId=287876	CGroupId=17940	EMO 30 - HazMat 3	Off	418737500	FM	TONE=C173.8	29									
+C-Freq	CFreqId=287877	CGroupId=17940	EMO 31 - Juniper	Off	412987500	FM		29									
+C-Freq	CFreqId=65664	CGroupId=17940	EMO 4 - Saint Leonard Area	Off	411187500	FM	TONE=C100.0	29									
+C-Freq	CFreqId=287878	CGroupId=17940	EMO 40 - Cap Pele	Off	410337500	FM		29									
+C-Freq	CFreqId=65665	CGroupId=17940	EMO 5 - Edmundston/Fundy Park	Off	410937500	FM	TONE=C123.0	29									
+C-Freq	CFreqId=65668	CGroupId=17940	EMO 6 - Perth-Andover Area	Off	411212500	FM	TONE=C110.9	29									
+C-Freq	CFreqId=65669	CGroupId=17940	EMO 8 - Woodstock	Off	411062500	FM	TONE=C123.0	29									
+C-Freq	CFreqId=65670	CGroupId=17940	EMO 9  - Millville / Nackawic	Off	411937500	FM	TONE=C100.0	29									
+Conventional	AgencyId=7823	StateId=104	PNB IRCS - GGS General Government Services	Off		Conventional								
+AreaState	AgencyId=7823	StateId=104
+AreaCounty	AgencyId=7823	CountyId=0
+C-Group	CGroupId=65527	AgencyId=7823	General Government Services - Provincewide	Off	46.000000	-66.000000	150.0	Circle	
+C-Freq	CFreqId=270606	CGroupId=65527	GGS 1 - Simplex & Court Security	Off	413087500	FM		1									
+C-Freq	CFreqId=270613	CGroupId=65527	GGS 10 - Millville	Off	411687500	FM		1									
+C-Freq	CFreqId=270614	CGroupId=65527	GGS 12 - Fredericton	Off	411887500	FM		1									
+C-Freq	CFreqId=270615	CGroupId=65527	GGS 14 - Pleasant Ridge	Off	411937500	FM		1									
+C-Freq	CFreqId=270616	CGroupId=65527	GGS 16 - Lepreau	Off	412187500	FM		1									
+C-Freq	CFreqId=270617	CGroupId=65527	GGS 17 - Saint John	Off	411762500	FM		1									
+C-Freq	CFreqId=270618	CGroupId=65527	GGS 19 - Sussex	Off	411912500	FM		1									
+C-Freq	CFreqId=270607	CGroupId=65527	GGS 2 - Campbellton	Off	412187500	FM		1									
+C-Freq	CFreqId=270619	CGroupId=65527	GGS 20 - Petitcodiac	Off	411937500	FM		1									
+C-Freq	CFreqId=270620	CGroupId=65527	GGS 23 - Moncton	Off	411687500	FM		1									
+C-Freq	CFreqId=270621	CGroupId=65527	GGS 24 - Sackville, St. Martins, Glassville	Off	412062500	FM		1									
+C-Freq	CFreqId=270622	CGroupId=65527	GGS 25 - Rexton	Off	412987500	FM		1									
+C-Freq	CFreqId=270623	CGroupId=65527	GGS 26 - Doaktown	Off	411937500	FM		1									
+C-Freq	CFreqId=270624	CGroupId=65527	GGS 27 - Miramichi	Off	411912500	FM		1									
+C-Freq	CFreqId=270625	CGroupId=65527	GGS 28 - Bathurst	Off	411887500	FM		1									
+C-Freq	CFreqId=270626	CGroupId=65527	GGS 29 -Tracadie	Off	412062500	FM		1									
+C-Freq	CFreqId=270608	CGroupId=65527	GGS 3 - St. Quentin	Off	412087500	FM		1									
+C-Freq	CFreqId=270627	CGroupId=65527	GGS 30 - Belledune	Off	411762500	FM		1									
+C-Freq	CFreqId=270628	CGroupId=65527	GGS 32 - St. Stephen	Off	412062500	FM		1									
+C-Freq	CFreqId=287872	CGroupId=65527	GGS 33 - Skiff Lake	Off	412137500	FM		1									
+C-Freq	CFreqId=270609	CGroupId=65527	GGS 4 - Saint Leonard	Off	411887500	FM		1									
+C-Freq	CFreqId=270629	CGroupId=65527	GGS 40 - Cap Pele (Shared DOT)	Off	410337500	FM		1									
+C-Freq	CFreqId=270610	CGroupId=65527	GGS 5 - Edmundston	Off	411687500	FM		1									
+C-Freq	CFreqId=270611	CGroupId=65527	GGS 7 - Perth-Andover	Off	411912500	FM		1									
+C-Freq	CFreqId=270612	CGroupId=65527	GGS 9 - Woodstock	Off	411762500	FM		1									
+C-Freq	CFreqId=270630	CGroupId=65527	Shared DOT	Off	410337500	FM	TONE=C71.9	1									
+C-Freq	CFreqId=270631	CGroupId=65527	Shared DOT	Off	410612500	FM	TONE=C94.8	1									
+Conventional	AgencyId=1616	StateId=104	RCMP J Division	Off		Conventional								
+AreaState	AgencyId=1616	StateId=104
+AreaCounty	AgencyId=1616	CountyId=0
+C-Group	CGroupId=75861	AgencyId=1616	Provincewide - North East District - RSC 2	Off	47.997396	-66.675522	25.0	Circle	
+C-Freq	CFreqId=322120	CGroupId=75861	Campbellton Area	Off	155580000	FM	TONE=C173.8	2									
+C-Freq	CFreqId=322118	CGroupId=75861	Campbelltown Town Area	Off	155730000	FM	TONE=C123.0	2									
+C-Freq	CFreqId=322117	CGroupId=75861	Dalhousie Area	Off	155970000	FM	TONE=C107.2	2									
+C-Freq	CFreqId=322119	CGroupId=75861	Remote Site - Jacquet River Gorge Area	Off	155820000	FM	TONE=C123.0	2									
+C-Freq	CFreqId=322122	CGroupId=75861	Remote Site - Logging Areas NW NB	Off	155820000	FM	TONE=C173.8	2									
+C-Freq	CFreqId=322123	CGroupId=75861	Remote Site - Logging Areas NW NB	Off	155880000	FM	TONE=C173.8	2									
+C-Freq	CFreqId=322121	CGroupId=75861	Robinsonville Area	Off	154355000	FM	TONE=C173.8	2									
+C-Group	CGroupId=12648	AgencyId=1616	Provincewide - North East District - RSC 3	Off	47.801445	-66.660881	80.0	Circle	
+C-Freq	CFreqId=47508	CGroupId=12648	Bathurst Area	Off	155730000	FM	TONE=C173.8	2									
+C-Freq	CFreqId=47509	CGroupId=12648	Belledune Area	Off	155940000	FM	TONE=C173.8	2									
+C-Freq	CFreqId=322107	CGroupId=12648	Lorne Area	Off	155880000	FM	TONE=C173.8	2									
+C-Group	CGroupId=12647	AgencyId=1616	Provincewide - North East District - RSC 4	Off	47.534013	-64.911472	45.0	Circle	
+C-Freq	CFreqId=253453	CGroupId=12647	Caraquet Area	Off	157470000	FM	TONE=C173.8	2									
+C-Freq	CFreqId=253454	CGroupId=12647	Lameque Area	Off	158625000	FM	TONE=C173.8	2									
+C-Freq	CFreqId=47506	CGroupId=12647	Neguac Area	Off	155880000	FM	TONE=C162.2	2									
+C-Freq	CFreqId=47507	CGroupId=12647	Paquetville Area	Off	155700000	FM	TONE=C173.8	2									
+C-Freq	CFreqId=47505	CGroupId=12647	Tracadie-Sheila Area	Off	155805000	FM	TONE=C173.8	2									
+C-Group	CGroupId=12645	AgencyId=1616	Provincewide - North East District - RSC 5	Off	47.067695	-66.318089	45.0	Circle	
+C-Freq	CFreqId=47502	CGroupId=12645	Big Bald Mountain Remote Site between Renous + Mt Carleton	Off	155580000	FM	TONE=C186.2	2									
+C-Freq	CFreqId=142595	CGroupId=12645	Blackville Area	Off	155805000	FM	TONE=C141.3	2									
+C-Freq	CFreqId=47499	CGroupId=12645	Chatham Area	Off	155940000	FM	TONE=C131.8	2									
+C-Freq	CFreqId=47501	CGroupId=12645	Doaktown Area	Off	155700000	FM	TONE=C141.3	2									
+C-Freq	CFreqId=322109	CGroupId=12645	Escuminac Area	Off	163800000	FM	TONE=C162.2	2									
+C-Freq	CFreqId=47500	CGroupId=12645	Miramichi Area	Off	155910000	FM	TONE=C162.2	2									
+C-Freq	CFreqId=322108	CGroupId=12645	St Margarets Area	Off	155745000	FM	TONE=C131.8	2									
+C-Group	CGroupId=12639	AgencyId=1616	Provincewide - Simplex	Off	46.000000	-66.000000	150.0	Circle	
+C-Freq	CFreqId=47477	CGroupId=12639	Tac 1 Simplex	Off	155670000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=47478	CGroupId=12639	Tac 2 Simplex	Off	155460000	FM	TONE=C123.0	7									
+C-Freq	CFreqId=47479	CGroupId=12639	Tac 3 Simplex	Off	155370000	FM	TONE=C141.3	7									
+C-Freq	CFreqId=143129	CGroupId=12639	Vehicular Repeater	Off	148405000	FM		23									
+C-Group	CGroupId=12644	AgencyId=1616	Provincewide - South East District - RSC 6	Off	46.611743	-65.011093	35.0	Circle	
+C-Freq	CFreqId=142594	CGroupId=12644	Bouctouche Area	Off	157965000	FM	TONE=C151.4	2									
+C-Freq	CFreqId=238759	CGroupId=12644	Harcourt Area	Off	155445000	FM	TONE=C162.2	2									
+C-Freq	CFreqId=47498	CGroupId=12644	Rogersville Area	Off	155580000	FM	TONE=C162.2	2									
+C-Freq	CFreqId=47497	CGroupId=12644	St Marie de Kent Area	Off	155940000	FM	TONE=C162.2	2									
+C-Group	CGroupId=12643	AgencyId=1616	Provincewide - South East District - RSC 7	Off	46.099475	-64.262301	25.0	Circle	
+C-Freq	CFreqId=47496	CGroupId=12643	Cape Tormentine Area	Off	155880000	FM	TONE=C141.3	2									
+C-Freq	CFreqId=322111	CGroupId=12643	Fundy Park / Alma Area	Off	155940000	FM	TONE=C100.0	2									
+C-Freq	CFreqId=322110	CGroupId=12643	Irishtown Area	Off	155820000	FM	TONE=C162.2	2									
+C-Freq	CFreqId=322112	CGroupId=12643	Petitcodiac Area	Off	155910000	FM	TONE=C100.0	2									
+C-Freq	CFreqId=342634	CGroupId=12643	RCMP District 4 UHF Repeater Link	Off	419237500	FM		2									
+C-Freq	CFreqId=47495	CGroupId=12643	Sackville Area	Off	155730000	FM	TONE=C162.2	2									
+C-Freq	CFreqId=47494	CGroupId=12643	Shediac Area	Off	155640000	FM	TONE=C141.3	2									
+C-Group	CGroupId=75860	AgencyId=1616	Provincewide - South East District - RSC 8	Off	45.363789	-66.246620	25.0	Circle	
+C-Freq	CFreqId=322115	CGroupId=75860	Hampton Area	Off	155700000	FM	TONE=C186.2	2									
+C-Freq	CFreqId=322116	CGroupId=75860	St Martins Area	Off	155895000	FM	TONE=C186.2	2									
+C-Freq	CFreqId=322113	CGroupId=75860	Sussex Area	Off	155880000	FM	TONE=C186.2	2									
+C-Freq	CFreqId=322114	CGroupId=75860	Sussex Town Area	Off	155415000	FM	TONE=C186.2	2									
+C-Group	CGroupId=12642	AgencyId=1616	Provincewide - South East District - RSC 9	Off	45.571970	-65.635378	35.0	Circle	
+C-Freq	CFreqId=47491	CGroupId=12642	Saint John Area	Off	155820000	FM	TONE=C186.2	2									
+C-Freq	CFreqId=47490	CGroupId=12642	Welsford / Grand Bay Area	Off	155910000	FM	TONE=C107.2	2									
+C-Group	CGroupId=12649	AgencyId=1616	Provincewide - West District - RSC 1	Off	47.109668	-67.814444	55.0	Circle	
+C-Freq	CFreqId=47520	CGroupId=12649	Edmundston Area	Off	155700000	FM	TONE=C131.8	2									
+C-Freq	CFreqId=47517	CGroupId=12649	Grand Falls Area	Off	157560000	FM	TONE=C131.8	2									
+C-Freq	CFreqId=47521	CGroupId=12649	St Francois Area	Off	155820000	FM	TONE=C141.3	2									
+C-Freq	CFreqId=47519	CGroupId=12649	St Leonard Area	Off	155730000	FM	TONE=C131.8	2									
+C-Freq	CFreqId=47518	CGroupId=12649	St. Quentin / Kedgwick	Off	155910000	FM	TONE=C173.8	2									
+C-Group	CGroupId=12640	AgencyId=1616	Provincewide - West District - RSC 10	Off	45.164611	-66.803042	39.0	Circle	
+C-Freq	CFreqId=322101	CGroupId=12640	Campobello Island Area	Off	152510000	FM	TONE=C186.2	2									
+C-Freq	CFreqId=47480	CGroupId=12640	Grand Manan Island	Off	155580000	FM	TONE=C186.2	2									
+C-Freq	CFreqId=322103	CGroupId=12640	Harvey Area	Off	155700000	FM	TONE=C114.8	2									
+C-Freq	CFreqId=47483	CGroupId=12640	Maces Bay/Lepreau	Off	155730000	FM	TONE=C186.2	2									
+C-Freq	CFreqId=322099	CGroupId=12640	McAdam Area	Off	165990000	FM	TONE=C141.3	2									
+C-Freq	CFreqId=47482	CGroupId=12640	Pleasant Ridge	Off	155910000	FM	TONE=C186.2	2									
+C-Freq	CFreqId=47481	CGroupId=12640	St Andrews Area	Off	155940000	FM	TONE=C114.8	2									
+C-Freq	CFreqId=322100	CGroupId=12640	St George Area	Off	162630000	FM	TONE=C186.2	2									
+C-Freq	CFreqId=322102	CGroupId=12640	St Stephen Area	Off	159195000	FM	TONE=C114.8	2									
+C-Group	CGroupId=12641	AgencyId=1616	Provincewide - West District - RSC 11	Off	45.853445	-66.461129	55.0	Circle	
+C-Freq	CFreqId=47488	CGroupId=12641	Chipman/Minto Area	Off	155445000	FM	TONE=C114.8	2									
+C-Freq	CFreqId=47489	CGroupId=12641	Fredericton	Off	155820000	FM	TONE=C141.3	2									
+C-Freq	CFreqId=47486	CGroupId=12641	Gagetown/Cambridge Narrows Area	Off	155580000	FM	TONE=C123.0	2									
+C-Freq	CFreqId=47485	CGroupId=12641	Keswick / Stanley Area	Off	155730000	FM	TONE=C141.3	2									
+C-Freq	CFreqId=47484	CGroupId=12641	Nackawic Area	Off	152180000	FM	TONE=C114.8	2									
+C-Freq	CFreqId=322098	CGroupId=12641	Oromocto Area	Off	154325000	FM	TONE=C141.3	2									
+C-Freq	CFreqId=47487	CGroupId=12641	Stanley Area	Off	155940000	FM	TONE=C173.8	2									
+C-Group	CGroupId=12646	AgencyId=1616	Provincewide - West District - RSC 12	Off	46.304477	-67.321736	26.0	Circle	
+C-Freq	CFreqId=322097	CGroupId=12646	Canterbury Area	Off	158070000	FM	TONE=C131.8	2									
+C-Freq	CFreqId=322095	CGroupId=12646	Perth-Andover Area	Off	155880000	FM	TONE=C131.8	2									
+C-Freq	CFreqId=47504	CGroupId=12646	Perth-Andover/Tobique Area	Off	158625000	FM	TONE=C131.8	2									
+C-Freq	CFreqId=322094	CGroupId=12646	Plaster Rock Area	Off	155820000	FM	TONE=C131.8	2									
+C-Freq	CFreqId=322096	CGroupId=12646	Remote Site Route 108 Renous Hwy Coverage	Off	155910000	FM	TONE=C123.0	2									
+C-Freq	CFreqId=47503	CGroupId=12646	Woodstock Area	Off	155580000	FM	TONE=C131.8	2									
+Conventional	AgencyId=4372	StateId=104	Saint John Airport (YSJ)	Off		Conventional								
+AreaState	AgencyId=4372	StateId=104
+AreaCounty	AgencyId=4372	CountyId=4363
+C-Group	CGroupId=42913	AgencyId=4372	Air Traffic Control	Off	45.316111	-65.890000	30.0	Circle	
+C-Freq	CFreqId=172508	CGroupId=42913	Arr/Dep - Moncton ACC	Off	124300000	AM		15									
+C-Freq	CFreqId=172509	CGroupId=42913	Arr/Dep - Moncton ACC	Off	270800000	AM		15									
+C-Freq	CFreqId=172556	CGroupId=42913	Halifax FIC - RCO	Off	126700000	AM		15									
+C-Freq	CFreqId=172488	CGroupId=42913	Saint John Radio - Flight Service Station	Off	118500000	AM		15									
+C-Freq	CFreqId=172489	CGroupId=42913	Saint John Radio - Flight Service Station	Off	236600000	AM		15									
+Conventional	AgencyId=8452	StateId=104	Sugarloaf Provincial Park	Off		Conventional								
+AreaState	AgencyId=8452	StateId=104
+AreaCounty	AgencyId=8452	CountyId=4362
+C-Group	CGroupId=57242	AgencyId=8452	Park Operations - Atholville	Off	47.989444	-66.712500	30.0	Circle	
+C-Freq	CFreqId=240625	CGroupId=57242	Sugarloaf Park - Repeater	Off	167325000	FM		21									
+C-Freq	CFreqId=240626	CGroupId=57242	Sugarloaf Park - Simplex	Off	166920000	FM		21									
+Conventional	AgencyId=8896	StateId=104	VIA Rail	Off		Conventional								
+AreaState	AgencyId=8896	StateId=104
+AreaCounty	AgencyId=8896	CountyId=4366
+C-Group	CGroupId=72424	AgencyId=8896	Rail - Moncton	Off	46.082113	-64.553258	40.0	Circle	
+C-Freq	CFreqId=301755	CGroupId=72424	CN 2 VIA Dispatch	Off	161205000	FM		20									
+C-Freq	CFreqId=301753	CGroupId=72424	CN 28 VIA Dispatch	Off	160305000	FM		20									
+C-Freq	CFreqId=301754	CGroupId=72424	CN 6 VIA Dispatch	Off	160485000	FM		20									
+C-Freq	CFreqId=301757	CGroupId=72424	CN VIA Rail	Off	161490000	FM		20									
+C-Freq	CFreqId=301756	CGroupId=72424	Yard - Rail Traffic Control - Call In	Off	161355000	FM		20									
+Trunk	TrunkId=6934	StateId=104	Eastern Wireless	Off		Ltr															NEXEDGE
+AreaState	TrunkId=6934	StateId=104
+AreaCounty	TrunkId=6934	CountyId=4367
+Site	SiteId=17954	TrunkId=6934	Mount Kathy	Off	46.209082	-66.758792	52.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=17954			861062500	1	Srch
+T-Freq	TFreqId=0	SiteId=17954			861562500	20	Srch
+T-Group	TGroupId=15638	TrunkId=6934	Business	Off	46.209082	-66.758792	52.0	Circle	
+TGID	Tid=236261	TGroupId=15638	ABC Taxi	Off	1-20-120	ALL	26									Any
+Trunk	TrunkId=6870	StateId=104	Fredericton Commercial	Off		Motorola															NEXEDGE
+AreaState	TrunkId=6870	StateId=104
+AreaCounty	TrunkId=6870	CountyId=4367
+Site	SiteId=17703	TrunkId=6870	Fredericton DOT Site	Off	46.209082	-66.758792	30.0	FM	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=17703			858437500	1	Srch
+T-Freq	TFreqId=0	SiteId=17703			858687500	2	Srch
+T-Freq	TFreqId=0	SiteId=17703			858937500	3	Srch
+T-Freq	TFreqId=0	SiteId=17703			859187500	4	Srch
+T-Group	TGroupId=15280	TrunkId=6870	Business	Off	46.209082	-66.758792	52.0	Circle	
+TGID	Tid=213748	TGroupId=15280	Commercial User	Off	640	ANALOG	17									Any
+TGID	Tid=200946	TGroupId=15280	Dr. Everett Chalmers Regional Hospital Ch. 1	Off	432	ANALOG	12									Any
+TGID	Tid=200947	TGroupId=15280	Dr. Everett Chalmers Regional Hospital Ch. 2	Off	512	ANALOG	12									Any
+TGID	Tid=204881	TGroupId=15280	St. Mary First Nation Security Ch. 1	Off	336	ANALOG	33									Any
+TGID	Tid=213747	TGroupId=15280	St. Mary First Nation Security Ch. 2	Off	192	ANALOG	33									Any
+Trunk	TrunkId=7419	StateId=104	Moncton Commercial	Off		Motorola															NEXEDGE
+AreaState	TrunkId=7419	StateId=104
+AreaCounty	TrunkId=7419	CountyId=4366
+Site	SiteId=20456	TrunkId=7419	Lutes Mountain	Off	46.134232	-64.915064	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20456			857212500	1	Srch
+T-Freq	TFreqId=0	SiteId=20456			858212500	2	Srch
+T-Freq	TFreqId=0	SiteId=20456			858462500	3	Srch
+T-Freq	TFreqId=0	SiteId=20456			858712500	4	Srch
+T-Freq	TFreqId=0	SiteId=20456			858962500	5	Srch
+T-Freq	TFreqId=0	SiteId=20456			859212500	6	Srch
+T-Group	TGroupId=17736	TrunkId=7419	Business	Off	46.133786	-64.914592	20.0	Circle	
+TGID	Tid=233408	TGroupId=17736	Automotive Dealership Courtesy Shuttle	Off	928	ANALOG	17									Any
+TGID	Tid=239989	TGroupId=17736	Clarke's Towing	Off	976	ANALOG	17									Any
+TGID	Tid=226402	TGroupId=17736	Construction	Off	1424	ANALOG	17									Any
+TGID	Tid=239627	TGroupId=17736	Paving / Landscape	Off	944	ANALOG	17									Any
+TGID	Tid=239628	TGroupId=17736	Shop / Propane	Off	8400	ANALOG	17									Any
+Trunk	TrunkId=6762	StateId=104	Moncton Public Safety	Off		Motorola															NEXEDGE
+AreaState	TrunkId=6762	StateId=104
+AreaCounty	TrunkId=6762	CountyId=4366
+Site	SiteId=27042	TrunkId=6762	Alma Street Bell Tower	Off	46.089618	-64.777060	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=27042			858912500	1	Srch
+T-Freq	TFreqId=0	SiteId=27042			858662500	2	Srch
+T-Freq	TFreqId=0	SiteId=27042			859162500	3	Srch
+T-Freq	TFreqId=0	SiteId=27042			858412500	4	Srch
+T-Freq	TFreqId=0	SiteId=27042			858162500	5	Srch
+T-Freq	TFreqId=0	SiteId=27042			857162500	6	Srch
+T-Group	TGroupId=14699	TrunkId=6762	Public Works	Off	46.132778	-64.771389	30.0	Circle	
+TGID	Tid=195855	TGroupId=14699	Ch. 1 Water / Roads / Sanitation	Off	1600	ANALOG	14									Any
+TGID	Tid=195856	TGroupId=14699	Ch. 2 Parks, Recreation  and Landscape	Off	1616	ANALOG	14									Any
+TGID	Tid=195857	TGroupId=14699	Ch. 3 Magnetic Zoo - Operations	Off	1632	ANALOG	14									Any
+TGID	Tid=196014	TGroupId=14699	Ch. 4 City Works	Off	1648	ANALOG	14									Any
+TGID	Tid=239636	TGroupId=14699	Majesta Greater Moncton Santa Claus Parade	Off	1664	ANALOG	21									Any
+T-Group	TGroupId=15271	TrunkId=6762	Universite de Moncton	Off	46.086656	-64.772129	20.0	Circle	
+TGID	Tid=200895	TGroupId=15271	Universite de Moncton Security	Off	752	ANALOG	33									Any
+Trunk	TrunkId=4077	StateId=104	Saint John Public Safety	Off		Motorola															NEXEDGE
+AreaState	TrunkId=4077	StateId=104
+AreaCounty	TrunkId=4077	CountyId=4363
+Site	SiteId=7644	TrunkId=4077	Saint John	Off	45.285819	-65.980960	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=7644			854987500	1	Srch
+T-Freq	TFreqId=0	SiteId=7644			855237500	2	Srch
+T-Freq	TFreqId=0	SiteId=7644			855487500	3	Srch
+T-Freq	TFreqId=0	SiteId=7644			855737500	4	Srch
+T-Freq	TFreqId=0	SiteId=7644			855987500	5	Srch
+T-Freq	TFreqId=0	SiteId=7644			856237500	6	Srch
+T-Freq	TFreqId=0	SiteId=7644			856487500	7	Srch
+T-Freq	TFreqId=0	SiteId=7644			856737500	8	Srch
+T-Freq	TFreqId=0	SiteId=7644			856987500	9	Srch
+T-Freq	TFreqId=0	SiteId=7644			857237500	10	Srch
+T-Freq	TFreqId=0	SiteId=7644			858237500	11	Srch
+T-Freq	TFreqId=0	SiteId=7644			858487500	12	Srch
+T-Freq	TFreqId=0	SiteId=7644			858737500	13	Srch
+T-Freq	TFreqId=0	SiteId=7644			858987500	14	Srch
+T-Freq	TFreqId=0	SiteId=7644			859237500	15	Srch
+T-Freq	TFreqId=0	SiteId=7644			860837500	16	Srch
+T-Freq	TFreqId=0	SiteId=7644			861087500	17	Srch
+T-Group	TGroupId=9811	TrunkId=4077	Fire	Off	45.340404	-65.844756	38.0	Circle	
+TGID	Tid=119554	TGroupId=9811	Fire and Rescue - Dispatch 4	Off	1680	ANALOG	3									Any
+TGID	Tid=119559	TGroupId=9811	Fire and Rescue - Prevention 13	Off	1840	ANALOG	24									Any
+TGID	Tid=119555	TGroupId=9811	Fire and Rescue - Tactical 1	Off	1712	ANALOG	8									Any
+TGID	Tid=119557	TGroupId=9811	Fire and Rescue - Tactical 6	Off	1776	ANALOG	8									Any
+TGID	Tid=119558	TGroupId=9811	Fire and Rescue - Tactical 7	Off	1808	ANALOG	8									Any
+TGID	Tid=119560	TGroupId=9811	Fire and Rescue - Tactical 8	Off	1872	ANALOG	8									Any
+TGID	Tid=119556	TGroupId=9811	Fire and Rescue - Tactical 9	Off	1744	ANALOG	8									Any
+T-Group	TGroupId=9809	TrunkId=4077	Municipal Emergency Measures	Off	45.340404	-65.844756	38.0	Circle	
+TGID	Tid=236253	TGroupId=9809	Emergency Measures Office	Off	1584	ANALOG	29									Any
+T-Group	TGroupId=9808	TrunkId=4077	Mutual Aid	Off	45.340404	-65.844756	38.0	Circle	
+TGID	Tid=119571	TGroupId=9808	Joint Operations	Off	1616	ANALOG	11									Any
+T-Group	TGroupId=9812	TrunkId=4077	Police	Off	45.340404	-65.844756	38.0	Circle	
+TGID	Tid=236244	TGroupId=9812	Ch. 1 Dispatch	Off	1232	ANALOG	2									Any
+TGID	Tid=236251	TGroupId=9812	Ch. 10 TAC	Off	1488	ANALOG	7									Any
+TGID	Tid=236252	TGroupId=9812	Ch. 13 Major Crime	Off	1264	ANALOG	7									Any
+TGID	Tid=236246	TGroupId=9812	Ch. 4 TAC	Off	1328	ANALOG	7									Any
+TGID	Tid=236245	TGroupId=9812	Ch. 5 CPIC	Off	1296	ANALOG	23									Any
+TGID	Tid=236247	TGroupId=9812	Ch. 6 TAC	Off	1360	ANALOG	7									Any
+TGID	Tid=236248	TGroupId=9812	Ch. 7 TAC	Off	1392	ANALOG	7									Any
+TGID	Tid=236249	TGroupId=9812	Ch. 8 Parking Commissionaires	Off	1424	ANALOG	23									Any
+TGID	Tid=236250	TGroupId=9812	Ch. 9 TAC	Off	1456	ANALOG	7									Any
+T-Group	TGroupId=9813	TrunkId=4077	Public Works	Off	45.340404	-65.844756	38.0	Circle	
+TGID	Tid=236259	TGroupId=9813	Engineering	Off	2160	ANALOG	14									Any
+TGID	Tid=236258	TGroupId=9813	Parks Department	Off	2128	ANALOG	14									Any
+TGID	Tid=236257	TGroupId=9813	Sanitation	Off	2096	ANALOG	14									Any
+TGID	Tid=236254	TGroupId=9813	Water and Sewage Ch. 1	Off	2000	ANALOG	14									Any
+TGID	Tid=236255	TGroupId=9813	Water and Sewage Ch. 2	Off	2032	ANALOG	14									Any
+TGID	Tid=236256	TGroupId=9813	Works and Engineering 1	Off	2064	ANALOG	14									Any
+TGID	Tid=236260	TGroupId=9813	Works Department Foreman	Off	2192	ANALOG	14									Any

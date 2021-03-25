@@ -1,0 +1,1000 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional	CountyId=5571	StateId=105	Avalon Peninsula	Off		Conventional								
+AreaState	CountyId=5571	StateId=105
+AreaCounty	CountyId=5571	CountyId=5571
+C-Group	CGroupId=66864	CountyId=5571	Arnold's Cove	Off	47.767200	-53.977000	10.0	Circle	
+C-Freq	CFreqId=274822	CGroupId=66864	Fire Department	Off	170310000	NFM	TONE=C123.0	3									
+C-Group	CGroupId=56019	CountyId=5571	Bauline	Off	47.723333	-52.832222	10.0	Circle	
+C-Freq	CFreqId=233832	CGroupId=56019	Public Works	Off	151505000	FM		14									
+C-Group	CGroupId=76213	CountyId=5571	Bay de Verde	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=323541	CGroupId=76213	Bay de Verde fire department	Off	151925000	FM		3									
+C-Group	CGroupId=69754	CountyId=5571	Bay Roberts	Off	47.582500	-53.282700	20.0	Circle	
+C-Freq	CFreqId=297152	CGroupId=69754	Avalon North Wolverines Search and Rescue	Off	149080000	FM		29									
+C-Freq	CFreqId=297151	CGroupId=69754	Avalon North Wolverines Search and Rescue	Off	149495000	FM		29									
+C-Freq	CFreqId=297153	CGroupId=69754	Avalon North Wolverines Search and Rescue	Off	166140000	FM		29									
+C-Freq	CFreqId=297154	CGroupId=69754	Avalon North Wolverines Search and Rescue	Off	166670000	FM		29									
+C-Freq	CFreqId=297155	CGroupId=69754	Avalon North Wolverines Search and Rescue - repeater	Off	148675000	FM	TONE=C100.0	29									
+C-Freq	CFreqId=287231	CGroupId=69754	Fire Department and Public Works - Dispatch	Off	153605000	FM	TONE=C167.9	1									
+C-Freq	CFreqId=337386	CGroupId=69754	Moore's Ambulance	Off	159840000	NFM	TONE=C131.8	4									
+C-Group	CGroupId=66865	CountyId=5571	Carbonear	Off	47.716900	-53.216900	10.0	Circle	
+C-Freq	CFreqId=274823	CGroupId=66865	Fire Department	Off	169050000	FM		3									
+C-Freq	CFreqId=274824	CGroupId=66865	General Hospital	Off	458300000	FM		12									
+C-Freq	CFreqId=293343	CGroupId=66865	Public Works	Off	165630000	FM		14									
+C-Group	CGroupId=66866	CountyId=5571	Clarke's Beach	Off	47.551300	-53.285000	60.0	Circle	
+C-Freq	CFreqId=274825	CGroupId=66866	Moore's Ambulance	Off	148225000	FM	TONE=C146.2	4									
+C-Group	CGroupId=66867	CountyId=5571	Come By Chance	Off	47.850000	-53.951600	20.0	Circle	
+C-Freq	CFreqId=274826	CGroupId=66867	Fire Department	Off	155730000	NFM	TONE=C100.0	3									
+C-Group	CGroupId=66868	CountyId=5571	Conception Bay South	Off	47.495900	-53.022600	20.0	Circle	
+C-Freq	CFreqId=274829	CGroupId=66868	Fire and Public Works	Off	168210000	FM		1									
+C-Freq	CFreqId=287243	CGroupId=66868	Fire Department - Topsail repeater	Off	164040000	FM	TONE=C123.0	3									
+C-Freq	CFreqId=274827	CGroupId=66868	Hickey's EMS	Off	150680000	FM		4									
+C-Freq	CFreqId=274828	CGroupId=66868	Kelligrews Firehouse West	Off	171540000	FM		8									
+C-Group	CGroupId=76212	CountyId=5571	Hant's Harbour	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=323542	CGroupId=76212	Hant's Harbour fire department	Off	154920000	FM		3									
+C-Group	CGroupId=76214	CountyId=5571	Heart's Delight - Trinity Bay	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=323544	CGroupId=76214	Heart's Delight Trinity Bay fire department	Off	163200000	FM		3									
+C-Group	CGroupId=66869	CountyId=5571	Logy Bay/Middle Cove/Outer Cove	Off	47.618800	-52.685000	20.0	Circle	
+C-Freq	CFreqId=274830	CGroupId=66869	Fire Departments	Off	159225000	FM		3									
+C-Group	CGroupId=69755	CountyId=5571	Paradise	Off	47.530400	-52.864700	20.0	Circle	
+C-Freq	CFreqId=287240	CGroupId=69755	Public Works	Off	461012500	FM	TONE=C162.2	14									
+C-Group	CGroupId=66870	CountyId=5571	Portugal Cove / St Phillip's	Off	47.635200	-52.835200	20.0	Circle	
+C-Freq	CFreqId=274831	CGroupId=66870	Fire - Dispatch	Off	160860000	FM		3									
+C-Freq	CFreqId=274832	CGroupId=66870	Fire - Tactical	Off	162165000	FM	TONE=C100.0	8									
+C-Group	CGroupId=56018	CountyId=5571	Pouch Cove	Off	47.767000	-52.767000	10.0	Circle	
+C-Freq	CFreqId=233830	CGroupId=56018	Public Works Ch. 1	Off	151550000	FM		14									
+C-Freq	CFreqId=233831	CGroupId=56018	Public Works Ch. 2	Off	151505000	FM		14									
+C-Group	CGroupId=67069	CountyId=5571	Repeaters - 2 M Band	Off	47.368000	-53.311000	60.0	Circle	
+C-Freq	CFreqId=275528	CGroupId=67069	VO1AAA - St. John's (Signal Hill)	Off	146790000	FM		13									
+C-Freq	CFreqId=275543	CGroupId=67069	VO1ARG  - Placentia (Long Harbour)	Off	146820000	FM		13									
+C-Freq	CFreqId=275538	CGroupId=67069	VO1BT - Holyrood (Hawk Hills)	Off	146760000	FM		13									
+C-Freq	CFreqId=275535	CGroupId=67069	VO1CGR - Newton	Off	146880000	FM		13									
+C-Freq	CFreqId=275541	CGroupId=67069	VO1CPR - Cape Pine	Off	147120000	FM		13									
+C-Freq	CFreqId=275539	CGroupId=67069	VO1CQD - Ferryland	Off	147280000	FM		13									
+C-Freq	CFreqId=338746	CGroupId=67069	VO1ELF - Dunville	Off	147360000	FM		13									
+C-Freq	CFreqId=275547	CGroupId=67069	VO1FRR - Freshwater Ridge, Carbonear	Off	147390000	FM		13									
+C-Freq	CFreqId=275537	CGroupId=67069	VO1GRR - Goulds	Off	147375000	FM		13									
+C-Freq	CFreqId=275529	CGroupId=67069	VO1GT - St. John's (Kenmount Hill)	Off	146940000	FM		13									
+C-Freq	CFreqId=275544	CGroupId=67069	VO1IC - Bay Roberts  (Coley's Point)	Off	146730000	FM		13									
+C-Freq	CFreqId=275540	CGroupId=67069	VO1ILR - Portugal Cove South	Off	147030000	FM		13									
+C-Freq	CFreqId=275536	CGroupId=67069	VO1KCR - Goulds	Off	147240000	FM		13									
+C-Freq	CFreqId=323540	CGroupId=67069	VO1NTV - St. John's NTV/OZFM tower	Off	147060000	FM		13									
+C-Freq	CFreqId=275546	CGroupId=67069	VO1PCR - Green's Harbour	Off	147090000	FM		13									
+C-Freq	CFreqId=275531	CGroupId=67069	VO1RCR - St. John's (Southcott Hall)	Off	147345000	FM		13									
+C-Freq	CFreqId=275542	CGroupId=67069	VO1SMB - St. Mary's Bay	Off	146640000	FM		13									
+C-Freq	CFreqId=323483	CGroupId=67069	VO1TBR - Bay de Verde	Off	147900000	FM		13									
+C-Freq	CFreqId=275545	CGroupId=67069	VO1TCR - Heart's Content Barrens	Off	146970000	FM		13									
+C-Freq	CFreqId=275530	CGroupId=67069	VO1TZ - St. John's (Kenmount Hill)	Off	147120000	FM		13									
+C-Group	CGroupId=72792	CountyId=5571	Repeaters - 70cm Band	Off	47.368000	-53.311000	60.0	Circle	
+C-Freq	CFreqId=304300	CGroupId=72792	VO1AAA - St. John's - Signal Hill	Off	443000000	FM		13									
+C-Freq	CFreqId=304301	CGroupId=72792	VO1UHF - St. John's	Off	444900000	FM		13									
+C-Group	CGroupId=66872	CountyId=5571	Southern Harbour	Off	47.722900	-53.960000	20.0	Circle	
+C-Freq	CFreqId=274833	CGroupId=66872	Fire Department	Off	155250000	FM		3									
+C-Group	CGroupId=66871	CountyId=5571	Spaniard's Bay	Off	47.618600	-53.266900	20.0	Circle	
+C-Freq	CFreqId=274835	CGroupId=66871	Fire - Operations	Off	154430000	FM		8									
+C-Freq	CFreqId=274834	CGroupId=66871	Fire - Paging	Off	153455000	FM		3									
+C-Group	CGroupId=66875	CountyId=5571	St. John's Metropolitan Area - Correctional Facilities	Off	47.558000	-52.723000	20.0	Circle	
+C-Freq	CFreqId=282155	CGroupId=66875	Department of Corrections	Off	452462500	FM		37									
+C-Freq	CFreqId=274836	CGroupId=66875	H M Penitentiary	Off	451337500	AUTO	NAC=Srch	37									
+C-Group	CGroupId=66877	CountyId=5571	St. John's Metropolitan Area - Healthcare	Off	47.558000	-52.723000	20.0	Circle	
+C-Freq	CFreqId=215294	CGroupId=66877	Eastern Health Ambulance - Emergency Room	Off	149410000	FM	TONE=C94.8	12									
+C-Freq	CFreqId=255853	CGroupId=66877	Eastern Health Ambulance Dispatch	Off	164250000	FM	TONE=C94.8	4									
+C-Freq	CFreqId=287238	CGroupId=66877	Eastern Health General Hospital - Dr Miller Centre security / po	Off	460712500	FM	TONE=C156.7	33									
+C-Freq	CFreqId=274838	CGroupId=66877	Eastern Health Science Centre porter / security	Off	460837500	FM	TONE=C110.9	33									
+C-Freq	CFreqId=274837	CGroupId=66877	Health Care Corporation simplex / hospital patch	Off	150095000	FM	TONE=C94.8	12									
+C-Freq	CFreqId=178395	CGroupId=66877	Health Sciences Center - Emergency Room	Off	149410000	FM	TONE=C100.0	12									
+C-Freq	CFreqId=287239	CGroupId=66877	Health Sciences Centre hospitality	Off	151070000	FM	TONE=C123.0	12									
+C-Freq	CFreqId=274844	CGroupId=66877	Health Sciences Centre security	Off	453812500	AUTO	ColorCode=1	33									
+C-Freq	CFreqId=178509	CGroupId=66877	Janeway Children's Hospital - Emergency Room	Off	149410000	FM	TONE=C141.3	12									
+C-Freq	CFreqId=178396	CGroupId=66877	St Clare's Mercy Hospital - Emergency Room	Off	149410000	FM	TONE=C179.9	12									
+C-Freq	CFreqId=337068	CGroupId=66877	Waterford Hospital security	Off	420012500	AUTO	ColorCode=1	33									
+C-Group	CGroupId=66878	CountyId=5571	St. John's Metropolitan Area - Memorial University of Newfoundla	Off	47.576500	-52.706400	10.0	Circle	
+C-Freq	CFreqId=274846	CGroupId=66878	Chemistry / Physics Plant	Off	452912500	FM		32									
+C-Freq	CFreqId=274843	CGroupId=66878	Security	Off	451462500	AUTO	ColorCode=1	33									
+C-Freq	CFreqId=274845	CGroupId=66878	Security	Off	459600000	AUTO	NAC=Srch	33									
+C-Group	CGroupId=66873	CountyId=5571	St. John's Metropolitan Area - St. John's Regional Fire Departme	Off	47.558000	-52.723000	17.6	Circle	
+C-Freq	CFreqId=178520	CGroupId=66873	Goulds VFD patch to SJRFD	Off	154370000	FM		3									
+C-Freq	CFreqId=178519	CGroupId=66873	Goulds Volunteer Fire Department	Off	153080000	FM		3									
+C-Freq	CFreqId=178518	CGroupId=66873	Goulds Volunteer Fire Department	Off	153830000	FM		3									
+C-Freq	CFreqId=274839	CGroupId=66873	Regional Fire Department  Ch 1	Off	165195000	FM	TONE=C100.0	3									
+C-Freq	CFreqId=274840	CGroupId=66873	Regional Fire Department  Ch 2	Off	170205000	FM	TONE=C100.0	3									
+C-Freq	CFreqId=274841	CGroupId=66873	Regional Fire Department Ch 3	Off	161550000	FM	TONE=C100.0	3									
+C-Freq	CFreqId=274842	CGroupId=66873	Regional Fire Department Ch 4	Off	166650000	FM	TONE=C100.0	3									
+C-Freq	CFreqId=215295	CGroupId=66873	Regional Fire Department Ch 5 - Fireground	Off	154460000	FM	TONE=C100.0	8									
+C-Group	CGroupId=69757	CountyId=5571	Sunnyside	Off	47.861200	-53.922900	20.0	Circle	
+C-Freq	CFreqId=287242	CGroupId=69757	Fire Department	Off	151160000	FM		3									
+C-Group	CGroupId=56017	CountyId=5571	Torbay	Off	47.650000	-52.733333	10.0	Circle	
+C-Freq	CFreqId=233826	CGroupId=56017	Town Ch. 1	Off	168840000	FM		14									
+C-Freq	CFreqId=233827	CGroupId=56017	Town Ch. 2	Off	168090000	FM		14									
+C-Freq	CFreqId=233828	CGroupId=56017	Town Ch. 3	Off	166950000	FM		14									
+C-Group	CGroupId=78666	CountyId=5571	Victoria	Off	47.780000	-53.280000	30.0	Circle	
+C-Freq	CFreqId=337387	CGroupId=78666	Carbonear EMS	Off	170790000	NFM	TONE=C88.5	4									
+C-Group	CGroupId=69756	CountyId=5571	Whitbourne	Off	47.418700	-53.533100	20.0	Circle	
+C-Freq	CFreqId=287241	CGroupId=69756	Smith's EMS	Off	150755000	NFM	TONE=C110.9	4									
+C-Group	CGroupId=76211	CountyId=5571	Winterton	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=323545	CGroupId=76211	Winterton fire department	Off	151445000	FM		3									
+C-Group	CGroupId=69758	CountyId=5571	Witless Bay	Off	47.280100	-52.832000	20.0	Circle	
+C-Freq	CFreqId=287244	CGroupId=69758	Fire Department	Off	150905000	FM	TONE=C151.4	3									
+Conventional	CountyId=5577	StateId=105	Bonavista/Trinity	Off		Conventional								
+AreaState	CountyId=5577	StateId=105
+AreaCounty	CountyId=5577	CountyId=5577
+C-Group	CGroupId=66764	CountyId=5577	Bonavista/Trinity County - Clarenville	Off	48.168800	-53.966600	20.0	Circle	
+C-Freq	CFreqId=274526	CGroupId=66764	Fewer's Ambulance dispatch	Off	162885000	FM	TONE=C218.1	4									
+C-Freq	CFreqId=337069	CGroupId=66764	Fewer's Ambulance hospital patch	Off	162885000	FM	TONE=C210.7	9									
+C-Freq	CFreqId=274520	CGroupId=66764	Fire Department	Off	154400000	FM		3									
+C-Freq	CFreqId=274524	CGroupId=66764	Newfoundland Public Works & Transportation	Off	167805000	FM		14									
+C-Freq	CFreqId=274522	CGroupId=66764	NL Correctional Centre for Women	Off	160110000	FM	TONE=C114.8	37									
+C-Group	CGroupId=66765	CountyId=5577	Bonavista/Trinity County - Eastport	Off	48.633800	-53.750200	20.0	Circle	
+C-Freq	CFreqId=274527	CGroupId=66765	Fire Department	Off	151835000	FM		3									
+C-Freq	CFreqId=274528	CGroupId=66765	Newfoundland Public Works	Off	167790000	FM	TONE=C131.8	14									
+C-Group	CGroupId=77389	CountyId=5577	Bonavista/Trinity County - Random West	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=329277	CGroupId=77389	Fire department	Off	150500000	FM		3									
+C-Group	CGroupId=77388	CountyId=5577	Bonavista/Trinity County - Smith Sound	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=329276	CGroupId=77388	Fire department	Off	149890000	FM		3									
+C-Group	CGroupId=66766	CountyId=5577	Bonavista/Trinity County - South West Arm	Off	48.000000	-53.733600	20.0	Circle	
+C-Freq	CFreqId=274529	CGroupId=66766	Fire Department	Off	153680000	NFM	TONE=C114.8	3									
+C-Group	CGroupId=67070	CountyId=5577	Repeaters - 2M Band	Off	48.297000	-53.761000	60.0	Circle	
+C-Freq	CFreqId=275548	CGroupId=67070	VO1SHR - Clarenville (Shoal Harbour Hill)	Off	146660000	FM		13									
+Conventional	CountyId=5572	StateId=105	Burin Peninsula	Off		Conventional								
+AreaState	CountyId=5572	StateId=105
+AreaCounty	CountyId=5572	CountyId=5572
+C-Group	CGroupId=71477	CountyId=5572	Bay L'Argent	Off	47.543000	-54.870000	20.0	Circle	
+C-Freq	CFreqId=297156	CGroupId=71477	Ambulance Paging	Off	150935000	FM		4									
+C-Group	CGroupId=66767	CountyId=5572	Burin (Town)	Off	47.066600	-55.166900	20.0	Circle	
+C-Freq	CFreqId=284101	CGroupId=66767	Burin Health Care Centre	Off	149020000	FM		12									
+C-Freq	CFreqId=274533	CGroupId=66767	Burin Health Care Centre	Off	170070000	FM		12									
+C-Freq	CFreqId=274532	CGroupId=66767	Fire Department	Off	159960000	FM		3									
+C-Freq	CFreqId=274535	CGroupId=66767	Newfoundland Public Works	Off	167520000	FM		14									
+C-Freq	CFreqId=274534	CGroupId=66767	Public Works	Off	153800000	FM		14									
+C-Group	CGroupId=69009	CountyId=5572	Countywide	Off	47.278000	-55.025000	60.0	Circle	
+C-Freq	CFreqId=284107	CGroupId=69009	Department of Forest Resources	Off	171390000	FM		14									
+C-Freq	CFreqId=284106	CGroupId=69009	Department of Forest Resources	Off	172200000	FM		14									
+C-Group	CGroupId=66768	CountyId=5572	Garnish	Off	47.217200	-55.352500	20.0	Circle	
+C-Freq	CFreqId=274536	CGroupId=66768	Fire Department	Off	148195000	FM		3									
+C-Group	CGroupId=66769	CountyId=5572	Goobies	Off	47.933800	-53.968600	20.0	Circle	
+C-Freq	CFreqId=274537	CGroupId=66769	Newfoundland Public Works	Off	166035000	FM		14									
+C-Group	CGroupId=66770	CountyId=5572	Marystown	Off	47.133300	-55.151600	20.0	Circle	
+C-Freq	CFreqId=274539	CGroupId=66770	Burin Peninsula Fire Departments	Off	158880000	FM		3									
+C-Freq	CFreqId=274538	CGroupId=66770	Fewer's Ambulance	Off	163980000	FM		4									
+C-Freq	CFreqId=284102	CGroupId=66770	Fire Department	Off	149200000	FM		3									
+C-Freq	CFreqId=284100	CGroupId=66770	Public Works	Off	166440000	FM		14									
+C-Freq	CFreqId=297447	CGroupId=66770	Town Garage	Off	169110000	NFM		14									
+C-Freq	CFreqId=297448	CGroupId=66770	Town Garage	Off	169650000	NFM		14									
+C-Group	CGroupId=67071	CountyId=5572	Repeaters - VHF / UHF	Off	47.278000	-55.025000	60.0	Circle	
+C-Freq	CFreqId=275552	CGroupId=67071	VO1AIR - Allans Island	Off	147190000	FM		13									
+C-Freq	CFreqId=275550	CGroupId=67071	VO1AWR - Marystown	Off	444550000	FM		13									
+C-Freq	CFreqId=275553	CGroupId=67071	VO1GBR - Grand Bank	Off	146940000	FM		13									
+C-Freq	CFreqId=275549	CGroupId=67071	VO1MST - Marystown	Off	146850000	FM		13									
+C-Freq	CFreqId=275551	CGroupId=67071	VO1SLR -  St. Lawrence	Off	147140000	FM		13									
+Conventional	CountyId=5576	StateId=105	Central Newfoundland	Off		Conventional								
+AreaState	CountyId=5576	StateId=105
+AreaCounty	CountyId=5576	CountyId=5576
+C-Group	CGroupId=69973	CountyId=5576	Badger	Off	48.966667	-56.033333	20.0	Circle	
+C-Freq	CFreqId=288331	CGroupId=69973	Fire Department	Off	152330000	FM		3									
+C-Group	CGroupId=69974	CountyId=5576	Baie Verte	Off	49.916667	-56.183333	20.0	Circle	
+C-Freq	CFreqId=288332	CGroupId=69974	Fire Department	Off	169920000	FM		3									
+C-Group	CGroupId=69975	CountyId=5576	Bishop's Falls	Off	49.016667	-55.516667	20.0	Circle	
+C-Freq	CFreqId=288333	CGroupId=69975	Fire Department	Off	168275000	FM		3									
+C-Group	CGroupId=66771	CountyId=5576	Botwood	Off	49.135200	-55.352500	20.0	Circle	
+C-Freq	CFreqId=274541	CGroupId=66771	Fire Department	Off	151265000	FM		3									
+C-Freq	CFreqId=274542	CGroupId=66771	Public Works	Off	153575000	FM		14									
+C-Group	CGroupId=69976	CountyId=5576	Brighton	Off	49.548211	-55.637547	20.0	Circle	
+C-Freq	CFreqId=288334	CGroupId=69976	Fire Department	Off	150080000	FM		3									
+C-Group	CGroupId=69977	CountyId=5576	Buchans	Off	48.847000	-56.484000	20.0	Circle	
+C-Freq	CFreqId=288335	CGroupId=69977	Fire Department	Off	150770000	FM		3									
+C-Group	CGroupId=66772	CountyId=5576	Gander	Off	48.951300	-54.618300	20.0	Circle	
+C-Freq	CFreqId=274549	CGroupId=66772	Fire Department	Off	152300000	FM	TONE=C107.2	3									
+C-Freq	CFreqId=274551	CGroupId=66772	James Paton Memorial Hospital EMS	Off	168780000	FM	TONE=C141.3	12									
+C-Freq	CFreqId=274552	CGroupId=66772	Police	Off	159840000	AUTO	NAC=Srch	2									
+C-Freq	CFreqId=274550	CGroupId=66772	Public Works	Off	150515000	FM	TONE=C114.8	14									
+C-Group	CGroupId=66774	CountyId=5576	Glenwood	Off	48.985000	-54.867500	20.0	Circle	
+C-Freq	CFreqId=274544	CGroupId=66774	Fire Department	Off	151445000	AUTO	NAC=Srch	3									
+C-Group	CGroupId=66776	CountyId=5576	Grand Falls-Windsor	Off	48.935200	-55.651600	20.0	Circle	
+C-Freq	CFreqId=274546	CGroupId=66776	Emergency Measures Organization	Off	166140000	AUTO	NAC=Srch	29									
+C-Freq	CFreqId=288330	CGroupId=66776	Fire Department	Off	151145000	FM		3									
+C-Freq	CFreqId=274547	CGroupId=66776	Public Works	Off	169080000	FM		14									
+C-Freq	CFreqId=274548	CGroupId=66776	Recreation Facility	Off	169320000	FM		14									
+C-Freq	CFreqId=274545	CGroupId=66776	Regional EMS	Off	150425000	FM	TONE=C179.9	4									
+C-Group	CGroupId=67073	CountyId=5576	Repeaters - VHF / UHF	Off	49.080000	-55.805000	60.0	Circle	
+C-Freq	CFreqId=275559	CGroupId=67073	Botwood - VO1BOT repeater	Off	147380000	FM		13									
+C-Freq	CFreqId=275558	CGroupId=67073	Gander - VO1ADE repeater	Off	146880000	FM		13									
+C-Freq	CFreqId=275557	CGroupId=67073	Gander - VO1GLR repeater (Crown Ridge)	Off	147180000	FM		13									
+C-Freq	CFreqId=275562	CGroupId=67073	Grand Falls-Windsor - VO1GFR repeater	Off	146910000	FM		13									
+C-Freq	CFreqId=275560	CGroupId=67073	Grand Falls-Windsor - VO1HHR repeater (Hodge's Hill)	Off	146600000	FM		13									
+C-Freq	CFreqId=275561	CGroupId=67073	Grand Falls-Windsor - VO1JY repeater	Off	146760000	FM		13									
+C-Freq	CFreqId=275563	CGroupId=67073	Grand Falls-Windsor - VO1PMS repeater	Off	446000000	FM		13									
+C-Group	CGroupId=69978	CountyId=5576	Springdale	Off	49.483333	-56.100000	20.0	Circle	
+C-Freq	CFreqId=288336	CGroupId=69978	Fire Department	Off	163800000	FM		3									
+Conventional	CountyId=5575	StateId=105	Humber District	Off		Conventional								
+AreaState	CountyId=5575	StateId=105
+AreaCounty	CountyId=5575	CountyId=5575
+C-Group	CGroupId=66735	CountyId=5575	Corner Brook	Off	48.953000	-57.937000	20.0	Circle	
+C-Freq	CFreqId=279219	CGroupId=66735	Emergency Measures Organization	Off	153830000	FM		29									
+C-Freq	CFreqId=279218	CGroupId=66735	Emergency Measures Organization	Off	166140000	FM		29									
+C-Freq	CFreqId=279220	CGroupId=66735	Emergency Measures Organization - Simplex	Off	163500000	FM		29									
+C-Freq	CFreqId=279212	CGroupId=66735	Fire Department	Off	153770000	FM		3									
+C-Freq	CFreqId=207891	CGroupId=66735	Fire Department - East Repeater	Off	162060000	FM		3									
+C-Freq	CFreqId=207890	CGroupId=66735	Fire Department - Main	Off	153620000	FM		3									
+C-Freq	CFreqId=279221	CGroupId=66735	Fisheries and Oceans	Off	170430000	FM		16									
+C-Freq	CFreqId=274331	CGroupId=66735	Grenfell Campus Memorial University - Security	Off	453812500	FM		33									
+C-Freq	CFreqId=279927	CGroupId=66735	Grenfell Campus Memorial University - Security	Off	458812500	FM		33									
+C-Freq	CFreqId=279926	CGroupId=66735	Grenfell Campus Memorial University - Security	Off	469262500	FM		33									
+C-Freq	CFreqId=279931	CGroupId=66735	Newfoundland and Labrador Housing Corp	Off	171330000	FM		14									
+C-Freq	CFreqId=279930	CGroupId=66735	Newfoundland and Labrador Housing Corp.	Off	171960000	FM		14									
+C-Freq	CFreqId=279213	CGroupId=66735	Public Works	Off	162060000	FM		14									
+C-Freq	CFreqId=207884	CGroupId=66735	Reliable Ambulance Service	Off	150425000	FM		4									
+C-Freq	CFreqId=279203	CGroupId=66735	Reliable Ambulance Service	Off	150425000	FM		4									
+C-Freq	CFreqId=279201	CGroupId=66735	Reliable Ambulance Service	Off	151925000	FM		4									
+C-Freq	CFreqId=207886	CGroupId=66735	Royal Newfoundland Constabulary - Main	Off	153890000	FM		2									
+C-Freq	CFreqId=335690	CGroupId=66735	Royal Newfoundland Constabulary 2	Off	154010000	FM		2									
+C-Freq	CFreqId=340859	CGroupId=66735	Royal Newfoundland Constabulary 3	Off	154190000	FM		2									
+C-Freq	CFreqId=340860	CGroupId=66735	Royal Newfoundland Constabulary 4	Off	154620000	FM		2									
+C-Freq	CFreqId=207887	CGroupId=66735	Royal Newfoundland Constabulary 5	Off	153950000	FM		2									
+C-Freq	CFreqId=340861	CGroupId=66735	Royal Newfoundland Constabulary 6	Off	154040000	FM		2									
+C-Freq	CFreqId=340862	CGroupId=66735	Royal Newfoundland Constabulary 7	Off	154250000	FM		2									
+C-Freq	CFreqId=340863	CGroupId=66735	Royal Newfoundland Constabulary 8	Off	154310000	FM		2									
+C-Freq	CFreqId=279928	CGroupId=66735	Sheriff's Department	Off	149495000	FM		7									
+C-Freq	CFreqId=279204	CGroupId=66735	Western Memorial Regional Hospital - Ambulance	Off	158760000	FM		4									
+C-Freq	CFreqId=207885	CGroupId=66735	Western Memorial Regional Hospital - Ambulance Patch	Off	158760000	FM		12									
+C-Group	CGroupId=67882	CountyId=5575	Cox's Cove	Off	49.118000	-58.074000	20.0	Circle	
+C-Freq	CFreqId=279211	CGroupId=67882	Public Works	Off	149020000	FM		14									
+C-Freq	CFreqId=279210	CGroupId=67882	Volunteer Fire Department	Off	154280000	FM		3									
+C-Group	CGroupId=67878	CountyId=5575	Deer Lake	Off	49.174444	-57.426944	20.0	Circle	
+C-Freq	CFreqId=279216	CGroupId=67878	Main Dam	Off	159330000	FM		14									
+C-Freq	CFreqId=279925	CGroupId=67878	Public Works	Off	159240000	FM		14									
+C-Group	CGroupId=67883	CountyId=5575	Lark Harbour	Off	49.100000	-58.366667	20.0	Circle	
+C-Freq	CFreqId=279208	CGroupId=67883	Fire Department	Off	151115000	FM		3									
+C-Freq	CFreqId=279214	CGroupId=67883	Public Works	Off	149020000	FM		14									
+C-Group	CGroupId=67880	CountyId=5575	Massey Drive	Off	48.937222	-57.900000	20.0	Circle	
+C-Freq	CFreqId=279205	CGroupId=67880	Fire Department	Off	151145000	FM		3									
+C-Group	CGroupId=67884	CountyId=5575	McIvers	Off	49.060833	-58.109444	20.0	Circle	
+C-Freq	CFreqId=279209	CGroupId=67884	Fire Department	Off	151355000	FM		3									
+C-Group	CGroupId=67881	CountyId=5575	Mount Moriah	Off	48.958333	-58.070833	20.0	Circle	
+C-Freq	CFreqId=279207	CGroupId=67881	Fire Department	Off	169440000	FM		3									
+C-Group	CGroupId=67879	CountyId=5575	Pasadena	Off	49.016111	-57.605000	20.0	Circle	
+C-Freq	CFreqId=279929	CGroupId=67879	Public Works	Off	169140000	FM		14									
+C-Group	CGroupId=67072	CountyId=5575	Repeaters - VHF / UHF	Off	49.159000	-57.738000	60.0	Circle	
+C-Freq	CFreqId=275555	CGroupId=67072	Corner Brook - VO1CBK repeater	Off	146940000	FM		13									
+C-Freq	CFreqId=275554	CGroupId=67072	Corner Brook - VO1MO 2m repeater	Off	146880000	FM		13									
+C-Freq	CFreqId=275556	CGroupId=67072	Corner Brook - VO1MO 70cm repeater	Off	444400000	FM		13									
+C-Group	CGroupId=67885	CountyId=5575	Steady Brook	Off	48.966667	-57.800000	20.0	Circle	
+C-Freq	CFreqId=279217	CGroupId=67885	Bay of Islands Search and Rescue	Off	166140000	FM		29									
+C-Freq	CFreqId=279924	CGroupId=67885	Public Works	Off	164235000	FM		14									
+C-Freq	CFreqId=279922	CGroupId=67885	Public Works	Off	165000000	FM		14									
+C-Freq	CFreqId=279923	CGroupId=67885	Public Works	Off	166140000	FM		14									
+Conventional	CountyId=5579	StateId=105	Northern Peninsula	Off		Conventional								
+AreaState	CountyId=5579	StateId=105
+AreaCounty	CountyId=5579	CountyId=5579
+C-Group	CGroupId=51095	CountyId=5579	Northern Peninsula District - Norris Point	Off	49.519444	-57.872500	20.0	Circle	
+C-Freq	CFreqId=207882	CGroupId=51095	Volunteer Fire - Paging	Off	153770000	FM		3									
+C-Group	CGroupId=51096	CountyId=5579	Northern Peninsula District - Rocky Harbour	Off	49.592400	-57.917644	20.0	Circle	
+C-Freq	CFreqId=207883	CGroupId=51096	RCMP	Off	155820000	FM		2									
+C-Group	CGroupId=67077	CountyId=5579	Repeaters - 2M Band	Off	50.395000	-57.041000	60.0	Circle	
+C-Freq	CFreqId=275568	CGroupId=67077	St. Anthony - VO1GNP repeater	Off	147965000	FM		13									
+Conventional	CountyId=5578	StateId=105	Notre Dame Bay	Off		Conventional								
+AreaState	CountyId=5578	StateId=105
+AreaCounty	CountyId=5578	CountyId=5578
+C-Group	CGroupId=71480	CountyId=5578	Notre Dame Bay - Baie Verte	Off	49.940000	-56.200000	30.0	Circle	
+C-Freq	CFreqId=297159	CGroupId=71480	Ambulance	Off	151925000	FM		4									
+C-Freq	CFreqId=297160	CGroupId=71480	Fire Department - Paging	Off	169920000	FM		3									
+C-Group	CGroupId=66733	CountyId=5578	Notre Dame Bay - Lewisporte	Off	49.233800	-55.051600	20.0	Circle	
+C-Freq	CFreqId=274323	CGroupId=66733	Freakes' EMS dispatch	Off	154220000	FM		4									
+C-Group	CGroupId=66734	CountyId=5578	Notre Dame Bay - Point Leamington	Off	49.335800	-55.401100	20.0	Circle	
+C-Freq	CFreqId=274324	CGroupId=66734	Fire Department	Off	152390000	FM		3									
+C-Group	CGroupId=67074	CountyId=5578	Repeaters - 2M Band	Off	49.256000	-55.080000	67.6	Circle	
+C-Freq	CFreqId=275565	CGroupId=67074	Baie Verte - VO1BVR	Off	146970000	FM		13									
+C-Freq	CFreqId=275564	CGroupId=67074	Lewisporte - VO1LJR	Off	147320000	FM		13									
+Conventional	CountyId=5573	StateId=105	South Coast	Off		Conventional								
+AreaState	CountyId=5573	StateId=105
+AreaCounty	CountyId=5573	CountyId=5573
+C-Group	CGroupId=54161	CountyId=5573	Bay d'Espoir	Off	47.831731	-55.839427	30.0	Circle	
+C-Freq	CFreqId=224559	CGroupId=54161	Police	Off	155400000	FM		2									
+C-Group	CGroupId=71482	CountyId=5573	Burgeo	Off	47.624801	-57.633774	25.0	Circle	
+C-Freq	CFreqId=297164	CGroupId=71482	Fire Department	Off	151145000	FM		3									
+C-Freq	CFreqId=297165	CGroupId=71482	Fire Department	Off	166140000	FM		3									
+C-Group	CGroupId=67076	CountyId=5573	Repeaters - 2M Band	Off	47.746000	-56.859000	109.4	Circle	
+C-Freq	CFreqId=275567	CGroupId=67076	VO1BAP - Port Aux Basque	Off	147060000	FM		13									
+C-Freq	CFreqId=275569	CGroupId=67076	VO1BDR - St. Albans	Off	147380000	FM		13									
+Conventional	CountyId=5574	StateId=105	St. George's	Off		Conventional								
+AreaState	CountyId=5574	StateId=105
+AreaCounty	CountyId=5574	CountyId=5574
+C-Group	CGroupId=67075	CountyId=5574	Repeaters - 2M Band	Off	48.151000	-58.897000	45.5	Circle	
+C-Freq	CFreqId=275566	CGroupId=67075	VO1STR - Stephenville	Off	147090000	FM		13									
+C-Group	CGroupId=66732	CountyId=5574	St. George's - Southwest Brook	Off	49.167500	-55.035500	20.0	Circle	
+C-Freq	CFreqId=274322	CGroupId=66732	Freakes' EMS dispatch	Off	151985000	FM		4									
+Conventional	AgencyId=8027	StateId=105	Attractions	Off		Conventional								
+AreaState	AgencyId=8027	StateId=105
+AreaCounty	AgencyId=8027	CountyId=5571
+C-Group	CGroupId=67491	AgencyId=8027	St. John's	Off	47.558000	-52.723000	20.0	Circle	
+C-Freq	CFreqId=277355	CGroupId=67491	Mile One Stadium	Off	151070000	FM		17									
+C-Freq	CFreqId=287247	CGroupId=67491	Signal Hill National Historic Site (Parks Canada)	Off	163890000	FM	TONE=C146.2	14									
+Conventional	AgencyId=6393	StateId=105	Business	Off		Conventional								
+AreaState	AgencyId=6393	StateId=105
+AreaCounty	AgencyId=6393	CountyId=5571
+C-Group	CGroupId=78668	AgencyId=6393	Commercial - Heart's Content	Off	47.867000	-53.351000	30.0	Circle	
+C-Freq	CFreqId=337388	CGroupId=78668	Hitech Communications subscribers (radio rentals)	Off	163020000	AUTO	NAC=Srch	17									
+C-Group	CGroupId=55191	AgencyId=6393	Commercial - St. John's	Off	47.569000	-52.726000	20.0	Circle	
+C-Freq	CFreqId=284108	CGroupId=55191	Auto Parts Network	Off	464825000	FM		17									
+C-Freq	CFreqId=297414	CGroupId=55191	Avalon Towing	Off	158820000	NFM	TONE=C100.0	17									
+C-Freq	CFreqId=233833	CGroupId=55191	Ches' Fish & Chips - Delivery Service	Off	167880000	FM	TONE=C100.0	17									
+C-Freq	CFreqId=277348	CGroupId=55191	DownEast Communications	Off	143235000	FM		17									
+C-Freq	CFreqId=274858	CGroupId=55191	Dynamex Courier	Off	451737500	FM	TONE=C146.2	17									
+C-Freq	CFreqId=274855	CGroupId=55191	Fairview Investments	Off	150485000	FM	TONE=C100.0	17									
+C-Freq	CFreqId=284110	CGroupId=55191	Inland Company	Off	455312500	FM	TONE=C67.0	17									
+C-Freq	CFreqId=277349	CGroupId=55191	Metro Deliveries	Off	168390000	FM		17									
+C-Freq	CFreqId=277353	CGroupId=55191	Molson	Off	460337500	FM		17									
+C-Freq	CFreqId=274857	CGroupId=55191	Newfound Disposal Systems	Off	171840000	FM		17									
+C-Freq	CFreqId=274856	CGroupId=55191	North Atlantic Petroleum	Off	171480000	FM	TONE=C110.9	17									
+C-Group	CGroupId=71476	AgencyId=6393	Construction - St. John's	Off	47.569000	-52.726000	20.0	Circle	
+C-Freq	CFreqId=297149	CGroupId=71476	AJ's Mechanical channel 1	Off	151850000	FM		17									
+C-Freq	CFreqId=297150	CGroupId=71476	AJ's Mechanical channel 2	Off	150305000	FM		17									
+C-Freq	CFreqId=297412	CGroupId=71476	Capital Ready-Mix	Off	160050000	NFM	TONE=C165.5	17									
+C-Group	CGroupId=71510	AgencyId=6393	Malls - St. John's	Off	47.569000	-52.726000	20.0	Circle	
+C-Freq	CFreqId=297406	CGroupId=71510	Avalon Mall - Electrical Room	Off	456137500	NFM		17									
+C-Freq	CFreqId=297405	CGroupId=71510	Avalon Mall - maintenance	Off	451137500	AUTO	ColorCode=1	17									
+C-Freq	CFreqId=297403	CGroupId=71510	Avalon Mall - Property Management	Off	151115000	FM		17									
+C-Freq	CFreqId=297404	CGroupId=71510	Avalon Mall - Property Management	Off	469262500	FM		17									
+C-Freq	CFreqId=346523	CGroupId=71510	Avalon Mall - security	Off	451137500	AUTO	ColorCode=1	17									
+C-Freq	CFreqId=297407	CGroupId=71510	Village Mall	Off	468962500	FM		17									
+C-Group	CGroupId=56016	AgencyId=6393	Media - Broadcast Stations	Off	47.569000	-52.726000	20.0	Circle	
+C-Freq	CFreqId=297148	CGroupId=56016	CHVO-FM 103.9 Kixx Country	Off	149350000	FM		31									
+C-Freq	CFreqId=233822	CGroupId=56016	VOCM	Off	152990000	FM		31									
+C-Freq	CFreqId=233823	CGroupId=56016	VOCM	Off	153530000	FM		31									
+C-Freq	CFreqId=233824	CGroupId=56016	VOCM	Off	450062500	FM		31									
+C-Freq	CFreqId=233825	CGroupId=56016	VOCM	Off	450237500	FM		31									
+C-Group	CGroupId=71508	AgencyId=6393	Retail - St. John's	Off	47.569000	-52.726000	20.0	Circle	
+C-Freq	CFreqId=297401	CGroupId=71508	Costco	Off	469262500	NFM	TONE=C67.0	17									
+C-Freq	CFreqId=297402	CGroupId=71508	Home Depot	Off	469262500	NFM		17									
+C-Freq	CFreqId=297409	CGroupId=71508	Kent Building Supplies	Off	454250000	NFM	TONE=C131.8	17									
+C-Freq	CFreqId=297410	CGroupId=71508	Kent Building Supplies	Off	459250000	NFM		17									
+C-Freq	CFreqId=297399	CGroupId=71508	Old Navy	Off	151085000	NFM		17									
+C-Freq	CFreqId=297408	CGroupId=71508	Salvation Army	Off	453112500	NFM		17									
+C-Freq	CFreqId=297400	CGroupId=71508	Wal-Mart	Off	464637500	NFM		17									
+C-Group	CGroupId=49176	AgencyId=6393	Taxi - St John's	Off	47.569000	-52.726000	20.0	Circle	
+C-Freq	CFreqId=277350	CGroupId=49176	Bugden's Taxi	Off	162270000	FM		26									
+C-Freq	CFreqId=200012	CGroupId=49176	Bugden's Taxi - Shea Heights Tower	Off	168660000	FM		26									
+C-Freq	CFreqId=200011	CGroupId=49176	Bugden's Taxi - St John's Tower	Off	162330000	FM		26									
+C-Freq	CFreqId=215304	CGroupId=49176	Casino Taxi	Off	150995000	FM		26									
+C-Freq	CFreqId=200013	CGroupId=49176	City Wide Taxi	Off	165360000	FM		26									
+C-Freq	CFreqId=215305	CGroupId=49176	Co-Op Cabs	Off	452312500	FM		26									
+C-Freq	CFreqId=252840	CGroupId=49176	Cys Taxi	Off	149140000	AUTO	NAC=Srch	26									
+C-Freq	CFreqId=200014	CGroupId=49176	Jiffy Cabs	Off	153680000	FM	TONE=C114.8	26									
+C-Freq	CFreqId=200016	CGroupId=49176	Newfound Cabs	Off	463062500	FM		26									
+C-Freq	CFreqId=274848	CGroupId=49176	North West Taxi	Off	162600000	FM	TONE=C131.8	26									
+C-Freq	CFreqId=200015	CGroupId=49176	North West Taxi	Off	166440000	FM	TONE=C179.9	26									
+C-Freq	CFreqId=200017	CGroupId=49176	Valley Cabs	Off	172710000	FM	TONE=C110.9	26									
+C-Freq	CFreqId=255854	CGroupId=49176	Villa Nova Cabs	Off	163500000	AUTO	NAC=Srch	26									
+Conventional	AgencyId=7934	StateId=105	Business	Off		Conventional								
+AreaState	AgencyId=7934	StateId=105
+AreaCounty	AgencyId=7934	CountyId=5575
+C-Group	CGroupId=66739	AgencyId=7934	Commercial	Off	48.936667	-57.827222	60.0	Circle	
+C-Freq	CFreqId=274339	CGroupId=66739	Atlantic Ready Mix	Off	163350000	FM		17									
+C-Freq	CFreqId=279225	CGroupId=66739	Brink's Armoured Trucks	Off	172700000	FM		17									
+C-Freq	CFreqId=279227	CGroupId=66739	Clyde Way's Trucking	Off	163560000	FM		17									
+C-Freq	CFreqId=279242	CGroupId=66739	Conway's Towing	Off	143625000	FM	TONE=C85.4	17									
+C-Freq	CFreqId=279241	CGroupId=66739	Conway's Towing	Off	170215000	FM		17									
+C-Freq	CFreqId=279231	CGroupId=66739	Corner Brook Pulp and Paper	Off	408512500	FM		17									
+C-Freq	CFreqId=279232	CGroupId=66739	Corner Brook Pulp and Paper	Off	411312500	FM		17									
+C-Freq	CFreqId=279233	CGroupId=66739	Corner Brook Pulp and Paper	Off	411362500	FM		17									
+C-Freq	CFreqId=279234	CGroupId=66739	Corner Brook Pulp and Paper	Off	411437500	FM		17									
+C-Freq	CFreqId=279235	CGroupId=66739	Corner Brook Pulp and Paper	Off	411525000	FM		17									
+C-Freq	CFreqId=279236	CGroupId=66739	Corner Brook Pulp and Paper	Off	411625000	FM		17									
+C-Freq	CFreqId=279237	CGroupId=66739	Corner Brook Pulp and Paper	Off	412812500	FM		17									
+C-Freq	CFreqId=279238	CGroupId=66739	Corner Brook Pulp and Paper	Off	413762500	FM		17									
+C-Freq	CFreqId=347538	CGroupId=66739	Corner Brook Pulp and Paper - 'Chit Chat'	Off	165210000	FM	TONE=C192.8	17									
+C-Freq	CFreqId=347536	CGroupId=66739	Corner Brook Pulp and Paper - 'Kilo 1'	Off	151640000	FM	TONE=C192.8	17									
+C-Freq	CFreqId=347537	CGroupId=66739	Corner Brook Pulp and Paper - 'Kilo 2'	Off	151715000	FM	TONE=C192.8	17									
+C-Freq	CFreqId=279223	CGroupId=66739	Johnson's Construction	Off	163710000	FM	TONE=C131.8	17									
+C-Freq	CFreqId=279226	CGroupId=66739	Loomis Courier	Off	164430000	FM	TONE=C136.5	17									
+C-Freq	CFreqId=279228	CGroupId=66739	Marine Contractor's Inc	Off	151085000	FM		17									
+C-Freq	CFreqId=279240	CGroupId=66739	Murphy Brother's Ltd	Off	167310000	FM		17									
+C-Freq	CFreqId=279229	CGroupId=66739	Murphy Brother's Ltd	Off	173070000	FM		17									
+C-Freq	CFreqId=279224	CGroupId=66739	North Atlantic Petrolium	Off	143625000	FM	TONE=C97.4	17									
+C-Freq	CFreqId=279222	CGroupId=66739	NW Fishery Curling	Off	158220000	FM		17									
+C-Freq	CFreqId=279239	CGroupId=66739	Roger's Cable	Off	163710000	FM	TONE=C151.4	17									
+C-Freq	CFreqId=274341	CGroupId=66739	Wheeler's Trucking	Off	171090000	FM		17									
+C-Group	CGroupId=74829	AgencyId=7934	Media	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=315722	CGroupId=74829	Bay of Islands Radio, remote pick-up and live broadcasts	Off	151055000	FM	TONE=C151.4	31									
+C-Group	CGroupId=71532	AgencyId=7934	Retail	Off	48.936667	-57.827222	60.0	Circle	
+C-Freq	CFreqId=297459	CGroupId=71532	Wal-Mart - Murphy Square	Off	464637500	NFM		17									
+C-Group	CGroupId=67886	AgencyId=7934	Taxis	Off	48.936667	-57.827222	60.0	Circle	
+C-Freq	CFreqId=279248	CGroupId=67886	Birchy Cabs	Off	162810000	FM		17									
+C-Freq	CFreqId=279250	CGroupId=67886	Birchy Cabs	Off	165210000	FM		17									
+C-Freq	CFreqId=279251	CGroupId=67886	City Cabs	Off	161580000	FM		17									
+C-Freq	CFreqId=279252	CGroupId=67886	Corner Taxi	Off	162480000	FM		17									
+C-Freq	CFreqId=279249	CGroupId=67886	Star Taxi Ltd	Off	164940000	FM		17									
+C-Freq	CFreqId=274340	CGroupId=67886	Taxi Transport	Off	163920000	FM		17									
+Conventional	AgencyId=7936	StateId=105	Business	Off		Conventional								
+AreaState	AgencyId=7936	StateId=105
+AreaCounty	AgencyId=7936	CountyId=5576
+C-Group	CGroupId=66777	AgencyId=7936	Gander	Off	48.951300	-54.618300	20.0	Circle	
+C-Freq	CFreqId=274555	CGroupId=66777	Busy Bee Taxi	Off	172980000	FM	TONE=C179.9	26									
+C-Freq	CFreqId=274553	CGroupId=66777	Town Taxi	Off	150905000	FM		26									
+C-Group	CGroupId=66778	AgencyId=7936	Grand Falls-Windsor	Off	48.935200	-55.651600	20.0	Circle	
+C-Freq	CFreqId=274556	CGroupId=66778	Diamond Taxi	Off	172860000	FM		26									
+C-Freq	CFreqId=274557	CGroupId=66778	Hunt's Concrete Supplies	Off	170460000	FM		17									
+Conventional	AgencyId=8480	StateId=105	Business	Off		Conventional								
+AreaState	AgencyId=8480	StateId=105
+AreaCounty	AgencyId=8480	CountyId=5579
+C-Group	CGroupId=71478	AgencyId=8480	Plum Point	Off	51.066667	-56.883333	20.0	Circle	
+C-Freq	CFreqId=297157	CGroupId=71478	Abe Gibbons	Off	151070000	FM		17									
+C-Freq	CFreqId=297158	CGroupId=71478	Abe Gibbons	Off	151100000	FM	TONE=C192.8	17									
+Conventional	AgencyId=8481	StateId=105	Business	Off		Conventional								
+AreaState	AgencyId=8481	StateId=105
+AreaCounty	AgencyId=8481	CountyId=5578
+C-Group	CGroupId=71481	AgencyId=8481	Transportation - Birchy Bay	Off	49.471830	-57.919230	20.0	Circle	
+C-Freq	CFreqId=297162	CGroupId=71481	Birchy Cabs	Off	162810000	FM		26									
+Conventional	AgencyId=8686	StateId=105	Business	Off		Conventional								
+AreaState	AgencyId=8686	StateId=105
+AreaCounty	AgencyId=8686	CountyId=5577
+C-Group	CGroupId=72900	AgencyId=8686	Clarenville	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=305645	CGroupId=72900	Seaview Taxi	Off	162150000	NFM		26									
+Conventional	AgencyId=9080	StateId=105	Businesses	Off		Conventional								
+AreaState	AgencyId=9080	StateId=105
+AreaCounty	AgencyId=9080	CountyId=5572
+C-Group	CGroupId=75677	AgencyId=9080	Burin	Off	0.000000	0.000000	0.0	Circle	
+C-Freq	CFreqId=321092	CGroupId=75677	Pikes Building Supplies	Off	464687500	FM		17									
+Conventional	AgencyId=9126	StateId=105	Department of Forestry	Off		Conventional								
+AreaState	AgencyId=9126	StateId=105
+AreaCounty	AgencyId=9126	CountyId=0
+C-Group	CGroupId=76217	AgencyId=9126	Avalon Peninsula	Off	47.302000	-53.247000	62.9	Circle	
+C-Freq	CFreqId=323549	CGroupId=76217	Heart's Content Barrens	Off	165840000	FM		14									
+Conventional	AgencyId=6087	StateId=105	Marine	Off		Conventional								
+AreaState	AgencyId=6087	StateId=105
+AreaCounty	AgencyId=6087	CountyId=5571
+C-Group	CGroupId=49177	AgencyId=6087	Harbour - St John's	Off	47.561944	-52.709167	20.0	Circle	
+C-Freq	CFreqId=274854	CGroupId=49177	A Harvey	Off	453312500	FM		33									
+C-Freq	CFreqId=274850	CGroupId=49177	A Harvey & Co Crane Operations	Off	855937500	FM		17									
+C-Freq	CFreqId=274851	CGroupId=49177	A Harvey & Co Crane Operations	Off	855962500	FM		17									
+C-Freq	CFreqId=274852	CGroupId=49177	A Harvey & Co Crane Operations	Off	855987500	FM		17									
+C-Freq	CFreqId=274853	CGroupId=49177	A Harvey & Co Crane Operations	Off	856237500	FM		17									
+C-Freq	CFreqId=282156	CGroupId=49177	Canadian Centre For Marine Communications	Off	156725000	FM		17									
+C-Freq	CFreqId=200019	CGroupId=49177	Oceanex Shipping crane operations	Off	464887500	FM	TONE=C162.2	17									
+C-Freq	CFreqId=200020	CGroupId=49177	Oceanex Shipping crane operations	Off	464962500	FM	TONE=C162.2	17									
+C-Freq	CFreqId=200018	CGroupId=49177	Oceanex Shipping harbour operations	Off	454600000	FM	TONE=C186.2	17									
+C-Freq	CFreqId=274849	CGroupId=49177	Oceanex Shipping harbour operations	Off	463637500	FM	TONE=C156.7	17									
+C-Freq	CFreqId=284116	CGroupId=49177	St. John's Dockyard - Crane	Off	469487500	FM		17									
+C-Freq	CFreqId=284115	CGroupId=49177	St. John's Dockyard - Docking	Off	464687500	FM	TONE=C114.8	17									
+C-Freq	CFreqId=277357	CGroupId=49177	St. John's Dockyard - Safety	Off	453362500	FM		17									
+C-Freq	CFreqId=284114	CGroupId=49177	St. John's Dockyard - Security	Off	458037500	FM		17									
+C-Freq	CFreqId=284113	CGroupId=49177	Woodwards	Off	452537500	FM		17									
+C-Freq	CFreqId=284112	CGroupId=49177	Woodwards	Off	458662500	FM	TONE=C88.5	17									
+Conventional	AgencyId=8028	StateId=105	Newfoundland Power Incorporated	Off		Conventional								
+AreaState	AgencyId=8028	StateId=105
+AreaCounty	AgencyId=8028	CountyId=0
+C-Group	CGroupId=67492	AgencyId=8028	Newfoundland Power - Avalon Peninsula	Off	48.809000	-55.640000	189.8	Circle	
+C-Freq	CFreqId=277362	CGroupId=67492	St. John's - O'Leary Ave	Off	158250000	FM		34									
+C-Freq	CFreqId=337389	CGroupId=67492	Whitbourne	Off	158520000	FM		34									
+C-Group	CGroupId=78671	AgencyId=8028	Newfoundland Power - Bonavista/Trinity	Off	48.451000	-53.902000	46.6	Circle	
+C-Freq	CFreqId=337392	CGroupId=78671	Clarenville	Off	161325000	FM		34									
+C-Group	CGroupId=78670	AgencyId=8028	Newfoundland Power - Burin Peninsula	Off	47.380000	-55.050000	53.8	Circle	
+C-Freq	CFreqId=337391	CGroupId=78670	Burin Peninsula (multiple locations)	Off	157680000	FM		34									
+C-Freq	CFreqId=337390	CGroupId=78670	Marystown	Off	158370000	FM		34									
+Conventional	AgencyId=6088	StateId=105	Parks Canada	Off		Conventional								
+AreaState	AgencyId=6088	StateId=105
+AreaCounty	AgencyId=6088	CountyId=5579
+C-Group	CGroupId=51097	AgencyId=6088	Department of Canadian Heritage - Rocky Harbour	Off	49.689444	-57.738056	20.0	Circle	
+C-Freq	CFreqId=207881	CGroupId=51097	Gros Morne National Park	Off	155790000	FM		16									
+Conventional	AgencyId=8484	StateId=105	Sports Attractions	Off		Conventional								
+AreaState	AgencyId=8484	StateId=105
+AreaCounty	AgencyId=8484	CountyId=5575
+C-Group	CGroupId=67887	AgencyId=8484	Sports Resorts - Attractions	Off	48.936667	-57.827222	60.0	Circle	
+C-Freq	CFreqId=279247	CGroupId=67887	Blomidon Golf Club	Off	465437500	FM		17									
+C-Freq	CFreqId=279246	CGroupId=67887	Humber Valley Resort	Off	166635000	FM		17									
+C-Freq	CFreqId=279243	CGroupId=67887	Marble Mountain Ski Lodge No. 1	Off	150155000	FM		17									
+C-Freq	CFreqId=279245	CGroupId=67887	Marble Mountain Ski Lodge No. 1	Off	151895000	FM		17									
+C-Freq	CFreqId=279244	CGroupId=67887	Marble Mountain Ski Lodge No. 1	Off	165660000	FM		17									
+Conventional	AgencyId=8241	StateId=105	Vale Canada	Off		Conventional								
+AreaState	AgencyId=8241	StateId=105
+AreaCounty	AgencyId=8241	CountyId=5571
+C-Group	CGroupId=69550	AgencyId=8241	Mining Operations - Long Harbour	Off	47.429444	-53.858333	20.0	Circle	
+C-Freq	CFreqId=286612	CGroupId=69550	Vale Canada	Off	451112500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=286611	CGroupId=69550	Vale Canada	Off	451887500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=286613	CGroupId=69550	Vale Canada	Off	452612500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=286614	CGroupId=69550	Vale Canada	Off	460087500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=286615	CGroupId=69550	Vale Canada	Off	461187500	AUTO	NAC=Srch	17									
+Conventional	AgencyId=7933	StateId=105	YDF Deer Lake Regional Airport	Off		Conventional								
+AreaState	AgencyId=7933	StateId=105
+AreaCounty	AgencyId=7933	CountyId=5575
+C-Group	CGroupId=66737	AgencyId=7933	CYDF Deer Lake Regional Airport - Airport Services	Off	49.209167	-57.394444	20.0	Circle	
+C-Freq	CFreqId=274336	CGroupId=66737	Air Canada Jazz airline operations	Off	128900000	AM		17									
+C-Freq	CFreqId=274337	CGroupId=66737	Airport security	Off	413212500	FM		33									
+C-Freq	CFreqId=274335	CGroupId=66737	Allied Aviation Service	Off	129100000	AM		17									
+Conventional	AgencyId=7937	StateId=105	YQX Gander International Airport	Off		Conventional								
+AreaState	AgencyId=7937	StateId=105
+AreaCounty	AgencyId=7937	CountyId=5576
+C-Group	CGroupId=66779	AgencyId=7937	CYQX Gander International Airport - Air Traffic Control	Off	48.950000	-54.601600	20.0	Circle	
+C-Freq	CFreqId=274576	CGroupId=66779	Automated Terminal Information System	Off	124800000	AM		15									
+C-Freq	CFreqId=274577	CGroupId=66779	Departures	Off	128500000	AM		15									
+C-Freq	CFreqId=274578	CGroupId=66779	Departures	Off	132100000	AM		15									
+C-Freq	CFreqId=274574	CGroupId=66779	Gander Airport Manager	Off	122600000	AM		15									
+C-Freq	CFreqId=274575	CGroupId=66779	Gander Airport Manager	Off	123100000	AM		15									
+C-Freq	CFreqId=274581	CGroupId=66779	Gander Area Control Center - International	Off	126900000	AM		15									
+C-Freq	CFreqId=274582	CGroupId=66779	Gander Area Control Center - International	Off	127100000	AM		15									
+C-Freq	CFreqId=274579	CGroupId=66779	Ground	Off	121900000	AM		15									
+C-Freq	CFreqId=274580	CGroupId=66779	Ground UHF	Off	275800000	AM		15									
+C-Freq	CFreqId=274572	CGroupId=66779	Halifax Flight Service Station	Off	123475000	AM		15									
+C-Freq	CFreqId=274573	CGroupId=66779	Halifax Radio	Off	126700000	AM		15									
+C-Freq	CFreqId=274583	CGroupId=66779	Tower	Off	118100000	AM		15									
+C-Freq	CFreqId=274584	CGroupId=66779	Tower UHF	Off	236600000	AM		15									
+C-Group	CGroupId=66782	AgencyId=7937	CYQX Gander International Airport - Airport Services	Off	48.950000	-54.601600	20.0	Circle	
+C-Freq	CFreqId=274567	CGroupId=66782	Airport Fire Department	Off	413462500	FM		3									
+C-Freq	CFreqId=274568	CGroupId=66782	Airport Fire Department	Off	413537500	FM		3									
+C-Freq	CFreqId=274566	CGroupId=66782	Airport Security	Off	413212500	FM		33									
+C-Group	CGroupId=71531	AgencyId=7937	CYQX Gander International Airport - Universal Helicopters	Off	48.950000	-54.601600	20.0	Circle	
+C-Freq	CFreqId=297449	CGroupId=71531	Universal Helicopters	Off	122900000	AM		15									
+C-Group	CGroupId=66780	AgencyId=7937	Military - 9 Wing Gander (Royal Canadian Air Force)	Off	48.950000	-54.601600	20.0	Circle	
+C-Freq	CFreqId=274569	CGroupId=66780	Outcast Ops 9 Wing 103 SAR Squadron	Off	128850000	AM		30									
+C-Freq	CFreqId=274570	CGroupId=66780	Outcast Ops 9 Wing 103 SAR Squadron UHF	Off	252800000	AM		30									
+Conventional	AgencyId=6085	StateId=105	YYT St John's International Airport	Off		Conventional								
+AreaState	AgencyId=6085	StateId=105
+AreaCounty	AgencyId=6085	CountyId=5571
+C-Group	CGroupId=53067	AgencyId=6085	Commercial Aviation - Airlines	Off	47.576000	-52.772000	20.0	Circle	
+C-Freq	CFreqId=215297	CGroupId=53067	Air Canada - Baggage Operations	Off	460700000	FM		17									
+C-Freq	CFreqId=215298	CGroupId=53067	Air Canada - Dispatch	Off	130800000	AM		15									
+C-Freq	CFreqId=344241	CGroupId=53067	Air Canada - Operations	Off	451062500	FM		17									
+C-Freq	CFreqId=297396	CGroupId=53067	Jazz - Dispatch	Off	130375000	AM		15									
+C-Freq	CFreqId=297398	CGroupId=53067	Provincial Airlines	Off	129525000	AM		15									
+C-Freq	CFreqId=297397	CGroupId=53067	WestJet - Terminal Operations	Off	460262500	NFM		17									
+C-Freq	CFreqId=337070	CGroupId=53067	WestJet gate agents	Off	410650000	AUTO	ColorCode=4	17									
+C-Group	CGroupId=53070	AgencyId=6085	Commercial Aviation - Cougar Helicopters	Off	47.576000	-52.772000	20.0	Circle	
+C-Freq	CFreqId=215300	CGroupId=53070	Cougar Helicopters Company - Dispatch	Off	169650000	FM		17									
+C-Group	CGroupId=71511	AgencyId=6085	Commercial Aviation - Irving Aviation	Off	47.576000	-52.772000	20.0	Circle	
+C-Freq	CFreqId=297411	CGroupId=71511	Irving Aviation	Off	122900000	AM		15									
+C-Group	CGroupId=66879	AgencyId=6085	CYYT - Air Traffic Control	Off	47.576000	-52.772000	20.0	Circle	
+C-Freq	CFreqId=214125	CGroupId=66879	CYYT Automated Terminal Information System	Off	128000000	AM		15									
+C-Freq	CFreqId=274863	CGroupId=66879	Gander Centre (terminal)	Off	133150000	AM		15									
+C-Freq	CFreqId=274862	CGroupId=66879	Gander Flight Service Station	Off	126900000	AM		15									
+C-Freq	CFreqId=274861	CGroupId=66879	Gander Radio	Off	122375000	AM		15									
+C-Freq	CFreqId=214124	CGroupId=66879	Ground	Off	121900000	AM		15									
+C-Freq	CFreqId=214123	CGroupId=66879	Tower	Off	120600000	AM		15									
+C-Group	CGroupId=66880	AgencyId=6085	CYYT - Fire Services	Off	47.576000	-52.772000	20.0	Circle	
+C-Freq	CFreqId=348649	CGroupId=66880	CYYT Airport Fire - working channel	Off	422962500	AUTO	ColorCode=2	8									
+C-Freq	CFreqId=274860	CGroupId=66880	CYYT Airport Fire Department	Off	422962500	AUTO	ColorCode=2	3									
+C-Freq	CFreqId=215296	CGroupId=66880	St John's International Airport Authority - Fire Department	Off	413212500	FM		3									
+Trunk	TrunkId=4928	StateId=105	Bell Mobility	Off		Motorola															NEXEDGE
+AreaState	TrunkId=4928	StateId=105
+AreaCounty	TrunkId=4928	CountyId=5571
+FleetMap	TrunkId=4928	1	2	2	0	0	0	0	0
+Site	SiteId=9198	TrunkId=4928	Site-1	Off	47.558000	-52.723000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=9198			859187500	1	Srch
+T-Freq	TFreqId=0	SiteId=9198			858187500	2	Srch
+T-Freq	TFreqId=0	SiteId=9198			858437500	3	Srch
+T-Freq	TFreqId=0	SiteId=9198			858687500	4	Srch
+T-Freq	TFreqId=0	SiteId=9198			858937500	5	Srch
+T-Freq	TFreqId=0	SiteId=9198			860287500	6	Srch
+T-Freq	TFreqId=0	SiteId=9198			860537500	7	Srch
+T-Freq	TFreqId=0	SiteId=9198			860787500	8	Srch
+T-Freq	TFreqId=0	SiteId=9198			861037500	9	Srch
+T-Group	TGroupId=10747	TrunkId=4928	Business (miscellaneous)	Off	47.558000	-52.723000	30.0	Circle	
+TGID	Tid=216306	TGroupId=10747	Cement hauling	Off	202-02	ANALOG	17									Any
+TGID	Tid=216301	TGroupId=10747	Construction	Off	17488	ANALOG	17									Any
+TGID	Tid=216303	TGroupId=10747	Construction	Off	17536	ANALOG	17									Any
+TGID	Tid=216302	TGroupId=10747	Construction/cement work	Off	17520	ANALOG	17									Any
+TGID	Tid=216304	TGroupId=10747	Construction/dump trucks	Off	17584	ANALOG	17									Any
+TGID	Tid=216300	TGroupId=10747	Construction/excavating	Off	17472	ANALOG	17									Any
+TGID	Tid=154599	TGroupId=10747	Courier	Off	207-01	ANALOG	17									Any
+TGID	Tid=304790	TGroupId=10747	Courier	Off	049-01	ANALOG	17									Any
+TGID	Tid=154603	TGroupId=10747	Courier	Off	41376	ANALOG	17									Any
+TGID	Tid=216305	TGroupId=10747	Courier / delivery	Off	21072	ANALOG	17									Any
+TGID	Tid=154600	TGroupId=10747	Delivery company	Off	209-01	ANALOG	17									Any
+TGID	Tid=216298	TGroupId=10747	Dockyard shiploading crane operations	Off	1552	ANALOG	17									Any
+TGID	Tid=154590	TGroupId=10747	Dump Trucks	Off	000-01	ANALOG	17									Any
+TGID	Tid=154602	TGroupId=10747	Dump Trucks	Off	41232	ANALOG	17									Any
+TGID	Tid=154593	TGroupId=10747	Gravel Hauling	Off	038-01	ANALOG	17									Any
+TGID	Tid=216299	TGroupId=10747	Intermodal freight hauling	Off	1568	ANALOG	17									Any
+TGID	Tid=154595	TGroupId=10747	Paving	Off	202-01	ANALOG	17									Any
+TGID	Tid=203690	TGroupId=10747	PUROLATOR Courier	Off	20032	ANALOG	17									Any
+TGID	Tid=154591	TGroupId=10747	Taxi	Off	005-01	ANALOG	26									Any
+TGID	Tid=154592	TGroupId=10747	Transport (trucking)	Off	024-02	ANALOG	17									Any
+T-Group	TGroupId=12799	TrunkId=4928	Mount Pearl Public Works	Off	47.558000	-52.723000	30.0	Circle	
+TGID	Tid=174776	TGroupId=12799	Mount Pearl Public Works	Off	32768	ANALOG	14									Any
+TGID	Tid=174777	TGroupId=12799	Mount Pearl Public Works	Off	32848	ANALOG	14									Any
+TGID	Tid=174778	TGroupId=12799	Mount Pearl Public Works	Off	33024	ANALOG	14									Any
+TGID	Tid=174779	TGroupId=12799	Mount Pearl Public Works	Off	33136	ANALOG	14									Any
+TGID	Tid=174780	TGroupId=12799	Mount Pearl Public Works	Off	33152	ANALOG	14									Any
+TGID	Tid=174781	TGroupId=12799	Mount Pearl Public Works	Off	33216	ANALOG	14									Any
+TGID	Tid=174782	TGroupId=12799	Mount Pearl Public Works	Off	33232	ANALOG	14									Any
+TGID	Tid=174783	TGroupId=12799	Mount Pearl Public Works	Off	33248	ANALOG	14									Any
+TGID	Tid=174785	TGroupId=12799	Mount Pearl Public Works	Off	33552	ANALOG	14									Any
+TGID	Tid=174786	TGroupId=12799	Mount Pearl Public Works	Off	33568	ANALOG	14									Any
+TGID	Tid=174787	TGroupId=12799	Mount Pearl Public Works	Off	33584	ANALOG	14									Any
+TGID	Tid=174788	TGroupId=12799	Mount Pearl Public Works	Off	33616	ANALOG	14									Any
+TGID	Tid=154601	TGroupId=12799	Park Security	Off	33536	ANALOG	33									Any
+T-Group	TGroupId=12798	TrunkId=4928	Wheelway Transit	Off	47.558000	-52.723000	30.0	Circle	
+TGID	Tid=154596	TGroupId=12798	Wheelway Transit channel A	Off	205-01	ANALOG	26									Any
+TGID	Tid=154597	TGroupId=12798	Wheelway Transit channel B	Off	205-02	ANALOG	26									Any
+TGID	Tid=154598	TGroupId=12798	Wheelway Transit channel C	Off	205-03	ANALOG	26									Any
+Trunk	TrunkId=7058	StateId=105	Bell Mobility (Kenmount Hill)	Off		Ltr															NEXEDGE
+AreaState	TrunkId=7058	StateId=105
+AreaCounty	TrunkId=7058	CountyId=5571
+Site	SiteId=18742	TrunkId=7058	Kenmount Hill	Off	47.534444	-52.783889	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=18742			858012500	1	Srch
+T-Freq	TFreqId=0	SiteId=18742			858262500	2	Srch
+T-Freq	TFreqId=0	SiteId=18742			859012500	3	Srch
+T-Freq	TFreqId=0	SiteId=18742			858512500	4	Srch
+T-Group	TGroupId=16359	TrunkId=7058	All	Off	47.537500	-52.784167	30.0	Circle	
+TGID	Tid=212828	TGroupId=16359	Auto Parts Courier/Delivery	Off	0-01-122	ALL	17									Any
+TGID	Tid=212827	TGroupId=16359	Auto Parts Courier/Delivery	Off	0-05-006	ALL	17									Any
+TGID	Tid=212826	TGroupId=16359	Auto Parts Courier/Delivery	Off	0-05-016	ALL	17									Any
+TGID	Tid=212823	TGroupId=16359	Courier/Delivery	Off	0-01-016	ALL	17									Any
+TGID	Tid=212824	TGroupId=16359	Courier/Delivery	Off	0-01-023	ALL	17									Any
+TGID	Tid=212825	TGroupId=16359	Courier/Delivery	Off	0-05-067	ALL	17									Any
+Trunk	TrunkId=9715	StateId=105	Hitech Communications	Off		Nxdn															IDAS
+AreaState	TrunkId=9715	StateId=105
+AreaCounty	TrunkId=9715	CountyId=5571
+Site	SiteId=31037	TrunkId=9715	Confirmed LCN	Off	0.000000	0.000000	0.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=31037			427225000	1	Srch
+T-Freq	TFreqId=0	SiteId=31037			427350000	2	Srch
+T-Freq	TFreqId=0	SiteId=31037			427475000	3	Srch
+T-Group	TGroupId=26274	TrunkId=9715	All	Off	0.000000	0.000000	0.0	Circle	
+TGID	Tid=319777	TGroupId=26274	GO Bus	Off	9	ALL	26									Any
+TGID	Tid=319770	TGroupId=26274	Hitech	Off	2	ALL	17									Any
+TGID	Tid=319771	TGroupId=26274	Hitech Demo	Off	3	ALL	17									Any
+TGID	Tid=319775	TGroupId=26274	MAx art and atheltics	Off	7	ALL	17									Any
+TGID	Tid=319769	TGroupId=26274	Metro Courier	Off	1	ALL	17									Any
+TGID	Tid=319774	TGroupId=26274	Pearl Cabs	Off	6	ALL	26									Any
+TGID	Tid=319772	TGroupId=26274	Pik-Fast	Off	4	ALL	17									Any
+TGID	Tid=319776	TGroupId=26274	Shea Heights Const	Off	8	ALL	17									Any
+TGID	Tid=319773	TGroupId=26274	Spare	Off	5	ALL	17									Any
+Trunk	TrunkId=6707	StateId=105	Kiewit Offshore Services	Off		Motorola															NEXEDGE
+AreaState	TrunkId=6707	StateId=105
+AreaCounty	TrunkId=6707	CountyId=5572
+Site	SiteId=17046	TrunkId=6707	Marystown	Off	47.166667	-55.166667	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=17046			854812500	1	Srch
+T-Freq	TFreqId=0	SiteId=17046			855062500	2	Srch
+T-Freq	TFreqId=0	SiteId=17046			855312500	3	Srch
+T-Group	TGroupId=16688	TrunkId=6707	Kiewit Offshore Services	Off	47.166667	-55.166667	30.0	Circle	
+TGID	Tid=216313	TGroupId=16688	Container operations	Off	80	ANALOG	17									Any
+Trunk	TrunkId=7389	StateId=105	Mount Pearl Public Works (Icom iDas)	Off		Nxdn															IDAS
+AreaState	TrunkId=7389	StateId=105
+AreaCounty	TrunkId=7389	CountyId=5571
+Site	SiteId=20295	TrunkId=7389	Mount Pearl	Off	47.520000	-52.807000	2.5	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20295			427425000	0	Srch
+T-Freq	TFreqId=0	SiteId=20295			427300000	0	Srch
+T-Freq	TFreqId=0	SiteId=20295			427175000	0	Srch
+T-Group	TGroupId=17640	TrunkId=7389	Municipal talkgroups	Off	47.520000	-52.807000	2.5	Circle	
+TGID	Tid=225470	TGroupId=17640	All Call	Off	10	ALL	14									Any
+TGID	Tid=225464	TGroupId=17640	Collectors	Off	2	ALL	14									Any
+TGID	Tid=225468	TGroupId=17640	EMG Response	Off	8	ALL	14									Any
+TGID	Tid=225467	TGroupId=17640	Engineering	Off	6	ALL	14									Any
+TGID	Tid=225472	TGroupId=17640	Manager	Off	12	ALL	14									Any
+TGID	Tid=225471	TGroupId=17640	Municipal Enforcement	Off	11	ALL	14									Any
+TGID	Tid=225465	TGroupId=17640	Parks & Rec	Off	4	ALL	14									Any
+TGID	Tid=225463	TGroupId=17640	Public Works	Off	1	ALL	14									Any
+TGID	Tid=225469	TGroupId=17640	RX All	Off	9	ALL	14									Any
+TGID	Tid=225466	TGroupId=17640	UTM	Off	5	ALL	14									Any
+Trunk	TrunkId=3635	StateId=105	Newfoundland Provincial Radio (EDACS)	Off		Edacs															NEXEDGE
+AreaState	TrunkId=3635	StateId=105
+AreaCounty	TrunkId=3635	CountyId=5572
+AreaCounty	TrunkId=3635	CountyId=5571
+Site	SiteId=19159	TrunkId=3635	Arnold's Cove (SCAT)	Off	47.762600	-53.982600	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19159			155280000	1	Srch
+Site	SiteId=12381	TrunkId=3635	Bell Island	Off	47.631450	-52.937310	10.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12381			166410000	1	Srch
+T-Freq	TFreqId=0	SiteId=12381			165405000	2	Srch
+T-Freq	TFreqId=0	SiteId=12381			164130000	3	Srch
+Site	SiteId=20384	TrunkId=3635	Cape Broyle (SCAT)	Off	47.083100	-52.943100	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20384			155580000	1	Srch
+Site	SiteId=20385	TrunkId=3635	Fermeuse (SCAT)	Off	46.975600	-52.959800	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20385			153290000	1	Srch
+Site	SiteId=20386	TrunkId=3635	Ferryland (SCAT)	Off	47.034010	-52.882590	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20386			155970000	1	Srch
+Site	SiteId=20378	TrunkId=3635	Fortune (SCAT)	Off	47.066000	-55.831000	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20378			153290000	1	Srch
+Site	SiteId=12380	TrunkId=3635	Four Mile Hill	Off	47.863900	-53.932000	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12380			158580000	1	Srch
+T-Freq	TFreqId=0	SiteId=12380			160530000	2	Srch
+T-Freq	TFreqId=0	SiteId=12380			161250000	3	Srch
+Site	SiteId=20377	TrunkId=3635	Gooseberry Cove (SCAT)	Off	47.069400	-54.093600	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20377			155880000	1	Srch
+Site	SiteId=12379	TrunkId=3635	Hawke Hill	Off	47.452500	-53.237000	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12379			161490000	1	Srch
+T-Freq	TFreqId=0	SiteId=12379			163350000	2	Srch
+T-Freq	TFreqId=0	SiteId=12379			159120000	3	Srch
+Site	SiteId=12382	TrunkId=3635	Holyrood (SCAT)	Off	47.385600	-53.143000	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12382			155400000	1	Srch
+Site	SiteId=20381	TrunkId=3635	Lamaline (SCAT)	Off	46.869000	-55.827000	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20381			155970000	1	Srch
+Site	SiteId=20380	TrunkId=3635	Lawn (SCAT)	Off	46.938700	-55.526800	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20380			155640000	1	Srch
+Site	SiteId=12387	TrunkId=3635	Logy Bay (SCAT)	Off	47.636770	-52.686910	10.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12387			159690000	1	Srch
+Site	SiteId=20375	TrunkId=3635	Long Harbour (SCAT)	Off	47.432400	-53.815500	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20375			155400000	1	Srch
+Site	SiteId=19161	TrunkId=3635	Marystown (SCAT)	Off	47.167300	-55.157100	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19161			155580000	1	Srch
+Site	SiteId=20383	TrunkId=3635	Middle Pond (SCAT)	Off	47.372200	-52.807200	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20383			155340000	1	Srch
+Site	SiteId=20374	TrunkId=3635	North Harbour (SCAT)	Off	47.151900	-53.663700	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20374			155025000	1	Srch
+Site	SiteId=12383	TrunkId=3635	Placentia (SCAT)	Off	47.241000	-53.963000	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12383			155580000	1	Srch
+Site	SiteId=20387	TrunkId=3635	South Avalon (SCAT)	Off	46.947000	-53.284000	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20387			155400000	1	Srch
+Site	SiteId=19162	TrunkId=3635	Southern Harbour (SCAT)	Off	47.721200	-53.953400	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19162			155220000	1	Srch
+Site	SiteId=20376	TrunkId=3635	St Bride's (SCAT)	Off	46.926400	-54.176000	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20376			155700000	1	Srch
+Site	SiteId=12320	TrunkId=3635	St John's Kenmount Hill	Off	47.534442	-52.783887	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12320			158760000	1	Srch
+T-Freq	TFreqId=0	SiteId=12320			159270000	2	Srch
+T-Freq	TFreqId=0	SiteId=12320			161400000	3	Srch
+T-Freq	TFreqId=0	SiteId=12320			161040000	4	Srch
+Site	SiteId=12327	TrunkId=3635	St John's Shea Heights	Off	47.500650	-52.672560	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12327			160200000	1	Srch
+T-Freq	TFreqId=0	SiteId=12327			160800000	2	Srch
+T-Freq	TFreqId=0	SiteId=12327			161400000	3	Srch
+T-Freq	TFreqId=0	SiteId=12327			162120000	4	Srch
+Site	SiteId=20379	TrunkId=3635	St Lawrence (SCAT)	Off	46.928500	-55.446000	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20379			155340000	1	Srch
+Site	SiteId=20390	TrunkId=3635	St Mary's (SCAT)	Off	47.091000	-53.552000	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20390			155025000	1	Srch
+Site	SiteId=20389	TrunkId=3635	St Vincent's (SCAT)	Off	46.869000	-53.595000	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20389			155640000	1	Srch
+Site	SiteId=20388	TrunkId=3635	Tespassey (SCAT)	Off	46.738400	-53.364000	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20388			155820000	1	Srch
+Site	SiteId=12336	TrunkId=3635	Torbay (SCAT)	Off	47.661200	-52.733000	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12336			155490000	1	Srch
+Site	SiteId=10043	TrunkId=3635	Whitbourne (SCAT)	Off	47.427400	-53.547700	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=10043			160590000	1	Srch
+Site	SiteId=19160	TrunkId=3635	Witless Bay (SCAT)	Off	47.288100	-52.832000	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19160			159060000	1	Srch
+T-Group	TGroupId=9289	TrunkId=3635	RCMP	Off	47.502000	-54.301000	87.8	Circle	
+TGID	Tid=154053	TGroupId=9289	Avalon East	Off	04-021	ALL	2									Any
+TGID	Tid=225707	TGroupId=9289	Bay D'Espoir	Off	04-061	ALL	2									Any
+TGID	Tid=225703	TGroupId=9289	Bay St. George	Off	04-042	ALL	2									Any
+TGID	Tid=154115	TGroupId=9289	Bonavista / Clarenville	Off	04-024	ALL	2									Any
+TGID	Tid=225704	TGroupId=9289	Deer Lake	Off	04-043	ALL	2									Any
+TGID	Tid=154116	TGroupId=9289	Federal East	Off	04-062	ALL	2									Any
+TGID	Tid=225701	TGroupId=9289	Gander	Off	04-026	ALL	2									Any
+TGID	Tid=225702	TGroupId=9289	Grand Falls	Off	04-041	ALL	2									Any
+TGID	Tid=236337	TGroupId=9289	Headquarters	Off	04-111	ALL	7									Any
+TGID	Tid=154397	TGroupId=9289	Marystown	Off	04-025	ALL	2									Any
+TGID	Tid=225706	TGroupId=9289	Musgrave Harbour	Off	04-045	ALL	2									Any
+TGID	Tid=225705	TGroupId=9289	Northern Peninsula	Off	04-044	ALL	2									Any
+TGID	Tid=257482	TGroupId=9289	Patch, All Patrol	Off	00-013	ALL	7									Any
+TGID	Tid=154114	TGroupId=9289	Placentia / Whitbourne	Off	04-023	ALL	2									Any
+TGID	Tid=214156	TGroupId=9289	RCMP HQ Admin (Testing)	Off	05-055	ALL	23									Any
+TGID	Tid=214096	TGroupId=9289	RCMP provincewide travel talkgroup (patched to P25 TG 662)	Off	05-026	ALL	23									Any
+TGID	Tid=257483	TGroupId=9289	Telecoms Workshop	Off	00-022	ALL	23									Any
+TGID	Tid=154054	TGroupId=9289	Trinity / Conception Bay	Off	04-022	ALL	2									Any
+T-Group	TGroupId=21194	TrunkId=3635	Shared	Off	47.502000	-54.301000	87.8	Circle	
+TGID	Tid=262820	TGroupId=21194	Radio technicians	Off	04-122	ALL	14									Any
+TGID	Tid=262819	TGroupId=21194	RNC-RCMP interoperability channel	Off	04-141	ALL	7									Any
+Trunk	TrunkId=6708	StateId=105	Newfoundland Provincial Radio (Project 25) System	Off		P25Standard															NEXEDGE
+AreaState	TrunkId=6708	StateId=105
+AreaCounty	TrunkId=6708	CountyId=0
+Site	SiteId=19056	TrunkId=6708	Appleton-Glenwood	Off	48.984700	-54.850500	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19056			155280000	1	Srch
+Site	SiteId=19052	TrunkId=6708	Badger	Off	49.097700	-56.041390	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19052			155820000	1	Srch
+Site	SiteId=20448	TrunkId=6708	Baie Verte	Off	49.932600	-56.201200	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20448			155970000	1	Srch
+Site	SiteId=19051	TrunkId=6708	Birchy Lake	Off	49.287200	-56.760500	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19051			159120000	1	Srch
+T-Freq	TFreqId=0	SiteId=19051			161490000	2	Srch
+Site	SiteId=20453	TrunkId=6708	Blow Me Down Provincial Park	Off	49.110000	-58.371000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20453			155640000	1	Srch
+Site	SiteId=20172	TrunkId=6708	Bonne Bay	Off	49.552000	-57.942000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20172			155820000	1	Srch
+Site	SiteId=17343	TrunkId=6708	Burgeo	Off	47.625000	-57.645000	60.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=17343			155880000	1	Srch
+Site	SiteId=20452	TrunkId=6708	Cape St George	Off	48.569000	-59.036000	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20452			155700000	1	Srch
+Site	SiteId=20174	TrunkId=6708	Carmanville	Off	49.406600	-54.336700	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20174			155820000	1	Srch
+Site	SiteId=17493	TrunkId=6708	Clarenville	Off	48.166500	-54.036000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=17493			153290000	1	Srch
+T-Freq	TFreqId=0	SiteId=17493			155970000	2	Srch
+Site	SiteId=20451	TrunkId=6708	Coal Brook	Off	47.942400	-58.943500	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20451			160410000	1	Srch
+T-Freq	TFreqId=0	SiteId=20451			161040000	2	Srch
+Site	SiteId=18787	TrunkId=6708	Come by Chance	Off	47.823800	-53.983000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=18787			159060000	1	Srch
+T-Freq	TFreqId=0	SiteId=18787			155820000	2	Srch
+Site	SiteId=20443	TrunkId=6708	Conche	Off	50.887000	-55.890000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20443			155640000	1	Srch
+Site	SiteId=19049	TrunkId=6708	Corner Brook	Off	48.914700	-57.918300	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19049			160200000	1	Srch
+T-Freq	TFreqId=0	SiteId=19049			160800000	2	Srch
+Site	SiteId=20417	TrunkId=6708	Cox's Cove	Off	49.124000	-58.088000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20417			155400000	1	Srch
+Site	SiteId=19050	TrunkId=6708	Deer Lake	Off	49.256300	-57.506900	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19050			162120000	1	Srch
+T-Freq	TFreqId=0	SiteId=19050			160530000	2	Srch
+Site	SiteId=18794	TrunkId=6708	Eastport	Off	48.664000	-53.778000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=18794			155880000	1	Srch
+Site	SiteId=17048	TrunkId=6708	Gander	Off	48.962500	-54.674400	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=17048			155640000	1	Srch
+T-Freq	TFreqId=0	SiteId=17048			160485000	2	Srch
+Site	SiteId=17049	TrunkId=6708	Glovertown	Off	48.936935	-55.788574	211.8	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=17049			160590000	1	Srch
+T-Freq	TFreqId=0	SiteId=17049			153290000	2	Srch
+Site	SiteId=19053	TrunkId=6708	Grand Falls-Windsor	Off	48.936500	-55.645100	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19053			155700000	1	Srch
+T-Freq	TFreqId=0	SiteId=19053			159690000	2	Srch
+Site	SiteId=20418	TrunkId=6708	Hampden	Off	49.532400	-56.872000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20418			155580000	1	Srch
+Site	SiteId=23107	TrunkId=6708	Happy Valley-Goose Bay	Off	53.297903	-60.317660	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=23107			155970000	1	Srch
+Site	SiteId=18791	TrunkId=6708	Harbour Breton	Off	47.480300	-55.831000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=18791			155880000	1	Srch
+Site	SiteId=18792	TrunkId=6708	Lewisporte	Off	49.146100	-55.076300	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=18792			155400000	1	Srch
+T-Freq	TFreqId=0	SiteId=18792			159120000	2	Srch
+Site	SiteId=19057	TrunkId=6708	Musgrave Harbour	Off	49.371900	-54.172200	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19057			155970000	1	Srch
+Site	SiteId=20175	TrunkId=6708	New-Wes-Valley	Off	49.155000	-53.615000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20175			155700000	1	Srch
+Site	SiteId=17047	TrunkId=6708	Norris Arm	Off	49.153000	-55.366100	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=17047			153290000	1	Srch
+T-Freq	TFreqId=0	SiteId=17047			155880000	2	Srch
+Site	SiteId=23108	TrunkId=6708	North West River	Off	53.525367	-60.144944	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=23108			153290000	1	Srch
+Site	SiteId=18795	TrunkId=6708	Port Blandford	Off	48.355000	-54.176000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=18795			155580000	1	Srch
+Site	SiteId=20440	TrunkId=6708	Portland Creek	Off	50.235000	-57.586000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20440			155700000	1	Srch
+Site	SiteId=20449	TrunkId=6708	Red Rocks (Port Aux Basques)	Off	47.666400	-59.300000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20449			158580000	1	Srch
+T-Freq	TFreqId=0	SiteId=20449			160530000	2	Srch
+Site	SiteId=20441	TrunkId=6708	River of Ponds	Off	50.529100	-57.391200	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20441			155640000	1	Srch
+Site	SiteId=20444	TrunkId=6708	Roddickton	Off	50.870700	-56.119600	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20444			155880000	1	Srch
+Site	SiteId=17344	TrunkId=6708	Rose Blanche	Off	47.617000	-58.687800	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=17344			153290000	1	Srch
+Site	SiteId=20173	TrunkId=6708	Site 17	Off	48.936935	-55.788574	211.8	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20173			155280000	1	Srch
+Site	SiteId=20176	TrunkId=6708	Site 42	Off	48.229000	-55.498000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20176			155820000	1	Srch
+Site	SiteId=20177	TrunkId=6708	Site 50	Off	48.962500	-54.674400	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20177			155280000	1	Srch
+Site	SiteId=20415	TrunkId=6708	Site 51	Off	48.914700	-57.918300	60.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20415			155880000	1	Srch
+Site	SiteId=20416	TrunkId=6708	Site 52	Off	49.503600	-56.070200	60.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20416			155970000	1	Srch
+Site	SiteId=17496	TrunkId=6708	South Central	Off	48.738000	-55.533000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=17496			160590000	1	Srch
+Site	SiteId=19054	TrunkId=6708	Springdale	Off	49.503600	-56.070200	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19054			153290000	1	Srch
+T-Freq	TFreqId=0	SiteId=19054			155340000	2	Srch
+Site	SiteId=20450	TrunkId=6708	St Andrews	Off	47.777200	-59.273200	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20450			159120000	1	Srch
+T-Freq	TFreqId=0	SiteId=20450			161490000	2	Srch
+Site	SiteId=20445	TrunkId=6708	St Anthony	Off	51.377000	-55.600000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20445			155700000	1	Srch
+Site	SiteId=20446	TrunkId=6708	St Anthony Airport (CYAY)	Off	51.390600	-56.089900	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20446			155280000	1	Srch
+Site	SiteId=20442	TrunkId=6708	St Barbe	Off	51.220000	-56.750300	45.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20442			160485000	1	Srch
+Site	SiteId=20455	TrunkId=6708	St Fintan's	Off	48.178700	-58.860100	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20455			155580000	1	Srch
+T-Freq	TFreqId=0	SiteId=20455			159270000	2	Srch
+Site	SiteId=20454	TrunkId=6708	Stephenville	Off	48.565500	-58.579000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20454			160590000	1	Srch
+T-Freq	TFreqId=0	SiteId=20454			161250000	2	Srch
+Site	SiteId=18793	TrunkId=6708	Terra Nova Park	Off	48.538000	-53.986000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=18793			155340000	1	Srch
+T-Freq	TFreqId=0	SiteId=18793			160590000	2	Srch
+Site	SiteId=19055	TrunkId=6708	Triton	Off	49.507000	-56.070000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19055			155280000	1	Srch
+T-Freq	TFreqId=0	SiteId=19055			160590000	2	Srch
+Site	SiteId=20447	TrunkId=6708	Westport	Off	49.276000	-56.823000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20447			155700000	1	Srch
+T-Group	TGroupId=14787	TrunkId=6708	Royal Canadian Mounted Police/Gendarmerie royale du Canada	Off	48.936935	-55.788574	211.8	Circle	
+TGID	Tid=225708	TGroupId=14787	Avalon East	Off	529	ALL	2									Any
+TGID	Tid=212961	TGroupId=14787	Bay D'Espoir	Off	561	ALL	2									Any
+TGID	Tid=196638	TGroupId=14787	Bay St. George	Off	546	ALL	2									Any
+TGID	Tid=225700	TGroupId=14787	Burin Peninsula	Off	533	ALL	2									Any
+TGID	Tid=198441	TGroupId=14787	Clarenville	Off	532	ALL	2									Any
+TGID	Tid=225709	TGroupId=14787	Conception Bay / Trinity	Off	530	ALL	2									Any
+TGID	Tid=198442	TGroupId=14787	Deer Lake	Off	547	ALL	2									Any
+TGID	Tid=224403	TGroupId=14787	Emergency All-Call	Off	686	ALL	2									Any
+TGID	Tid=257481	TGroupId=14787	Encrypted 1	Off	593	ALL	7									Any
+TGID	Tid=212959	TGroupId=14787	Encrypted 2	Off	597	ALL	7									Any
+TGID	Tid=198443	TGroupId=14787	Gander	Off	534	ALL	2									Any
+TGID	Tid=198444	TGroupId=14787	Grand Falls	Off	545	ALL	2									Any
+TGID	Tid=247785	TGroupId=14787	Happy Valley-Goose Bay	Off	604	ALL	2									Any
+TGID	Tid=215668	TGroupId=14787	Northern Peninsula	Off	548	ALL	2									Any
+TGID	Tid=212960	TGroupId=14787	Notre Dame Bay	Off	549	ALL	2									Any
+TGID	Tid=212958	TGroupId=14787	Provincewide Chat (patched to EDACS TG 05-026)	Off	662	ALL	11									Any
+TGID	Tid=236336	TGroupId=14787	Spare talkgroup for major incidents	Off	601	ALL	7									Any
+TGID	Tid=225710	TGroupId=14787	Whitbourne	Off	531	ALL	2									Any
+Trunk	TrunkId=5524	StateId=105	North Atlantic Refining Ltd	Off		Motorola															NEXEDGE
+AreaState	TrunkId=5524	StateId=105
+AreaCounty	TrunkId=5524	CountyId=5571
+Site	SiteId=12388	TrunkId=5524	Come by Chance	Off	47.850000	-53.983333	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12388			856037500	1	Srch
+T-Freq	TFreqId=0	SiteId=12388			856287500	2	Srch
+T-Freq	TFreqId=0	SiteId=12388			858037500	3	Srch
+T-Freq	TFreqId=0	SiteId=12388			858287500	4	Srch
+T-Freq	TFreqId=0	SiteId=12388			858537500	5	Srch
+T-Freq	TFreqId=0	SiteId=12388			858787500	6	Srch
+T-Freq	TFreqId=0	SiteId=12388			859037500	7	Srch
+T-Group	TGroupId=11773	TrunkId=5524	Refinery	Off	47.850000	-53.983333	30.0	Circle	
+TGID	Tid=298915	TGroupId=11773	Construction	Off	592	ANALOG	17									Any
+TGID	Tid=298913	TGroupId=11773	Crane Ops	Off	272	ANALOG	17									Any
+TGID	Tid=298917	TGroupId=11773	Delivery (Internal)	Off	656	ANALOG	17									Any
+TGID	Tid=298918	TGroupId=11773	Delivery (Internal)	Off	688	ANALOG	17									Any
+TGID	Tid=298916	TGroupId=11773	Fabrication	Off	624	ANALOG	17									Any
+TGID	Tid=214077	TGroupId=11773	Pipeline Operations	Off	112	ANALOG	17									Any
+TGID	Tid=298912	TGroupId=11773	Plumbing	Off	240	ANALOG	17									Any
+TGID	Tid=298910	TGroupId=11773	Refinery	Off	16	ANALOG	17									Any
+TGID	Tid=163618	TGroupId=11773	Refinery	Off	48	ANALOG	17									Any
+TGID	Tid=163619	TGroupId=11773	Refinery	Off	80	ANALOG	17									Any
+TGID	Tid=163622	TGroupId=11773	Refinery	Off	304	ANALOG	17									Any
+TGID	Tid=163624	TGroupId=11773	Refinery	Off	400	ANALOG	17									Any
+TGID	Tid=163625	TGroupId=11773	Refinery	Off	464	ANALOG	17									Any
+TGID	Tid=163621	TGroupId=11773	Shipping	Off	176	ANALOG	17									Any
+TGID	Tid=163623	TGroupId=11773	Trailer tanker loading	Off	336	ANALOG	17									Any
+TGID	Tid=216312	TGroupId=11773	Truck and trailer marshaling	Off	432	ANALOG	17									Any
+TGID	Tid=163620	TGroupId=11773	Truck Loading	Off	144	ANALOG	17									Any
+TGID	Tid=298914	TGroupId=11773	Warehouse Ops	Off	560	ANALOG	17									Any
+TGID	Tid=298911	TGroupId=11773	Yard Ops	Off	208	ANALOG	17									Any
+Trunk	TrunkId=9008	StateId=105	St. John's Municipal Services	Off		MotoTrbo															NEXEDGE
+AreaState	TrunkId=9008	StateId=105
+AreaCounty	TrunkId=9008	CountyId=5571
+Site	SiteId=28460	TrunkId=9008	Kenmount Hill	Off	47.534000	-52.791000	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=28460			451237500	1	Srch
+T-Freq	TFreqId=0	SiteId=28460			452237500	2	Srch
+T-Freq	TFreqId=0	SiteId=28460			453500000	3	Srch
+Site	SiteId=28462	TrunkId=9008	Robin Hood Bay	Off	47.548000	-52.740000	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=28462			453187500	1	Srch
+Site	SiteId=28461	TrunkId=9008	Shea Heights	Off	47.538000	-52.716000	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=28461			451637500	1	Srch
+T-Freq	TFreqId=0	SiteId=28461			452712500	2	Srch
+T-Freq	TFreqId=0	SiteId=28461			453725000	3	Srch
+T-Group	TGroupId=24163	TrunkId=9008	Public Works	Off	47.561000	-52.744000	30.0	Circle	
+TGID	Tid=310059	TGroupId=24163	All Call dispatch from Call Center	Off	16	ALL	14									Any
+TGID	Tid=298919	TGroupId=24163	Bylaw enforcement	Off	6101	ALL	23									Any
+TGID	Tid=310056	TGroupId=24163	Department of Engineering	Off	6103	ALL	14									Any
+TGID	Tid=310058	TGroupId=24163	Department of Public Works	Off	6112	ALL	14									Any
+TGID	Tid=310057	TGroupId=24163	Department of Recreation	Off	6108	ALL	14									Any
+TGID	Tid=310055	TGroupId=24163	Department of Works and Services	Off	6102	ALL	14									Any
+Trunk	TrunkId=7398	StateId=105	Suncor Terra Nova Platform	Off		Motorola															NEXEDGE
+AreaState	TrunkId=7398	StateId=105
+AreaCounty	TrunkId=7398	CountyId=5572
+AreaCounty	TrunkId=7398	CountyId=5571
+Site	SiteId=20348	TrunkId=7398	Ship: Terra Nova FPSO	Off	47.502207	-54.109968	150.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=20348			858212500	1	Srch
+T-Freq	TFreqId=0	SiteId=20348			858462500	2	Srch
+T-Freq	TFreqId=0	SiteId=20348			858712500	3	Srch
+T-Freq	TFreqId=0	SiteId=20348			858962500	4	Srch
+T-Freq	TFreqId=0	SiteId=20348			859212500	5	Srch
+T-Group	TGroupId=17684	TrunkId=7398	Platform	Off	47.502207	-54.109968	150.0	Circle	
+TGID	Tid=225679	TGroupId=17684	Control Room	Off	1232	ANALOG	17									Any
+TGID	Tid=225674	TGroupId=17684	Crane Operations	Off	1072	ANALOG	17									Any
+TGID	Tid=225672	TGroupId=17684	Information Technology	Off	496	ANALOG	17									Any
+TGID	Tid=225673	TGroupId=17684	Mechanical	Off	1040	ANALOG	17									Any
+TGID	Tid=225666	TGroupId=17684	Operations	Off	48	ANALOG	17									Any
+TGID	Tid=225667	TGroupId=17684	Operations	Off	80	ANALOG	17									Any
+TGID	Tid=225668	TGroupId=17684	Operations	Off	144	ANALOG	17									Any
+TGID	Tid=225669	TGroupId=17684	Operations	Off	176	ANALOG	17									Any
+TGID	Tid=225670	TGroupId=17684	Operations	Off	240	ANALOG	17									Any
+TGID	Tid=225671	TGroupId=17684	Operations	Off	304	ANALOG	17									Any
+TGID	Tid=225676	TGroupId=17684	Operations	Off	1136	ANALOG	17									Any
+TGID	Tid=225677	TGroupId=17684	Scaffolding	Off	1168	ANALOG	17									Any
+TGID	Tid=225678	TGroupId=17684	Shore Operations	Off	1200	ANALOG	17									Any
+TGID	Tid=225675	TGroupId=17684	Tower Operations	Off	1104	ANALOG	17									Any
+Trunk	TrunkId=9009	StateId=105	Vale Nickel Mining	Off		MotoTrbo															NEXEDGE
+AreaState	TrunkId=9009	StateId=105
+AreaCounty	TrunkId=9009	CountyId=5571
+Site	SiteId=28464	TrunkId=9009	Accommodations Site	Off	47.426000	-53.762000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=28464			451437500	1	Srch
+T-Freq	TFreqId=0	SiteId=28464			463887500	2	Srch
+T-Freq	TFreqId=0	SiteId=28464			452337500	3	Srch
+T-Freq	TFreqId=0	SiteId=28464			462162500	4	Srch
+T-Freq	TFreqId=0	SiteId=28464			460962500	5	Srch
+Site	SiteId=28463	TrunkId=9009	Operations Site	Off	47.414000	-53.820000	30.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=28463			451887500	1	Srch
+T-Freq	TFreqId=0	SiteId=28463			451112500	2	Srch
+T-Freq	TFreqId=0	SiteId=28463			451600000	3	Srch
+T-Freq	TFreqId=0	SiteId=28463			452612500	4	Srch
+T-Freq	TFreqId=0	SiteId=28463			452875000	5	Srch
+T-Group	TGroupId=24164	TrunkId=9009	Operations	Off	47.420000	-53.791000	30.0	Circle	
+TGID	Tid=299407	TGroupId=24164	Accommodations	Off	514	ALL	17									Any
+TGID	Tid=298920	TGroupId=24164	Operations 208	Off	208	ALL	17									Any
+TGID	Tid=298921	TGroupId=24164	Operations 502	Off	502	ALL	17									Any
+TGID	Tid=298922	TGroupId=24164	Operations 504	Off	504	ALL	17									Any

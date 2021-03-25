@@ -1,0 +1,1782 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional	CountyId=542	StateId=15	Hawaii	Off		Conventional								
+AreaState	CountyId=542	StateId=15
+AreaCounty	CountyId=542	CountyId=542
+C-Group	CGroupId=67594	CountyId=542	Amateur Radio - 2m Repeaters	Off	19.575198	-155.503131	56.0	Circle	
+C-Freq	CFreqId=338170	CGroupId=67594	APRS System	Off	144390000	FM		13									
+C-Freq	CFreqId=277627	CGroupId=67594	Haleakala	Off	146940000	FM		13									
+C-Freq	CFreqId=308821	CGroupId=67594	Hawaiian Paradise Park	Off	145450000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=291737	CGroupId=67594	Hilo repeater	Off	145310000	FM		13									
+C-Freq	CFreqId=314340	CGroupId=67594	Kapoho	Off	147120000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=289217	CGroupId=67594	Kealakekua repeater	Off	146660000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=282059	CGroupId=67594	Koloko Peak	Off	147300000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=294602	CGroupId=67594	Kona	Off	146700000	FM		13									
+C-Freq	CFreqId=277628	CGroupId=67594	Kona	Off	147160000	FM		13									
+C-Freq	CFreqId=277631	CGroupId=67594	Kulani	Off	146760000	FM		13									
+C-Freq	CFreqId=314339	CGroupId=67594	Mauna Kea	Off	146720000	FM	TONE=C103.5	13									
+C-Freq	CFreqId=277633	CGroupId=67594	Mauna Loa analog	Off	146820000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=289209	CGroupId=67594	Mauna Loa P25 repeater	Off	146820000	NFM	NAC=BAD	13									
+C-Freq	CFreqId=277630	CGroupId=67594	Naalehu	Off	146920000	FM		13									
+C-Freq	CFreqId=296503	CGroupId=67594	Na'alehu	Off	145490000	FM		13									
+C-Freq	CFreqId=289218	CGroupId=67594	Naalehu repeater	Off	145410000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=308822	CGroupId=67594	Ocean View	Off	146860000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=289219	CGroupId=67594	Ocean View repeater	Off	145290000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=338169	CGroupId=67594	Packet Digital Captain Cook KH6Z-1	Off	144910000	FM		13									
+C-Freq	CFreqId=338168	CGroupId=67594	Packet Digital Ocean View KH7MS-1	Off	144910000	FM		13									
+C-Freq	CFreqId=277632	CGroupId=67594	Pepeekeo	Off	146880000	FM		13									
+C-Freq	CFreqId=277629	CGroupId=67594	Waimea	Off	147320000	FM		13									
+C-Group	CGroupId=68705	CountyId=542	Amateur Radio - 70cm Repeaters	Off	19.575198	-155.503131	56.0	Circle	
+C-Freq	CFreqId=338174	CGroupId=68705	Captain Cook	Off	442325000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=314342	CGroupId=68705	Hilo	Off	442000000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=314343	CGroupId=68705	Hilo	Off	444275000	FM	TONE=C88.5	13									
+C-Freq	CFreqId=289210	CGroupId=68705	Hilo Analog repeater	Off	444725000	FM	TONE=C123.0	13									
+C-Freq	CFreqId=289211	CGroupId=68705	Hilo P25 repeater	Off	444725000	NFM	NAC=BAD	13									
+C-Freq	CFreqId=351224	CGroupId=68705	Hilo, Hawaii - Hawaii Statewide	Off	444125000	AUTO	ColorCode=1	13									
+C-Freq	CFreqId=296504	CGroupId=68705	Kahua	Off	442275000	FM		13									
+C-Freq	CFreqId=351223	CGroupId=68705	Kailua Kona, Hawaii - Hawaii Statewide	Off	444200000	AUTO	ColorCode=1	13									
+C-Freq	CFreqId=282060	CGroupId=68705	Kailua-Kona	Off	443475000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=350962	CGroupId=68705	KH7MS	Off	446100000	AUTO	ColorCode=1	13									
+C-Freq	CFreqId=282061	CGroupId=68705	Koloko Peak	Off	443650000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=282063	CGroupId=68705	Koloko Peak	Off	444000000	AUTO	NAC=Srch	13									
+C-Freq	CFreqId=308823	CGroupId=68705	Kulani Mauka	Off	442150000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=282062	CGroupId=68705	Mauna Kea Mt.	Off	443625000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=308824	CGroupId=68705	Na'alehu	Off	444200000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=351230	CGroupId=68705	Na'alehu, Hawaii	Off	444200000	NFM	NAC=Srch	13									
+C-Freq	CFreqId=289214	CGroupId=68705	North Kona / Na'alehu repeater	Off	443400000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=350963	CGroupId=68705	Ocean View	Off	443400000	NFM	NAC=293	13									
+C-Freq	CFreqId=314341	CGroupId=68705	Ocean View	Off	443650000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=352083	CGroupId=68705	Ocean View - Hawaii Statewide (TG 3115)	Off	443400000	AUTO	NAC=Srch	13									
+C-Freq	CFreqId=352085	CGroupId=68705	Ocean View - Local (TG 2)	Off	443400000	AUTO	NAC=Srch	13									
+C-Freq	CFreqId=291666	CGroupId=68705	Ocean View (Analog)	Off	444950000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=352084	CGroupId=68705	Ocean view (Digital)	Off	444950000	NFM	NAC=293	13									
+C-Freq	CFreqId=351227	CGroupId=68705	Ocean View, Hawaii - Hawaii Statewide	Off	446100000	AUTO	ColorCode=1	13									
+C-Freq	CFreqId=289216	CGroupId=68705	Ocean View/Captain Cook/Pahala	Off	443400000	FM	TONE=C77.0	13									
+C-Freq	CFreqId=289215	CGroupId=68705	South Kona repeater	Off	444150000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=343239	CGroupId=68705	U of N: Kona Campus	Off	442400000	FM	TONE=C88.5	13									
+C-Group	CGroupId=68706	CountyId=542	Amateur Radio - 900 MHz	Off	19.575198	-155.503131	56.0	Circle	
+C-Freq	CFreqId=282064	CGroupId=68706	Kailua-Kona	Off	927137500	FM	TONE=D411	13									
+C-Freq	CFreqId=282065	CGroupId=68706	Koloko Peak	Off	927212500	FM	TONE=D411	13									
+C-Group	CGroupId=71177	CountyId=542	Education - Hawaii Public Schools	Off	19.643073	-155.459976	55.0	Circle	
+C-Freq	CFreqId=336024	CGroupId=71177	Hawaii Preparatory Academy-Kamuela	Off	461100000	NFM	TONE=D546	32									
+C-Freq	CFreqId=336023	CGroupId=71177	Hawaii Preparatory Acedemy-Kamuela	Off	461025000	NFM	TONE=C136.5	32									
+C-Freq	CFreqId=323669	CGroupId=71177	Hilo High School	Off	452450000	NFM	TONE=D251	32									
+C-Freq	CFreqId=342711	CGroupId=71177	Holualoa Elementary School	Off	155940000	NFM		32									
+C-Freq	CFreqId=336021	CGroupId=71177	Kamehameha Schools-Keaau	Off	452625000	NFM	TONE=C131.8	32									
+C-Freq	CFreqId=338166	CGroupId=71177	Kealakehe High School	Off	453625000	NFM		32									
+C-Freq	CFreqId=295579	CGroupId=71177	Kealakehe High School 1 Operations	Off	453050000	NFM	TONE=C123.0	32									
+C-Freq	CFreqId=336022	CGroupId=71177	Kealakehe High School Security	Off	453050000	NFM	TONE=C82.5	33									
+C-Freq	CFreqId=342709	CGroupId=71177	Kealakehe Inter School	Off	155775000	NFM		32									
+C-Freq	CFreqId=336020	CGroupId=71177	Konawaena Elementary School	Off	152270000	NFM	TONE=C103.5	32									
+C-Freq	CFreqId=295583	CGroupId=71177	Konawaena Elementary School	Off	155940000	FM		32									
+C-Freq	CFreqId=342710	CGroupId=71177	Konawaena Elementary School	Off	453575000	NFM		32									
+C-Freq	CFreqId=295582	CGroupId=71177	Konawaena High School	Off	155775000	FM	TONE=C103.5	32									
+C-Freq	CFreqId=323670	CGroupId=71177	Waiakea High School	Off	452000000	NFM	TONE=D351	32									
+C-Group	CGroupId=73672	CountyId=542	Education - University of Hawaii at Hilo	Off	19.696753	-155.104953	6.0	Circle	
+C-Freq	CFreqId=309489	CGroupId=73672	Admin	Off	155805000	NFM		32									
+C-Freq	CFreqId=309490	CGroupId=73672	Admin	Off	155880000	NFM		32									
+C-Freq	CFreqId=309488	CGroupId=73672	Security	Off	153755000	NFM		33									
+C-Freq	CFreqId=325179	CGroupId=73672	Security	Off	463387500	AUTO	NAC=Srch	33									
+C-Group	CGroupId=79777	CountyId=542	Education - University of the Nations: Kona	Off	19.632041	-155.986609	1.0	Circle	
+C-Freq	CFreqId=343238	CGroupId=79777	UofN-Kona Campus CERT	Off	469150000	NFM		32									
+C-Freq	CFreqId=343235	CGroupId=79777	UofN-Kona Campus Grounds	Off	462500000	NFM		32									
+C-Freq	CFreqId=343236	CGroupId=79777	UofN-Kona Campus IT	Off	468375000	NFM		32									
+C-Freq	CFreqId=343234	CGroupId=79777	UofN-Kona Campus Maintenance	Off	462350000	NFM		32									
+C-Freq	CFreqId=343233	CGroupId=79777	UofN-Kona Campus Repeater	Off	464387500	NFM		32									
+C-Freq	CFreqId=343237	CGroupId=79777	UofN-Kona Campus Security	Off	468975000	NFM		32									
+C-Group	CGroupId=75798	CountyId=542	Federal Government - Coast Guard	Off	19.575198	-155.503131	56.0	Circle	
+C-Freq	CFreqId=336052	CGroupId=75798	Cutter Kiska (Coast Guard Station Hilo)	Off	410375000	NFM		16									
+C-Freq	CFreqId=321809	CGroupId=75798	Public Correspondence (Marine Ch. 22A)	Off	157100000	FM		16									
+C-Freq	CFreqId=336051	CGroupId=75798	Sector Honolulu and Station Hilo	Off	163137500	NFM	NAC=293	16									
+C-Freq	CFreqId=336054	CGroupId=75798	Station Hilo Ch. 1/Sector Honolulu	Off	412975000	NFM	NAC=293	16									
+C-Freq	CFreqId=337094	CGroupId=75798	Station Hilo Ch. 2	Off	411787500	NFM		16									
+C-Group	CGroupId=76195	CountyId=542	Federal Government - Customs and Border Protection	Off	19.575198	-155.503131	56.0	Circle	
+C-Freq	CFreqId=323486	CGroupId=76195	Operations: Linked to Honolulu International Airport	Off	171325000	NFM	NAC=301	16									
+C-Group	CGroupId=56866	CountyId=542	Federal Government - National Park Service	Off	19.500556	-155.500556	25.0	Circle	
+C-Freq	CFreqId=336018	CGroupId=56866	Hawaii Volcanoes National Park	Off	170362500	NFM	NAC=526	16									
+C-Freq	CFreqId=336019	CGroupId=56866	Hawaii Volcanoes National Park link to 170.3625	Off	406475000	NFM	NAC=526	16									
+C-Freq	CFreqId=307428	CGroupId=56866	Hawaii Volcanoes National Park Rangers	Off	173825000	NFM	NAC=526	16									
+C-Group	CGroupId=75690	CountyId=542	Federal Government - US Geological Survey	Off	19.575198	-155.503131	56.0	Circle	
+C-Freq	CFreqId=321158	CGroupId=75690	Hawaii Volcano Observatory (HVO)	Off	167175000	NFM		16									
+C-Freq	CFreqId=334845	CGroupId=75690	Hawaii Volcano Observatory (HVO)	Off	167175000	NFM	NAC=293	16									
+C-Freq	CFreqId=334846	CGroupId=75690	Hawaii Volcano Observatory (HVO)	Off	167175000	NFM	NAC=294	16									
+C-Group	CGroupId=14223	CountyId=542	Hawaii County - Fire / EMS	Off	19.500556	-155.500556	25.0	Circle	
+C-Freq	CFreqId=53137	CGroupId=14223	EMS-to-Hospital (MEDICOM)	Off	453400000	NFM	NAC=750	12									
+C-Group	CGroupId=65431	CountyId=542	Hawaii County - Local Government Services	Off	19.500556	-155.500556	25.0	Circle	
+C-Freq	CFreqId=323932	CGroupId=65431	Hawaii Community College	Off	154062500	AUTO	NAC=Srch	32									
+C-Group	CGroupId=71179	CountyId=542	State Government - Department of Transportation (DOT)	Off	19.575198	-155.503131	56.0	Circle	
+C-Freq	CFreqId=295586	CGroupId=71179	State Highways 1: Dispatch	Off	453600000	FM	TONE=C110.9	14									
+Conventional	CountyId=543	StateId=15	Honolulu	Off		Conventional								
+AreaState	CountyId=543	StateId=15
+AreaCounty	CountyId=543	CountyId=543
+C-Group	CGroupId=70097	CountyId=543	Amateur Radio - 70cm Voice Systems	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=351231	CGroupId=70097	Honolulu, Oahu - Hawaii Statewide	Off	443200000	AUTO	ColorCode=1	13									
+C-Freq	CFreqId=289212	CGroupId=70097	Metro Honolulu analog repeater	Off	444725000	FM	TONE=C123.0	13									
+C-Freq	CFreqId=289213	CGroupId=70097	Metro Honolulu P25 repeater	Off	444725000	NFM	NAC=BAD	13									
+C-Group	CGroupId=61858	CountyId=543	Education - Schools	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=256172	CGroupId=61858	Punahou School - Security	Off	463562500	FM	TONE=D311	33									
+C-Group	CGroupId=80291	CountyId=543	Education - University of Hawaii - Honolulu Community College	Off	21.320910	-157.869125	1.0	Circle	
+C-Freq	CFreqId=345858	CGroupId=80291	Honolulu Community College - Operations	Off	458062500	NFM		32									
+C-Group	CGroupId=80292	CountyId=543	Education - University of Hawaii - Kapiolani Community College	Off	21.271534	-157.798696	1.0	Circle	
+C-Freq	CFreqId=345861	CGroupId=80292	Kapiolani Community College - Operations 1	Off	461775000	AUTO	NAC=Srch	32									
+C-Freq	CFreqId=345859	CGroupId=80292	Kapiolani Community College - Operations 2	Off	457487500	NFM		32									
+C-Freq	CFreqId=345860	CGroupId=80292	Kapiolani Community College - Operations 3	Off	457787500	NFM		32									
+C-Group	CGroupId=80290	CountyId=543	Education - University of Hawaii - Leeward Community College	Off	21.393015	-157.983253	1.0	Circle	
+C-Freq	CFreqId=345857	CGroupId=80290	Leeward Community College - Security Operations [Encrypted]	Off	453625000	AUTO	NAC=Srch	32									
+C-Group	CGroupId=61903	CountyId=543	Education - University of Hawaii - Manoa	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=256416	CGroupId=61903	Auxiliary Services Parking	Off	858362500	FM	TONE=D051	32									
+C-Freq	CFreqId=345800	CGroupId=61903	Auxiliary Services Parking TA	Off	858362500	NFM	TONE=D051	32									
+C-Freq	CFreqId=345801	CGroupId=61903	Security	Off	858362500	NFM	NAC=1	33									
+C-Freq	CFreqId=345802	CGroupId=61903	Security TA	Off	858362500	NFM	NAC=1	33									
+C-Freq	CFreqId=345803	CGroupId=61903	Tactical Ops	Off	851275000	NFM	TONE=C136.5	6									
+C-Freq	CFreqId=345804	CGroupId=61903	Tactical Ops	Off	851775000	NFM	TONE=C136.5	6									
+C-Freq	CFreqId=345805	CGroupId=61903	Tactical Ops	Off	852275000	NFM	TONE=C136.5	6									
+C-Freq	CFreqId=345806	CGroupId=61903	University of Hawaii - Leeward CC Campus Security	Off	453625000	AUTO	NAC=Srch	33									
+C-Group	CGroupId=80293	CountyId=543	Education - University of Hawaii - West Oahu	Off	21.392551	-157.980665	1.0	Circle	
+C-Freq	CFreqId=345864	CGroupId=80293	UHWO Ops 1	Off	464475000	AUTO	NAC=Srch	32									
+C-Freq	CFreqId=345865	CGroupId=80293	UHWO Ops 2	Off	467475000	AUTO	NAC=Srch	32									
+C-Freq	CFreqId=345866	CGroupId=80293	UHWO Ops 3	Off	469650000	AUTO	NAC=Srch	32									
+C-Freq	CFreqId=345867	CGroupId=80293	UHWO Ops 4	Off	469962500	AUTO	NAC=Srch	32									
+C-Freq	CFreqId=345863	CGroupId=80293	UHWO Primary Operations	Off	464075000	AUTO	NAC=Srch	32									
+C-Group	CGroupId=75760	CountyId=543	Federal - Coast Guard	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=321591	CGroupId=75760	Public Correspondence (Marine Ch. 22A)	Off	157100000	FM		16									
+C-Freq	CFreqId=321595	CGroupId=75760	Sector Honolulu (Marine Ch. 83A)	Off	157175000	FM		16									
+C-Group	CGroupId=75761	CountyId=543	Federal - Customs and Border Protection	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=321594	CGroupId=75761	CBP	Off	165237500	NFM	NAC=302	16									
+C-Group	CGroupId=76225	CountyId=543	Federal - NOAA	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=323587	CGroupId=76225	Link to 162.550	Off	161730000	NFM		16									
+C-Group	CGroupId=75759	CountyId=543	Honolulu County - Honolulu Harbor	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=321590	CGroupId=75759	Aloha Tower (Harbormaster; Marine Ch. 12)	Off	156600000	FM		14									
+Conventional	CountyId=544	StateId=15	Kalawao	Off		Conventional								
+AreaState	CountyId=544	StateId=15
+AreaCounty	CountyId=544	CountyId=544
+C-Group	CGroupId=45792	CountyId=544	Businesses - Resorts	Off	21.188056	-156.966667	25.0	Circle	
+C-Freq	CFreqId=185719	CGroupId=45792	Hilton Waikoloa Village - Paging	Off	462825000	FM		17									
+C-Group	CGroupId=45793	CountyId=544	Kalawao County Public Safety - Hawaii	Off	21.188056	-156.966667	25.0	Circle	
+C-Freq	CFreqId=185720	CGroupId=45793	Emergency Management	Off	453250000	FM		29									
+C-Freq	CFreqId=185721	CGroupId=45793	State Sheriff	Off	453300000	FM		2									
+Conventional	CountyId=545	StateId=15	Kauai	Off		Conventional								
+AreaState	CountyId=545	StateId=15
+AreaCounty	CountyId=545	CountyId=545
+C-Group	CGroupId=79194	CountyId=545	Amateur Radio	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=340297	CGroupId=79194	Amateur Radio Repeater Net (Lihue)	Off	444925000	NFM	TONE=C123.0	13									
+C-Freq	CFreqId=340298	CGroupId=79194	Amateur Radio Repeater Net (Lihue)	Off	444925000	NFM	NAC=BAD	13									
+C-Freq	CFreqId=340296	CGroupId=79194	KH6S	Off	442250000	NFM	TONE=C100.0	13									
+C-Group	CGroupId=81832	CountyId=545	Amateur Radio - Kauai Amateur Radio Club	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=353143	CGroupId=81832	Crater Hill (North)	Off	146700000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=353146	CGroupId=81832	Kalepa Ridge (East)	Off	147080000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=353147	CGroupId=81832	Kalepa Ridge (Not Linked)	Off	449175000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=353144	CGroupId=81832	Mt. Kahili (South)	Off	443825000	FM	TONE=C118.8	13									
+C-Freq	CFreqId=353148	CGroupId=81832	Waimea Canyon (West)	Off	147100000	FM	TONE=C100.0	13									
+C-Freq	CFreqId=353145	CGroupId=81832	Wilcox (Not Linked)	Off	147160000	FM	TONE=C100.0	13									
+C-Group	CGroupId=75756	CountyId=545	Federal - Coast Guard	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=321570	CGroupId=75756	Ch. CG113 Sector Honolulu (encryption used)	Off	163137500	NFM	NAC=293	16									
+C-Freq	CFreqId=321571	CGroupId=75756	Ch. CG118 Station Kauai (encryption used)	Off	164900000	NFM	NAC=293	16									
+C-Freq	CFreqId=321583	CGroupId=75756	Sector Honolulu (Marine Ch. 21A)	Off	157050000	FM		16									
+C-Group	CGroupId=75755	CountyId=545	Federal - Customs and Border Protection	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=321569	CGroupId=75755	CBP (encryption used)	Off	165237500	NFM	NAC=302	16									
+C-Group	CGroupId=16587	CountyId=545	Kauai County	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=61090	CGroupId=16587	EMS Backup Dispatch	Off	453400000	NFM	NAC=710	12									
+C-Group	CGroupId=45769	CountyId=545	Kauai County - Hawaii	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=185555	CGroupId=45769	Civil Defense - Ch Yellow	Off	155715000	FM		29									
+C-Freq	CFreqId=185558	CGroupId=45769	Civil Defense - Local Ops	Off	155760000	FM		2									
+C-Freq	CFreqId=185556	CGroupId=45769	Department of Forestry and Conservation	Off	155085000	FM		2									
+C-Freq	CFreqId=185553	CGroupId=45769	Department of Forestry and Conservation - Ch Green	Off	154995000	FM		2									
+C-Freq	CFreqId=185557	CGroupId=45769	Public Safety	Off	155100000	FM		23									
+C-Freq	CFreqId=185552	CGroupId=45769	Public Safety	Off	453400000	FM		2									
+C-Freq	CFreqId=185554	CGroupId=45769	State Government - Ch Yellow	Off	155025000	FM		2									
+C-Group	CGroupId=45765	CountyId=545	Kauai County - Kauai Search and Rescue	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=185546	CGroupId=45765	Kauai SAR F1	Off	155167500	NFM		25									
+C-Freq	CFreqId=185547	CGroupId=45765	Kauai SAR F2	Off	155287500	NFM		25									
+C-Group	CGroupId=75757	CountyId=545	Kauai County - Nawiliwili Harbor	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=321808	CGroupId=75757	Nawiliwili Yacht Club (Marine Ch. 68)	Off	156425000	FM		17									
+C-Freq	CFreqId=321803	CGroupId=75757	Security (American Security Group)	Off	467762500	NFM		33									
+C-Freq	CFreqId=321572	CGroupId=75757	Tug Boats (Marine Ch. 18A)	Off	156900000	FM		17									
+C-Freq	CFreqId=321801	CGroupId=75757	Young Brothers (Inter-Island Cargo Terminal, Pier 3)	Off	151955000	NFM	TONE=C162.2	17									
+Conventional	CountyId=546	StateId=15	Maui	Off		Conventional								
+AreaState	CountyId=546	StateId=15
+AreaCounty	CountyId=546	CountyId=546
+C-Group	CGroupId=81413	CountyId=546	Amateur Radio	Off	20.885502	-156.636292	48.0	Circle	
+C-Freq	CFreqId=351233	CGroupId=81413	Haleakala, Maui	Off	443925000	FM	TONE=C123.0	13									
+C-Freq	CFreqId=351234	CGroupId=81413	Haleakala, Maui	Off	443925000	NFM	NAC=BAD	13									
+C-Freq	CFreqId=351232	CGroupId=81413	Haleakala, Maui - Hawaii Statewide	Off	442850000	AUTO	ColorCode=1	13									
+C-Group	CGroupId=78792	CountyId=546	Education - Lahainaluna High School	Off	20.885502	-156.636292	48.0	Circle	
+C-Freq	CFreqId=338373	CGroupId=78792	School Ops	Off	453575000	NFM		32									
+C-Group	CGroupId=75758	CountyId=546	Federal - Coast Guard	Off	20.885502	-156.636292	48.0	Circle	
+C-Freq	CFreqId=321574	CGroupId=75758	Ch. CG113 Sector Honolulu/Station Maui (encryption used)	Off	163137500	NFM	NAC=293	16									
+C-Freq	CFreqId=321807	CGroupId=75758	Public Correspondence (Marine Ch. 22A)	Off	157100000	FM		16									
+C-Freq	CFreqId=321806	CGroupId=75758	Sector Honolulu (Marine Ch. 21A)	Off	157050000	FM		16									
+C-Group	CGroupId=75745	CountyId=546	Federal - National Park Service	Off	20.885502	-156.636292	48.0	Circle	
+C-Freq	CFreqId=321503	CGroupId=75745	Haleakala National Park	Off	172400000	NFM	NAC=4F9	16									
+C-Freq	CFreqId=321504	CGroupId=75745	Haleakala National Park (input?)	Off	165000000	NFM	NAC=4F9	16									
+C-Group	CGroupId=65432	CountyId=546	Maui County Government - Local Government Services	Off	20.866667	-156.500556	25.0	Circle	
+C-Freq	CFreqId=185308	CGroupId=65432	County Government	Off	155580000	FM		22									
+C-Freq	CFreqId=185309	CGroupId=65432	County Government	Off	155625000	FM		22									
+C-Freq	CFreqId=185307	CGroupId=65432	Parks Department	Off	153875000	FM		14									
+C-Group	CGroupId=45740	CountyId=546	Maui County Government - Public Safety	Off	20.866667	-156.500556	25.0	Circle	
+C-Freq	CFreqId=185333	CGroupId=45740	AMR EMS Dispatch	Off	453250000	FM	TONE=D431	4									
+C-Freq	CFreqId=337086	CGroupId=45740	EMS	Off	453250000	NFM	TONE=D431	9									
+C-Freq	CFreqId=337087	CGroupId=45740	EMS	Off	462950000	NFM	NAC=431	9									
+C-Freq	CFreqId=337088	CGroupId=45740	EMS	Off	463112500	NFM	TONE=D431	9									
+C-Freq	CFreqId=337089	CGroupId=45740	EMS	Off	463175000	NFM	NAC=431	9									
+C-Group	CGroupId=65434	CountyId=546	State of Hawaii - Department of Forestry and Conservation	Off	20.885502	-156.636292	48.0	Circle	
+C-Freq	CFreqId=185344	CGroupId=65434	Channel Green - Dispatch	Off	154995000	FM		2									
+C-Freq	CFreqId=185328	CGroupId=65434	Dept. of Forestry and Conservation	Off	151160000	FM		14									
+C-Freq	CFreqId=185329	CGroupId=65434	Dept. of Forestry and Conservation	Off	154085000	FM		14									
+C-Freq	CFreqId=185341	CGroupId=65434	Dept. of Forestry and Conservation	Off	155985000	FM		14									
+C-Group	CGroupId=75810	CountyId=546	State of Hawaii - Kahului Harbor	Off	20.885502	-156.636292	48.0	Circle	
+C-Freq	CFreqId=321835	CGroupId=75810	Harbor Port Operations (Marine Ch. 12)	Off	156600000	NFM		17									
+C-Freq	CFreqId=321833	CGroupId=75810	Security (American Security Group)	Off	466212500	NFM		33									
+C-Freq	CFreqId=321834	CGroupId=75810	Tug Boats (Marine Ch. 11)	Off	156600000	FM		17									
+C-Group	CGroupId=65433	CountyId=546	State of Hawaii - Law Enforcement	Off	20.885502	-156.636292	48.0	Circle	
+C-Freq	CFreqId=185345	CGroupId=65433	Channel Yellow - Civil Defense	Off	155715000	FM		2									
+C-Freq	CFreqId=282317	CGroupId=65433	Department of Health Medcom	Off	453237500	NFM	NAC=Srch	12									
+C-Freq	CFreqId=282316	CGroupId=65433	Department of Health Medcom	Off	453250000	FM		12									
+C-Freq	CFreqId=185334	CGroupId=65433	Department of Health Medcom	Off	453400000	FM		12									
+C-Freq	CFreqId=282318	CGroupId=65433	Department of Health Medcom	Off	453437500	NFM	NAC=Srch	12									
+C-Freq	CFreqId=282319	CGroupId=65433	Department of Health Medcom	Off	453900000	NFM	NAC=Srch	12									
+C-Freq	CFreqId=185335	CGroupId=65433	Department of Health Medcom Talkaround	Off	462200000	FM		12									
+C-Freq	CFreqId=185340	CGroupId=65433	Harbor Patrol - Kahului	Off	155940000	FM		2									
+C-Freq	CFreqId=185342	CGroupId=65433	Safety & Security	Off	453575000	FM		2									
+C-Freq	CFreqId=185338	CGroupId=65433	Small Craft Enforcement	Off	155745000	FM		2									
+C-Group	CGroupId=45742	CountyId=546	State of Hawaii - Miscellaneous State Services	Off	20.866667	-156.500556	25.0	Circle	
+C-Freq	CFreqId=185332	CGroupId=45742	Corrections Division - Wailuku	Off	155085000	FM		37									
+C-Freq	CFreqId=185330	CGroupId=45742	State Government - Kalaupapa	Off	155025000	FM		14									
+C-Freq	CFreqId=185331	CGroupId=45742	State Government - Kalaupapa	Off	155040000	FM		14									
+C-Freq	CFreqId=185343	CGroupId=45742	State Government - Wailuku (Maui Memorial Medical Center?)	Off	453750000	FM		14									
+C-Group	CGroupId=45741	CountyId=546	State of Hawaii - Nature Conservancy of Hawaii	Off	20.885502	-156.636292	48.0	Circle	
+C-Freq	CFreqId=185325	CGroupId=45741	Car-to-Car	Off	159390000	FM		14									
+C-Freq	CFreqId=185327	CGroupId=45741	Car-to-Car	Off	159420000	FM		14									
+C-Freq	CFreqId=185326	CGroupId=45741	Lani Ops	Off	151190000	FM		14									
+C-Freq	CFreqId=185324	CGroupId=45741	Molokai Ops	Off	151145000	FM		14									
+Conventional	AgencyId=7818	StateId=15	Airports	Off		Conventional								
+AreaState	AgencyId=7818	StateId=15
+AreaCounty	AgencyId=7818	CountyId=543
+C-Group	CGroupId=23615	AgencyId=7818	Daniel K. Inouye International Airport (HNL) - Aero Services	Off	21.317828	-157.920263	5.0	Circle	
+C-Freq	CFreqId=239036	CGroupId=23615	Air Service Hawaii FBO	Off	128950000	AM		17									
+C-Freq	CFreqId=239183	CGroupId=23615	Air Support Group	Off	128875000	AM		30									
+C-Freq	CFreqId=316116	CGroupId=23615	Aloha Air Cargo	Off	129900000	AM		17									
+C-Freq	CFreqId=239037	CGroupId=23615	American Airlines	Off	129325000	AM		17									
+C-Freq	CFreqId=239044	CGroupId=23615	ARINC En Route Service	Off	131950000	AM		17									
+C-Freq	CFreqId=315121	CGroupId=23615	Atlas Air / DHL	Off	129625000	AM		17									
+C-Freq	CFreqId=239038	CGroupId=23615	Castle & Cook Avaition FBO	Off	129950000	AM		17									
+C-Freq	CFreqId=239042	CGroupId=23615	Delta Airlines - Atlanta Radio	Off	131650000	AM		17									
+C-Freq	CFreqId=239041	CGroupId=23615	Delta Airlines - Operations	Off	131450000	AM		17									
+C-Freq	CFreqId=239043	CGroupId=23615	Fedex	Off	131925000	AM		17									
+C-Freq	CFreqId=239184	CGroupId=23615	Hallmark Aviation	Off	130600000	AM		17									
+C-Freq	CFreqId=316013	CGroupId=23615	Hawaiian Airlines - Interisland Ramp	Off	129100000	AM		15									
+C-Freq	CFreqId=316015	CGroupId=23615	Hawaiian Airlines - Maintenance	Off	129300000	AM		17									
+C-Freq	CFreqId=239182	CGroupId=23615	Hickham - Command Post	Off	125300000	AM		30									
+C-Freq	CFreqId=316014	CGroupId=23615	Island Air	Off	131300000	AM		17									
+C-Freq	CFreqId=239040	CGroupId=23615	Landmark Aviation FBO	Off	130800000	AM		17									
+C-Freq	CFreqId=239039	CGroupId=23615	United Airlines	Off	130300000	AM		17									
+C-Freq	CFreqId=315122	CGroupId=23615	UPS	Off	129425000	AM		17									
+C-Freq	CFreqId=239045	CGroupId=23615	USAF Hickam	Off	133600000	AM		30									
+C-Group	CGroupId=56425	AgencyId=7818	Daniel K. Inouye International Airport (HNL) - Air Traffic Contr	Off	21.317828	-157.920263	15.0	Circle	
+C-Freq	CFreqId=236001	CGroupId=56425	ANG-OPNS	Off	293700000	AM		15									
+C-Freq	CFreqId=235994	CGroupId=56425	Approach	Off	118300000	AM		15									
+C-Freq	CFreqId=236002	CGroupId=56425	As Assinged	Off	120900000	AM		15									
+C-Freq	CFreqId=236003	CGroupId=56425	Class B	Off	119100000	AM		15									
+C-Freq	CFreqId=236004	CGroupId=56425	Class B	Off	124800000	AM		15									
+C-Freq	CFreqId=236005	CGroupId=56425	Class B	Off	239050000	AM		15									
+C-Freq	CFreqId=236006	CGroupId=56425	Class B	Off	317600000	AM		15									
+C-Freq	CFreqId=236000	CGroupId=56425	CLearance Delivery	Off	121400000	AM		15									
+C-Freq	CFreqId=236007	CGroupId=56425	COMD Post	Off	292500000	AM		15									
+C-Freq	CFreqId=236008	CGroupId=56425	CP	Off	141800000	AM		15									
+C-Freq	CFreqId=236009	CGroupId=56425	D-ATIS	Off	127900000	AM		15									
+C-Freq	CFreqId=235995	CGroupId=56425	Departure	Off	118300000	AM		15									
+C-Freq	CFreqId=235996	CGroupId=56425	Departure	Off	124800000	AM		15									
+C-Freq	CFreqId=235997	CGroupId=56425	Departure	Off	269000000	AM		15									
+C-Freq	CFreqId=235998	CGroupId=56425	Departure	Off	317600000	AM		15									
+C-Freq	CFreqId=235999	CGroupId=56425	Departure	Off	338200000	AM		15									
+C-Freq	CFreqId=236010	CGroupId=56425	Emergency	Off	121500000	AM		15									
+C-Freq	CFreqId=235992	CGroupId=56425	Ground	Off	121900000	AM		15									
+C-Freq	CFreqId=236011	CGroupId=56425	Hickam ADVSY Ramp	Off	113600000	AM		15									
+C-Freq	CFreqId=236012	CGroupId=56425	Hickem Ramp Advisory	Off	234800000	AM		15									
+C-Freq	CFreqId=236013	CGroupId=56425	HNL Ramp Advisory	Off	121800000	AM		15									
+C-Freq	CFreqId=236014	CGroupId=56425	SAC-OPNS	Off	311000000	AM		15									
+C-Freq	CFreqId=236015	CGroupId=56425	SHAKA Ops	Off	125300000	AM		15									
+C-Freq	CFreqId=235993	CGroupId=56425	Tower	Off	118100000	AM		15									
+C-Group	CGroupId=58035	AgencyId=7818	Daniel K. Inouye International Airport (HNL) - Airline Ground Op	Off	21.317828	-157.920263	5.0	Circle	
+C-Freq	CFreqId=244575	CGroupId=58035	Air Canada - Operations	Off	461375000	FM	TONE=C167.9	17									
+C-Freq	CFreqId=244577	CGroupId=58035	Aircraft Service International - Operations	Off	464225000	FM	TONE=C162.2	17									
+C-Freq	CFreqId=316021	CGroupId=58035	Alaska Airlines	Off	463562500	NFM	TONE=C151.4	17									
+C-Freq	CFreqId=244572	CGroupId=58035	American Airlines - Operations	Off	460825000	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=244561	CGroupId=58035	Bradley Aviation - Aircraft Fueling	Off	152870000	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=244562	CGroupId=58035	Bradley Aviation - FBO	Off	152990000	NFM	TONE=C192.8	17									
+C-Freq	CFreqId=316020	CGroupId=58035	China Airlines	Off	461175000	NFM	TONE=C131.8	17									
+C-Freq	CFreqId=244568	CGroupId=58035	Delta Airlines - Customer Service	Off	460675000	FM	TONE=C192.8	17									
+C-Freq	CFreqId=244573	CGroupId=58035	Delta Airlines - Maintenance	Off	460875000	FM	TONE=C114.8	17									
+C-Freq	CFreqId=244570	CGroupId=58035	Delta Airlines - Ramp Operations	Off	460750000	FM	TONE=C114.8	17									
+C-Freq	CFreqId=316023	CGroupId=58035	DFS Group	Off	461637500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=316119	CGroupId=58035	FedEx	Off	461112500	NFM	TONE=C114.8	17									
+C-Freq	CFreqId=244579	CGroupId=58035	International Inflight Catering	Off	464775000	FM	TONE=C162.2	17									
+C-Freq	CFreqId=244571	CGroupId=58035	Korean Airlines - Operations	Off	461775000	NFM	TONE=D411	17									
+C-Freq	CFreqId=244566	CGroupId=58035	Mokulele Airlines - Operations	Off	452862500	FM	TONE=D423	17									
+C-Freq	CFreqId=244578	CGroupId=58035	Philippine Airlines - Operations	Off	464425000	FM	TONE=C103.5	17									
+C-Freq	CFreqId=244574	CGroupId=58035	Qantas Airways - Operations	Off	461150000	FM	TONE=C179.9	17									
+C-Freq	CFreqId=316022	CGroupId=58035	United Airlines	Off	460700000	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=244569	CGroupId=58035	United Airlines - Customer Service/Ramp Operations	Off	460725000	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=343630	CGroupId=58035	United Airlines - Customer Service/Ramp Operations	Off	460725000	AUTO	ColorCode=2	17									
+C-Freq	CFreqId=244565	CGroupId=58035	United Airlines - Maintenance	Off	451275000	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=343628	CGroupId=58035	United Airlines - Maintenance	Off	451275000	AUTO	ColorCode=2	17									
+C-Freq	CFreqId=343629	CGroupId=58035	United Airlines - Ramp Operations	Off	460650000	AUTO	ColorCode=2	17									
+C-Freq	CFreqId=244567	CGroupId=58035	United Pacel Service (UPS) - Operations	Off	452712500	FM	TONE=D115	17									
+C-Freq	CFreqId=87015	CGroupId=58035	Wiki Wiki Shuttle Bus	Off	452800000	FM		26									
+C-Group	CGroupId=63168	AgencyId=7818	Daniel K. Inouye International Airport (HNL) - Airport Operation	Off	21.317828	-157.920263	5.0	Circle	
+C-Freq	CFreqId=244564	CGroupId=63168	Securitas - Security Operations	Off	461837500	NFM	TONE=C203.5	33									
+C-Freq	CFreqId=244325	CGroupId=63168	Transportation Security Administration	Off	172900000	NFM	NAC=1	16									
+C-Freq	CFreqId=316017	CGroupId=63168	TSA - Low Power Handhelds (Voice Inversion)	Off	172150000	NFM	TONE=C131.8	16									
+C-Group	CGroupId=80009	AgencyId=7818	Dillingham Airfield (HDH) - Airfield Operations	Off	21.579474	-158.197281	5.0	Circle	
+C-Freq	CFreqId=344154	CGroupId=80009	Common Traffic Advisory Frequency	Off	123000000	AM		15									
+C-Group	CGroupId=80013	AgencyId=7818	Hickam Air Force Base (HIK) - Base Operations	Off	21.317828	-157.920263	5.0	Circle	
+C-Freq	CFreqId=344170	CGroupId=80013	Advisory Ramp UHF	Off	254400000	AM		30									
+C-Freq	CFreqId=344169	CGroupId=80013	Advisory Ramp VHF	Off	133600000	AM		30									
+C-Freq	CFreqId=344167	CGroupId=80013	Command Post UHF	Off	292500000	AM		30									
+C-Freq	CFreqId=344168	CGroupId=80013	Command Post VHF	Off	141800000	AM		30									
+C-Freq	CFreqId=344172	CGroupId=80013	Shaka Ops UHF	Off	349400000	AM		30									
+C-Freq	CFreqId=344171	CGroupId=80013	Shaka Ops VHF	Off	125300000	AM		30									
+C-Group	CGroupId=80014	AgencyId=7818	Kalaeloa (JRF) - Air Traffic Control (HCF Center)	Off	21.307354	-158.070302	15.0	Circle	
+C-Freq	CFreqId=344178	CGroupId=80014	Approach/Departure	Off	118300000	AM		15									
+C-Group	CGroupId=80015	AgencyId=7818	Kalaeloa (JRF) - Airfield Operations	Off	21.307354	-158.070302	5.0	Circle	
+C-Freq	CFreqId=344175	CGroupId=80015	ASOS	Off	119800000	AM		15									
+C-Freq	CFreqId=344180	CGroupId=80015	Clearance Delivery UHF	Off	380500000	AM		15									
+C-Freq	CFreqId=344179	CGroupId=80015	Clearance Delivery VHF	Off	121700000	AM		15									
+C-Freq	CFreqId=344177	CGroupId=80015	Ground UHF	Off	336400000	AM		15									
+C-Freq	CFreqId=344176	CGroupId=80015	Ground VHF	Off	123800000	AM		15									
+C-Freq	CFreqId=344174	CGroupId=80015	Tower UHF	Off	340200000	AM		15									
+C-Freq	CFreqId=344173	CGroupId=80015	Tower VHF	Off	132600000	AM		15									
+C-Group	CGroupId=80012	AgencyId=7818	Marine Corps Base Hawaii (NGF) - Air Traffic Control	Off	21.450456	-157.767949	15.0	Circle	
+C-Freq	CFreqId=344166	CGroupId=80012	Approach/Departure UHF (HCF Center)	Off	317500000	AM		15									
+C-Freq	CFreqId=344161	CGroupId=80012	Approach/Departure UHF (Kaneohe)	Off	263500000	AM		15									
+C-Freq	CFreqId=344165	CGroupId=80012	Approach/Departure VHF (HCF Center)	Off	124100000	AM		15									
+C-Freq	CFreqId=344160	CGroupId=80012	Approach/Departure VHF (Kaneohe)	Off	125000000	AM		15									
+C-Group	CGroupId=80010	AgencyId=7818	Marine Corps Base Hawaii (NGF) - Airfield Operations	Off	21.450456	-157.767949	5.0	Circle	
+C-Freq	CFreqId=344155	CGroupId=80010	ATIS	Off	284500000	AM		15									
+C-Freq	CFreqId=344162	CGroupId=80010	Clearance Delivery	Off	294700000	AM		15									
+C-Freq	CFreqId=344156	CGroupId=80010	Ground UHF	Off	382800000	AM		15									
+C-Freq	CFreqId=344159	CGroupId=80010	Tower UHF	Off	342600000	AM		15									
+C-Freq	CFreqId=344158	CGroupId=80010	Tower UHF	Off	360200000	AM		15									
+C-Freq	CFreqId=344157	CGroupId=80010	Tower VHF	Off	120700000	AM		15									
+C-Group	CGroupId=80011	AgencyId=7818	Marine Corps Base Hawaii (NGF) - Base Operations	Off	21.450456	-157.767949	5.0	Circle	
+C-Freq	CFreqId=344164	CGroupId=80011	Pilot to Dispatcher	Off	307200000	AM		30									
+C-Freq	CFreqId=344163	CGroupId=80011	PMSV	Off	344600000	AM		30									
+Conventional	AgencyId=9415	StateId=15	Airports	Off		Conventional								
+AreaState	AgencyId=9415	StateId=15
+AreaCounty	AgencyId=9415	CountyId=545
+C-Group	CGroupId=81085	AgencyId=9415	Barking Sands Pacific Missile Range Facility Airport (PHBK) - Ai	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=349784	CGroupId=81085	Approach / Departure	Off	126500000	AM		15									
+C-Freq	CFreqId=349785	CGroupId=81085	Approach / Departure	Off	269400000	AM		15									
+C-Freq	CFreqId=349782	CGroupId=81085	Ground	Off	340200000	AM		15									
+C-Freq	CFreqId=349783	CGroupId=81085	Range Outrider	Off	322850000	AM		30									
+C-Freq	CFreqId=349780	CGroupId=81085	Tower	Off	126200000	AM		15									
+C-Freq	CFreqId=349781	CGroupId=81085	Tower	Off	360200000	AM		15									
+C-Group	CGroupId=79982	AgencyId=9415	Lihue Airport (LIH) - Air Traffic Control	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=344085	CGroupId=79982	Approach/Departure UHF	Off	269400000	AM		15									
+C-Freq	CFreqId=344084	CGroupId=79982	Approach/Departure VHF	Off	126500000	AM		15									
+C-Group	CGroupId=79979	AgencyId=9415	Lihue Airport (LIH) - Airfield Operations	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=321579	CGroupId=79979	Automatic Terminal Information Service (ATIS)	Off	127200000	AM		15									
+C-Freq	CFreqId=321580	CGroupId=79979	Ground	Off	121900000	AM		15									
+C-Freq	CFreqId=321578	CGroupId=79979	Helicopter Ramp	Off	123050000	AM		15									
+C-Freq	CFreqId=321582	CGroupId=79979	Tower - Helicopters	Off	128400000	AM		15									
+C-Freq	CFreqId=321581	CGroupId=79979	Tower - Main	Off	118900000	AM		15									
+C-Group	CGroupId=79980	AgencyId=9415	Lihue Airport (LIH) - Airline Operations	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=239046	CGroupId=79980	Air Service Hawaii FBO	Off	128950000	AM		17									
+C-Freq	CFreqId=239050	CGroupId=79980	Aloha Contract Services	Off	131225000	AM		17									
+C-Freq	CFreqId=239047	CGroupId=79980	Hawaiian Airlines	Off	129300000	AM		17									
+C-Freq	CFreqId=344083	CGroupId=79980	Signature Flight Support FBO	Off	130800000	AM		17									
+C-Freq	CFreqId=239049	CGroupId=79980	United Airlines	Off	131075000	AM		17									
+C-Group	CGroupId=79978	AgencyId=9415	Lihue Airport (LIH) - Airport Operations	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=333824	CGroupId=79978	Airport Security	Off	463937500	AUTO	ColorCode=1	33									
+C-Group	CGroupId=79983	AgencyId=9415	Port Allen (PAK) - Airfield Operations	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=344086	CGroupId=79983	Common Traffic Advisory Frequency	Off	122900000	AM		15									
+Conventional	AgencyId=9656	StateId=15	Airports	Off		Conventional								
+AreaState	AgencyId=9656	StateId=15
+AreaCounty	AgencyId=9656	CountyId=546
+C-Group	CGroupId=79989	AgencyId=9656	Hana (HNM) - Air Traffic Control (HCF Center)	Off	20.795637	-156.014438	15.0	Circle	
+C-Freq	CFreqId=344092	CGroupId=79989	Approach/Departure UHF	Off	278300000	AM		15									
+C-Freq	CFreqId=344091	CGroupId=79989	Approach/Departure VHF	Off	126000000	AM		15									
+C-Group	CGroupId=58051	AgencyId=9656	Hana (HNM) - Airfield Operations	Off	20.795637	-156.014438	5.0	Circle	
+C-Freq	CFreqId=244594	CGroupId=58051	AWOS	Off	118325000	AM		15									
+C-Freq	CFreqId=344090	CGroupId=58051	Clearance Delivery (Honolulu FSS)	Off	122300000	AM		15									
+C-Freq	CFreqId=244595	CGroupId=58051	Common Traffic Advisory Frequency	Off	122900000	AM		15									
+C-Group	CGroupId=56963	AgencyId=9656	Kahului (OGG) - Air Traffic Control (HCF Center)	Off	20.898650	-156.430458	15.0	Circle	
+C-Freq	CFreqId=344089	CGroupId=56963	Approach/Departure North UHF	Off	322400000	AM		15									
+C-Freq	CFreqId=244586	CGroupId=56963	Approach/Departure North VHF	Off	120200000	AM		15									
+C-Freq	CFreqId=344088	CGroupId=56963	Approach/Departure South UHF	Off	225400000	AM		15									
+C-Freq	CFreqId=244587	CGroupId=56963	Approach/Departure South VHF	Off	119500000	AM		15									
+C-Group	CGroupId=79985	AgencyId=9656	Kahului (OGG) - Airfield Operations	Off	20.898650	-156.430458	5.0	Circle	
+C-Freq	CFreqId=244582	CGroupId=79985	ATIS	Off	128600000	AM		15									
+C-Freq	CFreqId=344093	CGroupId=79985	Clearance Delivery UHF	Off	290500000	AM		15									
+C-Freq	CFreqId=244583	CGroupId=79985	Clearance Delivery VHF	Off	120600000	AM		15									
+C-Freq	CFreqId=244584	CGroupId=79985	Ground	Off	121900000	AM		15									
+C-Freq	CFreqId=244585	CGroupId=79985	Tower	Off	118700000	AM		15									
+C-Group	CGroupId=79987	AgencyId=9656	Kahului (OGG) - Airline Ground Operations	Off	20.898650	-156.430458	5.0	Circle	
+C-Freq	CFreqId=321506	CGroupId=79987	Alaska Airlines	Off	451287500	NFM	TONE=C114.8	17									
+C-Group	CGroupId=79986	AgencyId=9656	Kahului (OGG) - Airline Operations	Off	20.898650	-156.430458	5.0	Circle	
+C-Freq	CFreqId=239051	CGroupId=79986	Air Service Hawaii FBO	Off	128950000	AM		17									
+C-Freq	CFreqId=239054	CGroupId=79986	Aloha Contract Services	Off	131225000	AM		17									
+C-Freq	CFreqId=239055	CGroupId=79986	Hawaiian Airlines	Off	131450000	AM		17									
+C-Freq	CFreqId=344087	CGroupId=79986	Signature Flight Support	Off	130800000	AM		17									
+C-Freq	CFreqId=239052	CGroupId=79986	United Airlines	Off	130300000	AM		17									
+C-Group	CGroupId=79984	AgencyId=9656	Kahului (OGG) - Airport Operations	Off	20.898650	-156.430458	5.0	Circle	
+C-Freq	CFreqId=185339	CGroupId=79984	Airport Operations	Off	155760000	FM		23									
+C-Group	CGroupId=79988	AgencyId=9656	Kahului (OGG) - Federal	Off	20.898650	-156.430458	5.0	Circle	
+C-Freq	CFreqId=321505	CGroupId=79988	Transportation Security Administration	Off	172900000	NFM	NAC=1	16									
+C-Group	CGroupId=58050	AgencyId=9656	Kapalua (JHM) - Airfield Operations	Off	20.962936	-156.673032	5.0	Circle	
+C-Freq	CFreqId=244590	CGroupId=58050	AWOS	Off	118525000	AM		15									
+C-Freq	CFreqId=244591	CGroupId=58050	Common Traffic Advisory Frequency	Off	122700000	AM		15									
+C-Group	CGroupId=58052	AgencyId=9656	Lanai (LNY) - Airfield Operations	Off	20.785611	-156.951418	5.0	Circle	
+C-Freq	CFreqId=244597	CGroupId=58052	AWOS	Off	118375000	AM		15									
+C-Freq	CFreqId=344094	CGroupId=58052	Common Traffic Advisory Frequency	Off	122900000	AM		15									
+C-Group	CGroupId=79991	AgencyId=9656	Molokai (MKK) - Air Traffic Control (HCF Center)	Off	21.152886	-157.096256	15.0	Circle	
+C-Freq	CFreqId=344097	CGroupId=79991	Approach/Departure UHF	Off	317500000	AM		15									
+C-Freq	CFreqId=344096	CGroupId=79991	Approach/Departure VHF	Off	124100000	AM		15									
+C-Group	CGroupId=58053	AgencyId=9656	Molokai (MKK) - Airfield Operations	Off	21.152886	-157.096256	5.0	Circle	
+C-Freq	CFreqId=244601	CGroupId=58053	ATIS	Off	128200000	AM		15									
+C-Freq	CFreqId=344095	CGroupId=58053	Ground	Off	121900000	AM		15									
+C-Freq	CFreqId=244602	CGroupId=58053	Tower	Off	125700000	AM		15									
+C-Group	CGroupId=79990	AgencyId=9656	Molokai (MKK) - Airport Operations	Off	21.152886	-157.096256	5.0	Circle	
+C-Freq	CFreqId=203232	CGroupId=79990	Airport Operations	Off	856962500	NFM	NAC=Srch	2									
+Conventional	AgencyId=9657	StateId=15	Airports	Off		Conventional								
+AreaState	AgencyId=9657	StateId=15
+AreaCounty	AgencyId=9657	CountyId=542
+C-Group	CGroupId=80008	AgencyId=9657	Bradshaw Army Airfield (BSF) - Air Traffic Control (HCF Center)	Off	19.760013	-155.553766	15.0	Circle	
+C-Freq	CFreqId=344153	CGroupId=80008	Approach/Departure UHF	Off	278300000	AM		15									
+C-Freq	CFreqId=344152	CGroupId=80008	Approach/Departure VHF	Off	126000000	AM		15									
+C-Group	CGroupId=80005	AgencyId=9657	Bradshaw Army Airfield (BSF) - Airfield Operations	Off	19.760013	-155.553766	5.0	Circle	
+C-Freq	CFreqId=344146	CGroupId=80005	ATIS UHF	Off	293225000	AM		15									
+C-Freq	CFreqId=344145	CGroupId=80005	ATIS VHF	Off	124700000	AM		15									
+C-Freq	CFreqId=344147	CGroupId=80005	Ground UHF	Off	266675000	AM		15									
+C-Freq	CFreqId=344151	CGroupId=80005	Tower Lo-VHF	Off	41500000	FM		15									
+C-Freq	CFreqId=344144	CGroupId=80005	Tower UHF	Off	236600000	AM		15									
+C-Freq	CFreqId=344143	CGroupId=80005	Tower VHF	Off	126300000	AM		15									
+C-Group	CGroupId=80006	AgencyId=9657	Bradshaw Army Airfield (BSF) - Base Operations	Off	19.760013	-155.553766	5.0	Circle	
+C-Freq	CFreqId=344148	CGroupId=80006	PMSV Metro	Off	122750000	AM		30									
+C-Group	CGroupId=80007	AgencyId=9657	Bradshaw Army Airfield (BSF) - Range Control	Off	19.760013	-155.553766	5.0	Circle	
+C-Freq	CFreqId=344150	CGroupId=80007	Lo-VHF	Off	38300000	FM		30									
+C-Freq	CFreqId=344149	CGroupId=80007	VHF	Off	125200000	AM		30									
+C-Group	CGroupId=79995	AgencyId=9657	Hilo International (ITO) - Air Traffic Control	Off	19.720263	-155.048470	15.0	Circle	
+C-Freq	CFreqId=344113	CGroupId=79995	Approach/Departure UHF	Off	269200000	AM		15									
+C-Freq	CFreqId=344111	CGroupId=79995	Approach/Departure UHF (HCF)	Off	284600000	AM		15									
+C-Freq	CFreqId=344115	CGroupId=79995	Approach/Departure UHF (HCF)	Off	323000000	AM		15									
+C-Freq	CFreqId=344112	CGroupId=79995	Approach/Departure VHF	Off	119700000	AM		15									
+C-Freq	CFreqId=344114	CGroupId=79995	Approach/Departure VHF (HCF)	Off	120250000	AM		15									
+C-Freq	CFreqId=344110	CGroupId=79995	Approach/Departure VHF (HCF)	Off	126600000	AM		15									
+C-Group	CGroupId=79997	AgencyId=9657	Hilo International (ITO) - Airfield Operations	Off	19.720263	-155.048470	5.0	Circle	
+C-Freq	CFreqId=344107	CGroupId=79997	ATIS	Off	126400000	AM		15									
+C-Freq	CFreqId=344109	CGroupId=79997	Ground	Off	121900000	AM		15									
+C-Freq	CFreqId=344108	CGroupId=79997	Tower UHF	Off	263100000	AM		15									
+C-Freq	CFreqId=344106	CGroupId=79997	Tower VHF	Off	118100000	AM		15									
+C-Group	CGroupId=79993	AgencyId=9657	Hilo International (ITO) - Airline Ground Operations	Off	19.720263	-155.048470	5.0	Circle	
+C-Freq	CFreqId=344099	CGroupId=79993	Air Service Hawaii	Off	462325000	NFM	TONE=D023	17									
+C-Freq	CFreqId=344100	CGroupId=79993	Aloha Air Cargo	Off	451775000	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=344101	CGroupId=79993	Hawaiian Airlines	Off	460850000	NFM	TONE=C141.3	17									
+C-Freq	CFreqId=344102	CGroupId=79993	United Airlines	Off	460675000	AUTO	ColorCode=2	17									
+C-Freq	CFreqId=350634	CGroupId=79993	United Airlines	Off	460675000	AUTO	ColorCode=2	17									
+C-Group	CGroupId=79996	AgencyId=9657	Hilo International (ITO) - Airline Operations	Off	19.720263	-155.048470	5.0	Circle	
+C-Freq	CFreqId=344116	CGroupId=79996	Air Service Hawaii FBO	Off	128950000	AM		17									
+C-Freq	CFreqId=344103	CGroupId=79996	FedEx	Off	122875000	AM		17									
+C-Freq	CFreqId=344117	CGroupId=79996	Signature Flight Support	Off	130800000	AM		17									
+C-Freq	CFreqId=344104	CGroupId=79996	United Airlines	Off	130900000	AM		17									
+C-Group	CGroupId=79992	AgencyId=9657	Hilo International (ITO) - Airport Operations	Off	19.720263	-155.048470	5.0	Circle	
+C-Freq	CFreqId=344098	CGroupId=79992	Securitas Security Services	Off	153020000	AUTO	ColorCode=1	33									
+C-Group	CGroupId=79994	AgencyId=9657	Hilo International (ITO) - Federal	Off	19.720263	-155.048470	5.0	Circle	
+C-Freq	CFreqId=344105	CGroupId=79994	TSA Ops	Off	172150000	NFM	NAC=1	16									
+C-Group	CGroupId=79999	AgencyId=9657	Kona International (KOA) - Air Traffic Control (HCF Center)	Off	19.738766	-156.045631	15.0	Circle	
+C-Freq	CFreqId=344124	CGroupId=79999	Approach/Departure UHF	Off	278300000	AM		15									
+C-Freq	CFreqId=344123	CGroupId=79999	Approach/Departure VHF	Off	126000000	AM		15									
+C-Group	CGroupId=79998	AgencyId=9657	Kona International (KOA) - Airfield Operations	Off	19.738766	-156.045631	5.0	Circle	
+C-Freq	CFreqId=344120	CGroupId=79998	AWOS	Off	127400000	AM		15									
+C-Freq	CFreqId=344122	CGroupId=79998	Clearance Delivery	Off	118600000	AM		15									
+C-Freq	CFreqId=344121	CGroupId=79998	Ground	Off	121900000	AM		15									
+C-Freq	CFreqId=344119	CGroupId=79998	Tower UHF	Off	254300000	AM		15									
+C-Freq	CFreqId=344118	CGroupId=79998	Tower VHF	Off	120300000	AM		15									
+C-Group	CGroupId=80002	AgencyId=9657	Kona International (KOA) - Airline Ground Operations	Off	19.738766	-156.045631	5.0	Circle	
+C-Freq	CFreqId=344139	CGroupId=80002	Alaska Airlines	Off	464075000	NFM	TONE=D754	17									
+C-Freq	CFreqId=344140	CGroupId=80002	Hawaiian Airlines Ch 1	Off	463950000	NFM	TONE=D632	17									
+C-Freq	CFreqId=344141	CGroupId=80002	Hawaiian Airlines Ch 2	Off	462000000	NFM	TONE=C141.3	17									
+C-Group	CGroupId=80000	AgencyId=9657	Kona International (KOA) - Airline Operations	Off	19.738766	-156.045631	5.0	Circle	
+C-Freq	CFreqId=344125	CGroupId=80000	Air Service Hawaii FBO	Off	128950000	AM		17									
+C-Freq	CFreqId=344127	CGroupId=80000	Alaska Airlines	Off	131200000	AM		17									
+C-Freq	CFreqId=344133	CGroupId=80000	Blue Hawaiian Helicopters	Off	122950000	AM		17									
+C-Freq	CFreqId=344128	CGroupId=80000	Delta Airlines	Off	131450000	AM		17									
+C-Freq	CFreqId=344129	CGroupId=80000	Hawaiian Airlines	Off	129300000	AM		17									
+C-Freq	CFreqId=344126	CGroupId=80000	Signature Flight Support	Off	130800000	AM		17									
+C-Freq	CFreqId=344131	CGroupId=80000	United Airlines	Off	128850000	AM		17									
+C-Freq	CFreqId=344132	CGroupId=80000	United Airlines	Off	131075000	AM		17									
+C-Freq	CFreqId=344130	CGroupId=80000	UPS	Off	129425000	AM		17									
+C-Group	CGroupId=80001	AgencyId=9657	Kona International (KOA) - Airport Operations	Off	19.738766	-156.045631	5.0	Circle	
+C-Freq	CFreqId=344136	CGroupId=80001	Operations	Off	155820000	NFM		14									
+C-Freq	CFreqId=344135	CGroupId=80001	Operations Ch 1	Off	155760000	NFM		14									
+C-Freq	CFreqId=344134	CGroupId=80001	Security	Off	151865000	NFM	TONE=D411	33									
+C-Group	CGroupId=80003	AgencyId=9657	Kona International (KOA) - Federal	Off	19.738766	-156.045631	5.0	Circle	
+C-Freq	CFreqId=344137	CGroupId=80003	Operations	Off	172150000	NFM		16									
+C-Freq	CFreqId=344138	CGroupId=80003	Operations	Off	172900000	NFM	NAC=82	16									
+C-Group	CGroupId=80004	AgencyId=9657	Upolu (UPP) - Airfield Operations	Off	20.265194	-155.859944	5.0	Circle	
+C-Freq	CFreqId=344142	CGroupId=80004	Common Traffic Advisory Frequency	Off	122900000	AM		15									
+Conventional	AgencyId=2040	StateId=15	Businesses	Off		Conventional								
+AreaState	AgencyId=2040	StateId=15
+AreaCounty	AgencyId=2040	CountyId=546
+C-Group	CGroupId=65436	AgencyId=2040	Attractions - Golf Courses	Off	20.885502	-156.636292	48.0	Circle	
+C-Freq	CFreqId=60703	CGroupId=65436	Kaanapali Golf Course	Off	462350000	FM		17									
+C-Group	CGroupId=16489	AgencyId=2040	Hotels - Kaanapali	Off	20.885502	-156.636292	48.0	Circle	
+C-Freq	CFreqId=60735	CGroupId=16489	Hyatt - Engingeering/Maintenance	Off	451950000	FM		17									
+C-Freq	CFreqId=60736	CGroupId=16489	Hyatt - Housekeeping	Off	452350000	FM		17									
+C-Freq	CFreqId=60737	CGroupId=16489	Hyatt - Housekeeping	Off	452850000	FM		17									
+C-Freq	CFreqId=60738	CGroupId=16489	Hyatt - Paging	Off	462825000	FM		17									
+C-Freq	CFreqId=60734	CGroupId=16489	Hyatt - Security	Off	452700000	FM		33									
+C-Freq	CFreqId=60739	CGroupId=16489	Kaanapali Beach Resort	Off	461050000	FM		17									
+C-Freq	CFreqId=60740	CGroupId=16489	Kaanapali Beach Resort	Off	461350000	FM		17									
+C-Freq	CFreqId=60723	CGroupId=16489	Kaanapali Mariott	Off	463275000	FM		17									
+C-Freq	CFreqId=60724	CGroupId=16489	Kaanapali Mariott	Off	463775000	FM		17									
+C-Freq	CFreqId=60722	CGroupId=16489	Kaanapali Mariott - Room Service/Housekeeping	Off	462100000	FM		17									
+C-Freq	CFreqId=60725	CGroupId=16489	Kaanapali Mariott - Security	Off	464875000	FM		33									
+C-Freq	CFreqId=60732	CGroupId=16489	Kaanapali Westin	Off	462750000	FM		17									
+C-Freq	CFreqId=60731	CGroupId=16489	Kaanapali Westin	Off	464400000	FM		17									
+C-Freq	CFreqId=60726	CGroupId=16489	Kaanapali Westin - Banquets	Off	461450000	FM		17									
+C-Freq	CFreqId=60728	CGroupId=16489	Kaanapali Westin - Housekeeping	Off	463200000	FM		17									
+C-Freq	CFreqId=60727	CGroupId=16489	Kaanapali Westin - Maintenance	Off	462775000	FM		17									
+C-Freq	CFreqId=60730	CGroupId=16489	Kaanapali Westin - Security	Off	464325000	FM		33									
+C-Freq	CFreqId=60729	CGroupId=16489	Kaanapali Westin - Valet/Front Desk	Off	463400000	FM		17									
+C-Freq	CFreqId=60721	CGroupId=16489	Kapalua Land Company - Security	Off	461275000	FM		33									
+C-Freq	CFreqId=60733	CGroupId=16489	Royal Resort - Security	Off	463450000	FM		33									
+C-Group	CGroupId=31967	AgencyId=2040	Hotels - Others	Off	20.885502	-156.636292	48.0	Circle	
+C-Freq	CFreqId=125561	CGroupId=31967	Maui Coast Hotel	Off	461675000	FM	TONE=D445	17									
+C-Group	CGroupId=16483	AgencyId=2040	Transportation - Taxi Services	Off	20.866667	-156.500556	25.0	Circle	
+C-Freq	CFreqId=60704	CGroupId=16483	Kapalua Cab and Tour Dispatch	Off	461225000	FM		26									
+Conventional	AgencyId=7507	StateId=15	Businesses	Off		Conventional								
+AreaState	AgencyId=7507	StateId=15
+AreaCounty	AgencyId=7507	CountyId=543
+C-Group	CGroupId=58154	AgencyId=7507	Attractions	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=349116	CGroupId=58154	Hawaiian Railroad Society	Off	160215000	NFM		17									
+C-Freq	CFreqId=244870	CGroupId=58154	USS Missouri Memorial Association 1	Off	464750000	NFM	TONE=C103.5	17									
+C-Freq	CFreqId=349117	CGroupId=58154	USS Missouri Memorial Association 2	Off	464200000	NFM		17									
+C-Group	CGroupId=79821	AgencyId=7507	Economic Development	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=343466	CGroupId=79821	Waikiki Business Improvement District	Off	464262500	NFM	TONE=D423	17									
+C-Group	CGroupId=58152	AgencyId=7507	Hospitals	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=345751	CGroupId=58152	Hawaii Hospital Education and Research Foundation	Off	452437500	AUTO	ColorCode=1	17									
+C-Freq	CFreqId=244867	CGroupId=58152	St. Francis Medical Center - Security	Off	464475000	FM	TONE=C136.5	33									
+C-Group	CGroupId=57965	AgencyId=7507	Hotels	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=244328	CGroupId=57965	Ambassador Waikiki Hotel	Off	452800000	FM	TONE=C151.4	17									
+C-Freq	CFreqId=267230	CGroupId=57965	Aqua Palms and Spa Hotel (Aqua Palms Waikiki) - Engineering	Off	456487500	FM	TONE=D162	17									
+C-Freq	CFreqId=267229	CGroupId=57965	Aqua Palms and Spa Hotel (Aqua Palms Waikiki) - Hskpng	Off	451487500	FM	TONE=D162	17									
+C-Freq	CFreqId=244327	CGroupId=57965	DoubleTree Alana	Off	451900000	FM	TONE=D732	17									
+C-Freq	CFreqId=244329	CGroupId=57965	Hale Koa - Security	Off	461100000	FM	TONE=C123.0	17									
+C-Freq	CFreqId=343513	CGroupId=57965	Hilton Garden Inn Waikiki Beach - Maintenance	Off	452887500	AUTO	RAN=12	17									
+C-Freq	CFreqId=244331	CGroupId=57965	Hilton Prince Kuhio - Housekeeping	Off	462300000	FM	TONE=C192.8	17									
+C-Freq	CFreqId=244326	CGroupId=57965	Hilton Prince Kuhio - Security	Off	451375000	FM	TONE=D754	17									
+C-Freq	CFreqId=343511	CGroupId=57965	Hyatt Place Waikiki Beach - Guest Services	Off	461987500	AUTO	ColorCode=8	17									
+C-Freq	CFreqId=343510	CGroupId=57965	Hyatt Regency Waikiki - Guest Services	Off	462000000	NFM	TONE=C203.5	17									
+C-Freq	CFreqId=244334	CGroupId=57965	Hyatt Regency Waikiki - Maintenance	Off	464225000	FM	TONE=C162.2	17									
+C-Freq	CFreqId=244333	CGroupId=57965	Hyatt Regency Waikiki - Security	Off	463875000	FM	TONE=D054	17									
+C-Freq	CFreqId=343512	CGroupId=57965	Pacific Beach Hotel Waikiki - Housekeeping	Off	461100000	AUTO	ColorCode=4	17									
+C-Freq	CFreqId=343521	CGroupId=57965	Trump International Hotel Waikiki - Front Desk	Off	461862500	AUTO	ColorCode=1	17									
+C-Freq	CFreqId=343520	CGroupId=57965	Trump International Hotel Waikiki - Housekeeping	Off	452262500	AUTO	ColorCode=1	17									
+C-Freq	CFreqId=343522	CGroupId=57965	Trump International Hotel Waikiki - Security	Off	461862500	AUTO	ColorCode=1	33									
+C-Freq	CFreqId=244335	CGroupId=57965	Waikiki Beach Hotel	Off	464400000	FM	TONE=D306	17									
+C-Freq	CFreqId=256170	CGroupId=57965	Waikiki Edtion (Marriott) - Bell Desk	Off	463275000	FM	TONE=D432	17									
+C-Freq	CFreqId=256171	CGroupId=57965	Waikiki Edtion (Marriott) - Guest Services & Housekeeping	Off	464175000	FM	TONE=D432	17									
+C-Freq	CFreqId=256169	CGroupId=57965	Waikiki Edtion (Marriott) - Security	Off	462025000	FM	TONE=D432	33									
+C-Group	CGroupId=73501	AgencyId=7507	Residential / Condos	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=308365	CGroupId=73501	1717 Ala Wai Condominium	Off	464487500	NFM	TONE=D351	17									
+C-Freq	CFreqId=308367	CGroupId=73501	2121 Ala Wai Condominium	Off	464712500	NFM	TONE=C210.7	17									
+C-Freq	CFreqId=308364	CGroupId=73501	Aloha Towers Condominium	Off	464475000	NFM	TONE=C97.4	17									
+C-Freq	CFreqId=308361	CGroupId=73501	Hokua	Off	451675000	NFM	TONE=D244	17									
+C-Freq	CFreqId=308363	CGroupId=73501	Kapiolani Manor Aoao	Off	462250000	NFM	TONE=D624	17									
+C-Freq	CFreqId=308362	CGroupId=73501	Mott-Smith Laniloa Condo	Off	462100000	NFM	TONE=D226	17									
+C-Freq	CFreqId=321804	CGroupId=73501	Sunset Lakeview - Security	Off	461237500	NFM	TONE=C103.5	33									
+C-Freq	CFreqId=308368	CGroupId=73501	Waipuna Condominium	Off	464762500	NFM	TONE=D072	17									
+C-Freq	CFreqId=308366	CGroupId=73501	Yacht Harbor Towers	Off	464675000	AUTO	RAN=25	17									
+C-Group	CGroupId=63171	AgencyId=7507	Retail	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=343597	CGroupId=63171	Ala Moana Center - Janitors/Custodians	Off	464887500	NFM	TONE=D532	17									
+C-Freq	CFreqId=343523	CGroupId=63171	International Market Place - Housekeeping	Off	452000000	AUTO	RAN=26	17									
+C-Freq	CFreqId=343514	CGroupId=63171	International Market Place - Security	Off	463900000	AUTO	RAN=2	33									
+C-Freq	CFreqId=303076	CGroupId=63171	Kahala Mall	Off	461475000	NFM	TONE=C173.8	17									
+C-Freq	CFreqId=336309	CGroupId=63171	Pearlridge Shopping Center - Janitorial	Off	464675000	AUTO	ColorCode=15	17									
+C-Freq	CFreqId=336310	CGroupId=63171	Pearlridge Shopping Center - Maintenance	Off	464675000	AUTO	ColorCode=15	17									
+C-Freq	CFreqId=261800	CGroupId=63171	Pearlridge Shopping Center - Security	Off	464775000	NFM	TONE=C156.7	33									
+C-Freq	CFreqId=333178	CGroupId=63171	Servco Auto Leeward (Waipahu) Service Department	Off	457662500	NFM		17									
+C-Freq	CFreqId=261801	CGroupId=63171	Ward Center	Off	461825000	FM	TONE=C167.9	17									
+C-Group	CGroupId=80277	AgencyId=7507	Shipping	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=345750	CGroupId=80277	Alaska Marine Lines	Off	461837500	AUTO	ColorCode=1	17									
+C-Group	CGroupId=57966	AgencyId=7507	Taxis and Shuttles	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=244336	CGroupId=57966	Charley's Taxi	Off	452050000	FM	TONE=D122	17									
+C-Freq	CFreqId=244337	CGroupId=57966	Charley's Taxi	Off	452200000	FM	TONE=D122	17									
+C-Freq	CFreqId=244339	CGroupId=57966	Pacific	Off	463925000	FM	TONE=C131.8	17									
+C-Freq	CFreqId=244868	CGroupId=57966	Roberts Hawaii Student Transportation	Off	461375000	FM	TONE=D074	26									
+C-Freq	CFreqId=244338	CGroupId=57966	Signature Cab Holdings	Off	452300000	FM		17									
+C-Group	CGroupId=63170	AgencyId=7507	Utilities	Off	21.466667	-157.966667	25.0	Circle	
+C-Freq	CFreqId=261799	CGroupId=63170	Hawaiian Electric Company (HECO)	Off	153650000	FM		34									
+Conventional	AgencyId=8911	StateId=15	Businesses	Off		Conventional								
+AreaState	AgencyId=8911	StateId=15
+AreaCounty	AgencyId=8911	CountyId=542
+C-Group	CGroupId=76248	AgencyId=8911	Hospitals	Off	19.575198	-155.503131	56.0	Circle	
+C-Freq	CFreqId=350635	CGroupId=76248	Hilo Medical Center	Off	451300000	AUTO	ColorCode=12	17									
+C-Freq	CFreqId=323671	CGroupId=76248	Hilo Medical Center - Maintenance	Off	451300000	AUTO	ColorCode=12	17									
+C-Freq	CFreqId=350633	CGroupId=76248	Hilo Medical Center - Maintenance	Off	451300000	AUTO	ColorCode=12	17									
+C-Freq	CFreqId=350632	CGroupId=76248	Hilo Medical Center - Security	Off	451300000	AUTO	ColorCode=12	33									
+C-Group	CGroupId=76196	AgencyId=8911	Hotels/Resorts	Off	19.575198	-155.503131	56.0	Circle	
+C-Freq	CFreqId=336031	CGroupId=76196	Club at Hokulia (Kona)	Off	451425000	NFM	TONE=D431	17									
+C-Freq	CFreqId=336033	CGroupId=76196	Club at Hokulia (Kona)	Off	451600000	NFM	TONE=D023	17									
+C-Freq	CFreqId=336034	CGroupId=76196	Club at Hokulia (Kona)	Off	452250000	NFM	TONE=D546	17									
+C-Freq	CFreqId=323487	CGroupId=76196	Hilo Hawaiian Hotel	Off	464375000	NFM		17									
+C-Freq	CFreqId=336032	CGroupId=76196	Hilton Waikoloa Village (Kona)	Off	451450000	NFM	TONE=D411	17									
+C-Freq	CFreqId=336037	CGroupId=76196	Hilton Waikoloa Village (Kona)	Off	462100000	NFM	TONE=D411	17									
+C-Freq	CFreqId=336039	CGroupId=76196	Hilton Waikoloa Village (Kona)	Off	463250000	NFM	TONE=D411	17									
+C-Freq	CFreqId=336036	CGroupId=76196	Hualalai Resort (Kona)	Off	461575000	NFM	TONE=D411	17									
+C-Freq	CFreqId=336035	CGroupId=76196	Hualalai Resort (Kona)	Off	461625000	NFM	TONE=D245	17									
+C-Freq	CFreqId=312270	CGroupId=76196	Kamehamehas Kona Beach Hotel - Courtyard King	Off	461925000	NFM	TONE=D047	17									
+C-Freq	CFreqId=336040	CGroupId=76196	Kona Village Resort	Off	464675000	NFM	TONE=C82.5	17									
+C-Freq	CFreqId=336038	CGroupId=76196	Marriott Hotel (Waikoloa)	Off	462300000	NFM	TONE=D143	17									
+C-Freq	CFreqId=323488	CGroupId=76196	Prince Kuhio Plaza - Security	Off	461325000	NFM	TONE=D532	33									
+C-Group	CGroupId=78556	AgencyId=8911	Miscellaneous	Off	19.575198	-155.503131	56.0	Circle	
+C-Freq	CFreqId=336029	CGroupId=78556	Kohala Eco Tours (Hawi)	Off	154505000	NFM	TONE=D465	17									
+C-Freq	CFreqId=336028	CGroupId=78556	Royal Hawaiian Orchards (Naalehu)	Off	151520000	NFM	TONE=C131.8	17									
+C-Freq	CFreqId=336030	CGroupId=78556	West Hawaii Concrete (Kona)	Off	153065000	NFM	TONE=C136.5	17									
+C-Freq	CFreqId=338155	CGroupId=78556	West Hawaii Concrete (Kona) Ch. 2	Off	154540000	NFM	TONE=C136.5	17									
+C-Group	CGroupId=78760	AgencyId=8911	Retail	Off	19.575198	-155.503131	56.0	Circle	
+C-Freq	CFreqId=338160	CGroupId=78760	Ace Hardware (Captain Cook)	Off	464550000	NFM		17									
+C-Freq	CFreqId=338159	CGroupId=78760	Ace Hardware (Kona)	Off	464550000	NFM		17									
+C-Freq	CFreqId=338157	CGroupId=78760	Ace Hardware (Naalehu)	Off	154490000	NFM		17									
+C-Freq	CFreqId=338158	CGroupId=78760	Ace Hardware (Ocean View)	Off	464550000	NFM		17									
+C-Freq	CFreqId=338161	CGroupId=78760	Target (Kona)	Off	467900000	NFM		17									
+C-Group	CGroupId=78555	AgencyId=8911	Utilities	Off	19.575198	-155.503131	56.0	Circle	
+C-Freq	CFreqId=338153	CGroupId=78555	Hawaii Electric Light Co.	Off	48380000	NFM	TONE=C110.9	34									
+C-Freq	CFreqId=336026	CGroupId=78555	Hawaii Electric Light Co.	Off	48540000	NFM	TONE=C110.9	34									
+C-Freq	CFreqId=336027	CGroupId=78555	Hawaii Electric Light Co. Hilo	Off	451875000	NFM	TONE=C110.9	34									
+C-Freq	CFreqId=336025	CGroupId=78555	Hawaii Electric Light Co. 'Hilo Base' and 'System'	Off	48480000	NFM	TONE=C110.9	34									
+Conventional	AgencyId=9582	StateId=15	Businesses	Off		Conventional								
+AreaState	AgencyId=9582	StateId=15
+AreaCounty	AgencyId=9582	CountyId=545
+C-Group	CGroupId=79196	AgencyId=9582	Utilities	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=340301	CGroupId=79196	Kauai Island Utility Cooperative (Privacy)	Off	154505000	AUTO	ColorCode=1	34									
+Conventional	AgencyId=8449	StateId=15	Department of Land and Natural Resources	Off		Conventional								
+AreaState	AgencyId=8449	StateId=15
+AreaCounty	AgencyId=8449	CountyId=0
+C-Group	CGroupId=71209	AgencyId=8449	Division of Conservation and Resource Enforcement (DOCARE)	Off	19.958333	-158.333333	319.3	Circle	
+C-Freq	CFreqId=295725	CGroupId=71209	Statewide (Green Net)	Off	154995000	NFM	TONE=C103.5	2									
+C-Freq	CFreqId=295726	CGroupId=71209	Tactical 1	Off	155895000	NFM		7									
+C-Freq	CFreqId=295727	CGroupId=71209	Tactical 2	Off	155985000	NFM		7									
+C-Freq	CFreqId=345522	CGroupId=71209	Tactical 3	Off	154980000	NFM		7									
+Conventional	AgencyId=1844	StateId=15	Department of Public Safety	Off		Conventional								
+AreaState	AgencyId=1844	StateId=15
+AreaCounty	AgencyId=1844	CountyId=0
+C-Group	CGroupId=14222	AgencyId=1844	Corrections	Off	19.958333	-158.333333	319.3	Circle	
+C-Freq	CFreqId=53119	CGroupId=14222	Most facilities except Waiawa	Off	155085000	FM		37									
+C-Group	CGroupId=14221	AgencyId=1844	Hawaii State Sheriff's Department	Off	19.958333	-158.333333	319.3	Circle	
+C-Freq	CFreqId=255172	CGroupId=14221	Honolulu	Off	774043750	NFM	NAC=710	2									
+Conventional	AgencyId=2048	StateId=15	Hotels	Off		Conventional								
+AreaState	AgencyId=2048	StateId=15
+AreaCounty	AgencyId=2048	CountyId=545
+C-Group	CGroupId=23614	AgencyId=2048	Lihue	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=340300	CGroupId=23614	Aqua Kauai Beach Club Resort	Off	464875000	NFM	TONE=C110.9	17									
+C-Freq	CFreqId=87010	CGroupId=23614	Kauai Marriott Beach Club and Resort	Off	461525000	FM	TONE=C107.2	17									
+C-Freq	CFreqId=87011	CGroupId=23614	Kauai Marriott Beach Club and Resort	Off	461575000	FM	TONE=C107.2	17									
+C-Freq	CFreqId=87012	CGroupId=23614	Kauai Marriott Beach Club and Resort	Off	461675000	FM	TONE=C107.2	17									
+C-Freq	CFreqId=87013	CGroupId=23614	Kauai Marriott Beach Club and Resort - Housekeeping	Off	464700000	FM	TONE=C192.8	17									
+C-Freq	CFreqId=87014	CGroupId=23614	Kauai Marriott Beach Club and Resort - Valets	Off	462550000	FM		17									
+C-Group	CGroupId=16588	AgencyId=2048	Princeville	Off	21.974000	-159.787000	41.0	Circle	
+C-Freq	CFreqId=242820	CGroupId=16588	Cliffs at Princeville	Off	460900000	FM	TONE=C103.5	17									
+C-Freq	CFreqId=242819	CGroupId=16588	Princeville Makai Golf Course	Off	462062500	FM	TONE=D413	17									
+C-Freq	CFreqId=61092	CGroupId=16588	St Regis Hotel	Off	462175000	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=242018	CGroupId=16588	St Regis Hotel	Off	462362500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=242782	CGroupId=16588	St Regis Hotel	Off	463337500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=61091	CGroupId=16588	St Regis Hotel	Off	463437500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=61093	CGroupId=16588	St Regis Hotel	Off	463625000	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=242017	CGroupId=16588	St Regis Hotel	Off	463812500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=61094	CGroupId=16588	St Regis Hotel	Off	464150000	AUTO	NAC=Srch	33									
+C-Freq	CFreqId=242783	CGroupId=16588	St Regis Hotel	Off	464212500	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=242020	CGroupId=16588	St Regis Hotel	Off	464550000	FM		17									
+C-Freq	CFreqId=242019	CGroupId=16588	St Regis Hotel	Off	464750000	AUTO	NAC=Srch	17									
+C-Freq	CFreqId=242781	CGroupId=16588	St Regis House Keeping	Off	464550000	FM	TONE=C67.0	17									
+C-Freq	CFreqId=242779	CGroupId=16588	Wyndham Princeville Operations	Off	462075000	FM	TONE=D271	17									
+C-Freq	CFreqId=242822	CGroupId=16588	Wyndham Princeville Operations	Off	464925000	FM	TONE=D271	17									
+Conventional	AgencyId=5658	StateId=15	Medevac	Off		Conventional								
+AreaState	AgencyId=5658	StateId=15
+AreaCounty	AgencyId=5658	CountyId=0
+C-Group	CGroupId=50310	AgencyId=5658	Hawaii Air Ambulance	Off	19.958333	-158.333333	319.3	Circle	
+C-Freq	CFreqId=204616	CGroupId=50310	Honolulu County Dispatch	Off	122825000	AM		15									
+Conventional	AgencyId=4294	StateId=15	State Civil Defense	Off		Conventional								
+AreaState	AgencyId=4294	StateId=15
+AreaCounty	AgencyId=4294	CountyId=0
+C-Group	CGroupId=41767	AgencyId=4294	Emergency Operations - UHF-Band	Off	19.958333	-158.333333	319.3	Circle	
+C-Freq	CFreqId=168298	CGroupId=41767	Emergency & Disaster Services Coordination	Off	453162500	NFM		22									
+C-Freq	CFreqId=168299	CGroupId=41767	Emergency & Disaster Services Coordination	Off	453187500	NFM		22									
+C-Freq	CFreqId=168300	CGroupId=41767	Emergency & Disaster Services Coordination	Off	458650000	NFM		22									
+C-Group	CGroupId=41766	AgencyId=4294	Emergency Operations - VHF-High band	Off	19.958333	-158.333333	319.3	Circle	
+C-Freq	CFreqId=168294	CGroupId=41766	Emergency & Disaster Services Coordination	Off	153747500	NFM		29									
+C-Freq	CFreqId=168293	CGroupId=41766	Emergency & Disaster Services Coordination	Off	153807500	NFM		29									
+C-Freq	CFreqId=168295	CGroupId=41766	Emergency & Disaster Services Coordination	Off	153972500	NFM		29									
+C-Freq	CFreqId=168296	CGroupId=41766	Emergency & Disaster Services Coordination	Off	155092500	NFM		29									
+C-Freq	CFreqId=168297	CGroupId=41766	Emergency & Disaster Services Coordination	Off	155152500	NFM		29									
+C-Freq	CFreqId=222853	CGroupId=41766	Statewide Civil Defense Intersystem (Yellow Net)	Off	155715000	NFM	TONE=C103.5	11									
+Trunk	TrunkId=5684	StateId=15	Ala Moana Center	Off		Ltr															NEXEDGE
+AreaState	TrunkId=5684	StateId=15
+AreaCounty	TrunkId=5684	CountyId=543
+Site	SiteId=12918	TrunkId=5684	Mall	Off	21.000000	157.000000	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12918			462100000	1	Srch
+T-Freq	TFreqId=0	SiteId=12918			463737500	11	Srch
+T-Freq	TFreqId=0	SiteId=12918			463987500	20	Srch
+T-Group	TGroupId=11214	TrunkId=5684	Operations	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=197371	TGroupId=11214	Mall Maintenance	Off	0-20-070	ALL	17									Any
+TGID	Tid=158060	TGroupId=11214	Mall Maintenance & Security Tac	Off	0-11-020	ALL	17									Any
+TGID	Tid=197370	TGroupId=11214	Mall Parking	Off	0-11-060	ALL	17									Any
+TGID	Tid=158059	TGroupId=11214	Mall Security	Off	0-01-010	ALL	17									Any
+Trunk	TrunkId=3125	StateId=15	ARINC (Honolulu International Airport)	Off		Motorola															NEXEDGE
+AreaState	TrunkId=3125	StateId=15
+AreaCounty	TrunkId=3125	CountyId=543
+Site	SiteId=5068	TrunkId=3125	Primary	Off	21.332039	-157.919487	5.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=5068			855587500	1	Srch
+T-Freq	TFreqId=0	SiteId=5068			856837500	2	Srch
+T-Freq	TFreqId=0	SiteId=5068			857837500	3	Srch
+T-Freq	TFreqId=0	SiteId=5068			858837500	4	Srch
+T-Freq	TFreqId=0	SiteId=5068			859837500	5	Srch
+T-Freq	TFreqId=0	SiteId=5068			860837500	6	Srch
+T-Group	TGroupId=14903	TrunkId=3125	All Nippon Airlines (ANA)	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=172391	TGroupId=14903	All Nippon Airlines Ch 1	Off	8272	ANALOG	17									Any
+T-Group	TGroupId=14904	TrunkId=3125	Japan Airlines (JAL)	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=117382	TGroupId=14904	Japan Airlines Ch 1 - Primary	Off	8192	ANALOG	17									Any
+TGID	Tid=117381	TGroupId=14904	Japan Airlines Ch 2	Off	8208	ANALOG	17									Any
+TGID	Tid=85536	TGroupId=14904	Japan Airlines Ch 3 - Catering	Off	8224	ANALOG	17									Any
+TGID	Tid=197567	TGroupId=14904	Japan Airlines Ch4 - Maintenance	Off	8240	ANALOG	17									Any
+T-Group	TGroupId=21223	TrunkId=3125	Worldwide Flight Services (WFS)	Off	21.323454	-157.929432	2.0	Circle	
+TGID	Tid=263169	TGroupId=21223	Automated Baggage System Operations	Off	8336	ANALOG	17									Any
+Trunk	TrunkId=3515	StateId=15	Daniel K. Inouye International Airport	Off		Motorola															NEXEDGE
+AreaState	TrunkId=3515	StateId=15
+AreaCounty	TrunkId=3515	CountyId=543
+Site	SiteId=5852	TrunkId=3515	Primary	Off	21.331830	-157.919750	10.0	AUTO	Custom	Wide	Circle						Srch
+BandPlan_Mot	SiteId=5852	851025000	854000000	25000	440	851012500	868987500	25000	0	0	0	25000	0	0	0	25000	0	0	0	25000	0	0	0	25000	0
+T-Freq	TFreqId=0	SiteId=5852			854037500	1	Srch
+T-Freq	TFreqId=0	SiteId=5852			856212500	2	Srch
+T-Freq	TFreqId=0	SiteId=5852			857212500	3	Srch
+T-Freq	TFreqId=0	SiteId=5852			858212500	4	Srch
+T-Freq	TFreqId=0	SiteId=5852			859212500	5	Srch
+T-Freq	TFreqId=0	SiteId=5852			860212500	6	Srch
+T-Group	TGroupId=9172	TrunkId=3515	Airport Operations	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=113115	TGroupId=9172	Custodial	Off	304	ANALOG	14									Any
+TGID	Tid=103082	TGroupId=9172	Electricians	Off	240	ANALOG	14									Any
+TGID	Tid=113114	TGroupId=9172	Engineering	Off	432	ANALOG	14									Any
+T-Group	TGroupId=9173	TrunkId=3515	Public Safety	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=103084	TGroupId=9173	EMS	Off	112	ANALOG	9									Any
+TGID	Tid=113113	TGroupId=9173	Fire TAC	Off	16	ANALOG	8									Any
+TGID	Tid=103085	TGroupId=9173	Fire TAC	Off	208	ANALOG	8									Any
+TGID	Tid=103083	TGroupId=9173	Fire/Police Dispatch	Off	80	ANALOG	1									Any
+TGID	Tid=113117	TGroupId=9173	Police TAC	Off	528	ANALOG	7									Any
+Trunk	TrunkId=5678	StateId=15	Four Seasons Resort Maui	Off		MotoTrbo															NEXEDGE
+AreaState	TrunkId=5678	StateId=15
+AreaCounty	TrunkId=5678	CountyId=546
+Site	SiteId=12906	TrunkId=5678	Wailea	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12906			452212500	1	Srch
+T-Freq	TFreqId=0	SiteId=12906			452750000	2	Srch
+T-Freq	TFreqId=0	SiteId=12906			461225000	3	Srch
+T-Freq	TFreqId=0	SiteId=12906			461300000	4	Srch
+T-Group	TGroupId=25613	TrunkId=5678	Resort	Off	20.885502	-156.636292	48.0	Circle	
+TGID	Tid=313624	TGroupId=25613	Bell Desk	Off	80	ALL	17									Any
+TGID	Tid=313623	TGroupId=25613	Events	Off	70	ALL	17									Any
+TGID	Tid=313625	TGroupId=25613	Operations	Off	60	ALL	17									Any
+TGID	Tid=313622	TGroupId=25613	Pool Operations	Off	40	ALL	17									Any
+TGID	Tid=313621	TGroupId=25613	Primary	Off	10	ALL	33									Any
+TGID	Tid=313755	TGroupId=25613	Security	Off	20	ALL	17									Any
+Trunk	TrunkId=8987	StateId=15	Halekulani Hotel	Off		MotoTrbo															NEXEDGE
+AreaState	TrunkId=8987	StateId=15
+AreaCounty	TrunkId=8987	CountyId=543
+Site	SiteId=28391	TrunkId=8987	Hotel	Off	21.281560	-157.834720	1.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=28391			461537500	1	5
+T-Freq	TFreqId=0	SiteId=28391			463962500	2	5
+T-Freq	TFreqId=0	SiteId=28391			463725000	3	5
+T-Group	TGroupId=25282	TrunkId=8987	Hotel Operations	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=310353	TGroupId=25282	Guest Services	Off	72	ALL	17									Any
+TGID	Tid=310352	TGroupId=25282	House Keeping	Off	61	ALL	17									Any
+TGID	Tid=310351	TGroupId=25282	Maintenance	Off	31	ALL	17									Any
+TGID	Tid=310350	TGroupId=25282	Security	Off	11	ALL	33									Any
+Trunk	TrunkId=8598	StateId=15	Hawaii County Public Safety System	Off		P25Standard															NEXEDGE
+AreaState	TrunkId=8598	StateId=15
+AreaCounty	TrunkId=8598	CountyId=542
+Site	SiteId=29608	TrunkId=8598	Captain Cook	Off	19.488810	-155.908970	15.0	AUTO	Standard	Wide	Circle						852
+T-Freq	TFreqId=0	SiteId=29608			155377500	1	Srch
+T-Freq	TFreqId=0	SiteId=29608			155212500	2	Srch
+T-Freq	TFreqId=0	SiteId=29608			155587500	3	Srch
+Site	SiteId=26809	TrunkId=8598	Hilo	Off	19.575198	-155.503131	56.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=26809			155212500	1	Srch
+T-Freq	TFreqId=0	SiteId=26809			155377500	2	Srch
+T-Freq	TFreqId=0	SiteId=26809			155572500	3	Srch
+T-Freq	TFreqId=0	SiteId=26809			156165000	4	Srch
+Site	SiteId=28697	TrunkId=8598	Honokaa	Off	19.575198	-155.503131	56.0	AUTO	Standard	Wide	Circle						854
+T-Freq	TFreqId=0	SiteId=28697			151062500	1	Srch
+T-Freq	TFreqId=0	SiteId=28697			151407500	2	Srch
+T-Freq	TFreqId=0	SiteId=28697			154807500	3	Srch
+Site	SiteId=29596	TrunkId=8598	Humuula (Mauna Kea)	Off	19.718060	-155.453330	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29596			151445000	1	Srch
+T-Freq	TFreqId=0	SiteId=29596			151295000	2	Srch
+T-Freq	TFreqId=0	SiteId=29596			151085000	3	Srch
+Site	SiteId=28699	TrunkId=8598	Kahua Ranch (Kamuela)	Off	19.575198	-155.503131	56.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=28699			151205000	1	Srch
+T-Freq	TFreqId=0	SiteId=28699			151490000	2	Srch
+T-Freq	TFreqId=0	SiteId=28699			155400000	3	Srch
+Site	SiteId=29558	TrunkId=8598	Kailua	Off	19.664330	-156.006940	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29558			151017500	1	Srch
+T-Freq	TFreqId=0	SiteId=29558			151152500	2	Srch
+T-Freq	TFreqId=0	SiteId=29558			151392500	3	Srch
+Site	SiteId=28700	TrunkId=8598	Kulani Cone (Volcano)	Off	19.575198	-155.503131	56.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=28700			155227500	1	Srch
+T-Freq	TFreqId=0	SiteId=28700			155362500	2	Srch
+T-Freq	TFreqId=0	SiteId=28700			155625000	3	Srch
+T-Freq	TFreqId=0	SiteId=28700			156112500	4	Srch
+Site	SiteId=28698	TrunkId=8598	Laupahoehoe	Off	19.575198	-155.503131	56.0	AUTO	Standard	Wide	Circle						857
+T-Freq	TFreqId=0	SiteId=28698			151115000	1	Srch
+T-Freq	TFreqId=0	SiteId=28698			151265000	2	Srch
+T-Freq	TFreqId=0	SiteId=28698			151422500	3	Srch
+Site	SiteId=29604	TrunkId=8598	Moanuiahea	Off	19.738640	-155.953110	15.0	AUTO	Standard	Wide	Circle						85C
+T-Freq	TFreqId=0	SiteId=29604			155182500	1	Srch
+T-Freq	TFreqId=0	SiteId=29604			155325000	2	Srch
+T-Freq	TFreqId=0	SiteId=29604			155520000	3	Srch
+Site	SiteId=29764	TrunkId=8598	Naalehu	Off	19.043670	-155.580060	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29764			151017500	1	Srch
+T-Freq	TFreqId=0	SiteId=29764			151205000	2	Srch
+T-Freq	TFreqId=0	SiteId=29764			151392500	3	Srch
+Site	SiteId=29597	TrunkId=8598	Papa Bay Estates (Ohia Mill)	Off	19.221920	-155.858920	15.0	AUTO	Standard	Wide	Circle						85E
+T-Freq	TFreqId=0	SiteId=29597			155955000	1	Srch
+T-Freq	TFreqId=0	SiteId=29597			155452500	2	Srch
+T-Freq	TFreqId=0	SiteId=29597			155677500	3	Srch
+Site	SiteId=26810	TrunkId=8598	Pepeekeo	Off	19.575198	-155.503131	56.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=26810			151017500	1	Srch
+T-Freq	TFreqId=0	SiteId=26810			151235000	2	Srch
+T-Freq	TFreqId=0	SiteId=26810			155587500	3	Srch
+Site	SiteId=29725	TrunkId=8598	South Point	Off	19.002690	-155.674830	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29725			155400000	1	Srch
+T-Freq	TFreqId=0	SiteId=29725			155790000	2	Srch
+T-Freq	TFreqId=0	SiteId=29725			156105000	3	Srch
+Site	SiteId=29559	TrunkId=8598	Waimea	Off	20.023610	-155.661110	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29559			151100000	1	Srch
+T-Freq	TFreqId=0	SiteId=29559			155677500	2	Srch
+T-Freq	TFreqId=0	SiteId=29559			156105000	3	Srch
+T-Group	TGroupId=25130	TrunkId=8598	Civil Defense	Off	19.575198	-155.503131	56.0	Circle	
+TGID	Tid=308515	TGroupId=25130	Civil Defense Ops	Off	6701	ALL	29									Any
+T-Group	TGroupId=25021	TrunkId=8598	Hawaii County Fire	Off	19.575198	-155.503131	56.0	Circle	
+TGID	Tid=307921	TGroupId=25021	Captain Cook/Keauhou/Kailua/Makalei Ops Channel	Off	6504	ALL	8									Any
+TGID	Tid=307930	TGroupId=25021	Central/Waiakea/Kawailani/Kaumana Ops Channel	Off	6501	ALL	8									Any
+TGID	Tid=313127	TGroupId=25021	Chopper East	Off	6508	ALL	8									Any
+TGID	Tid=313128	TGroupId=25021	Chopper West	Off	6509	ALL	8									Any
+TGID	Tid=310121	TGroupId=25021	East Hawaii Special Operations Channel	Off	6517	ALL	8									Any
+TGID	Tid=317927	TGroupId=25021	Hamakua Tactical Channel - 2	Off	6511	ALL	8									Any
+TGID	Tid=307379	TGroupId=25021	HFD Fire Control Emergency All-Call	Off	6500	ALL	3									Any
+TGID	Tid=307661	TGroupId=25021	HFD Fire Control Main Channel/Kau Ops	Off	6505	ALL	3									Any
+TGID	Tid=317926	TGroupId=25021	Hilo Tactical Channel - 2	Off	6510	ALL	8									Any
+TGID	Tid=307380	TGroupId=25021	Honoka'a/Laupahoehoe Ops Channel	Off	6502	ALL	8									Any
+TGID	Tid=317928	TGroupId=25021	Ka'u Tactical Channel - 2	Off	6514	ALL	8									Any
+TGID	Tid=308000	TGroupId=25021	Kea'au/Paradise Park/Pahoa Ops Channel	Off	6506	ALL	8									Any
+TGID	Tid=307922	TGroupId=25021	Kohala Tactical Channel - 2	Off	6512	ALL	8									Any
+TGID	Tid=309593	TGroupId=25021	Kona Tactical Channel - 2	Off	6513	ALL	8									Any
+TGID	Tid=307920	TGroupId=25021	Pohakulia Training Area Ops 1	Off	6507	ALL	8									Any
+TGID	Tid=317930	TGroupId=25021	Pohakulia Training Area Ops 2	Off	6516	ALL	8									Any
+TGID	Tid=317929	TGroupId=25021	Puna Tactical Channel - 2	Off	6515	ALL	8									Any
+TGID	Tid=307381	TGroupId=25021	Waimea/Waikoloa/Kohala Ops Channel	Off	6503	ALL	8									Any
+TGID	Tid=310122	TGroupId=25021	West Hawaii Special Operations Channel	Off	6518	ALL	8									Any
+T-Group	TGroupId=25020	TrunkId=8598	Hawaii County Police	Off	19.575198	-155.503131	56.0	Circle	
+TGID	Tid=317931	TGroupId=25020	Criminal Invesitgation Division - East Channel	Off	6102	ALL	7									Any
+TGID	Tid=317932	TGroupId=25020	Criminal Investigations Division - West Channel	Off	6103	ALL	7									Any
+TGID	Tid=307927	TGroupId=25020	District 1 Ops Channel (South Hilo)	Off	6104	ALL	2									Any
+TGID	Tid=307376	TGroupId=25020	District 2 & 3 Ops Channel (North Hilo & Hamakua)	Off	6105	ALL	2									Any
+TGID	Tid=307377	TGroupId=25020	District 4 Ops Channel (South Kohala)	Off	6106	ALL	2									Any
+TGID	Tid=307378	TGroupId=25020	District 5 Ops Channel (North Kohala)	Off	6107	ALL	2									Any
+TGID	Tid=307923	TGroupId=25020	District 6 Ops Channel (North & South Kona)	Off	6108	ALL	2									Any
+TGID	Tid=307999	TGroupId=25020	District 7 Ops Channel (Ka'u)	Off	6109	ALL	2									Any
+TGID	Tid=307928	TGroupId=25020	District 8 Ops Channel (Puna)	Off	6110	ALL	2									Any
+TGID	Tid=308453	TGroupId=25020	HPD Central Dispatch (Island Wide Call Channel	Off	6100	ALL	2									Any
+TGID	Tid=308090	TGroupId=25020	HPD East Hawaii Field Ops Channel	Off	6111	ALL	7									Any
+TGID	Tid=313129	TGroupId=25020	HPD Field Operations Channel - 1	Off	6114	ALL	7									Any
+TGID	Tid=308597	TGroupId=25020	HPD SRT/Vice Ops	Off	6101	ALL	7									Any
+TGID	Tid=308446	TGroupId=25020	HPD Traffic Enforcement Unit Channel	Off	6113	ALL	7									Any
+TGID	Tid=307924	TGroupId=25020	HPD West Hawaii Field Ops Channel	Off	6112	ALL	7									Any
+T-Group	TGroupId=25058	TrunkId=8598	Hawaii County Public Works	Off	19.575198	-155.503131	56.0	Circle	
+TGID	Tid=317936	TGroupId=25058	Aquatics Division	Off	6909	ALL	14									Any
+TGID	Tid=308451	TGroupId=25058	County of Hawaii Hamakua Ops	Off	6902	ALL	14									Any
+TGID	Tid=308091	TGroupId=25058	County of Hawaii Hilo Ops	Off	6901	ALL	14									Any
+TGID	Tid=308595	TGroupId=25058	County of Hawaii Ka'u Ops	Off	6905	ALL	14									Any
+TGID	Tid=317933	TGroupId=25058	County of Hawaii Kohala Ops	Off	6903	ALL	14									Any
+TGID	Tid=307932	TGroupId=25058	County of Hawaii Kona Ops	Off	6904	ALL	14									Any
+TGID	Tid=317934	TGroupId=25058	County of Hawaii Puna Ops	Off	6906	ALL	14									Any
+TGID	Tid=317938	TGroupId=25058	Hamakua DWS	Off	6911	ALL	14									Any
+TGID	Tid=317937	TGroupId=25058	Hilo DWS	Off	6910	ALL	14									Any
+TGID	Tid=307933	TGroupId=25058	Kailua-Kona DWS	Off	6913	ALL	14									Any
+TGID	Tid=308594	TGroupId=25058	Ka'u DWS	Off	6914	ALL	14									Any
+TGID	Tid=308452	TGroupId=25058	Kohala DWS	Off	6912	ALL	14									Any
+TGID	Tid=317935	TGroupId=25058	Parks and Recreation	Off	6908	ALL	14									Any
+TGID	Tid=317939	TGroupId=25058	Puna DWS	Off	6915	ALL	14									Any
+TGID	Tid=308596	TGroupId=25058	Solid Waste	Off	6907	ALL	14									Any
+Trunk	TrunkId=6834	StateId=15	Hawaii Wireless Interoperability Network (HIWIN)	Off		P25Standard															NEXEDGE
+AreaState	TrunkId=6834	StateId=15
+AreaCounty	TrunkId=6834	CountyId=0
+Site	SiteId=27195	TrunkId=6834	East Honolulu	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=27195			765937500	1	Srch
+T-Freq	TFreqId=0	SiteId=27195			773556250	2	Srch
+T-Freq	TFreqId=0	SiteId=27195			773806250	3	Srch
+T-Freq	TFreqId=0	SiteId=27195			774306250	4	Srch
+Site	SiteId=25828	TrunkId=6834	Hilo	Off	19.575198	-155.503131	56.0	AUTO	Standard	Wide	Circle						888
+T-Freq	TFreqId=0	SiteId=25828			769156250	1	Srch
+T-Freq	TFreqId=0	SiteId=25828			769406250	2	Srch
+T-Freq	TFreqId=0	SiteId=25828			769656250	3	Srch
+T-Freq	TFreqId=0	SiteId=25828			769906250	4	Srch
+T-Freq	TFreqId=0	SiteId=25828			770156250	5	Srch
+Site	SiteId=17570	TrunkId=6834	Honolulu	Off	20.797201	-157.719727	217.1	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=17570			769706250	1	Srch
+T-Freq	TFreqId=0	SiteId=17570			769356250	2	Srch
+T-Freq	TFreqId=0	SiteId=17570			769618750	3	Srch
+T-Freq	TFreqId=0	SiteId=17570			769956250	4	Srch
+T-Freq	TFreqId=0	SiteId=17570			770293750	5	Srch
+Site	SiteId=17573	TrunkId=6834	Honolulu 2	Off	20.797201	-157.719727	217.1	AUTO	Standard	Wide	Circle						888
+T-Freq	TFreqId=0	SiteId=17573			769156250	1	Srch
+T-Freq	TFreqId=0	SiteId=17573			769406250	2	Srch
+T-Freq	TFreqId=0	SiteId=17573			769656250	3	Srch
+T-Freq	TFreqId=0	SiteId=17573			769906250	4	Srch
+T-Freq	TFreqId=0	SiteId=17573			770156250	5	Srch
+Site	SiteId=29971	TrunkId=6834	Kawaihae	Off	20.040844	-155.830448	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29971			773831250	1	Srch
+T-Freq	TFreqId=0	SiteId=29971			774331250	2	Srch
+T-Freq	TFreqId=0	SiteId=29971			774831250	3	Srch
+Site	SiteId=32367	TrunkId=6834	Kona	Off	19.575198	-155.503131	56.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=32367			769206250	1	Srch
+T-Freq	TFreqId=0	SiteId=32367			769456250	2	Srch
+T-Freq	TFreqId=0	SiteId=32367			769706250	3	Srch
+T-Freq	TFreqId=0	SiteId=32367			769956250	4	Srch
+T-Freq	TFreqId=0	SiteId=32367			770206250	5	Srch
+Site	SiteId=25472	TrunkId=6834	Site: 1-16	Off	22.067187	-159.513245	20.0	AUTO	Standard	Wide	Circle						888
+T-Freq	TFreqId=0	SiteId=25472			773793750	1	Srch
+T-Freq	TFreqId=0	SiteId=25472			774293750	2	Srch
+T-Freq	TFreqId=0	SiteId=25472			774543750	3	Srch
+T-Freq	TFreqId=0	SiteId=25472			774793750	4	Srch
+Site	SiteId=25237	TrunkId=6834	Site: 1-28	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						888
+T-Freq	TFreqId=0	SiteId=25237			773793750	1	Srch
+T-Freq	TFreqId=0	SiteId=25237			774043750	2	Srch
+T-Freq	TFreqId=0	SiteId=25237			774293750	3	Srch
+T-Freq	TFreqId=0	SiteId=25237			774543750	4	Srch
+Site	SiteId=25471	TrunkId=6834	Site: 1-32	Off	21.974000	-159.787000	41.0	AUTO	Standard	Wide	Circle						888
+T-Freq	TFreqId=0	SiteId=25471			769181250	1	Srch
+T-Freq	TFreqId=0	SiteId=25471			769431250	2	Srch
+T-Freq	TFreqId=0	SiteId=25471			769681250	3	Srch
+T-Freq	TFreqId=0	SiteId=25471			769931250	4	Srch
+T-Freq	TFreqId=0	SiteId=25471			770431250	5	Srch
+T-Freq	TFreqId=0	SiteId=25471			770681250	6	Srch
+Site	SiteId=17831	TrunkId=6834	Site: 1-33	Off	20.797201	-157.719727	217.1	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=17831			769181250	1	Srch
+Site	SiteId=29573	TrunkId=6834	Site: 1-34	Off	20.797201	-157.719727	217.1	AUTO	Standard	Wide	Circle						888
+T-Freq	TFreqId=0	SiteId=29573			769168750	1	Srch
+T-Freq	TFreqId=0	SiteId=29573			769418750	2	Srch
+T-Freq	TFreqId=0	SiteId=29573			769668750	3	Srch
+T-Freq	TFreqId=0	SiteId=29573			769918750	4	Srch
+T-Freq	TFreqId=0	SiteId=29573			770168750	5	Srch
+Site	SiteId=23372	TrunkId=6834	Site: 1-38	Off	20.797201	-157.719727	217.1	AUTO	Standard	Wide	Circle						888
+T-Freq	TFreqId=0	SiteId=23372			773556250	1	Srch
+T-Freq	TFreqId=0	SiteId=23372			773806250	2	Srch
+T-Freq	TFreqId=0	SiteId=23372			774306250	3	Srch
+T-Freq	TFreqId=0	SiteId=23372			774556250	4	Srch
+T-Freq	TFreqId=0	SiteId=23372			774806250	5	Srch
+Site	SiteId=25863	TrunkId=6834	Site: 1-39	Off	20.797201	-157.719727	217.1	AUTO	Standard	Wide	Circle						888
+T-Freq	TFreqId=0	SiteId=25863			770406250	1	Srch
+T-Freq	TFreqId=0	SiteId=25863			770906250	2	Srch
+T-Freq	TFreqId=0	SiteId=25863			773031250	3	Srch
+T-Freq	TFreqId=0	SiteId=25863			773281250	4	Srch
+T-Freq	TFreqId=0	SiteId=25863			773531250	5	Srch
+Site	SiteId=25238	TrunkId=6834	Site: 1-46	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						888
+T-Freq	TFreqId=0	SiteId=25238			773843750	1	Srch
+T-Freq	TFreqId=0	SiteId=25238			774093750	2	Srch
+T-Freq	TFreqId=0	SiteId=25238			774343750	3	Srch
+T-Freq	TFreqId=0	SiteId=25238			774593750	4	Srch
+T-Freq	TFreqId=0	SiteId=25238			774843750	5	Srch
+Site	SiteId=25239	TrunkId=6834	Site: 1-48	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						888
+T-Freq	TFreqId=0	SiteId=25239			769218750	1	Srch
+T-Freq	TFreqId=0	SiteId=25239			769468750	2	Srch
+T-Freq	TFreqId=0	SiteId=25239			769718750	3	Srch
+T-Freq	TFreqId=0	SiteId=25239			769968750	4	Srch
+T-Freq	TFreqId=0	SiteId=25239			770468750	5	Srch
+Site	SiteId=29574	TrunkId=6834	Site: 1-67	Off	20.797201	-157.719727	217.1	AUTO	Standard	Wide	Circle						888
+T-Freq	TFreqId=0	SiteId=29574			769193750	1	Srch
+T-Freq	TFreqId=0	SiteId=29574			769443750	2	Srch
+T-Freq	TFreqId=0	SiteId=29574			769693750	3	Srch
+T-Freq	TFreqId=0	SiteId=29574			769943750	4	Srch
+T-Freq	TFreqId=0	SiteId=29574			770193750	5	Srch
+Site	SiteId=29575	TrunkId=6834	Site: 1-71	Off	20.797201	-157.719727	217.1	AUTO	Standard	Wide	Circle						888
+T-Freq	TFreqId=0	SiteId=29575			773793750	1	Srch
+T-Freq	TFreqId=0	SiteId=29575			774293750	2	Srch
+T-Freq	TFreqId=0	SiteId=29575			774543750	3	Srch
+T-Freq	TFreqId=0	SiteId=29575			774793750	4	Srch
+T-Group	TGroupId=15152	TrunkId=6834	Radio Technicians	Off	20.797201	-157.719727	217.1	Circle	
+TGID	Tid=199450	TGroupId=15152	Range and Audio Testing	Off	1	ALL	21									Any
+TGID	Tid=199451	TGroupId=15152	Range and Audio Testing	Off	2	ALL	21									Any
+TGID	Tid=199452	TGroupId=15152	Range and Audio Testing	Off	7	ALL	21									Any
+T-Group	TGroupId=23200	TrunkId=6834	University of Hawaii	Off	21.299313	-157.816197	2.0	Circle	
+TGID	Tid=290405	TGroupId=23200	Univ of Hawaii at Manoa: Dept of Public Safety - Primary Ops	Off	7952	ALL	2									Any
+Trunk	TrunkId=3831	StateId=15	Hawaiian Airlines	Off		Ltr															NEXEDGE
+AreaState	TrunkId=3831	StateId=15
+AreaCounty	TrunkId=3831	CountyId=543
+Site	SiteId=6921	TrunkId=3831	Confirmed LCN	Off	21.333500	-157.923360	10.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=6921			462325000	1	Srch
+T-Freq	TFreqId=0	SiteId=6921			462000000	2	Srch
+T-Freq	TFreqId=0	SiteId=6921			463325000	3	Srch
+T-Freq	TFreqId=0	SiteId=6921			464412500	4	Srch
+T-Freq	TFreqId=0	SiteId=6921			464812500	5	Srch
+T-Group	TGroupId=9490	TrunkId=3831	All	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=188964	TGroupId=9490	Contract Services	Off	0-04-040	ALL	17									Any
+TGID	Tid=117383	TGroupId=9490	Inter-Island Terminal Flight Operations	Off	0-01-010	ALL	17									Any
+TGID	Tid=263032	TGroupId=9490	Mainland Ramp	Off	0-02-030	ALL	17									Any
+TGID	Tid=117384	TGroupId=9490	Mainland/International Terminal Flight Operations	Off	0-02-010	ALL	17									Any
+TGID	Tid=117385	TGroupId=9490	Maintenance Ch 1	Off	0-03-035	ALL	17									Any
+TGID	Tid=197568	TGroupId=9490	Maintenance Ch 2	Off	0-02-025	ALL	17									Any
+TGID	Tid=263031	TGroupId=9490	Ohana Commuter Ops	Off	0-02-020	ALL	17									Any
+TGID	Tid=197569	TGroupId=9490	Wheelchairs	Off	0-01-030	ALL	17									Any
+Trunk	TrunkId=5704	StateId=15	Hilo International Airport Authority	Off		Motorola															NEXEDGE
+AreaState	TrunkId=5704	StateId=15
+AreaCounty	TrunkId=5704	CountyId=542
+Site	SiteId=12972	TrunkId=5704	Site 1	Off	19.715000	-155.041940	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12972			856962500	1	Srch
+T-Freq	TFreqId=0	SiteId=12972			857962500	2	Srch
+T-Freq	TFreqId=0	SiteId=12972			858962500	3	Srch
+T-Group	TGroupId=11250	TrunkId=5704	All	Off	19.575198	-155.503131	56.0	Circle	
+TGID	Tid=275362	TGroupId=11250	Alarm Technicians	Off	32800	DIGITAL	14									Any
+TGID	Tid=275363	TGroupId=11250	Maintenance	Off	32816	DIGITAL	14									Any
+TGID	Tid=158281	TGroupId=11250	Police	Off	32912	DIGITAL	2									Any
+TGID	Tid=275364	TGroupId=11250	Traffic / Parking	Off	32848	DIGITAL	23									Any
+Trunk	TrunkId=9359	StateId=15	Hilton Hawaiian Village Hotel	Off		MotoTrbo															NEXEDGE
+AreaState	TrunkId=9359	StateId=15
+AreaCounty	TrunkId=9359	CountyId=543
+Site	SiteId=29752	TrunkId=9359	Hawaiian Village	Off	21.283780	-157.836420	3.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29752			461650000	1	1
+T-Freq	TFreqId=0	SiteId=29752			464425000	2	1
+T-Freq	TFreqId=0	SiteId=29752			464900000	3	1
+T-Group	TGroupId=25252	TrunkId=9359	Hotel Operations	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=310014	TGroupId=25252	Bell Desk	Off	120	ALL	17									Any
+TGID	Tid=310013	TGroupId=25252	Security	Off	100	ALL	33									Any
+Trunk	TrunkId=1002	StateId=15	Honolulu County Public Safety System	Off		Edacs															NEXEDGE
+AreaState	TrunkId=1002	StateId=15
+AreaCounty	TrunkId=1002	CountyId=543
+Site	SiteId=6643	TrunkId=1002	Keaau	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=6643			851087500	1	Srch
+T-Freq	TFreqId=0	SiteId=6643			851562500	2	Srch
+T-Freq	TFreqId=0	SiteId=6643			851837500	3	Srch
+T-Freq	TFreqId=0	SiteId=6643			852312500	4	Srch
+Site	SiteId=6648	TrunkId=1002	Lualualei	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=6648			852675000	1	Srch
+T-Freq	TFreqId=0	SiteId=6648			852925000	2	Srch
+T-Freq	TFreqId=0	SiteId=6648			853175000	3	Srch
+T-Freq	TFreqId=0	SiteId=6648			853425000	4	Srch
+T-Freq	TFreqId=0	SiteId=6648			853675000	5	Srch
+T-Freq	TFreqId=0	SiteId=6648			853925000	6	Srch
+Site	SiteId=19867	TrunkId=1002	Metro Simulcast	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=19867			851112500	1	Srch
+T-Freq	TFreqId=0	SiteId=19867			851587500	2	Srch
+T-Freq	TFreqId=0	SiteId=19867			852037500	3	Srch
+T-Freq	TFreqId=0	SiteId=19867			852337500	4	Srch
+T-Freq	TFreqId=0	SiteId=19867			852787500	5	Srch
+T-Freq	TFreqId=0	SiteId=19867			853037500	6	Srch
+T-Freq	TFreqId=0	SiteId=19867			853287500	7	Srch
+T-Freq	TFreqId=0	SiteId=19867			853537500	8	Srch
+T-Freq	TFreqId=0	SiteId=19867			853787500	9	Srch
+T-Freq	TFreqId=0	SiteId=19867			854387500	10	Srch
+T-Freq	TFreqId=0	SiteId=19867			851337500	11	Srch
+T-Freq	TFreqId=0	SiteId=19867			851750000	12	Srch
+T-Freq	TFreqId=0	SiteId=19867			852087500	13	Srch
+T-Freq	TFreqId=0	SiteId=19867			852562500	14	Srch
+T-Freq	TFreqId=0	SiteId=19867			852837500	15	Srch
+T-Freq	TFreqId=0	SiteId=19867			853087500	16	Srch
+T-Freq	TFreqId=0	SiteId=19867			853337500	17	Srch
+T-Freq	TFreqId=0	SiteId=19867			853587500	18	Srch
+T-Freq	TFreqId=0	SiteId=19867			853837500	19	Srch
+T-Freq	TFreqId=0	SiteId=19867			854162500	20	Srch
+Site	SiteId=6651	TrunkId=1002	Mokuleia	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=6651			851062500	1	Srch
+T-Freq	TFreqId=0	SiteId=6651			851312500	2	Srch
+T-Freq	TFreqId=0	SiteId=6651			851812500	3	Srch
+T-Freq	TFreqId=0	SiteId=6651			852287500	4	Srch
+T-Freq	TFreqId=0	SiteId=6651			852750000	5	Srch
+T-Freq	TFreqId=0	SiteId=6651			853500000	6	Srch
+T-Freq	TFreqId=0	SiteId=6651			853750000	7	Srch
+Site	SiteId=6647	TrunkId=1002	Puu Manawahua	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=6647			851137500	1	Srch
+T-Freq	TFreqId=0	SiteId=6647			851387500	2	Srch
+T-Freq	TFreqId=0	SiteId=6647			851637500	3	Srch
+T-Freq	TFreqId=0	SiteId=6647			851887500	4	Srch
+T-Freq	TFreqId=0	SiteId=6647			852137500	5	Srch
+T-Freq	TFreqId=0	SiteId=6647			852387500	6	Srch
+T-Freq	TFreqId=0	SiteId=6647			852637500	7	Srch
+T-Freq	TFreqId=0	SiteId=6647			852887500	8	Srch
+Site	SiteId=6642	TrunkId=1002	Sand Island	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=6642			851362500	1	Srch
+T-Freq	TFreqId=0	SiteId=6642			851612500	2	Srch
+T-Freq	TFreqId=0	SiteId=6642			851862500	3	Srch
+T-Freq	TFreqId=0	SiteId=6642			852112500	4	Srch
+T-Freq	TFreqId=0	SiteId=6642			852362500	5	Srch
+T-Freq	TFreqId=0	SiteId=6642			852612500	6	Srch
+T-Freq	TFreqId=0	SiteId=6642			852862500	7	Srch
+T-Freq	TFreqId=0	SiteId=6642			853112500	8	Srch
+T-Freq	TFreqId=0	SiteId=6642			853362500	9	Srch
+Site	SiteId=6646	TrunkId=1002	USN Whitmore	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=6646			851037500	1	Srch
+T-Freq	TFreqId=0	SiteId=6646			851287500	2	Srch
+T-Freq	TFreqId=0	SiteId=6646			851787500	3	Srch
+T-Freq	TFreqId=0	SiteId=6646			852250000	4	Srch
+T-Freq	TFreqId=0	SiteId=6646			852587500	5	Srch
+Site	SiteId=1160	TrunkId=1002	Waianae	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=1160			851175000	1	Srch
+T-Freq	TFreqId=0	SiteId=1160			851425000	2	Srch
+T-Freq	TFreqId=0	SiteId=1160			851675000	3	Srch
+T-Freq	TFreqId=0	SiteId=1160			851925000	4	Srch
+T-Freq	TFreqId=0	SiteId=1160			852175000	5	Srch
+T-Freq	TFreqId=0	SiteId=1160			852425000	6	Srch
+Site	SiteId=6649	TrunkId=1002	Waikiki	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=6649			851250000	1	Srch
+T-Freq	TFreqId=0	SiteId=6649			851537500	2	Srch
+T-Freq	TFreqId=0	SiteId=6649			852062500	3	Srch
+T-Freq	TFreqId=0	SiteId=6649			852537500	4	Srch
+T-Freq	TFreqId=0	SiteId=6649			852812500	5	Srch
+T-Freq	TFreqId=0	SiteId=6649			853062500	6	Srch
+T-Freq	TFreqId=0	SiteId=6649			853312500	7	Srch
+Site	SiteId=6644	TrunkId=1002	Windward Simulcast	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=6644			851162500	1	Srch
+T-Freq	TFreqId=0	SiteId=6644			851412500	2	Srch
+T-Freq	TFreqId=0	SiteId=6644			851662500	3	Srch
+T-Freq	TFreqId=0	SiteId=6644			851912500	4	Srch
+T-Freq	TFreqId=0	SiteId=6644			852162500	5	Srch
+T-Freq	TFreqId=0	SiteId=6644			852412500	6	Srch
+T-Freq	TFreqId=0	SiteId=6644			852662500	7	Srch
+T-Freq	TFreqId=0	SiteId=6644			852912500	8	Srch
+T-Freq	TFreqId=0	SiteId=6644			853162500	9	Srch
+T-Freq	TFreqId=0	SiteId=6644			853412500	10	Srch
+T-Freq	TFreqId=0	SiteId=6644			853662500	11	Srch
+T-Freq	TFreqId=0	SiteId=6644			853912500	12	Srch
+T-Group	TGroupId=5474	TrunkId=1002	Department of Emergency Management	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=38414	TGroupId=5474	All Call	Off	08-020	ALL	29									Any
+TGID	Tid=38429	TGroupId=5474	DEM Common	Off	08-037	ALL	29									Any
+TGID	Tid=38421	TGroupId=5474	EM-PAT 1	Off	08-027	ALL	29									Any
+TGID	Tid=38422	TGroupId=5474	EM-PAT 2	Off	08-030	ALL	29									Any
+TGID	Tid=38423	TGroupId=5474	EM-PAT 3	Off	08-031	ALL	29									Any
+TGID	Tid=38424	TGroupId=5474	EM-PAT 4	Off	08-032	ALL	29									Any
+TGID	Tid=38425	TGroupId=5474	EM-PAT 5	Off	08-033	ALL	29									Any
+TGID	Tid=38426	TGroupId=5474	EM-PAT 6	Off	08-034	ALL	29									Any
+TGID	Tid=38427	TGroupId=5474	EM-PAT 7	Off	08-035	ALL	29									Any
+TGID	Tid=38428	TGroupId=5474	EM-PAT 8	Off	08-036	ALL	29									Any
+TGID	Tid=38415	TGroupId=5474	OCDA D1	Off	08-021	ALL	29									Any
+TGID	Tid=38416	TGroupId=5474	OCDA D2	Off	08-022	ALL	29									Any
+TGID	Tid=38417	TGroupId=5474	OCDA D3	Off	08-023	ALL	29									Any
+TGID	Tid=38418	TGroupId=5474	OCDA D4	Off	08-024	ALL	29									Any
+TGID	Tid=38419	TGroupId=5474	OCDA D5	Off	08-025	ALL	29									Any
+TGID	Tid=38420	TGroupId=5474	OCDA D6	Off	08-026	ALL	29									Any
+T-Group	TGroupId=5478	TrunkId=1002	EMS	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=152688	TGroupId=5478	Dispatch	Off	08-081	ALL	4									Any
+TGID	Tid=189108	TGroupId=5478	EMS Tactical Ops 1	Off	08-093	ALL	9									Any
+TGID	Tid=189109	TGroupId=5478	EMS Tactical Ops 2	Off	08-094	ALL	9									Any
+TGID	Tid=246456	TGroupId=5478	EMS Tactical Ops 3	Off	08-095	ALL	9									Any
+TGID	Tid=246457	TGroupId=5478	EMS Tactical Ops 4	Off	08-096	ALL	9									Any
+TGID	Tid=116467	TGroupId=5478	EMS Tactical Ops 5	Off	08-097	ALL	9									Any
+TGID	Tid=152689	TGroupId=5478	EMS To Hospital A	Off	08-082	ALL	12									Any
+TGID	Tid=246451	TGroupId=5478	EMS To Hospital B	Off	08-083	ALL	12									Any
+TGID	Tid=246452	TGroupId=5478	EMS To Hospital C	Off	08-084	ALL	12									Any
+TGID	Tid=246453	TGroupId=5478	EMS To Hospital D	Off	08-085	ALL	12									Any
+TGID	Tid=246454	TGroupId=5478	EMS To Hospital E	Off	08-086	ALL	12									Any
+TGID	Tid=246455	TGroupId=5478	EMS To Hospital F	Off	08-087	ALL	12									Any
+TGID	Tid=116466	TGroupId=5478	MEDICOM (EMS unit to Doctor/Nurse advisory)	Off	08-001	ALL	12									Any
+T-Group	TGroupId=19985	TrunkId=1002	Hawaii Healthcare Association	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=246458	TGroupId=19985	AMR Oahu Dispatch	Off	09-017	ALL	4									Any
+T-Group	TGroupId=5475	TrunkId=1002	Honolulu Fire	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=189244	TGroupId=5475	B1 Tac 1	Off	06-141	ALL	8									Any
+TGID	Tid=189245	TGroupId=5475	B1 Tac 2	Off	06-142	ALL	8									Any
+TGID	Tid=189229	TGroupId=5475	B1 Tac 3	Off	06-041	ALL	8									Any
+TGID	Tid=189230	TGroupId=5475	B1 Tac 4	Off	06-042	ALL	8									Any
+TGID	Tid=189231	TGroupId=5475	B1 Tac 5	Off	06-043	ALL	8									Any
+TGID	Tid=189246	TGroupId=5475	B2 Tac 1	Off	06-143	ALL	8									Any
+TGID	Tid=189247	TGroupId=5475	B2 Tac 2	Off	06-144	ALL	8									Any
+TGID	Tid=189232	TGroupId=5475	B2 Tac 3	Off	06-061	ALL	8									Any
+TGID	Tid=189233	TGroupId=5475	B2 Tac 4	Off	06-062	ALL	8									Any
+TGID	Tid=189234	TGroupId=5475	B2 Tac 5	Off	06-063	ALL	8									Any
+TGID	Tid=189248	TGroupId=5475	B3 Tac 1	Off	06-145	ALL	8									Any
+TGID	Tid=189249	TGroupId=5475	B3 Tac 2	Off	06-146	ALL	8									Any
+TGID	Tid=189235	TGroupId=5475	B3 Tac 3	Off	06-081	ALL	8									Any
+TGID	Tid=189236	TGroupId=5475	B3 Tac 4	Off	06-082	ALL	8									Any
+TGID	Tid=189237	TGroupId=5475	B3 Tac 5	Off	06-083	ALL	8									Any
+TGID	Tid=189250	TGroupId=5475	B4 Tac 1	Off	06-147	ALL	8									Any
+TGID	Tid=189251	TGroupId=5475	B4 Tac 2	Off	06-150	ALL	8									Any
+TGID	Tid=189238	TGroupId=5475	B4 Tac 3	Off	06-101	ALL	8									Any
+TGID	Tid=189239	TGroupId=5475	B4 Tac 4	Off	06-102	ALL	8									Any
+TGID	Tid=189240	TGroupId=5475	B4 Tac 5	Off	06-103	ALL	8									Any
+TGID	Tid=189252	TGroupId=5475	B5 Tac 1	Off	06-151	ALL	8									Any
+TGID	Tid=189253	TGroupId=5475	B5 Tac 2	Off	06-152	ALL	8									Any
+TGID	Tid=189241	TGroupId=5475	B5 Tac 3	Off	06-121	ALL	8									Any
+TGID	Tid=189242	TGroupId=5475	B5 Tac 4	Off	06-122	ALL	8									Any
+TGID	Tid=189243	TGroupId=5475	B5 Tac 5	Off	06-123	ALL	8									Any
+TGID	Tid=189226	TGroupId=5475	HFD All	Off	06-000	ALL	3									Any
+TGID	Tid=189228	TGroupId=5475	HFD Dispatch	Off	06-021	ALL	3									Any
+TGID	Tid=290045	TGroupId=5475	HFD Dispatch En Route	Off	06-022	ALL	3									Any
+TGID	Tid=189227	TGroupId=5475	HFD Fleet	Off	06-020	ALL	8									Any
+TGID	Tid=189254	TGroupId=5475	Island 1	Off	07-000	ALL	8									Any
+TGID	Tid=189255	TGroupId=5475	Island 2	Off	07-001	ALL	8									Any
+TGID	Tid=189256	TGroupId=5475	Island 3	Off	07-002	ALL	8									Any
+T-Group	TGroupId=14014	TrunkId=1002	Honolulu Police District 1 - Central Honolulu	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=189175	TGroupId=14014	A1 Patrol	Off	02-027	ALL	23									Any
+TGID	Tid=189174	TGroupId=14014	District 1 Alert	Off	02-026	ALL	2									Any
+TGID	Tid=189172	TGroupId=14014	District 1 Critical Response Unit	Off	02-023	ALL	7									Any
+TGID	Tid=189171	TGroupId=14014	District 1 Events	Off	02-022	ALL	7									Any
+TGID	Tid=189169	TGroupId=14014	District 1 Fleet	Off	02-020	ALL	7									Any
+TGID	Tid=189170	TGroupId=14014	District 1 Patrol	Off	02-021	ALL	2									Any
+TGID	Tid=189173	TGroupId=14014	District 1 Tactical	Off	02-024	ALL	7									Any
+T-Group	TGroupId=14015	TrunkId=1002	Honolulu Police District 2 - Wahiawa / North Shore	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=189182	TGroupId=14015	A2 Patrol	Off	02-047	ALL	23									Any
+TGID	Tid=189181	TGroupId=14015	District 2 Alert	Off	02-046	ALL	2									Any
+TGID	Tid=189179	TGroupId=14015	District 2 Critical Response Unit	Off	02-043	ALL	7									Any
+TGID	Tid=189178	TGroupId=14015	District 2 Events	Off	02-042	ALL	7									Any
+TGID	Tid=189176	TGroupId=14015	District 2 Fleet	Off	02-040	ALL	7									Any
+TGID	Tid=189177	TGroupId=14015	District 2 Patrol	Off	02-041	ALL	2									Any
+TGID	Tid=189180	TGroupId=14015	District 2 Tactical	Off	02-044	ALL	7									Any
+T-Group	TGroupId=14016	TrunkId=1002	Honolulu Police District 3 - Pearl City	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=189189	TGroupId=14016	A3 Patrol	Off	02-067	ALL	23									Any
+TGID	Tid=189188	TGroupId=14016	District 3 Alert	Off	02-066	ALL	2									Any
+TGID	Tid=189186	TGroupId=14016	District 3 Critical Response Unit	Off	02-063	ALL	7									Any
+TGID	Tid=189185	TGroupId=14016	District 3 Events	Off	02-062	ALL	7									Any
+TGID	Tid=189183	TGroupId=14016	District 3 Fleet	Off	02-060	ALL	7									Any
+TGID	Tid=189184	TGroupId=14016	District 3 Patrol	Off	02-061	ALL	2									Any
+TGID	Tid=189187	TGroupId=14016	District 3 Tactical	Off	02-064	ALL	7									Any
+T-Group	TGroupId=14017	TrunkId=1002	Honolulu Police District 4 - Kaneohe / Kailua / Kahuku	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=189197	TGroupId=14017	A4 Patrol	Off	02-087	ALL	23									Any
+TGID	Tid=189196	TGroupId=14017	District 4 Alert	Off	02-086	ALL	2									Any
+TGID	Tid=189194	TGroupId=14017	District 4 Critical Response Unit	Off	02-083	ALL	7									Any
+TGID	Tid=189193	TGroupId=14017	District 4 Events	Off	02-082	ALL	7									Any
+TGID	Tid=189191	TGroupId=14017	District 4 Fleet	Off	02-080	ALL	7									Any
+TGID	Tid=189192	TGroupId=14017	District 4 Patrol	Off	02-081	ALL	2									Any
+TGID	Tid=189195	TGroupId=14017	District 4 Tactical	Off	02-084	ALL	7									Any
+T-Group	TGroupId=14018	TrunkId=1002	Honolulu Police District 5 - Kalihi	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=189204	TGroupId=14018	A5 Patrol	Off	02-107	ALL	23									Any
+TGID	Tid=189203	TGroupId=14018	District 5 Alert	Off	02-106	ALL	2									Any
+TGID	Tid=189201	TGroupId=14018	District 5 Critical Response Unit	Off	02-103	ALL	7									Any
+TGID	Tid=189200	TGroupId=14018	District 5 Events	Off	02-102	ALL	7									Any
+TGID	Tid=189198	TGroupId=14018	District 5 Fleet	Off	02-100	ALL	7									Any
+TGID	Tid=189199	TGroupId=14018	District 5 Patrol	Off	02-101	ALL	2									Any
+TGID	Tid=189202	TGroupId=14018	District 5 Tactical	Off	02-104	ALL	7									Any
+T-Group	TGroupId=14019	TrunkId=1002	Honolulu Police District 6 - Waikiki	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=189211	TGroupId=14019	A6 Patrol	Off	02-127	ALL	23									Any
+TGID	Tid=189210	TGroupId=14019	District 6 Alert	Off	02-126	ALL	2									Any
+TGID	Tid=189208	TGroupId=14019	District 6 Critical Response Unit	Off	02-123	ALL	7									Any
+TGID	Tid=189207	TGroupId=14019	District 6 Events	Off	02-122	ALL	7									Any
+TGID	Tid=189205	TGroupId=14019	District 6 Fleet	Off	02-120	ALL	7									Any
+TGID	Tid=189206	TGroupId=14019	District 6 Patrol	Off	02-121	ALL	2									Any
+TGID	Tid=189209	TGroupId=14019	District 6 Tactical	Off	02-124	ALL	7									Any
+T-Group	TGroupId=14020	TrunkId=1002	Honolulu Police District 7 - East Honolulu	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=189218	TGroupId=14020	A7 Patrol	Off	02-147	ALL	23									Any
+TGID	Tid=189217	TGroupId=14020	District 7 Alert	Off	02-146	ALL	2									Any
+TGID	Tid=189215	TGroupId=14020	District 7 Critical Response Unit	Off	02-143	ALL	7									Any
+TGID	Tid=189214	TGroupId=14020	District 7 Events	Off	02-142	ALL	7									Any
+TGID	Tid=189212	TGroupId=14020	District 7 Fleet	Off	02-140	ALL	7									Any
+TGID	Tid=189213	TGroupId=14020	District 7 Patrol	Off	02-141	ALL	2									Any
+TGID	Tid=189216	TGroupId=14020	District 7 Tactical	Off	02-144	ALL	7									Any
+T-Group	TGroupId=14021	TrunkId=1002	Honolulu Police District 8 - Kapolei / Waianae	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=189225	TGroupId=14021	A8 Patrol	Off	03-007	ALL	23									Any
+TGID	Tid=189224	TGroupId=14021	District 8 Alert	Off	03-006	ALL	2									Any
+TGID	Tid=189222	TGroupId=14021	District 8 Critical Response Unit	Off	03-003	ALL	7									Any
+TGID	Tid=189221	TGroupId=14021	District 8 Event	Off	03-002	ALL	7									Any
+TGID	Tid=189219	TGroupId=14021	District 8 Fleet	Off	03-000	ALL	7									Any
+TGID	Tid=189220	TGroupId=14021	District 8 Patrol	Off	03-001	ALL	2									Any
+TGID	Tid=189223	TGroupId=14021	District 8 Tactical	Off	03-004	ALL	7									Any
+T-Group	TGroupId=25260	TrunkId=1002	Honolulu Zoo	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=310129	TGroupId=25260	Primary Operations	Off	11-026	ALL	14									Any
+T-Group	TGroupId=5473	TrunkId=1002	Interoperability	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=152690	TGroupId=5473	Interoperability 1	Off	09-141	ALL	11									Any
+TGID	Tid=152691	TGroupId=5473	Interoperability 2	Off	09-142	ALL	11									Any
+TGID	Tid=152692	TGroupId=5473	Interoperability 3	Off	09-143	ALL	11									Any
+TGID	Tid=152693	TGroupId=5473	Interoperability 4	Off	09-144	ALL	11									Any
+T-Group	TGroupId=11420	TrunkId=1002	Oahu Transit (HandiVans)	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=160179	TGroupId=11420	PT Maint 1	Off	09-105	ALL	26									Any
+TGID	Tid=160180	TGroupId=11420	PT Maint 2	Off	09-106	ALL	26									Any
+TGID	Tid=160181	TGroupId=11420	PT Maint 3	Off	09-107	ALL	26									Any
+TGID	Tid=160175	TGroupId=11420	PTRAN 1	Off	09-101	ALL	26									Any
+TGID	Tid=160176	TGroupId=11420	PTRAN 2	Off	09-102	ALL	26									Any
+TGID	Tid=160177	TGroupId=11420	PTRAN 3	Off	09-103	ALL	26									Any
+TGID	Tid=160178	TGroupId=11420	PTRAN 4	Off	09-104	ALL	26									Any
+T-Group	TGroupId=11419	TrunkId=1002	Oahu Transit (The BUS)	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=160173	TGroupId=11419	Admin	Off	09-085	ALL	26									Any
+TGID	Tid=160159	TGroupId=11419	Bus Ch 1	Off	09-061	ALL	26									Any
+TGID	Tid=160160	TGroupId=11419	Bus Ch 2	Off	09-062	ALL	26									Any
+TGID	Tid=160161	TGroupId=11419	Bus Ch 3	Off	09-063	ALL	26									Any
+TGID	Tid=160162	TGroupId=11419	Bus Ch 4	Off	09-064	ALL	26									Any
+TGID	Tid=160163	TGroupId=11419	Bus Ch 5	Off	09-065	ALL	26									Any
+TGID	Tid=160164	TGroupId=11419	Bus Ch 6	Off	09-066	ALL	26									Any
+TGID	Tid=160158	TGroupId=11419	Bus Fleet	Off	09-060	ALL	26									Any
+TGID	Tid=160169	TGroupId=11419	Bus Maint	Off	09-081	ALL	26									Any
+TGID	Tid=160166	TGroupId=11419	Covert 1	Off	09-070	ALL	26									Any
+TGID	Tid=160167	TGroupId=11419	Covert 2	Off	09-071	ALL	26									Any
+TGID	Tid=160168	TGroupId=11419	Covert 3?	Off	09-072	ALL	26									Any
+TGID	Tid=160174	TGroupId=11419	Misc	Off	09-086	ALL	26									Any
+TGID	Tid=160165	TGroupId=11419	Road Supervisors?	Off	09-067	ALL	26									Any
+TGID	Tid=160170	TGroupId=11419	Shuttle	Off	09-082	ALL	26									Any
+TGID	Tid=160171	TGroupId=11419	Spec Ops 1	Off	09-083	ALL	26									Any
+TGID	Tid=160172	TGroupId=11419	Spec Ops 2	Off	09-084	ALL	26									Any
+T-Group	TGroupId=5477	TrunkId=1002	Ocean Safety	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=38430	TGroupId=5477	OS District 1	Off	08-061	ALL	29									Any
+TGID	Tid=38431	TGroupId=5477	OS District 2	Off	08-062	ALL	29									Any
+TGID	Tid=38432	TGroupId=5477	OS District 3	Off	08-063	ALL	29									Any
+TGID	Tid=38433	TGroupId=5477	OS District 4	Off	08-064	ALL	29									Any
+Trunk	TrunkId=3129	StateId=15	Ilikai Waikiki Hotel	Off		Ltr															NEXEDGE
+AreaState	TrunkId=3129	StateId=15
+AreaCounty	TrunkId=3129	CountyId=543
+Site	SiteId=5072	TrunkId=3129	Primary	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=5072			461712500	1	Srch
+T-Freq	TFreqId=0	SiteId=5072			461987500	5	Srch
+T-Freq	TFreqId=0	SiteId=5072			464750000	9	Srch
+T-Group	TGroupId=14866	TrunkId=3129	Operations	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=197377	TGroupId=14866	Bellman	Off	0-01-007	ALL	17									Any
+TGID	Tid=197375	TGroupId=14866	Engineering	Off	0-01-006	ALL	17									Any
+TGID	Tid=197374	TGroupId=14866	Housekeeping	Off	0-01-002	ALL	17									Any
+TGID	Tid=197373	TGroupId=14866	Security	Off	0-01-001	ALL	33									Any
+Trunk	TrunkId=5980	StateId=15	Kalaeloa Airport Authority	Off		Motorola															NEXEDGE
+AreaState	TrunkId=5980	StateId=15
+AreaCounty	TrunkId=5980	CountyId=543
+Site	SiteId=13792	TrunkId=5980	Primary	Off	21.313220	-158.069190	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=13792			856962500	1	Srch
+T-Freq	TFreqId=0	SiteId=13792			857962500	2	Srch
+T-Freq	TFreqId=0	SiteId=13792			858962500	3	Srch
+T-Group	TGroupId=14361	TrunkId=5980	Airport	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=192727	TGroupId=14361	Fire Crash (Yankee)	Off	32	ANALOG	15									Any
+TGID	Tid=192726	TGroupId=14361	Ground Control	Off	16	ANALOG	15									Any
+Trunk	TrunkId=9180	StateId=15	Kauai County	Off		P25Standard															NEXEDGE
+AreaState	TrunkId=9180	StateId=15
+AreaCounty	TrunkId=9180	CountyId=545
+Site	SiteId=29153	TrunkId=9180	Princeville	Off	21.974000	-159.787000	41.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29153			851350000	1	Srch
+T-Freq	TFreqId=0	SiteId=29153			852350000	2	Srch
+T-Freq	TFreqId=0	SiteId=29153			853350000	3	Srch
+Site	SiteId=29063	TrunkId=9180	Simulcast	Off	21.974000	-159.787000	41.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29063			851050000	1	Srch
+T-Freq	TFreqId=0	SiteId=29063			851300000	2	Srch
+T-Freq	TFreqId=0	SiteId=29063			851850000	3	Srch
+T-Freq	TFreqId=0	SiteId=29063			852300000	4	Srch
+T-Freq	TFreqId=0	SiteId=29063			852800000	5	Srch
+T-Freq	TFreqId=0	SiteId=29063			853300000	6	Srch
+T-Freq	TFreqId=0	SiteId=29063			853800000	7	Srch
+Site	SiteId=29152	TrunkId=9180	Waimea	Off	21.958250	-159.666670	10.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29152			851550000	1	Srch
+T-Freq	TFreqId=0	SiteId=29152			852550000	2	Srch
+T-Freq	TFreqId=0	SiteId=29152			853550000	3	Srch
+T-Group	TGroupId=24784	TrunkId=9180	County Government	Off	21.974000	-159.787000	41.0	Circle	
+TGID	Tid=316601	TGroupId=24784	Civil Defense	Off	1783	ALL	29									Any
+TGID	Tid=305248	TGroupId=24784	Kauai Bus Dispatch	Off	1803	ALL	26									Any
+T-Group	TGroupId=24821	TrunkId=9180	Fire	Off	21.974000	-159.787000	41.0	Circle	
+TGID	Tid=305723	TGroupId=24821	Dispatch	Off	1603	ALL	3									Any
+TGID	Tid=328184	TGroupId=24821	EMS Ambulance Back-up	Off	1401	ALL	9									Any
+TGID	Tid=305724	TGroupId=24821	Fire Tac 1	Off	1605	ALL	8									Any
+T-Group	TGroupId=24782	TrunkId=9180	Interoperability	Off	21.974000	-159.787000	41.0	Circle	
+TGID	Tid=316596	TGroupId=24782	Countywide Interoperability 1	Off	1903	ALL	11									Any
+TGID	Tid=316597	TGroupId=24782	Countywide Interoperability 2	Off	1905	ALL	11									Any
+TGID	Tid=316598	TGroupId=24782	Countywide Interoperability 3	Off	1907	ALL	11									Any
+TGID	Tid=305236	TGroupId=24782	Fire-to-EMS	Off	19	ALL	11									Any
+T-Group	TGroupId=24822	TrunkId=9180	Law Enforcement	Off	21.974000	-159.787000	41.0	Circle	
+TGID	Tid=307678	TGroupId=24822	KCPD Car-to-Car	Off	1111	ALL	7									Any
+TGID	Tid=307679	TGroupId=24822	KCPD Tactical Ops	Off	1105	ALL	7									Any
+TGID	Tid=307680	TGroupId=24822	KCPD Tactical Ops	Off	1107	ALL	7									Any
+TGID	Tid=305919	TGroupId=24822	KCPD: All Dispatch	Off	1103	ALL	2									Any
+TGID	Tid=305725	TGroupId=24822	KCPD: Countywide Patrol & Dispatch	Off	1901	ALL	2									Any
+T-Group	TGroupId=24823	TrunkId=9180	Ocean Safety	Off	21.974000	-159.787000	41.0	Circle	
+TGID	Tid=305726	TGroupId=24823	Lifeguard Dispatch	Off	1505	ALL	4									Any
+T-Group	TGroupId=25877	TrunkId=9180	State Government	Off	21.974000	-159.787000	41.0	Circle	
+TGID	Tid=316599	TGroupId=25877	State Highway Dept. 1	Off	1831	ALL	14									Any
+TGID	Tid=316600	TGroupId=25877	State Highway Dept. 2	Off	1833	ALL	14									Any
+Trunk	TrunkId=5705	StateId=15	Kona International Airport Authority	Off		Motorola															NEXEDGE
+AreaState	TrunkId=5705	StateId=15
+AreaCounty	TrunkId=5705	CountyId=542
+Site	SiteId=12973	TrunkId=5705	Primary	Off	19.738390	-156.040640	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12973			856962500	1	Srch
+T-Freq	TFreqId=0	SiteId=12973			857962500	2	Srch
+T-Freq	TFreqId=0	SiteId=12973			858962500	3	Srch
+T-Group	TGroupId=11251	TrunkId=5705	All	Off	19.575198	-155.503131	56.0	Circle	
+TGID	Tid=158282	TGroupId=11251	Police	Off	32912	DIGITAL	2									Any
+Trunk	TrunkId=5715	StateId=15	Lihue International Aiport Authority	Off		Motorola															NEXEDGE
+AreaState	TrunkId=5715	StateId=15
+AreaCounty	TrunkId=5715	CountyId=545
+Site	SiteId=13001	TrunkId=5715	Primary	Off	21.978890	-159.348330	15.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=13001			856962500	1	Srch
+T-Freq	TFreqId=0	SiteId=13001			857962500	2	Srch
+T-Freq	TFreqId=0	SiteId=13001			858962500	3	Srch
+T-Group	TGroupId=11280	TrunkId=5715	All	Off	21.981817	-159.344534	5.0	Circle	
+TGID	Tid=198538	TGroupId=11280	Airport Fire	Off	4176	ANALOG	3									Any
+TGID	Tid=158560	TGroupId=11280	Airport Police	Off	4240	ANALOG	2									Any
+TGID	Tid=226220	TGroupId=11280	Crash Fire	Off	4464	ANALOG	3									Any
+TGID	Tid=226221	TGroupId=11280	Maintenance	Off	4496	ANALOG	14									Any
+TGID	Tid=226222	TGroupId=11280	Security	Off	599	ANALOG	33									Any
+Trunk	TrunkId=5976	StateId=15	Maui County Regional Interoperable P25 Public Safety Radio Syste	Off		P25Standard															NEXEDGE
+AreaState	TrunkId=5976	StateId=15
+AreaCounty	TrunkId=5976	CountyId=546
+AreaCounty	TrunkId=5976	CountyId=542
+Site	SiteId=25231	TrunkId=5976	East Maui	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25231			855487500	1	Srch
+T-Freq	TFreqId=0	SiteId=25231			856937500	2	Srch
+T-Freq	TFreqId=0	SiteId=25231			857437500	3	Srch
+T-Freq	TFreqId=0	SiteId=25231			857937500	4	Srch
+T-Freq	TFreqId=0	SiteId=25231			859237500	5	Srch
+Site	SiteId=25191	TrunkId=5976	Hana	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25191			851212500	1	Srch
+T-Freq	TFreqId=0	SiteId=25191			851462500	2	Srch
+T-Freq	TFreqId=0	SiteId=25191			852462500	3	Srch
+T-Freq	TFreqId=0	SiteId=25191			852737500	4	Srch
+T-Freq	TFreqId=0	SiteId=25191			853712500	5	Srch
+Site	SiteId=13783	TrunkId=5976	Kahului	Off	20.873775	-156.472558	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=13783			853100000	1	Srch
+T-Freq	TFreqId=0	SiteId=13783			853300000	2	Srch
+T-Freq	TFreqId=0	SiteId=13783			853600000	3	Srch
+T-Freq	TFreqId=0	SiteId=13783			851600000	4	Srch
+T-Freq	TFreqId=0	SiteId=13783			851100000	5	Srch
+T-Freq	TFreqId=0	SiteId=13783			852100000	6	Srch
+T-Freq	TFreqId=0	SiteId=13783			853950000	7	Srch
+Site	SiteId=25232	TrunkId=5976	Kaunakakai	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25232			856437500	1	Srch
+Site	SiteId=25192	TrunkId=5976	Lahaina	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25192			851237500	1	Srch
+T-Freq	TFreqId=0	SiteId=25192			851800000	2	Srch
+T-Freq	TFreqId=0	SiteId=25192			852212500	3	Srch
+T-Freq	TFreqId=0	SiteId=25192			853350000	4	Srch
+T-Freq	TFreqId=0	SiteId=25192			853050000	5	Srch
+Site	SiteId=25229	TrunkId=5976	Lanai	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25229			855962500	1	Srch
+T-Freq	TFreqId=0	SiteId=25229			856262500	2	Srch
+T-Freq	TFreqId=0	SiteId=25229			857262500	3	Srch
+T-Freq	TFreqId=0	SiteId=25229			857712500	4	Srch
+Site	SiteId=25228	TrunkId=5976	Lanai City	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25228			856237500	1	Srch
+Site	SiteId=25230	TrunkId=5976	Mauna Loa	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25230			855987500	1	Srch
+T-Freq	TFreqId=0	SiteId=25230			856712500	2	Srch
+T-Freq	TFreqId=0	SiteId=25230			857237500	3	Srch
+T-Freq	TFreqId=0	SiteId=25230			857737500	4	Srch
+T-Freq	TFreqId=0	SiteId=25230			858712500	5	Srch
+Site	SiteId=25189	TrunkId=5976	Puunianiau	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25189			851550000	1	Srch
+T-Freq	TFreqId=0	SiteId=25189			851737500	2	Srch
+T-Freq	TFreqId=0	SiteId=25189			852550000	3	Srch
+T-Freq	TFreqId=0	SiteId=25189			852762500	4	Srch
+T-Freq	TFreqId=0	SiteId=25189			853550000	5	Srch
+T-Freq	TFreqId=0	SiteId=25189			853762500	6	Srch
+Site	SiteId=25190	TrunkId=5976	Site-004	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25190			770693750	1	Srch
+T-Freq	TFreqId=0	SiteId=25190			773056250	2	Srch
+T-Freq	TFreqId=0	SiteId=25190			773318750	3	Srch
+T-Freq	TFreqId=0	SiteId=25190			773568750	4	Srch
+T-Freq	TFreqId=0	SiteId=25190			770443750	5	Srch
+T-Freq	TFreqId=0	SiteId=25190			770943750	6	Srch
+Site	SiteId=25233	TrunkId=5976	Waimea	Off	19.575198	-155.503131	56.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25233			857487500	1	Srch
+T-Freq	TFreqId=0	SiteId=25233			858762500	2	Srch
+T-Group	TGroupId=22987	TrunkId=5976	Fire Operations	Off	20.885502	-156.636292	48.0	Circle	
+TGID	Tid=287917	TGroupId=22987	Maui Fire Ch-2	Off	5520	ALL	8									Any
+TGID	Tid=313633	TGroupId=22987	Maui Fire Ch-3	Off	5530	ALL	8									Any
+TGID	Tid=313634	TGroupId=22987	Maui Fire Ch-4	Off	5540	ALL	8									Any
+TGID	Tid=313635	TGroupId=22987	Maui Fire Ch-5	Off	5550	ALL	8									Any
+TGID	Tid=313636	TGroupId=22987	Maui Fire Ch-6	Off	5560	ALL	8									Any
+TGID	Tid=313637	TGroupId=22987	Maui Fire Ch-7	Off	5570	ALL	8									Any
+TGID	Tid=313638	TGroupId=22987	Maui Fire Ch-8	Off	5580	ALL	8									Any
+TGID	Tid=287916	TGroupId=22987	Maui Fire Dispatch	Off	5510	ALL	3									Any
+TGID	Tid=287915	TGroupId=22987	Maui Fire Dispatch Paging	Off	5500	ALL	3									Any
+T-Group	TGroupId=22988	TrunkId=5976	Law Enforcement	Off	20.885502	-156.636292	48.0	Circle	
+TGID	Tid=313101	TGroupId=22988	Maui PD - Hana	Off	5120	ALL	2									Any
+TGID	Tid=287919	TGroupId=22988	Maui PD - Kihei	Off	5150	ALL	2									Any
+TGID	Tid=287918	TGroupId=22988	Maui PD - Lahaina	Off	5130	ALL	2									Any
+TGID	Tid=313100	TGroupId=22988	Maui PD - Lanai	Off	5140	ALL	2									Any
+TGID	Tid=313746	TGroupId=22988	Maui PD - Molokai	Off	5160	ALL	2									Any
+TGID	Tid=313102	TGroupId=22988	Maui PD - Wailuku	Off	5110	ALL	2									Any
+T-Group	TGroupId=12449	TrunkId=5976	Radio Technicians	Off	20.885502	-156.636292	48.0	Circle	
+TGID	Tid=171037	TGroupId=12449	Range Testing	Off	1	ALL	21									Any
+TGID	Tid=171038	TGroupId=12449	Range Testing	Off	3	ALL	21									Any
+TGID	Tid=171039	TGroupId=12449	Range Testing	Off	11	ALL	21									Any
+Trunk	TrunkId=5727	StateId=15	Outrigger Hotels and Resort (System 1)	Off		Ltr															NEXEDGE
+AreaState	TrunkId=5727	StateId=15
+AreaCounty	TrunkId=5727	CountyId=543
+Site	SiteId=13021	TrunkId=5727	Hotel	Off	21.278610	-157.832500	2.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=13021			463887500	1	Srch
+T-Freq	TFreqId=0	SiteId=13021			464237500	2	Srch
+T-Freq	TFreqId=0	SiteId=13021			464937500	3	Srch
+T-Group	TGroupId=11329	TrunkId=5727	Maintenance	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=310359	TGroupId=11329	Engineering	Off	0-03-040	ALL	17									Any
+TGID	Tid=159138	TGroupId=11329	Housekeeping	Off	0-02-040	ALL	17									Any
+TGID	Tid=159140	TGroupId=11329	Housekeeping	Off	0-02-120	ALL	17									Any
+TGID	Tid=159139	TGroupId=11329	Housekeeping & Guest Services	Off	0-02-060	ALL	17									Any
+TGID	Tid=159145	TGroupId=11329	Maintenance	Off	0-03-180	ALL	17									Any
+T-Group	TGroupId=11330	TrunkId=5727	Operations	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=159141	TGroupId=11330	Bell Desk	Off	0-02-180	ALL	17									Any
+TGID	Tid=204447	TGroupId=11330	Bell Desk	Off	0-03-050	ALL	17									Any
+TGID	Tid=159144	TGroupId=11330	Bell Desk	Off	0-03-090	ALL	17									Any
+TGID	Tid=204446	TGroupId=11330	Guest Services	Off	0-03-020	ALL	17									Any
+TGID	Tid=159143	TGroupId=11330	Guest Services	Off	0-03-070	ALL	17									Any
+Trunk	TrunkId=5728	StateId=15	Outrigger Hotels and Resort (System 2)	Off		Ltr															NEXEDGE
+AreaState	TrunkId=5728	StateId=15
+AreaCounty	TrunkId=5728	CountyId=543
+Site	SiteId=13022	TrunkId=5728	Hotel	Off	21.278610	-157.832500	2.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=13022			463612500	1	Srch
+T-Freq	TFreqId=0	SiteId=13022			464212500	2	Srch
+T-Freq	TFreqId=0	SiteId=13022			464862500	3	Srch
+T-Group	TGroupId=11332	TrunkId=5728	Maintenance	Off	21.278610	-157.832500	2.0	Circle	
+TGID	Tid=310356	TGroupId=11332	Guest Services	Off	0-02-060	ALL	17									Any
+TGID	Tid=159150	TGroupId=11332	Housekeeping	Off	0-02-090	ALL	17									Any
+TGID	Tid=310358	TGroupId=11332	Housekeeping	Off	0-03-070	ALL	17									Any
+TGID	Tid=204455	TGroupId=11332	Housekeeping & Guest Services	Off	0-02-080	ALL	17									Any
+TGID	Tid=310357	TGroupId=11332	Housekeeping at Ohana East	Off	0-03-040	ALL	17									Any
+TGID	Tid=204452	TGroupId=11332	Maintenance	Off	0-01-060	ALL	17									Any
+TGID	Tid=204453	TGroupId=11332	Maintenance	Off	0-02-030	ALL	17									Any
+TGID	Tid=204454	TGroupId=11332	Maintenance	Off	0-02-040	ALL	17									Any
+T-Group	TGroupId=11333	TrunkId=5728	Operations	Off	21.278610	-157.832500	2.0	Circle	
+TGID	Tid=204450	TGroupId=11333	Bell Desk	Off	0-01-030	ALL	17									Any
+TGID	Tid=159148	TGroupId=11333	Bell Desk	Off	0-03-060	ALL	17									Any
+TGID	Tid=159149	TGroupId=11333	Bell Desk	Off	0-03-090	ALL	17									Any
+TGID	Tid=159147	TGroupId=11333	Guest Services	Off	0-02-050	ALL	17									Any
+T-Group	TGroupId=11331	TrunkId=5728	Security	Off	21.278610	-157.832500	2.0	Circle	
+TGID	Tid=159146	TGroupId=11331	Dispatch	Off	0-02-010	ALL	33									Any
+Trunk	TrunkId=5674	StateId=15	Pacific Mobile Emergency Radio System (PACMERS)	Off		P25Standard															NEXEDGE
+AreaState	TrunkId=5674	StateId=15
+AreaCounty	TrunkId=5674	CountyId=542
+AreaCounty	TrunkId=5674	CountyId=543
+AreaCounty	TrunkId=5674	CountyId=546
+Site	SiteId=29758	TrunkId=5674	Fort DeRussy	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						285
+T-Freq	TFreqId=0	SiteId=29758			406462500	1	Srch
+T-Freq	TFreqId=0	SiteId=29758			406900000	2	Srch
+T-Freq	TFreqId=0	SiteId=29758			407362500	3	Srch
+T-Freq	TFreqId=0	SiteId=29758			408387500	4	Srch
+T-Freq	TFreqId=0	SiteId=29758			408862500	5	Srch
+T-Freq	TFreqId=0	SiteId=29758			409587500	6	Srch
+T-Freq	TFreqId=0	SiteId=29758			410100000	7	Srch
+T-Freq	TFreqId=0	SiteId=29758			410862500	8	Srch
+Site	SiteId=25459	TrunkId=5674	Fort Shafter	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						283
+T-Freq	TFreqId=0	SiteId=25459			406150000	1	Srch
+T-Freq	TFreqId=0	SiteId=25459			406437500	2	Srch
+T-Freq	TFreqId=0	SiteId=25459			406550000	3	Srch
+T-Freq	TFreqId=0	SiteId=25459			407037500	4	Srch
+T-Freq	TFreqId=0	SiteId=25459			407337500	5	Srch
+T-Freq	TFreqId=0	SiteId=25459			407637500	6	Srch
+T-Freq	TFreqId=0	SiteId=25459			407812500	7	Srch
+T-Freq	TFreqId=0	SiteId=25459			408125000	8	Srch
+T-Freq	TFreqId=0	SiteId=25459			408425000	9	Srch
+T-Freq	TFreqId=0	SiteId=25459			408650000	10	Srch
+T-Freq	TFreqId=0	SiteId=25459			409137500	11	Srch
+Site	SiteId=13262	TrunkId=5674	Hawaii -	Off	19.575198	-155.503131	56.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=13262			410762500	1	Srch
+Site	SiteId=29760	TrunkId=5674	Kane'ohe Marine Corps Base	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						284
+T-Freq	TFreqId=0	SiteId=29760			406237500	1	Srch
+T-Freq	TFreqId=0	SiteId=29760			406562500	2	Srch
+T-Freq	TFreqId=0	SiteId=29760			406850000	3	Srch
+T-Freq	TFreqId=0	SiteId=29760			407437500	4	Srch
+T-Freq	TFreqId=0	SiteId=29760			407887500	5	Srch
+T-Freq	TFreqId=0	SiteId=29760			407987500	6	Srch
+T-Freq	TFreqId=0	SiteId=29760			408275000	7	Srch
+T-Freq	TFreqId=0	SiteId=29760			409387500	8	Srch
+T-Freq	TFreqId=0	SiteId=29760			409962500	9	Srch
+Site	SiteId=13261	TrunkId=5674	Maui - Kahului	Off	20.868393	-156.481476	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=13261			406237500	1	Srch
+T-Freq	TFreqId=0	SiteId=13261			409862500	2	Srch
+T-Freq	TFreqId=0	SiteId=13261			410162500	3	Srch
+T-Freq	TFreqId=0	SiteId=13261			410562500	4	Srch
+Site	SiteId=12953	TrunkId=5674	Oahu - Hale'iwa	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12953			406362500	1	Srch
+T-Freq	TFreqId=0	SiteId=12953			409425000	2	Srch
+Site	SiteId=12968	TrunkId=5674	Pohakulia Military Training Area	Off	19.575198	-155.503131	56.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12968			406362500	1	Srch
+T-Freq	TFreqId=0	SiteId=12968			406962500	2	Srch
+T-Freq	TFreqId=0	SiteId=12968			407362500	3	Srch
+Site	SiteId=29761	TrunkId=5674	Scholfield Barracks	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						282
+T-Freq	TFreqId=0	SiteId=29761			406112500	1	Srch
+T-Freq	TFreqId=0	SiteId=29761			406287500	2	Srch
+T-Freq	TFreqId=0	SiteId=29761			406812500	3	Srch
+T-Freq	TFreqId=0	SiteId=29761			407350000	4	Srch
+T-Freq	TFreqId=0	SiteId=29761			407712500	5	Srch
+T-Freq	TFreqId=0	SiteId=29761			407912500	6	Srch
+T-Freq	TFreqId=0	SiteId=29761			408362500	7	Srch
+T-Freq	TFreqId=0	SiteId=29761			408562500	8	Srch
+T-Freq	TFreqId=0	SiteId=29761			408982500	9	Srch
+T-Freq	TFreqId=0	SiteId=29761			409162500	10	Srch
+T-Freq	TFreqId=0	SiteId=29761			409237500	11	Srch
+Site	SiteId=25460	TrunkId=5674	Site 10	Off	20.920397	-157.565918	205.8	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25460			406762500	1	Srch
+Site	SiteId=25462	TrunkId=5674	Site 11	Off	20.920397	-157.565918	205.8	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25462			386375000	1	Srch
+Site	SiteId=25490	TrunkId=5674	Site 12	Off	20.920397	-157.565918	205.8	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=25490			406162500	1	Srch
+Site	SiteId=29766	TrunkId=5674	Site 26	Off	20.920397	-157.565918	205.8	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29766			406362500	1	Srch
+T-Freq	TFreqId=0	SiteId=29766			406762500	2	Srch
+T-Freq	TFreqId=0	SiteId=29766			406962500	3	Srch
+T-Freq	TFreqId=0	SiteId=29766			407162500	4	Srch
+T-Freq	TFreqId=0	SiteId=29766			407637500	5	Srch
+Site	SiteId=29765	TrunkId=5674	Site 27	Off	20.920397	-157.565918	205.8	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29765			406362500	1	Srch
+T-Freq	TFreqId=0	SiteId=29765			406962500	2	Srch
+Site	SiteId=29767	TrunkId=5674	Site 28	Off	20.920397	-157.565918	205.8	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29767			407962500	1	Srch
+T-Freq	TFreqId=0	SiteId=29767			410362500	2	Srch
+Site	SiteId=29768	TrunkId=5674	Site 29	Off	20.920397	-157.565918	205.8	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29768			410162500	1	Srch
+T-Freq	TFreqId=0	SiteId=29768			410562500	2	Srch
+Site	SiteId=29770	TrunkId=5674	Site 30	Off	20.920397	-157.565918	205.8	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29770			406762500	1	Srch
+T-Freq	TFreqId=0	SiteId=29770			407162500	2	Srch
+T-Freq	TFreqId=0	SiteId=29770			407962500	3	Srch
+Site	SiteId=29771	TrunkId=5674	Site 31	Off	20.920397	-157.565918	205.8	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29771			386387500	1	Srch
+T-Freq	TFreqId=0	SiteId=29771			386687500	2	Srch
+T-Freq	TFreqId=0	SiteId=29771			388612500	3	Srch
+Site	SiteId=29769	TrunkId=5674	Site 32	Off	20.920397	-157.565918	205.8	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29769			406162500	1	Srch
+Site	SiteId=29759	TrunkId=5674	Tripler Army Medical Center	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						281
+T-Freq	TFreqId=0	SiteId=29759			406737500	1	Srch
+T-Freq	TFreqId=0	SiteId=29759			406787500	2	Srch
+T-Freq	TFreqId=0	SiteId=29759			405837500	3	Srch
+T-Freq	TFreqId=0	SiteId=29759			406912500	4	Srch
+T-Freq	TFreqId=0	SiteId=29759			407075000	5	Srch
+T-Freq	TFreqId=0	SiteId=29759			407125000	6	Srch
+T-Freq	TFreqId=0	SiteId=29759			407175000	7	Srch
+T-Freq	TFreqId=0	SiteId=29759			407237500	8	Srch
+T-Freq	TFreqId=0	SiteId=29759			407312500	9	Srch
+T-Freq	TFreqId=0	SiteId=29759			407550000	10	Srch
+T-Freq	TFreqId=0	SiteId=29759			407662500	11	Srch
+T-Freq	TFreqId=0	SiteId=29759			407762500	12	Srch
+T-Freq	TFreqId=0	SiteId=29759			407975000	13	Srch
+T-Freq	TFreqId=0	SiteId=29759			408262500	14	Srch
+T-Freq	TFreqId=0	SiteId=29759			408475000	15	Srch
+T-Freq	TFreqId=0	SiteId=29759			408762500	16	Srch
+T-Freq	TFreqId=0	SiteId=29759			409100000	17	Srch
+T-Freq	TFreqId=0	SiteId=29759			409362500	18	Srch
+T-Freq	TFreqId=0	SiteId=29759			409562500	19	Srch
+T-Freq	TFreqId=0	SiteId=29759			409662500	20	Srch
+T-Freq	TFreqId=0	SiteId=29759			409762500	21	Srch
+T-Freq	TFreqId=0	SiteId=29759			409912500	22	Srch
+T-Group	TGroupId=12573	TrunkId=5674	Federal Fire Department	Off	20.920397	-157.565918	205.8	Circle	
+TGID	Tid=172255	TGroupId=12573	Dispatch	Off	1023	ALL	3									Any
+TGID	Tid=189106	TGroupId=12573	Hickam Fire	Off	3008	ALL	3									Any
+TGID	Tid=192732	TGroupId=12573	Hickam Fire Tac 12	Off	3001	ALL	8									Any
+TGID	Tid=192731	TGroupId=12573	Ops 15	Off	1004	ALL	8									Any
+TGID	Tid=189115	TGroupId=12573	Ops 2	Off	1011	ALL	8									Any
+TGID	Tid=189116	TGroupId=12573	Ops 3	Off	1012	ALL	8									Any
+TGID	Tid=189117	TGroupId=12573	Ops 4	Off	1013	ALL	8									Any
+TGID	Tid=189118	TGroupId=12573	Ops 5	Off	1014	ALL	8									Any
+TGID	Tid=192728	TGroupId=12573	Ops 6	Off	1015	ALL	8									Any
+TGID	Tid=192729	TGroupId=12573	Ops 7	Off	1016	ALL	8									Any
+TGID	Tid=192730	TGroupId=12573	Ops 8	Off	1017	ALL	8									Any
+T-Group	TGroupId=11783	TrunkId=5674	Hickam AFB	Off	20.920397	-157.565918	205.8	Circle	
+TGID	Tid=188968	TGroupId=11783	Air Operations	Off	3029	ALL	30									Any
+TGID	Tid=321424	TGroupId=11783	Aircraft Maintenance	Off	3026	ALL	30									Any
+TGID	Tid=321425	TGroupId=11783	Aircraft Maintenance	Off	3043	ALL	30									Any
+TGID	Tid=188969	TGroupId=11783	Military Police/Security	Off	3015	ALL	2									Any
+TGID	Tid=188967	TGroupId=11783	Ramp	Off	3027	ALL	30									Any
+T-Group	TGroupId=11207	TrunkId=5674	Law Enforcement	Off	20.920397	-157.565918	205.8	Circle	
+TGID	Tid=189105	TGroupId=11207	Fort Derussy Military Police/Security	Off	166	ALL	2									Any
+TGID	Tid=157959	TGroupId=11207	Fort Shafter Military Police	Off	169	ALL	2									Any
+TGID	Tid=157962	TGroupId=11207	Kalaeloa Navy Police Primary	Off	1092	ALL	2									Any
+TGID	Tid=192734	TGroupId=11207	Kalaeloa Navy Police Secondary	Off	1090	ALL	7									Any
+TGID	Tid=189101	TGroupId=11207	Marine Corp Base Hawaii Kaneohe Military Police 1	Off	2061	ALL	2									Any
+TGID	Tid=189119	TGroupId=11207	Marine Corp Base Hawaii Kaneohe Military Police 2	Off	2062	ALL	7									Any
+TGID	Tid=192735	TGroupId=11207	Marine Corp Base Hawaii Kaneohe Military Police 3	Off	2063	ALL	7									Any
+TGID	Tid=189161	TGroupId=11207	NAVSTA Pearl Harbor - Police	Off	1094	ALL	2									Any
+TGID	Tid=157963	TGroupId=11207	NAVSTA Pearl Harbor - Police	Off	1097	ALL	2									Any
+TGID	Tid=189103	TGroupId=11207	NCTAMS Wahiawa	Off	1089	ALL	2									Any
+TGID	Tid=157961	TGroupId=11207	Ops	Off	1034	ALL	7									Any
+TGID	Tid=157964	TGroupId=11207	Ops	Off	1107	ALL	7									Any
+TGID	Tid=157965	TGroupId=11207	Ops	Off	1197	ALL	7									Any
+TGID	Tid=157966	TGroupId=11207	Ops	Off	1230	ALL	7									Any
+TGID	Tid=248207	TGroupId=11207	Pohakulia Military Police	Off	127	ALL	2									Any
+TGID	Tid=157960	TGroupId=11207	Schofield Barracks Military Police	Off	179	ALL	2									Any
+TGID	Tid=189100	TGroupId=11207	Schofield/Wheeler Air Field Police	Off	180	ALL	2									Any
+TGID	Tid=192733	TGroupId=11207	Waianae Army Police	Off	186	ALL	2									Any
+T-Group	TGroupId=11421	TrunkId=5674	Operations	Off	20.920397	-157.565918	205.8	Circle	
+TGID	Tid=189107	TGroupId=11421	Coast Guard Channel 16	Off	5029	ALL	16									Any
+TGID	Tid=299841	TGroupId=11421	Fox Range Control	Off	2105	ALL	30									Any
+TGID	Tid=192736	TGroupId=11421	Marine Corp Base Kaneohe Lifeguards	Off	2010	ALL	4									Any
+TGID	Tid=270597	TGroupId=11421	Pohakuloa Training Area Operations	Off	320	ALL	30									Any
+TGID	Tid=248268	TGroupId=11421	Pohakuloa Training Area Range Control	Off	229	ALL	30									Any
+TGID	Tid=189104	TGroupId=11421	Schofield Barracks Range Control	Off	225	ALL	30									Any
+TGID	Tid=160183	TGroupId=11421	Schofield Barracks Range Control	Off	230	ALL	30									Any
+TGID	Tid=157958	TGroupId=11421	Transportation Operations	Off	163	ALL	30									Any
+Trunk	TrunkId=7978	StateId=15	Pacific Wireless Communications	Off		MotoTrbo															NEXEDGE
+AreaState	TrunkId=7978	StateId=15
+AreaCounty	TrunkId=7978	CountyId=543
+Site	SiteId=28406	TrunkId=7978	Site 2 (Honolulu)	Off	21.466667	-157.966667	25.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=28406			856037500	1	Srch
+T-Freq	TFreqId=0	SiteId=28406			858537500	2	Srch
+T-Freq	TFreqId=0	SiteId=28406			860537500	3	Srch
+T-Freq	TFreqId=0	SiteId=28406			857037500	4	Srch
+T-Group	TGroupId=25272	TrunkId=7978	All	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=310267	TGroupId=25272	PCC Transportation	Off	655	ALL	17									Any
+Trunk	TrunkId=9358	StateId=15	Sheraton Waikiki	Off		MotoTrbo															NEXEDGE
+AreaState	TrunkId=9358	StateId=15
+AreaCounty	TrunkId=9358	CountyId=543
+Site	SiteId=29749	TrunkId=9358	Site 1	Off	21.274890	-157.702530	1.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29749			856912500	1	9
+T-Freq	TFreqId=0	SiteId=29749			857912500	2	9
+T-Freq	TFreqId=0	SiteId=29749			858912500	3	9
+Site	SiteId=29750	TrunkId=9358	Site 2	Off	21.274890	-157.702530	1.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=29750			858862500	1	9
+T-Freq	TFreqId=0	SiteId=29750			859862500	2	9
+T-Freq	TFreqId=0	SiteId=29750			860862500	3	9
+T-Group	TGroupId=25251	TrunkId=9358	All	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=310004	TGroupId=25251	Food and Beverage Service	Off	45	ALL	17									Any
+TGID	Tid=310003	TGroupId=25251	Guest Services	Off	34	ALL	17									Any
+TGID	Tid=310002	TGroupId=25251	Housekeeping	Off	14	ALL	17									Any
+TGID	Tid=310006	TGroupId=25251	Housekeeping	Off	74	ALL	17									Any
+TGID	Tid=310005	TGroupId=25251	Security	Off	51	ALL	17									Any
+TGID	Tid=310000	TGroupId=25251	Security Control	Off	11	ALL	33									Any
+TGID	Tid=310001	TGroupId=25251	Tech Services	Off	13	ALL	17									Any
+Trunk	TrunkId=7913	StateId=15	State of Hawaii, Department of Health	Off		P25Standard															NEXEDGE
+AreaState	TrunkId=7913	StateId=15
+AreaCounty	TrunkId=7913	CountyId=545
+Site	SiteId=23154	TrunkId=7913	Simulcast	Off	21.974000	-159.787000	41.0	AUTO	Standard	Wide	Circle						710
+T-Freq	TFreqId=0	SiteId=23154			453400000	1	Srch
+T-Freq	TFreqId=0	SiteId=23154			453900000	2	Srch
+T-Freq	TFreqId=0	SiteId=23154			463050000	3	Srch
+T-Group	TGroupId=20156	TrunkId=7913	EMS Operations	Off	21.974000	-159.787000	41.0	Circle	
+TGID	Tid=248187	TGroupId=20156	EMS Dispatch	Off	1	ALL	4									Any
+TGID	Tid=321623	TGroupId=20156	EMS Tactical	Off	3	ALL	9									Any
+Trunk	TrunkId=3130	StateId=15	Waikiki Beach Marriott	Off		Ltr															NEXEDGE
+AreaState	TrunkId=3130	StateId=15
+AreaCounty	TrunkId=3130	CountyId=543
+Site	SiteId=5073	TrunkId=3130	Confirmed LCN	Off	21.272140	-157.822140	1.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=5073			461525000	3	Srch
+T-Freq	TFreqId=0	SiteId=5073			463312500	7	Srch
+T-Freq	TFreqId=0	SiteId=5073			464275000	11	Srch
+T-Freq	TFreqId=0	SiteId=5073			462775000	15	Srch
+T-Group	TGroupId=14901	TrunkId=3130	All	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=197561	TGroupId=14901	Bellman	Off	0-03-030	ALL	17									Any
+TGID	Tid=197559	TGroupId=14901	Food and Beverages	Off	0-03-020	ALL	17									Any
+TGID	Tid=310361	TGroupId=14901	Guest Services	Off	0-03-045	ALL	17									Any
+TGID	Tid=197558	TGroupId=14901	Housekeeping	Off	0-03-015	ALL	17									Any
+TGID	Tid=197557	TGroupId=14901	Maintenance	Off	0-03-010	ALL	17									Any
+TGID	Tid=197560	TGroupId=14901	Room Service	Off	0-03-025	ALL	17									Any
+TGID	Tid=310315	TGroupId=14901	Security	Off	0-07-110	ALL	33									Any
+TGID	Tid=310360	TGroupId=14901	Security: Primary	Off	0-07-010	ALL	33									Any
+Trunk	TrunkId=3832	StateId=15	Waikiki Trolley	Off		Ltr															NEXEDGE
+AreaState	TrunkId=3832	StateId=15
+AreaCounty	TrunkId=3832	CountyId=543
+Site	SiteId=6923	TrunkId=3832	Confirmed LCN	Off	21.287110	-157.831970	20.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=6923			462475000	8	Srch
+T-Freq	TFreqId=0	SiteId=6923			461550000	11	Srch
+T-Freq	TFreqId=0	SiteId=6923			463937500	12	Srch
+T-Freq	TFreqId=0	SiteId=6923			461462500	13	Srch
+T-Freq	TFreqId=0	SiteId=6923			464962500	14	Srch
+T-Freq	TFreqId=0	SiteId=6923			461687500	15	Srch
+T-Freq	TFreqId=0	SiteId=6923			462425000	19	Srch
+T-Group	TGroupId=12574	TrunkId=3832	Operations	Off	21.466667	-157.966667	25.0	Circle	
+TGID	Tid=172256	TGroupId=12574	Alpha HNL - Yellow Line	Off	0-08-005	ALL	26									Any
+TGID	Tid=172258	TGroupId=12574	Blue Line	Off	0-11-080	ALL	26									Any
+TGID	Tid=172259	TGroupId=12574	Green Line	Off	0-11-107	ALL	26									Any
+TGID	Tid=172260	TGroupId=12574	HNL	Off	0-12-018	ALL	26									Any
+TGID	Tid=172261	TGroupId=12574	HNL	Off	0-13-014	ALL	26									Any
+TGID	Tid=172262	TGroupId=12574	HNL	Off	0-14-005	ALL	26									Any
+TGID	Tid=172263	TGroupId=12574	HNL	Off	0-14-029	ALL	26									Any
+TGID	Tid=172264	TGroupId=12574	HNL	Off	0-14-033	ALL	26									Any
+TGID	Tid=172265	TGroupId=12574	HNL	Off	0-14-111	ALL	26									Any
+TGID	Tid=172266	TGroupId=12574	HNL	Off	0-15-055	ALL	26									Any
+TGID	Tid=172267	TGroupId=12574	HNL	Off	0-19-073	ALL	26									Any
+TGID	Tid=172268	TGroupId=12574	Pink Line	Off	0-11-021	ALL	26									Any
+TGID	Tid=172257	TGroupId=12574	Red Line	Off	0-11-071	ALL	26									Any
+Trunk	TrunkId=5679	StateId=15	Westin Ka'anapali Ocean Resort Villas	Off		Ltr															NEXEDGE
+AreaState	TrunkId=5679	StateId=15
+AreaCounty	TrunkId=5679	CountyId=546
+Site	SiteId=12907	TrunkId=5679	Lahaina	Off	20.885502	-156.636292	48.0	AUTO	Standard	Wide	Circle						Srch
+T-Freq	TFreqId=0	SiteId=12907			462025000	1	Srch
+T-Freq	TFreqId=0	SiteId=12907			463325000	2	Srch
+T-Freq	TFreqId=0	SiteId=12907			463475000	3	Srch
+T-Freq	TFreqId=0	SiteId=12907			463725000	4	Srch
+T-Freq	TFreqId=0	SiteId=12907			464975000	5	Srch
+T-Group	TGroupId=19835	TrunkId=5679	All	Off	20.885502	-156.636292	48.0	Circle	
+TGID	Tid=244527	TGroupId=19835	Engineering	Off	0-01-180	ALL	17									Any
+TGID	Tid=244525	TGroupId=19835	Housekeeping	Off	0-01-140	ALL	17									Any
+TGID	Tid=244526	TGroupId=19835	Housekeeping 2	Off	0-01-160	ALL	17									Any
+TGID	Tid=244524	TGroupId=19835	Valet Service	Off	0-01-120	ALL	17									Any
